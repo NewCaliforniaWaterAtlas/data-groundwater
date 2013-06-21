@@ -1,9 +1,10 @@
-# New California Water Atlas: Data - Ground Water Elevation & Aquifer Boundaries
+# New California Water Atlas: Data - Ground Water Aquifer Boundaries & Elevation
 --------------------------------------------------------------------------------
 
 ##About this repository
 
 Improved aquifer boundary data for California.
+Improved groundwater elevation data for California.
 - Using USGS data obtained from the National Atlas.
 - Using CA Department of Water Resources data.
 
