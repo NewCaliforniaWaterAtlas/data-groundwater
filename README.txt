@@ -1,4 +1,4 @@
-# New California Water Atlas: Data - Aquifers Boundaries California
+# New California Water Atlas: Data - Ground Water Elevation & Aquifer Boundaries
 --------------------------------------------------------------------------------
 
 ##About this repository
