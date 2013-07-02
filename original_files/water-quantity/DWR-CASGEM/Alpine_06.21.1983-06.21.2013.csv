@@ -1,0 +1,22 @@
+CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments
+388088N1197777W001,ACMW-20,11/21/2011,13:42,,,13.360,0.000,13.360,"5,090.300","5,090.650","5,076.940",13.710,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388088N1197777W001,ACMW-20,5/10/2012,08:54,,,9.790,0.000,9.790,"5,090.300","5,090.650","5,080.510",10.140,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388151N1197788W001,ACMW-03W,11/21/2011,14:54,,,0.000,0.000,0.000,"5,048.930","5,049.710","5,048.930",0.780,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,DRY
+388151N1197788W001,ACMW-03W,5/15/2012,12:25,,,0.000,0.000,0.000,"5,048.930","5,049.710","5,048.930",0.780,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,DRY
+388199N1197771W001,ACMW-21,11/21/2011,13:55,,,12.460,0.000,12.460,"5,011.330","5,011.580","4,998.870",12.710,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388199N1197771W001,ACMW-21,5/10/2012,09:37,,,14.200,0.000,14.200,"5,011.330","5,011.580","4,997.130",14.450,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388213N1197753W001,USGS Well # 384917119463101,9/29/2011,13:14,,,17.650,0.000,17.650,"4,996.000","4,995.000","4,978.350",16.650,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388213N1197753W001,USGS Well # 384917119463101,12/1/2011,12:07,,,18.440,0.000,18.440,"4,996.000","4,995.000","4,977.560",17.440,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388213N1197753W001,USGS Well # 384917119463101,3/12/2012,13:02,,,21.400,0.000,21.400,"4,996.000","4,995.000","4,974.600",20.400,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388254N1197602W001,ACMW-23,11/21/2011,13:03,,,19.670,0.000,19.670,"4,978.350","4,975.670","4,958.680",16.990,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388254N1197602W001,ACMW-23,5/10/2012,12:06,,,17.910,0.000,17.910,"4,978.350","4,975.670","4,960.440",15.230,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388290N1197837W001,ACMW-22,11/21/2011,14:05,,,27.720,0.000,27.720,"5,019.280","5,019.570","4,991.560",28.010,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388290N1197837W001,ACMW-22,5/10/2012,10:06,,,27.480,0.000,27.480,"5,019.280","5,019.570","4,991.800",27.770,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388305N1197699W001,ACMW-25,11/21/2011,14:18,,,9.390,0.000,9.390,"4,942.240","4,939.220","4,932.850",6.370,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388305N1197699W001,ACMW-25,5/10/2012,10:39,,,6.170,0.000,6.170,"4,942.240","4,939.220","4,936.070",3.150,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388322N1197574W001,ACMW-24,11/21/2011,13:14,,,27.380,0.000,27.380,"4,953.250","4,950.110","4,925.870",24.240,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388322N1197574W001,ACMW-24,5/10/2012,12:49,,,23.140,0.000,23.140,"4,953.250","4,950.110","4,930.110",20.000,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388367N1197794W001,ACMW-04W,11/21/2011,14:44,,,17.270,0.000,17.270,"4,919.890","4,920.890","4,902.620",18.270,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388367N1197794W001,ACMW-04W,5/15/2012,12:52,,,10.250,0.000,10.250,"4,919.890","4,920.890","4,909.640",11.250,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388406N1197697W001,ACMW-26,11/21/2011,14:26,,,13.810,0.000,13.810,"4,895.600","4,892.490","4,881.790",10.700,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,
+388406N1197697W001,ACMW-26,5/10/2012,11:08,,,6.750,0.000,6.750,"4,895.600","4,892.490","4,888.850",3.640,ES - Electric sounder measurement,0.1 Ft,Alpine County,CASGEM,

@@ -1,0 +1,6 @@
+CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments
+382495N1209536W001,AWA MW-2 03,3/7/2012,00:00,,,39.270,35.590,3.680,308.250,306.000,304.570,1.430,ES - Electric sounder measurement,0.1 Ft,Amador Water Agency,Voluntary,
+382495N1209536W001,AWA MW-2 03,3/7/2012,00:00,,,39.270,35.590,3.680,308.250,306.000,304.570,1.430,ES - Electric sounder measurement,0.1 Ft,Amador Water Agency,Voluntary,
+382586N1209949W001,AWA MW-1D 02,3/7/2012,00:00,,,32.500,116.300,-83.800,274.710,272.000,358.510,-86.510,ES - Electric sounder measurement,0.1 Ft,Amador Water Agency,Voluntary,
+382587N1209959W001,AWA MW-1S 01,3/7/2012,00:00,,,33.800,88.300,-54.500,273.820,271.000,328.320,-57.320,ES - Electric sounder measurement,0.1 Ft,Amador Water Agency,Voluntary,
+382587N1209959W001,AWA MW-1S 01,9/6/2012,00:00,,,96.250,96.250,0.000,273.820,271.000,273.820,-2.820,ES - Electric sounder measurement,0.1 Ft,Amador Water Agency,Voluntary,
