@@ -1,4 +1,4 @@
-# New California Water Atlas: Data - Ground Water
+# New California Water Atlas: Data - Groundwater
 --------------------------------------------------------------------------------
 
 THIS IS A WORK IN PROGRESS. 7/2/2013
@@ -21,12 +21,6 @@ How we are improving the data:
 ## Data citation
 DWR {{??}}
 
-## Team
-Laci Videmsky @videmsky
-Chacha Sikes @chachasikes
-
-Work, Summer 2013, sponsored by RRI. http://rri.org through a grant from Patagonia.
-
 --------------------------------------------------------------------------------
 New California Water Atlas
 Making Water Understandable in California
@@ -38,16 +32,12 @@ http://ca.statewater.org/groundwater  (currently: http://live-ca-statewater.gotp
 This repository location
 https://github.com/NewCaliforniaWaterAtlas/data-aquifer-boundaries.git
 
-*Team*
+--------------------------------------------------------------------------------
+
+##### Team
 Laci Videmsky @videmsky (Research)
 Chach Sikes @chachasikes (Open Sourcing the process, Documentation)
 
-Work done as part of Summer of Groundwater project, incubated by the Resource Renewal Insititute http://rri.org with financial support from Patagonia. http://patagonia.com.
-
-If you are interested in helping to make aquifer data better in California, please contact the New California Water Atlas at info@statewater.org.
-
-
---------------------------------------------------------------------------------
 ##### Groups
 If you are interested in helping to make groundwater data better in California, please contact the New California Water Atlas at info@statewater.org. 
 * Blog and file sharing: http://ca.statewater.org/groundwater
@@ -68,6 +58,8 @@ Work done as part of California Groundwater project, incubated by the Resource R
 
 --------------------------------------------------------------------------------
 ## Fields
+
+Field Documentation can be found here:
 
 
 Field Template:
@@ -164,31 +156,31 @@ F - Flowing                                       1
 
 ### Reading @RP
 * Description: 
-* Definition: 
+* Definition: Reading at Reference Point
 * Format: Numerical value. Approximate range: -100.00 — 1,000.00
 * Examples: 
 
 ### Reading @WS
 * Description: 
-* Definition: 
+* Definition: Reading at Water Surface
 * Format: Numerical value. Approximate range: -400.00 — 1,000.00
 * Examples: 
 
 ### RP to WS
 * Description: 
-* Definition: 
+* Definition: Reference point to water surface
 * Format: Numerical value. Approximate range: -300.00 — 900.00
 * Examples: 
 
 ### RP Elevation
 * Description: 
-* Definition: 
+* Definition: Reference point elevation
 * Format: Numerical value. Approximate range: -200.00 — 1,000.00
 * Examples: 
 
 ### GS Elevation
 * Description: 
-* Definition: 
+* Definition: Ground surface elevation
 * Format: Numerical value. Approximate range: -200.00 — 1,000.00
 * Examples: 
 
@@ -200,7 +192,7 @@ F - Flowing                                       1
 
 ### GS to WS
 * Description: 
-* Definition: 
+* Definition: Ground surface to water surface
 * Format: Format: Numerical value. Approximate range: -300.00 — 900.00
 * Examples: 
 
