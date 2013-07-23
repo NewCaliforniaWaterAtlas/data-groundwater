@@ -1,0 +1,415 @@
+﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Merced_06.21.1983-12.31.1983
+362686N1209946W001,,11/9/1983,00:00,,,9.000,0.000,9.000,94.210,93.210,85.210,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369049N1207454W001,,10/5/1983,00:00,0 - Measurement Discontinued,,,,,166.680,164.680,,,,,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+369299N1206860W001,,11/8/1983,00:00,,,14.300,0.000,14.300,139.900,138.400,125.600,12.800,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369549N1208371W001,,11/8/1983,00:00,,,41.000,0.000,41.000,193.760,193.160,152.760,40.400,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369566N1208643W001,,11/8/1983,00:00,,9 - Acoustical sounder,99.000,0.000,99.000,251.650,249.650,152.650,97.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369666N1208104W001,,11/8/1983,00:00,,,8.000,0.000,8.000,141.620,140.620,133.620,7.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369677N1207282W001,,11/8/1983,00:00,9 - Temporarily inaccessible,,,,,113.400,112.400,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369677N1207282W002,,11/8/1983,00:00,9 - Temporarily inaccessible,,,,,112.400,112.400,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369696N1208527W001,,11/8/1983,00:00,,9 - Acoustical sounder,64.100,0.000,64.100,215.610,215.610,151.510,64.100,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369757N1206685W001,,11/8/1983,00:00,,,6.000,0.000,6.000,114.330,113.330,108.330,5.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369827N1206813W001,,11/8/1983,00:00,,,3.900,0.000,3.900,113.730,113.330,109.830,3.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369891N1208404W001,,11/8/1983,00:00,,,15.300,0.000,15.300,161.240,160.040,145.940,14.100,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369907N1207066W001,,11/8/1983,00:00,,,0.500,0.000,0.500,111.330,110.930,110.830,0.100,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369930N1208149W001,,11/8/1983,00:00,,,5.500,0.000,5.500,128.600,127.400,123.100,4.300,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369952N1206554W001,,11/8/1983,00:00,,,9.000,0.000,9.000,115.310,114.310,106.310,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369982N1207813W001,,11/8/1983,00:00,,,2.000,0.000,2.000,107.440,107.440,105.440,2.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+369985N1208766W001,,11/8/1983,00:00,,,45.000,0.000,45.000,175.730,175.630,130.730,44.900,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370013N1207274W001,,11/8/1983,00:00,9 - Temporarily inaccessible,,,,,109.320,108.320,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370013N1207279W001,,11/8/1983,00:00,9 - Temporarily inaccessible,,,,,108.920,108.320,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370018N1207246W001,,11/8/1983,00:00,,,2.900,0.000,2.900,110.310,108.310,107.410,0.900,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370060N1208363W001,,11/8/1983,00:00,,,1.990,0.000,1.990,133.890,132.690,131.900,0.790,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370130N1207991W001,,11/10/1983,00:00,,,4.000,0.000,4.000,108.840,108.440,104.840,3.600,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370132N1209068W001,,11/8/1983,00:00,,,103.000,0.000,103.000,193.380,192.380,90.380,102.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370191N1208091W001,,11/10/1983,00:00,,,5.000,0.000,5.000,114.090,112.590,109.090,3.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370274N1208346W001,,11/8/1983,00:00,,,6.000,0.000,6.000,127.150,126.150,121.150,5.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370327N1206185W001,A2,10/31/1983,00:00,,,8.000,0.000,8.000,113.290,112.290,105.290,7.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370327N1206310W001,A3,10/31/1983,00:00,,,9.000,0.000,9.000,113.290,112.290,104.290,8.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370349N1207624W001,,11/10/1983,00:00,9 - Temporarily inaccessible,,,,,104.510,103.510,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370391N1206385W001,A4,10/31/1983,00:00,,,10.500,0.000,10.500,116.290,111.290,105.790,5.500,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370413N1208929W001,,11/8/1983,00:00,,,19.000,0.000,19.000,149.340,148.840,130.340,18.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370413N1209257W001,,11/8/1983,00:00,,,24.500,0.000,24.500,156.870,156.270,132.370,23.900,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370416N1208127W001,,11/10/1983,00:00,,,11.900,0.000,11.900,114.450,114.450,102.550,11.900,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370427N1208707W001,,11/8/1983,00:00,,,6.490,0.000,6.490,136.500,135.800,130.010,5.790,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370443N1209129W001,,11/8/1983,00:00,,,9.200,0.000,9.200,142.160,141.160,132.960,8.200,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370543N1206316W001,SJ2,10/31/1983,00:00,,,9.000,0.000,9.000,107.280,107.280,98.280,9.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370563N1209368W001,,11/8/1983,00:00,,,8.800,0.000,8.800,136.140,135.640,127.340,8.300,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370599N1206118W001,13A,10/28/1983,00:00,,,15.000,0.000,15.000,114.280,112.280,99.280,13.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370607N1206404W001,,10/31/1983,00:00,,,9.000,0.000,9.000,109.280,109.280,100.280,9.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370643N1207088W001,13A,10/28/1983,00:00,,,15.000,0.000,15.000,102.730,102.730,87.730,15.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370649N1206818W001,,11/10/1983,00:00,,,11.000,0.000,11.000,105.260,105.260,94.260,11.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370655N1205291W001,,10/18/1983,00:00,9 - Temporarily inaccessible,,,,,122.270,122.270,,,,,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+370655N1209485W001,,11/8/1983,00:00,,,25.000,0.000,25.000,145.430,144.030,120.430,23.600,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370716N1208260W001,,11/8/1983,00:00,,,14.000,0.000,14.000,106.520,106.020,92.520,13.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370727N1209143W001,,11/10/1983,00:00,,,8.000,0.000,8.000,122.190,121.190,114.190,7.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370741N1208435W001,,11/10/1983,00:00,,,22.500,0.000,22.500,111.640,110.640,89.140,21.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370766N1207082W001,,11/10/1983,00:00,,,8.000,0.000,8.000,102.240,102.240,94.240,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370771N1206810W001,,10/25/1983,00:00,4 - Can't get tape in casing,,,,,104.270,104.270,,,,,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370810N1209782W001,,11/8/1983,00:00,,,12.900,0.000,12.900,141.090,140.590,128.190,12.400,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370835N1206363W001,3A,10/28/1983,00:00,,,11.000,0.000,11.000,108.280,107.280,97.280,10.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370843N1205496W001,,10/18/1983,00:00,,,6.300,0.000,6.300,120.270,119.270,113.970,5.300,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+370855N1208110W001,,11/10/1983,00:00,,,10.000,0.000,10.000,99.920,98.420,89.920,8.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370866N1208993W001,,11/10/1983,00:00,,,8.000,0.000,8.000,114.730,113.730,106.730,7.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370877N1207479W001,,11/10/1983,00:00,,,9.000,0.000,9.000,98.210,97.210,89.210,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370880N1209257W001,,11/8/1983,00:00,,,5.500,0.000,5.500,111.750,110.750,106.250,4.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370921N1205199W001,,10/18/1983,00:00,,,49.400,0.000,49.400,128.760,127.260,79.360,47.900,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+370946N1209899W001,,11/8/1983,00:00,,,15.800,0.000,15.800,135.140,134.640,119.340,15.300,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+370980N1206896W001,32A,10/25/1983,00:00,,,9.000,0.000,9.000,100.270,100.270,91.270,9.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+370999N1207441W001,34A,10/25/1983,00:00,,,10.000,0.000,10.000,97.250,97.250,87.250,10.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+371002N1208574W001,,11/9/1983,00:00,,,12.500,0.000,12.500,99.810,99.610,87.310,12.300,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371016N1205585W001,,10/20/1983,00:00,,,7.800,0.000,7.800,117.280,116.280,109.480,6.800,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371032N1206357W001,34A,10/28/1983,00:00,,,12.000,0.000,12.000,106.280,104.280,94.280,10.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+371043N1204463W001,,9/29/1983,00:00,,,65.000,0.000,65.000,160.230,159.230,95.230,64.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371071N1207807W001,,11/9/1983,00:00,,,7.800,0.000,7.800,90.040,89.840,82.240,7.600,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371116N1204374W001,33a,9/29/1983,00:00,,,74.500,0.000,74.500,163.720,163.220,89.220,74.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371130N1204927W001,,10/7/1983,00:00,,,85.400,0.000,85.400,139.760,138.260,54.360,83.900,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371143N1210166W001,,11/9/1983,00:00,,,13.500,0.000,13.500,152.210,151.710,138.710,13.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371152N1207366W001,,11/9/1983,00:00,,,9.000,0.000,9.000,98.280,97.280,89.280,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371160N1204568W001,,9/29/1983,00:00,,,71.000,0.000,71.000,153.240,152.740,82.240,70.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371163N1204393W001,,9/29/1983,00:00,,,55.000,0.000,55.000,163.220,162.220,108.220,54.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371177N1204010W001,,10/25/1983,00:00,,,59.000,0.000,59.000,178.200,177.200,119.200,58.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371180N1207077W001,25B,10/25/1983,00:00,,,7.000,0.000,7.000,97.290,97.290,90.290,7.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+371185N1209863W001,,11/9/1983,00:00,,,7.000,0.000,7.000,123.890,122.590,116.890,5.700,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371199N1204779W001,,9/29/1983,00:00,,,62.000,0.000,62.000,145.250,145.250,83.250,62.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371202N1205127W001,,9/29/1983,00:00,,,81.300,0.000,81.300,132.270,131.770,50.970,80.800,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371202N1210166W001,,11/9/1983,00:00,,,10.000,0.000,10.000,151.000,150.700,141.000,9.700,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371243N1203829W001,,10/25/1983,00:00,,,36.000,0.000,36.000,187.680,187.180,151.680,35.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371246N1207077W001,25A,10/25/1983,00:00,,,5.000,0.000,5.000,97.300,97.300,92.300,5.000,UNK - Unknown,Unknown,SAN LUIS CANAL COMPANY,Voluntary,,Merced_06.21.1983-12.31.1983
+371266N1209477W001,,11/9/1983,00:00,,,7.500,0.000,7.500,99.670,99.670,92.170,7.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371268N1203635W001,,10/31/1983,00:00,,,36.000,0.000,36.000,199.160,197.160,163.160,34.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371271N1204807W001,,9/29/1983,00:00,,,64.500,0.000,64.500,147.750,147.250,83.250,64.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371277N1204504W001,,9/29/1983,00:00,,,31.000,0.000,31.000,159.730,159.730,128.730,31.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371277N1204646W001,,9/29/1983,00:00,,,59.000,0.000,59.000,152.740,151.740,93.740,58.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371307N1203277W001,,10/31/1983,00:00,,,88.000,0.000,88.000,216.140,214.140,128.140,86.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371341N1202935W001,CWD 32,10/31/1983,00:00,,8 - Oil or foreign substance in casing,102.000,0.000,102.000,229.130,228.130,127.130,101.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371341N1208354W001,,11/9/1983,00:00,,,39.000,0.000,39.000,89.000,89.500,50.000,39.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371352N1205471W001,,10/7/1983,00:00,,,81.000,0.000,81.000,123.290,121.290,42.290,79.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371355N1205282W001,,10/7/1983,00:00,,,81.600,0.000,81.600,129.280,127.780,47.680,80.100,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371360N1205104W001,,9/29/1983,00:00,,,81.000,0.000,81.000,136.770,134.770,55.770,79.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371363N1209524W001,,11/9/1983,00:00,,,8.990,0.000,8.990,103.250,102.650,94.260,8.390,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371416N1203566W001,,10/31/1983,00:00,,,74.000,0.000,74.000,203.150,202.150,129.150,73.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371416N1204013W001,,10/20/1983,00:00,,,79.000,0.000,79.000,180.200,180.200,101.200,79.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371416N1204196W001,,10/25/1983,00:00,,,57.000,0.000,57.000,173.220,172.220,116.220,56.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371416N1204607W001,,9/29/1983,00:00,,,56.500,0.000,56.500,155.240,154.240,98.740,55.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371416N1210329W001,,11/9/1983,00:00,,,10.000,0.000,10.000,160.680,159.680,150.680,9.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371418N1206007W001,,10/20/1983,00:00,,,3.900,0.000,3.900,105.300,103.300,101.400,1.900,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371424N1204299W001,,10/25/1983,00:00,,8 - Oil or foreign substance in casing,10.500,0.000,10.500,168.720,168.220,158.220,10.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371427N1204043W001,,10/20/1983,00:00,,,31.000,0.000,31.000,180.200,179.200,149.200,30.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371432N1209238W001,,11/9/1983,00:00,9 - Temporarily inaccessible,,,,,89.920,87.820,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371446N1203474W001,,10/31/1983,00:00,,8 - Oil or foreign substance in casing,88.000,0.000,88.000,207.140,206.140,119.140,87.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371452N1203199W001,,10/31/1983,00:00,3 - Tape hung up,,,,,218.130,217.130,,,,,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371452N1203846W001,,10/25/1983,00:00,,8 - Oil or foreign substance in casing,76.000,0.000,76.000,190.680,190.180,114.680,75.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371455N1203654W001,,10/31/1983,00:00,,8 - Oil or foreign substance in casing,88.500,0.000,88.500,198.160,197.160,109.660,87.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371466N1204104W001,,10/25/1983,00:00,,8 - Oil or foreign substance in casing,11.500,0.000,11.500,177.710,177.210,166.210,11.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371466N1204171W001,,10/25/1983,00:00,,8 - Oil or foreign substance in casing,53.000,0.000,53.000,178.810,178.210,125.810,52.400,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371466N1210316W001,,11/9/1983,00:00,,,22.000,0.000,22.000,157.080,156.280,135.080,21.200,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371485N1203916W001,,10/25/1983,00:00,,,55.000,0.000,55.000,188.690,188.190,133.690,54.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371485N1206860W001,,10/20/1983,00:00,,,9.000,0.000,9.000,101.720,100.720,92.720,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371488N1203921W001,,10/25/1983,00:00,,,114.000,0.000,114.000,193.190,192.190,79.190,113.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371493N1205282W001,,10/7/1983,00:00,,,67.700,0.000,67.700,129.280,127.780,61.580,66.200,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371496N1205054W001,,9/29/1983,00:00,,,95.000,0.000,95.000,140.270,137.270,45.270,92.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371499N1205599W001,,10/7/1983,00:00,,,98.700,0.000,98.700,117.300,116.800,18.600,98.200,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371499N1205735W001,,10/7/1983,00:00,,,80.800,0.000,80.800,113.300,113.300,32.500,80.800,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371510N1205102W001,,9/29/1983,00:00,,,95.500,0.000,95.500,136.280,135.280,40.780,94.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371513N1204177W001,,10/25/1983,00:00,,,10.000,0.000,10.000,174.220,172.220,164.220,8.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371516N1208804W001,,11/9/1983,00:00,,,3.600,0.000,3.600,87.160,85.360,83.560,1.800,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371524N1202916W001,,10/31/1983,00:00,,8 - Oil or foreign substance in casing,118.000,0.000,118.000,234.140,233.140,116.140,117.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371530N1202788W001,,11/1/1983,00:00,,,139.000,0.000,139.000,239.650,239.150,100.650,138.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371532N1205735W001,,10/7/1983,00:00,,,89.100,0.000,89.100,113.800,113.300,24.700,88.600,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371538N1206316W001,,10/20/1983,00:00,,,9.000,0.000,9.000,103.310,102.310,94.310,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371574N1204921W001,,10/7/1983,00:00,,,53.800,0.000,53.800,142.270,141.270,88.470,52.800,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371574N1205371W001,,10/7/1983,00:00,,,74.200,0.000,74.200,126.290,124.790,52.090,72.700,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371582N1206193W001,,10/20/1983,00:00,,,7.000,0.000,7.000,105.320,104.320,98.320,6.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371582N1208691W001,,11/9/1983,00:00,9 - Temporarily inaccessible,,,,,84.540,84.540,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371585N1209863W001,,11/9/1983,00:00,,,4.500,0.000,4.500,106.130,105.630,101.630,4.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371596N1203382W001,,10/31/1983,00:00,,8 - Oil or foreign substance in casing,99.000,0.000,99.000,211.140,210.140,112.140,98.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371638N1203021W001,,10/31/1983,00:00,,,111.500,0.000,111.500,226.140,225.140,114.640,110.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371646N1210143W001,,11/9/1983,00:00,,,18.000,0.000,18.000,138.140,137.640,120.140,17.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371657N1201763W001,,11/3/1983,00:00,,,77.000,0.000,77.000,282.720,282.220,205.720,76.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371660N1209854W001,,11/9/1983,00:00,,,5.000,0.000,5.000,103.620,102.620,98.620,4.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371666N1204124W001,,10/25/1983,00:00,,8 - Oil or foreign substance in casing,53.000,0.000,53.000,174.230,173.230,121.230,52.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371674N1203654W001,,10/31/1983,00:00,3 - Tape hung up,,,,,196.670,195.670,,,,,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371677N1204560W001,,10/7/1983,00:00,,,94.100,0.000,94.100,156.260,155.260,62.160,93.100,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371685N1201613W001,,11/3/1983,00:00,,,44.000,0.000,44.000,302.320,300.820,258.320,42.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371685N1210321W001,,11/9/1983,00:00,,,45.500,0.000,45.500,166.140,165.140,120.640,44.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371702N1203474W001,,10/31/1983,00:00,,,87.000,0.000,87.000,207.150,206.150,120.150,86.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371705N1203113W001,,11/1/1983,00:00,,,124.000,0.000,124.000,223.650,223.150,99.650,123.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371707N1202793W001,,11/1/1983,00:00,,,150.000,0.000,150.000,237.660,237.160,87.660,149.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371707N1203832W001,,10/7/1983,00:00,,,78.200,0.000,78.200,187.700,187.200,109.500,77.700,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371707N1203835W001,,10/25/1983,00:00,,,67.000,0.000,67.000,189.700,189.700,122.700,67.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371707N1204135W001,,10/25/1983,00:00,,,51.000,0.000,51.000,176.230,174.230,125.230,49.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371713N1203293W001,,10/31/1983,00:00,,,104.000,0.000,104.000,214.650,214.150,110.650,103.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371730N1204654W001,,10/7/1983,00:00,,,77.300,0.000,77.300,153.270,152.270,75.970,76.300,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371735N1206549W001,,10/19/1983,00:00,,,14.500,0.000,14.500,101.740,100.740,87.240,13.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371738N1204852W001,,10/7/1983,00:00,,,67.400,0.000,67.400,144.780,144.280,77.380,66.900,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371746N1205216W001,,10/7/1983,00:00,,,62.100,0.000,62.100,132.300,131.300,70.200,61.100,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371766N1201196W001,,10/7/1983,00:00,,,108.900,0.000,108.900,339.240,337.240,230.340,106.900,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371768N1206652W001,,10/20/1983,00:00,,,7.000,0.000,7.000,99.340,97.340,92.340,5.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371771N1210143W001,,11/9/1983,00:00,,,17.000,0.000,17.000,135.620,134.620,118.620,16.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371810N1206638W001,,10/19/1983,00:00,,,16.000,0.000,16.000,105.340,97.340,89.340,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371830N1204904W001,,10/7/1983,00:00,,,32.500,0.000,32.500,144.790,143.290,112.290,31.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371843N1203516W001,,11/1/1983,00:00,,,98.000,0.000,98.000,207.160,206.160,109.160,97.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371852N1203246W001,,11/1/1983,00:00,,,103.500,0.000,103.500,217.160,216.660,113.660,103.000,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371852N1203899W001,,10/20/1983,00:00,,,69.000,0.000,69.000,183.220,182.220,114.220,68.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371852N1203902W001,,10/20/1983,00:00,,,66.000,0.000,66.000,183.220,182.220,117.220,65.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371852N1203907W001,,10/20/1983,00:00,,,33.000,0.000,33.000,183.220,182.220,150.220,32.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371857N1204124W001,,10/25/1983,00:00,,,68.000,0.000,68.000,179.250,176.750,111.250,65.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371857N1206116W001,,10/19/1983,00:00,,,13.000,0.000,13.000,113.340,112.840,100.340,12.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371857N1206485W001,,10/19/1983,00:00,,,7.500,0.000,7.500,102.340,102.340,94.840,7.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371860N1202177W001,,11/1/1983,00:00,,,137.500,0.000,137.500,273.210,273.210,135.710,137.500,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371860N1207002W001,,10/20/1983,00:00,,,20.000,0.000,20.000,99.360,97.360,79.360,18.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371863N1205624W001,,10/20/1983,00:00,,,31.000,0.000,31.000,122.320,121.320,91.320,30.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371868N1210263W001,,11/9/1983,00:00,,,15.000,0.000,15.000,143.420,142.420,128.420,14.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371871N1209707W001,,11/9/1983,00:00,,,26.000,0.000,26.000,92.580,91.080,66.580,24.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371891N1208396W001,,11/10/1983,00:00,,,4.800,0.000,4.800,86.280,85.080,81.480,3.600,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371893N1204882W001,,10/20/1983,00:00,,,64.000,0.000,64.000,151.290,150.290,87.290,63.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371896N1210241W001,,11/9/1983,00:00,,,34.000,0.000,34.000,133.610,132.610,99.610,33.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371896N1210241W002,,11/9/1983,00:00,,,34.000,0.000,34.000,134.610,132.610,100.610,32.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371902N1204654W001,,10/7/1983,00:00,,,19.200,0.000,19.200,156.280,155.280,137.080,18.200,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+371905N1203166W001,,10/21/1983,00:00,,9 - Acoustical sounder,112.000,0.000,112.000,220.160,219.160,108.160,111.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371916N1209316W001,,11/10/1983,00:00,5 - Unable to locate well,,,,,82.050,79.550,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371924N1205366W001,,10/20/1983,00:00,,,33.000,0.000,33.000,130.320,129.320,97.320,32.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371924N1207060W001,,10/19/1983,00:00,,,17.000,0.000,17.000,98.360,97.360,81.360,16.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371927N1206763W001,,10/19/1983,00:00,9 - Temporarily inaccessible,,,,,98.360,97.360,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371935N1202799W001,,10/21/1983,00:00,,,130.000,0.000,130.000,228.180,227.180,98.180,129.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371935N1210421W001,,11/10/1983,00:00,,,1.200,0.000,1.200,80.120,79.620,78.920,0.700,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371946N1204891W001,,10/20/1983,00:00,,,40.000,0.000,40.000,148.800,147.300,108.800,38.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371971N1205813W001,,10/20/1983,00:00,,,10.000,0.000,10.000,122.840,120.340,112.840,7.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+371993N1202638W001,,10/21/1983,00:00,,9 - Acoustical sounder,136.000,0.000,136.000,241.190,240.190,105.190,135.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372018N1203252W001,,10/21/1983,00:00,,,89.000,0.000,89.000,215.170,215.170,126.170,89.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372046N1202710W001,,10/7/1983,00:00,5 - Unable to locate well,,,,,240.200,238.200,,,,,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
+372063N1202982W001,,10/21/1983,00:00,,,111.000,0.000,111.000,226.190,226.190,115.190,111.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372063N1205796W001,,10/20/1983,00:00,,,24.000,0.000,24.000,120.340,119.340,96.340,23.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372071N1203524W001,,10/21/1983,00:00,,,38.000,0.000,38.000,208.190,207.190,170.190,37.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372071N1206646W001,,10/19/1983,00:00,9 - Temporarily inaccessible,,,,,100.360,99.360,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372080N1203979W001,,10/20/1983,00:00,,,50.000,0.000,50.000,185.280,185.280,135.280,50.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372102N1204699W001,,10/20/1983,00:00,,,13.000,0.000,13.000,155.300,154.300,142.300,12.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372102N1204752W001,,10/20/1983,00:00,,9 - Acoustical sounder,50.000,0.000,50.000,153.310,152.310,103.310,49.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372110N1209213W001,,11/10/1983,00:00,,,4.000,0.000,4.000,80.020,77.020,76.020,1.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372127N1209404W001,,11/10/1983,00:00,,,1.500,0.000,1.500,78.530,77.530,77.030,0.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372132N1209027W001,,11/10/1983,00:00,,,3.300,0.000,3.300,77.510,76.510,74.210,2.300,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372132N1209399W001,,11/10/1983,00:00,,,2.000,0.000,2.000,78.930,77.530,76.930,0.600,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372132N1209410W001,,11/10/1983,00:00,,,2.990,0.000,2.990,79.130,77.530,76.140,1.390,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372146N1205349W001,,10/20/1983,00:00,1 - Pumping,,,,,135.340,134.340,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372146N1205427W001,,10/20/1983,00:00,1 - Pumping,,,,,132.840,132.340,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372149N1205177W001,,10/20/1983,00:00,,,22.000,0.000,22.000,138.830,138.330,116.830,21.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372163N1210343W001,,11/9/1983,00:00,,,15.000,0.000,15.000,134.680,134.080,119.680,14.400,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372166N1203971W001,,10/20/1983,00:00,,,41.500,0.000,41.500,184.320,184.320,142.820,41.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372171N1209943W001,,11/9/1983,00:00,,,8.000,0.000,8.000,103.550,102.550,95.550,7.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372202N1208766W001,,11/10/1983,00:00,,,13.000,0.000,13.000,79.090,77.490,66.090,11.400,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372205N1208766W001,,11/10/1983,00:00,,,15.500,0.000,15.500,78.890,77.490,63.390,14.100,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372207N1208766W001,,11/10/1983,00:00,,,2.000,0.000,2.000,78.890,77.490,76.890,0.600,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372210N1208766W001,,11/10/1983,00:00,,,15.000,0.000,15.000,78.090,77.490,63.090,14.400,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372213N1204527W001,,10/20/1983,00:00,,9 - Acoustical sounder,53.000,0.000,53.000,164.310,163.310,111.310,52.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372213N1209754W001,,11/9/1983,00:00,,,3.490,0.000,3.490,87.340,86.940,83.850,3.090,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372218N1203524W001,,10/21/1983,00:00,,9 - Acoustical sounder,79.000,0.000,79.000,204.240,204.240,125.240,79.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372235N1205793W001,,10/20/1983,00:00,,,18.100,0.000,18.100,123.360,123.360,105.260,18.100,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372243N1204946W001,,10/20/1983,00:00,9 - Temporarily inaccessible,,,,,147.330,147.330,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372271N1207466W001,,10/19/1983,00:00,,,11.300,0.000,11.300,87.400,87.400,76.100,11.300,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372282N1202663W001,,10/21/1983,00:00,,,92.000,0.000,92.000,246.230,245.230,154.230,91.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372282N1202796W001,,10/21/1983,00:00,,,100.000,0.000,100.000,241.730,241.230,141.730,99.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372288N1203818W001,122I,10/4/1983,00:00,,,35.000,0.000,35.000,192.330,192.330,157.330,35.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372293N1207027W001,,10/19/1983,00:00,,,17.000,0.000,17.000,94.390,92.390,77.390,15.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372299N1203341W001,,10/21/1983,00:00,,,90.000,0.000,90.000,213.260,213.260,123.260,90.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372299N1207688W001,,10/19/1983,00:00,,,11.000,0.000,11.000,87.410,87.410,76.410,11.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372310N1209804W001,,11/9/1983,00:00,,,4.990,0.000,4.990,90.530,89.930,85.540,4.390,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372313N1203524W001,,10/21/1983,00:00,,9 - Acoustical sounder,77.000,0.000,77.000,209.780,209.280,132.780,76.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372313N1209016W001,,11/10/1983,00:00,,,1.000,0.000,1.000,78.490,77.490,77.490,0.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372313N1210657W001,,11/9/1983,00:00,,,36.000,0.000,36.000,163.090,162.590,127.090,35.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372327N1203163W001,,10/21/1983,00:00,,9 - Acoustical sounder,94.000,0.000,94.000,223.250,222.250,129.250,93.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372327N1209407W001,,11/10/1983,00:00,,,1.500,0.000,1.500,78.510,77.510,77.010,0.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372343N1204627W001,,10/20/1983,00:00,9 - Temporarily inaccessible,,,,,161.330,161.330,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372360N1203913W001,,10/4/1983,00:00,,,31.000,0.000,31.000,193.380,192.380,162.380,30.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372377N1210685W001,,11/9/1983,00:00,,9 - Acoustical sounder,31.000,0.000,31.000,175.390,175.390,144.390,31.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372377N1210752W001,,11/9/1983,00:00,,9 - Acoustical sounder,31.000,0.000,31.000,180.090,179.590,149.090,30.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372405N1206857W001,,10/19/1983,00:00,,,15.000,0.000,15.000,100.390,98.390,85.390,13.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372424N1210754W001,,11/9/1983,00:00,,,30.000,0.000,30.000,179.580,179.580,149.580,30.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372427N1204029W001,67,10/4/1983,00:00,,,14.000,0.000,14.000,187.420,187.420,173.420,14.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372435N1203349W001,,10/21/1983,00:00,,,77.000,0.000,77.000,217.300,217.300,140.300,77.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372496N1203632W001,,10/21/1983,00:00,,,75.000,0.000,75.000,207.370,207.370,132.370,75.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372518N1206524W001,,10/19/1983,00:00,1 - Pumping,,,,,108.390,107.390,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372532N1208785W001,,11/9/1983,00:00,9 - Temporarily inaccessible,,,,,76.960,75.460,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372538N1209402W001,,11/10/1983,00:00,,9 - Acoustical sounder,20.000,0.000,20.000,77.490,76.490,57.490,19.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372563N1210088W001,,11/9/1983,00:00,,,9.000,0.000,9.000,108.020,107.520,99.020,8.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372566N1203796W001,126D,10/4/1983,00:00,,9 - Acoustical sounder,37.500,0.000,37.500,199.910,197.410,162.410,35.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372571N1209507W001,,11/10/1983,00:00,,,2.400,0.000,2.400,74.490,74.090,72.090,2.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372577N1204641W001,,10/20/1983,00:00,4 - Can't get tape in casing,,,,,170.370,169.370,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372577N1207468W001,,10/19/1983,00:00,1 - Pumping,,,,,89.400,89.400,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372588N1209788W001,,11/9/1983,00:00,,,5.000,0.000,5.000,85.000,84.500,80.000,4.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372605N1208549W001,,11/9/1983,00:00,,,6.500,0.000,6.500,93.440,92.440,86.940,5.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372613N1204068W001,131D,10/4/1983,00:00,,,-62.000,0.000,-62.000,103.940,192.440,165.940,26.500,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372616N1204346W001,149,10/4/1983,00:00,,9 - Acoustical sounder,40.500,0.000,40.500,178.900,177.400,138.400,39.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372643N1207446W001,,10/19/1983,00:00,,,10.000,0.000,10.000,93.900,92.400,83.900,8.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372666N1207788W001,,10/19/1983,00:00,,,11.000,0.000,11.000,88.910,87.410,77.910,9.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372688N1206974W001,,10/19/1983,00:00,,,9.700,0.000,9.700,103.400,102.400,93.700,8.700,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372699N1203974W001,217,10/4/1983,00:00,,,25.500,0.000,25.500,192.440,192.440,166.940,25.500,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372721N1204529W001,90D,10/4/1983,00:00,,,37.000,0.000,37.000,173.400,173.400,136.400,37.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372735N1203071W001,95D,10/4/1983,00:00,,,9.000,0.000,9.000,232.310,232.310,223.310,9.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372735N1208852W001,,11/9/1983,00:00,9 - Temporarily inaccessible,,,,,79.250,77.250,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372735N1209385W001,,11/9/1983,00:00,,,9.500,0.000,9.500,144.870,144.070,135.370,8.700,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372760N1209227W001,,11/9/1983,00:00,9 - Temporarily inaccessible,,,,,74.860,71.860,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372771N1206954W001,,10/19/1983,00:00,,,9.000,0.000,9.000,103.410,102.410,94.410,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372802N1204246W001,87I,10/4/1983,00:00,,,20.000,0.000,20.000,185.430,185.430,165.430,20.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372805N1204835W001,106D,10/4/1983,00:00,,,36.000,0.000,36.000,165.420,163.420,129.420,34.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372805N1205241W001,206,10/5/1983,00:00,,,21.000,0.000,21.000,148.420,147.420,127.420,20.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372818N1207788W001,,10/19/1983,00:00,,,7.000,0.000,7.000,89.910,88.410,82.910,5.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372843N1204977W001,211,10/5/1983,00:00,,,36.000,0.000,36.000,161.430,161.430,125.430,36.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372849N1204493W001,100D,10/4/1983,00:00,,,25.000,0.000,25.000,177.430,176.430,152.430,24.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372849N1206349W001,,10/19/1983,00:00,,,11.500,0.000,11.500,121.420,120.420,109.920,10.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372857N1204029W001,101D,10/4/1983,00:00,,,19.000,0.000,19.000,194.440,194.440,175.440,19.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372863N1203702W001,218,10/4/1983,00:00,,,22.000,0.000,22.000,207.400,207.400,185.400,22.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372877N1205257W001,205,10/5/1983,00:00,,,20.000,0.000,20.000,152.430,152.430,132.430,20.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372891N1209899W001,,11/9/1983,00:00,,,10.000,0.000,10.000,83.470,82.470,73.470,9.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372896N1209921W001,,11/9/1983,00:00,1 - Pumping,,,,,82.470,82.470,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372913N1204338W001,80D,10/4/1983,00:00,,,20.000,0.000,20.000,183.440,183.440,163.440,20.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+372943N1207616W001,,10/19/1983,00:00,,,7.000,0.000,7.000,95.410,94.410,88.410,6.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372968N1207446W001,,10/19/1983,00:00,,,11.000,0.000,11.000,99.410,97.410,88.410,9.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+372993N1206796W001,,10/19/1983,00:00,,,10.000,0.000,10.000,114.420,114.420,104.420,10.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373007N1207677W001,,10/19/1983,00:00,,,8.000,0.000,8.000,97.410,94.410,89.410,5.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373018N1206013W001,102D,10/5/1983,00:00,,,7.690,0.000,7.690,133.140,132.440,125.450,6.990,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373046N1209938W001,,11/9/1983,00:00,,,6.900,0.000,6.900,75.460,75.460,68.560,6.900,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373052N1205235W001,209,10/5/1983,00:00,,,24.000,0.000,24.000,157.450,157.450,133.450,24.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373060N1209563W001,,11/9/1983,00:00,9 - Temporarily inaccessible,,,,,67.440,67.040,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373074N1209574W001,,11/9/1983,00:00,9 - Temporarily inaccessible,,,,,73.840,70.840,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373080N1209335W001,,11/9/1983,00:00,,,3.900,0.000,3.900,67.440,64.440,63.540,0.900,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373082N1205966W001,196,10/5/1983,00:00,,,14.000,0.000,14.000,139.450,138.450,125.450,13.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373113N1204238W001,223,10/4/1983,00:00,,,22.000,0.000,22.000,193.440,193.440,171.440,22.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373124N1203788W001,123I,10/4/1983,00:00,,,20.000,0.000,20.000,207.420,207.420,187.420,20.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373130N1205779W001,79D,10/5/1983,00:00,,,10.000,0.000,10.000,145.450,145.450,135.450,10.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373163N1206282W001,120D,10/5/1983,00:00,,,11.000,0.000,11.000,131.440,131.440,120.440,11.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373166N1207221W001,69D,10/5/1983,00:00,,,10.000,0.000,10.000,107.410,106.410,97.410,9.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373180N1203966W001,219,10/4/1983,00:00,,,23.000,0.000,23.000,202.430,202.430,179.430,23.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373207N1205585W001,74D,10/5/1983,00:00,,,9.000,0.000,9.000,151.460,151.460,142.460,9.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373221N1203671W001,124I,10/4/1983,00:00,,,30.000,0.000,30.000,212.400,212.400,182.400,30.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373238N1205866W001,197,10/5/1983,00:00,,,17.000,0.000,17.000,147.460,147.460,130.460,17.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373277N1204146W001,127D,10/4/1983,00:00,,,17.000,0.000,17.000,196.430,195.430,179.430,16.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373282N1209310W001,,10/18/1983,00:00,,,6.500,0.000,6.500,70.920,70.420,64.420,6.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373296N1206238W001,45D,10/5/1983,00:00,,,20.000,0.000,20.000,145.450,145.450,125.450,20.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373310N1206413W001,88D,10/5/1983,00:00,,,7.000,0.000,7.000,131.440,131.440,124.440,7.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373310N1206632W001,43AD,10/5/1983,00:00,,,6.000,0.000,6.000,121.430,121.430,115.430,6.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373310N1206868W001,25D,10/5/1983,00:00,,,22.000,0.000,22.000,122.420,122.420,100.420,22.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373310N1207046W001,24I,10/5/1983,00:00,,,15.000,0.000,15.000,118.410,118.410,103.410,15.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373313N1206110W001,16D,10/5/1983,00:00,,,21.000,0.000,21.000,146.460,146.460,125.460,21.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373313N1207246W001,53,10/5/1983,00:00,,,10.000,0.000,10.000,112.400,112.400,102.400,10.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373332N1205407W001,10D,10/5/1983,00:00,,,29.000,0.000,29.000,163.460,163.460,134.460,29.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373338N1206541W001,192,10/5/1983,00:00,,,35.000,0.000,35.000,130.440,130.440,95.440,35.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373341N1204371W001,105D,10/4/1983,00:00,9 - Temporarily inaccessible,,,,,187.440,187.440,,,,,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373355N1209029W001,,10/18/1983,00:00,,,6.000,0.000,6.000,75.410,75.410,69.410,6.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373355N1209160W001,,10/18/1983,00:00,,,6.490,0.000,6.490,74.010,73.410,67.520,5.890,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373355N1209324W001,,10/18/1983,00:00,,,6.400,0.000,6.400,76.620,74.620,70.220,4.400,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373385N1206446W001,54I,10/5/1983,00:00,,,29.000,0.000,29.000,144.450,144.450,115.450,29.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373385N1207193W001,84D,10/5/1983,00:00,,,9.000,0.000,9.000,113.400,113.400,104.400,9.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373385N1207502W001,83D,10/5/1983,00:00,,,20.000,0.000,20.000,108.390,108.390,88.390,20.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373388N1208238W001,,10/18/1983,00:00,9 - Temporarily inaccessible,,,,,102.890,102.390,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373421N1206854W001,23D,10/5/1983,00:00,,,21.000,0.000,21.000,122.420,122.420,101.420,21.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373421N1208432W001,,10/18/1983,00:00,6 - Well has been destroyed,,,,,88.390,88.390,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373446N1208546W001,,10/18/1983,00:00,,,11.000,0.000,11.000,89.390,87.390,78.390,9.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373460N1207038W001,22D,10/5/1983,00:00,,,21.000,0.000,21.000,117.410,117.410,96.410,21.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373468N1208877W001,,10/18/1983,00:00,,,9.000,0.000,9.000,84.900,82.400,75.900,6.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373471N1209432W001,,10/18/1983,00:00,,,8.200,0.000,8.200,70.410,69.410,62.210,7.200,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373493N1207777W001,115D,10/5/1983,00:00,,,15.000,0.000,15.000,106.390,105.390,91.390,14.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373496N1206593W001,157,10/5/1983,00:00,,,29.000,0.000,29.000,138.940,138.940,109.940,29.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373532N1208796W001,,10/18/1983,00:00,,,10.000,0.000,10.000,86.390,86.390,76.390,10.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373543N1207874W001,160,10/5/1983,00:00,,,17.000,0.000,17.000,107.380,107.380,90.380,17.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373555N1208652W001,,10/18/1983,00:00,,,12.000,0.000,12.000,87.880,87.380,75.880,11.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373566N1208007W001,159,10/5/1983,00:00,,,18.000,0.000,18.000,107.380,107.380,89.380,18.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373599N1207568W001,113D,10/5/1983,00:00,,,11.000,0.000,11.000,112.380,111.380,101.380,10.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373602N1207263W001,167,10/5/1983,00:00,,,23.000,0.000,23.000,122.390,122.390,99.390,23.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373605N1206591W001,12D,10/5/1983,00:00,,,33.000,0.000,33.000,142.430,142.430,109.430,33.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373621N1206888W001,78D,10/5/1983,00:00,,,23.000,0.000,23.000,128.410,128.410,105.410,23.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373627N1205916W001,34I,10/6/1983,00:00,,,34.600,0.000,34.600,163.070,166.470,128.470,38.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373630N1207149W001,109D,10/5/1983,00:00,,,20.000,0.000,20.000,122.390,122.390,102.390,20.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373660N1209343W001,,10/18/1983,00:00,,,9.000,0.000,9.000,77.890,77.390,68.890,8.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373671N1207879W001,,10/18/1983,00:00,,,26.000,0.000,26.000,117.370,116.370,91.370,25.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373674N1207052W001,172,10/5/1983,00:00,,,29.000,0.000,29.000,132.390,132.390,103.390,29.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373674N1207282W001,165,10/5/1983,00:00,,,9.000,0.000,9.000,124.380,124.380,115.380,9.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373713N1206363W001,188,10/6/1983,00:00,,,37.000,0.000,37.000,157.440,157.440,120.440,37.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373721N1208143W001,,10/18/1983,00:00,,,23.000,0.000,23.000,107.370,106.370,84.370,22.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373732N1206679W001,11,10/6/1983,00:00,,,38.000,0.000,38.000,147.410,147.410,109.410,38.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373735N1206588W001,181,10/6/1983,00:00,,,49.000,0.000,49.000,152.420,152.420,103.420,49.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373752N1207668W001,151,10/5/1983,00:00,,,30.000,0.000,30.000,121.370,121.370,91.370,30.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373760N1206432W001,185,10/6/1983,00:00,,,38.000,0.000,38.000,152.430,152.430,114.430,38.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373785N1207074W001,139,10/5/1983,00:00,,,27.000,0.000,27.000,129.380,128.380,102.380,26.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373813N1207782W001,,10/18/1983,00:00,,,29.000,0.000,29.000,117.860,117.360,88.860,28.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373821N1206682W001,180,10/6/1983,00:00,,,36.000,0.000,36.000,147.410,147.410,111.410,36.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373857N1206546W001,2BD,10/5/1983,00:00,,,47.000,0.000,47.000,147.410,147.410,100.410,47.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373863N1206977W001,174,10/6/1983,00:00,,,46.000,0.000,46.000,141.380,141.380,95.380,46.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373891N1206285W001,29AD,10/5/1983,00:00,,,47.000,0.000,47.000,160.430,160.430,113.430,47.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373905N1208866W001,Priv,11/2/1983,00:00,,,15.000,0.000,15.000,83.350,82.350,68.350,14.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373930N1206452W001,40D,10/5/1983,00:00,,,49.000,0.000,49.000,160.410,160.410,111.410,49.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373966N1207468W001,,10/18/1983,00:00,,,23.000,0.000,23.000,113.850,112.350,90.850,21.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373968N1206457W001,184,10/6/1983,00:00,,,47.000,0.000,47.000,162.410,162.410,115.410,47.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373968N1208271W001,Priv,11/1/1983,00:00,,,11.000,0.000,11.000,103.340,102.340,92.340,10.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+373988N1207068W001,170,10/6/1983,00:00,,,49.000,0.000,49.000,140.360,140.360,91.360,49.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+373993N1206149W001,55BD,10/5/1983,00:00,,,43.000,0.000,43.000,172.430,167.430,129.430,38.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374007N1207252W001,166,10/6/1983,00:00,,,44.000,0.000,44.000,137.360,137.360,93.360,44.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374010N1206999W001,173,10/6/1983,00:00,,,53.000,0.000,53.000,144.370,144.370,91.370,53.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374016N1206857W001,177,10/6/1983,00:00,,,43.000,0.000,43.000,149.380,149.380,106.380,43.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374035N1207091W001,168,10/6/1983,00:00,,,44.000,0.000,44.000,142.360,142.360,98.360,44.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374063N1208568W001,67A,11/1/1983,00:00,,,6.000,0.000,6.000,93.330,92.330,87.330,5.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374080N1206685W001,179,10/6/1983,00:00,,,54.000,0.000,54.000,157.390,157.390,103.390,54.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374088N1208843W001,Priv,11/2/1983,00:00,,,11.000,0.000,11.000,84.330,84.330,73.330,11.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374113N1206613W001,183,10/6/1983,00:00,,,57.000,0.000,57.000,162.390,162.390,105.390,57.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374116N1208318W001,169,11/1/1983,00:00,,,13.000,0.000,13.000,97.330,97.330,84.330,13.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374118N1206085W001,229,10/6/1983,00:00,,,66.000,0.000,66.000,187.420,187.420,121.420,66.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374157N1208129W001,197,11/1/1983,00:00,,,8.000,0.000,8.000,102.330,102.330,94.330,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374188N1208479W001,133,11/1/1983,00:00,,,11.000,0.000,11.000,92.320,92.320,81.320,11.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374188N1208879W001,Priv,11/2/1983,00:00,,,10.000,0.000,10.000,84.320,84.320,74.320,10.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374246N1207952W001,,11/1/1983,00:00,,,18.000,0.000,18.000,103.330,102.330,85.330,17.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374260N1205760W001,233,10/6/1983,00:00,,9 - Acoustical sounder,89.000,0.000,89.000,216.410,216.410,127.410,89.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374271N1206474W001,235,10/6/1983,00:00,,,67.000,0.000,67.000,177.390,177.390,110.390,67.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374274N1208499W001,Priv,11/1/1983,00:00,,,11.000,0.000,11.000,97.310,97.310,86.310,11.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374282N1207743W001,204,11/1/1983,00:00,,,21.000,0.000,21.000,127.730,127.330,106.730,20.600,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374330N1205793W001,238,10/6/1983,00:00,,9 - Acoustical sounder,85.000,0.000,85.000,222.400,222.400,137.400,85.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374335N1207479W001,223,11/1/1983,00:00,,,27.000,0.000,27.000,134.340,134.340,107.340,27.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374335N1207707W001,201A,11/1/1983,00:00,,,23.000,0.000,23.000,124.330,124.330,101.330,23.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374338N1207604W001,202,11/1/1983,00:00,,,24.000,0.000,24.000,125.330,124.330,101.330,23.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374338N1207952W001,,11/1/1983,00:00,,,10.000,0.000,10.000,112.320,111.320,102.320,9.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374382N1205621W001,239,10/6/1983,00:00,,9 - Acoustical sounder,95.000,0.000,95.000,227.390,227.390,132.390,95.000,UNK - Unknown,Unknown,Merced Irrigation District,Voluntary,,Merced_06.21.1983-12.31.1983
+374427N1207404W001,224,11/1/1983,00:00,,,17.000,0.000,17.000,126.340,126.340,109.340,17.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374449N1207716W001,102,11/1/1983,00:00,,,22.000,0.000,22.000,113.920,113.920,91.920,22.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374452N1208624W001,110,11/2/1983,00:00,,,11.000,0.000,11.000,91.300,91.300,80.300,11.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374463N1207516W001,225,11/1/1983,00:00,,,22.000,0.000,22.000,117.330,117.330,95.330,22.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374463N1207891W001,146,11/1/1983,00:00,,,12.000,0.000,12.000,110.320,110.320,98.320,12.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374493N1206671W001,,11/1/1983,00:00,,9 - Acoustical sounder,80.000,0.000,80.000,171.860,170.360,91.860,78.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374493N1206760W001,,11/1/1983,00:00,,9 - Acoustical sounder,77.000,0.000,77.000,172.360,172.360,95.360,77.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374505N1206904W001,,11/2/1983,00:00,,9 - Acoustical sounder,80.000,0.000,80.000,168.350,168.350,88.350,80.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374513N1206504W001,,11/1/1983,00:00,,,79.000,0.000,79.000,182.370,182.370,103.370,79.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374582N1206907W001,,11/2/1983,00:00,,9 - Acoustical sounder,109.000,0.000,109.000,157.350,157.350,48.350,109.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374591N1206338W001,,11/1/1983,00:00,,9 - Acoustical sounder,90.000,0.000,90.000,193.370,192.370,103.370,89.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374624N1206282W001,,11/1/1983,00:00,,,102.000,0.000,102.000,208.870,207.370,106.870,100.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374624N1206757W001,,11/1/1983,00:00,9 - Temporarily inaccessible,,,,,191.360,187.360,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374627N1207363W001,,11/1/1983,00:00,,9 - Acoustical sounder,67.000,0.000,67.000,140.840,140.340,73.840,66.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374663N1206910W001,,11/2/1983,00:00,,9 - Acoustical sounder,89.000,0.000,89.000,166.850,166.350,77.850,88.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374677N1206071W001,,11/1/1983,00:00,9 - Temporarily inaccessible,,,,,142.870,142.370,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374693N1206496W001,,11/1/1983,00:00,,,107.000,0.000,107.000,191.870,191.370,84.870,106.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374699N1207441W001,,11/1/1983,00:00,,9 - Acoustical sounder,61.000,0.000,61.000,137.840,137.340,76.840,60.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374707N1207991W001,108,11/1/1983,00:00,,,16.000,0.000,16.000,114.310,114.310,98.310,16.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374738N1206993W001,,11/2/1983,00:00,9 - Temporarily inaccessible,,,,,159.350,157.350,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374741N1206343W001,,11/1/1983,00:00,,9 - Acoustical sounder,100.000,0.000,100.000,203.870,202.370,103.870,98.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374760N1207035W001,,11/2/1983,00:00,,,78.000,0.000,78.000,153.350,152.350,75.350,77.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374774N1206254W001,,11/1/1983,00:00,,9 - Acoustical sounder,140.000,0.000,140.000,228.870,227.370,88.870,138.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374782N1207238W001,,11/1/1983,00:00,,,68.000,0.000,68.000,148.340,147.340,80.340,67.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374802N1206574W001,,11/1/1983,00:00,,9 - Acoustical sounder,117.000,0.000,117.000,195.360,195.360,78.360,117.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374852N1206310W001,05S12E22H001M,11/1/1983,00:00,,,127.000,0.000,127.000,222.370,222.370,95.370,127.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374874N1206807W001,,11/2/1983,00:00,,,102.000,0.000,102.000,172.860,172.360,70.860,101.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374913N1206916W001,,11/2/1983,00:00,,9 - Acoustical sounder,101.000,0.000,101.000,171.860,170.360,70.860,99.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374921N1207468W001,05S11E22B001M,11/1/1983,00:00,,,101.000,0.000,101.000,187.340,187.340,86.340,101.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374963N1206974W001,,11/1/1983,00:00,,9 - Acoustical sounder,98.000,0.000,98.000,177.860,177.360,79.860,97.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374963N1207046W001,,11/1/1983,00:00,,9 - Acoustical sounder,96.000,0.000,96.000,169.850,169.350,73.850,95.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+374963N1207088W001,,11/1/1983,00:00,,9 - Acoustical sounder,97.500,0.000,97.500,168.350,168.350,70.850,97.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375035N1207157W001,,11/1/1983,00:00,,9 - Acoustical sounder,146.300,0.000,146.300,200.050,199.250,53.750,145.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375043N1206985W001,05S12E18C001M,11/1/1983,00:00,1 - Pumping,,,,,208.360,207.360,,,,,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375046N1207071W001,05S11E13A001M,11/1/1983,00:00,,9 - Acoustical sounder,156.500,0.000,156.500,232.850,232.350,76.350,156.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375096N1206804W001,05S12E08P001M,11/1/1983,00:00,,9 - Acoustical sounder,136.000,0.000,136.000,222.660,222.160,86.660,135.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375096N1206857W001,,11/1/1983,00:00,,9 - Acoustical sounder,131.000,0.000,131.000,202.860,202.360,71.860,130.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375099N1206932W001,,11/1/1983,00:00,,9 - Acoustical sounder,141.000,0.000,141.000,216.860,216.360,75.860,140.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375102N1206968W001,,11/1/1983,00:00,,9 - Acoustical sounder,135.000,0.000,135.000,210.860,210.360,75.860,134.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375124N1206210W001,,11/1/1983,00:00,,,133.000,0.000,133.000,252.860,252.360,119.860,132.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375138N1206171W001,,11/1/1983,00:00,,,135.000,0.000,135.000,261.560,261.560,126.560,135.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375157N1206124W001,,11/1/1983,00:00,,,155.000,0.000,155.000,253.360,252.360,98.360,154.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375246N1206074W001,,11/1/1983,00:00,,,152.000,0.000,152.000,255.360,254.360,103.360,151.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375249N1205974W001,,11/1/1983,00:00,,,137.000,0.000,137.000,242.860,241.860,105.860,136.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375285N1206174W001,,11/1/1983,00:00,,9 - Acoustical sounder,142.000,0.000,142.000,246.160,245.160,104.160,141.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
+375366N1206229W001,,11/1/1983,00:00,,9 - Acoustical sounder,133.000,0.000,133.000,243.360,242.360,110.360,132.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
