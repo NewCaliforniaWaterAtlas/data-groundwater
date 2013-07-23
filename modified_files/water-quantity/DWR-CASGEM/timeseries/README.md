@@ -59,7 +59,7 @@ Work done as part of California Groundwater project, incubated by the Resource R
 --------------------------------------------------------------------------------
 ## Fields
 
-Field Documentation can be found here:
+Field Documentation can be found here: ??
 
 
 Field Template:
@@ -92,7 +92,7 @@ Field Template:
 * Format: 
 * Examples: -121.9869 
 
-### Local Well Number
+### local_well_number | Local Well Number
 * Description: 
 * Definition: 
 * Format: 
