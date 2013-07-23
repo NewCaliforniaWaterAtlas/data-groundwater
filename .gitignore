@@ -1,1 +1,4 @@
 .DS_Store
+modified-files/contours/srtm*
+modified-files/dem_srtm_elevation/QGIS_project
+modified-files/dem_srtm_elevation/srtm*
