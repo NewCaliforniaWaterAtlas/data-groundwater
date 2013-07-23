@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments
 336669N1177464W001,,6/1/1994,00:00,,,91.700,0.000,91.700,242.350,242.350,150.650,91.700,UNK - Unknown,Unknown,Orange County Water District,Voluntary,
 336669N1177464W001,,11/1/1994,00:00,,,92.710,0.000,92.710,242.350,242.350,149.640,92.710,UNK - Unknown,Unknown,Orange County Water District,Voluntary,
 336669N1177464W001,,2/7/1995,00:00,,,81.950,0.000,81.950,242.350,242.350,160.400,81.950,UNK - Unknown,Unknown,Orange County Water District,Voluntary,

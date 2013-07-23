@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Humboldt_06.21.1983-06.21.2013
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Humboldt_06.21.1983-06.21.2013
 405582N1241656W001,,3/18/1986,00:00,,,25.800,0.000,25.800,55.220,53.220,29.420,23.800,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Humboldt_06.21.1983-06.21.2013
 405582N1241656W001,,10/22/1986,00:00,,,38.400,0.000,38.400,55.220,53.220,16.820,36.400,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Humboldt_06.21.1983-06.21.2013
 405582N1241656W001,,4/1/1987,00:00,,1 - Pumping,28.800,0.000,28.800,55.220,53.220,26.420,26.800,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Humboldt_06.21.1983-06.21.2013

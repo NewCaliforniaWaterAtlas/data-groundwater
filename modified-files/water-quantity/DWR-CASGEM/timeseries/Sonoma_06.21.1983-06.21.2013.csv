@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Sonoma_06.21.1983-06.21.2013
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Sonoma_06.21.1983-06.21.2013
 381189N1224940W001,,4/4/1990,00:00,9 - Temporarily inaccessible,,,,,5.650,3.650,,,,,Department of Water Resources,Voluntary,GATE LOCKED,Sonoma_06.21.1983-06.21.2013
 381189N1224940W001,,10/23/1990,00:00,,,4.500,0.000,4.500,5.650,3.650,1.150,2.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Sonoma_06.21.1983-06.21.2013
 381189N1224940W001,,3/14/1991,00:00,,,3.600,0.000,3.600,5.650,3.650,2.050,1.600,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Sonoma_06.21.1983-06.21.2013

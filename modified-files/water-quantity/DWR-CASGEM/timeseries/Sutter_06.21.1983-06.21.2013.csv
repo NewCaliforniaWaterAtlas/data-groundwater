@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Sutter_06.21.1983-06.21.2013
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Sutter_06.21.1983-06.21.2013
 387404N1214870W001,,11/22/1983,00:00,,,60.900,0.000,60.900,45.540,45.540,-15.360,60.900,UNK - Unknown,Unknown,Sutter County,Voluntary,,Sutter_06.21.1983-06.21.2013
 387404N1214870W001,,4/26/1984,00:00,1 - Pumping,,,,,45.540,45.540,,,,,Sutter County,Voluntary,PUMPING,Sutter_06.21.1983-06.21.2013
 387404N1214870W001,,11/13/1984,00:00,,,66.400,0.000,66.400,45.540,45.540,-20.860,66.400,UNK - Unknown,Unknown,Sutter County,Voluntary,,Sutter_06.21.1983-06.21.2013

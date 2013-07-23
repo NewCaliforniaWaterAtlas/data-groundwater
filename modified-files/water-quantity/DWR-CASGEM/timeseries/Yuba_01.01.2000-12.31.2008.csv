@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Yuba_01.01.2000-12.31.2008
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Yuba_01.01.2000-12.31.2008
 390067N1214668W001,,4/6/2000,00:00,,,17.100,0.000,17.100,65.740,65.040,48.640,16.400,UNK - Unknown,Unknown,Yuba County,Voluntary,,Yuba_01.01.2000-12.31.2008
 390067N1214668W001,,10/19/2000,00:00,,,23.600,0.000,23.600,65.740,65.040,42.140,22.900,UNK - Unknown,Unknown,Yuba County,Voluntary,,Yuba_01.01.2000-12.31.2008
 390067N1214668W001,,4/6/2001,00:00,,,17.100,0.000,17.100,65.740,65.040,48.640,16.400,UNK - Unknown,Unknown,Yuba County,Voluntary,,Yuba_01.01.2000-12.31.2008

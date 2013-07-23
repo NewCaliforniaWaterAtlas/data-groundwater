@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments
 372832N1210649W001,,3/13/2012,12:00,,,52.300,0.000,52.300,124.020,124.520,71.720,52.800,UNK - Unknown,0.1 Ft,Department of Water Resources,Voluntary,
 372832N1210649W001,,11/9/1983,00:00,,9 - Acoustical sounder,33.000,0.000,33.000,124.020,124.520,91.020,33.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,
 372832N1210649W001,,11/28/1984,00:00,,,29.000,0.000,29.000,124.020,124.520,95.020,29.500,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,

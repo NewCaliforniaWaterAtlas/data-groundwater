@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Mono_06.21.1983-06.21.2013
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Mono_06.21.1983-06.21.2013
 373714N1185236W001,LV6,3/9/2011,00:00,D - Dry well,,,,,"7,130.000","7,130.000",,,,,Mono County,CASGEM,submitted by MCWD,Mono_06.21.1983-06.21.2013
 373714N1185236W001,LV6,12/2/2010,00:00,D - Dry well,,,,,"7,130.000","7,130.000",,,,,Mono County,CASGEM,submitted by MCWD,Mono_06.21.1983-06.21.2013
 373714N1185236W001,LV6,9/2/2010,00:00,D - Dry well,,,,,"7,130.000","7,130.000",,,,,Mono County,CASGEM,submitted by MCWD,Mono_06.21.1983-06.21.2013

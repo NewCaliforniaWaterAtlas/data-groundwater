@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Merced_06.21.1983-12.31.1983
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Merced_06.21.1983-12.31.1983
 362686N1209946W001,,11/9/1983,00:00,,,9.000,0.000,9.000,94.210,93.210,85.210,8.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983
 369049N1207454W001,,10/5/1983,00:00,0 - Measurement Discontinued,,,,,166.680,164.680,,,,,Bureau of Reclamation,Voluntary,,Merced_06.21.1983-12.31.1983
 369299N1206860W001,,11/8/1983,00:00,,,14.300,0.000,14.300,139.900,138.400,125.600,12.800,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_06.21.1983-12.31.1983

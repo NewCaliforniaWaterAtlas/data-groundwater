@@ -1,4 +1,4 @@
-casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,LosAngeles_01.01.1997-12.31.2002
+CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,LosAngeles_01.01.1997-12.31.2002
 337805N1182517W001,,3/6/1999,00:00,,,43.950,0.000,43.950,12.600,12.600,-31.350,43.950,UNK - Unknown,Unknown,United States Geological Survey,Voluntary,,LosAngeles_01.01.1997-12.31.2002
 337805N1182517W002,,3/6/1999,00:00,,,13.880,0.000,13.880,12.600,12.600,-1.280,13.880,UNK - Unknown,Unknown,United States Geological Survey,Voluntary,,LosAngeles_01.01.1997-12.31.2002
 337818N1182394W001,,2/10/1999,00:00,,,59.760,0.000,59.760,6.010,6.010,-53.750,59.760,UNK - Unknown,Unknown,United States Geological Survey,Voluntary,,LosAngeles_01.01.1997-12.31.2002

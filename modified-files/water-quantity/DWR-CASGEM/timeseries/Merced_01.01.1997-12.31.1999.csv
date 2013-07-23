@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Merced_01.01.1997-12.31.1999
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Merced_01.01.1997-12.31.1999
 362686N1209946W001,,3/5/1997,00:00,,,8.200,0.000,8.200,94.210,93.210,86.010,7.200,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_01.01.1997-12.31.1999
 362686N1209946W001,,11/20/1997,00:00,4 - Can't get tape in casing,,,,,94.210,93.210,,,,,Department of Water Resources,Voluntary,,Merced_01.01.1997-12.31.1999
 369257N1207454W001,,4/2/1997,00:00,,9 - Acoustical sounder,107.600,0.000,107.600,147.130,145.530,39.530,106.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Merced_01.01.1997-12.31.1999

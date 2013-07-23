@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Yolo_06.21.1983-06.21.2013
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Yolo_06.21.1983-06.21.2013
 383442N1216147W001,,8/2/2012,00:00,5 - Unable to locate well,,,,,9.460,7.360,,,,,Department of Water Resources,Voluntary,cannot find well on property,Yolo_06.21.1983-06.21.2013
 383442N1216147W001,,3/26/2012,00:00,5 - Unable to locate well,,,,,9.460,7.360,,,,,Department of Water Resources,Voluntary,cannot find well on property,Yolo_06.21.1983-06.21.2013
 383442N1216147W001,,4/10/1990,00:00,,,6.100,0.000,6.100,9.460,7.360,3.360,4.000,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,Yolo_06.21.1983-06.21.2013

@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,SanMateo_06.21.1983-06.21.2013
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,SanMateo_06.21.1983-06.21.2013
 372511N1223703W001,,4/19/1990,00:00,,,15.300,0.000,15.300,48.200,47.700,32.900,14.800,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,SanMateo_06.21.1983-06.21.2013
 372511N1223703W001,,12/19/1990,00:00,,,15.900,0.000,15.900,48.200,47.700,32.300,15.400,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,SanMateo_06.21.1983-06.21.2013
 372511N1223703W001,,4/24/1991,00:00,,,14.400,0.000,14.400,48.200,47.700,33.800,13.900,UNK - Unknown,Unknown,Department of Water Resources,Voluntary,,SanMateo_06.21.1983-06.21.2013

@@ -1,4 +1,4 @@
-casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Fresno_06.21.2012-06.21.2013
+CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Fresno_06.21.2012-06.21.2013
 359647N1200793W001,,4/15/2013,12:00,1 - Pumping,,,,,668.110,668.110,,,,,Department of Water Resources,Voluntary,,Fresno_06.21.2012-06.21.2013
 359714N1201027W001,,4/15/2013,12:00,,9 - Acoustical sounder,269.800,0.000,269.800,697.120,695.120,427.320,267.800,UNK - Unknown,0.1 Ft,Department of Water Resources,Voluntary,,Fresno_06.21.2012-06.21.2013
 359717N1200849W001,,4/15/2013,12:00,1 - Pumping,,,,,697.120,695.120,,,,,Department of Water Resources,Voluntary,,Fresno_06.21.2012-06.21.2013

@@ -1,4 +1,4 @@
-﻿casgem_id,lat,long,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting_coop_agency,voluntary_or_casgem_measurement,comments,extra_casgem_id,Madera_06.21.1983-12.31.1986
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments,Madera_06.21.1983-12.31.1986
 367702N1202910W001,,9/27/1983,00:00,,,5.800,0.000,5.800,173.420,172.420,167.620,4.800,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Madera_06.21.1983-12.31.1986
 367702N1202910W001,,1/24/1984,00:00,,,29.400,0.000,29.400,173.420,172.420,144.020,28.400,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Madera_06.21.1983-12.31.1986
 367702N1202910W001,,10/4/1984,00:00,,,45.400,0.000,45.400,173.420,172.420,128.020,44.400,UNK - Unknown,Unknown,Bureau of Reclamation,Voluntary,,Madera_06.21.1983-12.31.1986
