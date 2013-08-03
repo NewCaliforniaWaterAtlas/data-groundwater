@@ -3,7 +3,7 @@ import sys, os, datetime
 
 # Create list of files.
 file_list = []
- 
+
 
 # Set path to list of files.
 path = "../../timeseries_test/"
@@ -133,7 +133,7 @@ for i in file_list:
                     longitude = float(longitude)  * -0.0001
                 
                 #W001
-                well = ""            
+                well = ""
                 if location[14:15] == 'W':
                     well = location[14:18]
                 else:
