@@ -4,9 +4,9 @@ import sys, os, datetime
 file_list = []
  
 #print "command line argument is", sys.argv[1]
-path = "timeseries/"
+path = "../../timeseries/"
 
-fout=open("../database/casgem_timeseries.csv","r+")
+fout=open("../../database/casgem_timeseries.csv","r+")
 fout.seek(0)
 
 for file in [doc for doc in os.listdir(path)
@@ -43,7 +43,6 @@ for i in file_list:
                 longitude = "longitude"
                 county = "county"      
                 well = "well"
-                print "file count " + str(linecount)
             else:
                 filename = str(i)
 
@@ -76,10 +75,7 @@ for i in file_list:
             totalcount = totalcount + 1
 
         filecount = filecount + 1
-            
 
-            #
-#            fout.write(line)
 fout.truncate()
 fout.close()
 print "Done. Processed " + str(totalcount) + " records."
