@@ -6,7 +6,7 @@ file_list = []
 
 
 # Set path to list of files.
-path = "../../timeseries_test/"
+path = "../../timeseries/"
 # @TODO Alternately, take argument from command row
 # print "command row argument is", sys.argv[1]
 
@@ -36,54 +36,58 @@ def modificationDate(filename):
 
 # Process a row, adding extra handling to remove errors in mapping.
 def cleanupRow(row):
-
-    # Split row into array based on comma.
-    row_list = row.split(",")
-
-    # Create empty values for month, day, year
-    date_csv = ",,"
-
-    # Split the / separated date and convert into comma-separated string.
-    if(row_list[8] != '' and row_list[8] != "Date"):
-        date = row_list[8].strip()
-        date_list = date.split("/")
-        date_csv = ",".join(date_list)
-
-    # Error checking for null and empty values. Convert to empty string or NULL value.
-    if(row_list[10] == ''):
-        row_list[10] = "" #No Measurement
-
-    if(row_list[11] == ''):
-        row_list[11] = "" #Questionable Measurement
-
-    if(row_list[12] == ''):
-        row_list[12] = 'NULL' #Reading @RP
-
-    if(row_list[13] == ''):
-        row_list[13] = 'NULL' #Reading @WS
-
-    if(row_list[14] == ''):
-        row_list[14] = 'NULL' #RP to WS
-
-    if(row_list[15] == ''):
-        row_list[15] = 'NULL' #RP Elevation
-
-    if(row_list[16] == ''):
-        row_list[16] = 'NULL' #GS Elevation
-
-    if(row_list[17] == ''):
-        row_list[17] = 'NULL' #WSE
-
-    if(row_list[18] == ''):
-        row_list[18] = 'NULL' #GS to WS
+    try: 
+        # Split row into array based on comma.
+        row_list = row.split(",")
     
-    # Put array back together
-    row = ",".join(row_list)
-
-    # Append date.
-    row = row + date_csv
+        # Create empty values for month, day, year
+        date_csv = ",,"
     
-    return row
+        # Split the / separated date and convert into comma-separated string.
+        if(row_list[8] != '' and row_list[8] != "Date"):
+            date = row_list[8].strip()
+            date_list = date.split("/")
+            date_csv = ",".join(date_list)
+    
+        # Error checking for null and empty values. Convert to empty string or NULL value.
+        if(row_list[10] == ''):
+            row_list[10] = "" #No Measurement
+    
+        if(row_list[11] == ''):
+            row_list[11] = "" #Questionable Measurement
+    
+        if(row_list[12] == ''):
+            row_list[12] = 'NULL' #Reading @RP
+    
+        if(row_list[13] == ''):
+            row_list[13] = 'NULL' #Reading @WS
+    
+        if(row_list[14] == ''):
+            row_list[14] = 'NULL' #RP to WS
+    
+        if(row_list[15] == ''):
+            row_list[15] = 'NULL' #RP Elevation
+    
+        if(row_list[16] == ''):
+            row_list[16] = 'NULL' #GS Elevation
+    
+        if(row_list[17] == ''):
+            row_list[17] = 'NULL' #WSE
+    
+        if(row_list[18] == ''):
+            row_list[18] = 'NULL' #GS to WS
+        
+        # Put array back together
+        row = ",".join(row_list)
+    
+        # Append date.
+        row = row + date_csv
+    
+        return row
+    
+    except ValueError:
+        return ""
+
 
 # Count total records.
 totalcount = 0
@@ -102,6 +106,7 @@ for i in file_list:
 
     # Read each row, perform cleanup functions.
     for row in f:
+        # @TODO Properly escape empty files. Deleted no data files from the directory for now.
         if row != '':
             # Remove whitespace
             row = row.strip()
