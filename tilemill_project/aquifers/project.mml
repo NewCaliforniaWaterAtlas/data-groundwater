@@ -1,0 +1,205 @@
+{
+  "bounds": [
+    -124.4861,
+    32.4727,
+    -114.159,
+    41.6401
+  ],
+  "center": [
+    -120.1465,
+    38.1346,
+    3
+  ],
+  "format": "png",
+  "interactivity": {
+    "layer": "",
+    "template_teaser": "casgem_id: {{{casgem_id}}} <br />\nlocal_well_number: {{{local_well_number}}} <br />\ndate: {{{date}}} <br />\nno measurement: {{{no_measurement}}} <br />\nquestionable_measurement: {{{questionable_measurement}}} <br />\nreading_rp: {{{reading_rp}}} <br />\nreading_ws: {{{reading_ws}}}  <br />\nrp_to_ws: {{{rp_to_ws}}}  <br />\nrp_elevation: {{{rp_elevation}}} <br /> \ngs_elevation: {{{gs_elevation}}}  <br />\nwse: {{{wse}}}  <br />\ngs_to_ws: {{{gs_to_ws}}} <br />\nmeasurement_method: {{{measurement_method}}} <br />",
+    "fields": [
+      "casgem_id",
+      "local_well_number",
+      "date",
+      "no_measurement",
+      "questionable_measurement",
+      "reading_rp",
+      "reading_ws",
+      "rp_to_ws",
+      "rp_elevation",
+      "gs_elevation",
+      "wse",
+      "gs_to_ws",
+      "measurement_method"
+    ]
+  },
+  "minzoom": 2,
+  "maxzoom": 12,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "polygon",
+      "extent": [
+        -124.35855919099993,
+        32.53402814800006,
+        -114.22581840399991,
+        42.00378792300007
+      ],
+      "id": "aquifers_top",
+      "class": "aquifers-top",
+      "Datasource": {
+        "file": "/Users/chachasikes/htdocs/nwca_dropbox/Dropbox/ncwa/data-groundwater/modified-files/aquifer-boundaries/DWR/B118_BasinBoundaries_v4_1/B118_BasinBoundaries_v41.shp"
+      },
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "aquifers_top"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -124.47185529933108,
+        31.329513634432033,
+        -108.9468532848723,
+        46.21443564829474
+      ],
+      "id": "aquifers",
+      "class": "aquifers",
+      "Datasource": {
+        "file": "/Users/chachasikes/htdocs/nwca_dropbox/Dropbox/ncwa/data-groundwater/modified-files/aquifer-boundaries/USGS/aquifers_edit/aquifrp025.shp",
+        "id": "aquifers",
+        "project": "aquifers",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "aquifers"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -124.35855919099991,
+        32.53402814800006,
+        -114.22581840399992,
+        42.00378792300007
+      ],
+      "id": "dwr",
+      "class": "dwr",
+      "Datasource": {
+        "file": "/Users/chachasikes/htdocs/nwca_dropbox/Dropbox/ncwa/data-groundwater/modified-files/aquifer-boundaries/DWR/B118_BasinBoundaries_v4_1/B118_BasinBoundaries_v41.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "dwr"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -124.56079304544406,
+        29.999583309108857,
+        -114.99958333334342,
+        45.00041688458606
+      ],
+      "id": "elevation",
+      "class": "elevation",
+      "Datasource": {
+        "file": "/Users/chachasikes/htdocs/nwca_dropbox/Dropbox/ncwa/data-groundwater/modified-files/contours/srtm_ca_100/srtm_ca_100.shp",
+        "id": "elevation",
+        "project": "aquifers",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "elevation"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -122.1229,
+        37.5259,
+        -121.9678,
+        37.6223
+      ],
+      "id": "wells",
+      "class": "wells",
+      "Datasource": {
+        "file": "/Users/chachasikes/htdocs/nwca_dropbox/Dropbox/ncwa/data-groundwater/modified-files/casgem_wells_geojson/Alameda_06-21-1983-06-21-2013-csv (1).csv",
+        "id": "wells",
+        "project": "aquifers",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "wells"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -122.1229,
+        37.5259,
+        -121.9678,
+        37.6223
+      ],
+      "id": "wells-2012",
+      "class": "wells-2012",
+      "Datasource": {
+        "file": "/Users/chachasikes/htdocs/nwca_dropbox/Dropbox/ncwa/data-groundwater/modified-files/casgem_wells_geojson/Alameda_06-21-1983-06-21-2013-csv-2012.csv",
+        "id": "wells-2012",
+        "project": "aquifers",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "wells-2012",
+      "status": "off"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -122.3105,
+        39.3976,
+        -121.8912,
+        39.7972
+      ],
+      "id": "wells-glenn-2012",
+      "class": "wells-glenn-2012",
+      "Datasource": {
+        "file": "/Users/chachasikes/htdocs/nwca_dropbox/Dropbox/ncwa/data-groundwater/modified-files/casgem_wells_geojson/Glenn_01-01-2003-06-21-2013-csv (1).csv"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "wells-glenn-2012"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -124.35855919099991,
+        32.53402814800006,
+        -114.22581840399992,
+        42.00378792300007
+      ],
+      "id": "dwr_labels",
+      "class": "dwr_labels",
+      "Datasource": {
+        "file": "/Users/chachasikes/htdocs/nwca_dropbox/Dropbox/ncwa/data-groundwater/modified-files/aquifer-boundaries/DWR/B118_BasinBoundaries_v4_1/B118_BasinBoundaries_v41.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "dwr_labels"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "_basemap": "",
+  "name": "Aquifers",
+  "description": "USGS and DWF aquifer boundaries. http://ca.statewater.org/project/groundwater",
+  "legend": "<h3>Aquifers of California</h3>\n<div class='my-legend'>\n<div class='legend-title'>The Title or Explanation of your Map</div>\n<div class='legend-scale'>\n  <ul class='legend-labels'>\n    <li><span style='background:#8DD3C7;'></span>One</li>\n    <li><span style='background:#FFFFB3;'></span>Two</li>\n    <li><span style='background:#BEBADA;'></span>Three</li>\n    <li><span style='background:#FB8072;'></span>Four</li>\n    <li><span style='background:#80B1D3;'></span>etc</li>\n  </ul>\n</div>\n<div class='legend-source'>Source: <a href=\"#link to source\">Name of source</a></div>\n</div>\n\n<style type='text/css'>\n  .wax-legend .legend-title {\n    text-align: left;\n    margin-bottom: 5px;\n    font-weight: bold;\n    font-size: 90%;\n    }\n  .wax-legend .legend-scale ul {\n    margin: 0;\n    margin-bottom: 5px;\n    padding: 0;\n    float: left;\n    list-style: none;\n    }\n  .wax-legend .legend-scale ul li {\n    font-size: 80%;\n    list-style: none;\n    margin-left: 0;\n    line-height: 18px;\n    margin-bottom: 2px;\n    }\n  .wax-legend ul.legend-labels li span {\n    display: block;\n    float: left;\n    height: 16px;\n    width: 30px;\n    margin-right: 5px;\n    margin-left: 0;\n    border: 1px solid #999;\n    }\n  .wax-legend .legend-source {\n    font-size: 70%;\n    color: #999;\n    clear: both;\n    }\n  .wax-legend a {\n    color: #777;\n    }\n</style>\n",
+  "attribution": ""
+}
