@@ -95,11 +95,10 @@ for i in file_list:
 
     # Open file
     f = open(path + i, 'r')
+    filetime = modificationDate(path + i)
 
     filecount = 0
     rowcount = 0
-
-    filetime = modificationDate(path + i)
 
     # Read each row, perform cleanup functions.
     for row in f:
@@ -114,7 +113,6 @@ for i in file_list:
                 longitude = "longitude"
                 county = "county"      
                 well = "well"
-                filetime = "filetime"
 
             else:
 
