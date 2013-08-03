@@ -28,7 +28,12 @@ def modification_date(filename):
 
 def cleanupLine(line):
     line_list = line.split(",")
-    
+    date_csv = ",,,"
+    if(line_list[8] != '' and line_list[8] != "Date"):
+        date = line_list[8].strip()
+        date_list = date.split("/")
+        date_csv = ",".join(date_list)
+
     if(line_list[10] == ''):
         line_list[10] = "" #No Measurement
 
@@ -36,7 +41,6 @@ def cleanupLine(line):
         line_list[11] = "" #Questionable Measurement
 
     if(line_list[12] == ''):
-        print "rp null"
         line_list[12] = 'NULL' #Reading @RP
 
     if(line_list[13] == ''):
@@ -57,7 +61,9 @@ def cleanupLine(line):
     if(line_list[18] == ''):
         line_list[18] = 'NULL' #GS to WS
     
+
     line = ",".join(line_list)
+    line = line + "," + date_csv
     
     return line
 
@@ -78,6 +84,7 @@ for i in file_list:
                 longitude = "longitude"
                 county = "county"      
                 well = "well"
+                filetime = "filetime"
             else:
                 filename = str(i)
 
@@ -98,15 +105,18 @@ for i in file_list:
                 else:
                     well = ""
 
-            line = filename + "," + county + "," + str(latitude) + "," + str(longitude) + "," + well + "," + str(filetime) + "," + line + "\n"
-
-            line = cleanupLine(line)
+            line = filename + "," + county + "," + str(latitude) + "," + str(longitude) + "," + well + "," + str(filetime) + "," + line
+            line_dated = cleanupLine(line) + "\n"
 
             if filecount != 0:
                 if linecount != 0:
-                    fout.write(line)
+                    fout.write(line_dated)
             else:
-                fout.write(line)
+                line = "filename,county,latitude,longitude,well,filetime,casgem_id,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_ap,reading_ws,rp_to_ws,rp_elecation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting,comments,month,day,year"
+
+                fout.write(line + '\n')
+                
+                #print line
 
             linecount = linecount + 1
             totalcount = totalcount + 1
