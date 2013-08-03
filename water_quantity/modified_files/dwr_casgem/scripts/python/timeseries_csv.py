@@ -41,7 +41,7 @@ def cleanupRow(row):
     row_list = row.split(",")
 
     # Create empty values for month, day, year
-    date_csv = ",,,"
+    date_csv = ",,"
 
     # Split the / separated date and convert into comma-separated string.
     if(row_list[8] != '' and row_list[8] != "Date"):
@@ -81,7 +81,7 @@ def cleanupRow(row):
     row = ",".join(row_list)
 
     # Append date.
-    row = row + "," + date_csv
+    row = row + date_csv
     
     return row
 
