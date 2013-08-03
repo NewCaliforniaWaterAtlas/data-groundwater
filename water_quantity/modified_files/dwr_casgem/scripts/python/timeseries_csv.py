@@ -4,7 +4,7 @@ import sys, os, datetime
 file_list = []
  
 #print "command line argument is", sys.argv[1]
-path = "../../timeseries/"
+path = "../../timeseries_test/"
 
 fout=open("../../database/casgem_timeseries.csv","r+")
 fout.seek(0)
@@ -25,6 +25,41 @@ def modification_date(filename):
     t = os.path.getmtime(filename)
     return datetime.datetime.fromtimestamp(t)
 
+
+def cleanupLine(line):
+    line_list = line.split(",")
+    
+    if(line_list[10] == ''):
+        line_list[10] = "" #No Measurement
+
+    if(line_list[11] == ''):
+        line_list[11] = "" #Questionable Measurement
+
+    if(line_list[12] == ''):
+        print "rp null"
+        line_list[12] = 'NULL' #Reading @RP
+
+    if(line_list[13] == ''):
+        line_list[13] = 'NULL' #Reading @WS
+
+    if(line_list[14] == ''):
+        line_list[14] = 'NULL' #RP to WS
+
+    if(line_list[15] == ''):
+        line_list[15] = 'NULL' #RP Elevation
+
+    if(line_list[16] == ''):
+        line_list[16] = 'NULL' #GS Elevation
+
+    if(line_list[17] == ''):
+        line_list[17] = 'NULL' #WSE
+
+    if(line_list[18] == ''):
+        line_list[18] = 'NULL' #GS to WS
+    
+    line = ",".join(line_list)
+    
+    return line
 
 totalcount = 0
 for i in file_list:
@@ -63,7 +98,9 @@ for i in file_list:
                 else:
                     well = ""
 
-            line = filename + "," + county + "," + str(latitude) + "," + str(longitude) + "," + well + "," + str(filetime) + "," + line
+            line = filename + "," + county + "," + str(latitude) + "," + str(longitude) + "," + well + "," + str(filetime) + "," + line + "\n"
+
+            line = cleanupLine(line)
 
             if filecount != 0:
                 if linecount != 0:
