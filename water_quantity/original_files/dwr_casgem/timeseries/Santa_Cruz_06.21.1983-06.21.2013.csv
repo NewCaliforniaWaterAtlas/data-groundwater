@@ -1,0 +1,339 @@
+﻿CASGEM ID,Local Well Number,Date,Military Time (PST),No Measurement,Questionable Measurement,Reading @RP,Reading @WS,RP to WS,RP Elevation,GS Elevation,WSE,GS to WS,Measurement Method,Measurement Accuracy,Collecting/ Co-op Agency,Voluntary or CASGEM Measurement,Comments
+368683N1218167W001,PV3S,10/14/2011,10:30,,,4.110,0.000,4.110,6.900,8.100,2.790,5.310,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368683N1218167W001,PV3S,4/18/2012,12:10,,,3.330,0.000,3.330,6.900,8.100,3.570,4.530,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368683N1218167W001,PV3S,10/16/2012,12:31,,,5.740,0.000,5.740,6.900,8.100,1.160,6.940,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368683N1218167W002,PV3M,10/14/2011,10:30,,,5.230,0.000,5.230,7.000,8.100,1.770,6.330,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368683N1218167W002,PV3M,4/18/2012,12:10,,,3.600,0.000,3.600,7.000,8.100,3.400,4.700,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368683N1218167W002,PV3M,10/16/2012,12:36,,,7.020,0.000,7.020,7.000,8.100,-0.020,8.120,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368683N1218167W003,PV3D,10/14/2011,10:30,,,5.730,0.000,5.730,6.890,8.100,1.160,6.940,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368683N1218167W003,PV3D,4/18/2012,12:10,,,2.880,0.000,2.880,6.890,8.100,4.010,4.090,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368683N1218167W003,PV3D,10/16/2012,12:41,,,9.150,0.000,9.150,6.890,8.100,-2.260,10.360,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368831N1217967W001,PV6S,10/14/2011,11:10,,,10.600,0.000,10.600,9.480,10.270,-1.120,11.390,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368831N1217967W001,PV6S,5/1/2012,11:20,,,13.600,0.000,13.600,9.480,10.270,-4.120,14.390,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368831N1217967W001,PV6S,10/16/2012,12:56,,,16.600,0.000,16.600,9.480,10.270,-7.120,17.390,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368831N1217967W002,PV6SM,10/14/2011,11:10,,,10.640,0.000,10.640,9.480,10.270,-1.160,11.430,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368831N1217967W002,PV6SM,5/1/2012,11:20,,,13.850,0.000,13.850,9.480,10.270,-4.370,14.640,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368831N1217967W002,PV6SM,10/16/2012,13:00,,,16.670,0.000,16.670,9.480,10.270,-7.190,17.460,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368831N1217967W003,PV6MD,10/14/2011,11:10,,,10.280,0.000,10.280,9.370,10.270,-0.910,11.180,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368831N1217967W003,PV6MD,5/1/2012,11:20,,,10.960,0.000,10.960,9.370,10.270,-1.590,11.860,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368831N1217967W003,PV6MD,10/16/2012,13:07,,,13.960,0.000,13.960,9.370,10.270,-4.590,14.860,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368831N1217967W004,PV6D,10/14/2011,11:10,,,10.430,0.000,10.430,9.440,10.270,-0.990,11.260,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368831N1217967W004,PV6D,5/1/2012,11:20,,,10.980,0.000,10.980,9.440,10.270,-1.540,11.810,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368831N1217967W004,PV6D,10/16/2012,13:12,,,14.000,0.000,14.000,9.440,10.270,-4.560,14.830,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368881N1218136W001,PV11,10/3/2011,11:35,,,56.590,0.000,56.590,111.680,111.680,55.090,56.590,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368881N1218136W001,PV11,4/19/2012,15:30,,,62.560,0.000,62.560,111.680,111.680,49.120,62.560,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368881N1218136W001,PV11,10/16/2012,11:32,,,65.690,0.000,65.690,111.680,111.680,45.990,65.690,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368903N1218193W001,HSPDMW1,10/3/2011,14:20,,,120.100,0.000,120.100,125.510,126.000,5.410,120.590,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368903N1218193W001,HSPDMW1,4/19/2012,13:40,,,120.030,0.000,120.030,125.510,126.000,5.480,120.520,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368903N1218193W001,HSPDMW1,10/16/2012,09:39,,,121.980,0.000,121.980,125.510,126.000,3.530,122.470,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368975N1218364W001,PV1S,10/14/2011,11:30,,,68.240,0.000,68.240,71.770,72.150,3.530,68.620,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368975N1218364W001,PV1S,4/18/2012,08:35,,,68.050,0.000,68.050,71.770,72.150,3.720,68.430,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368975N1218364W001,PV1S,10/16/2012,14:08,,,68.610,0.000,68.610,71.770,72.150,3.160,68.990,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368975N1218364W002,PV1M,10/14/2011,11:30,,,68.130,0.000,68.130,71.670,72.150,3.540,68.610,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368975N1218364W002,PV1M,4/18/2012,08:35,,,68.050,0.000,68.050,71.670,72.150,3.620,68.530,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368975N1218364W002,PV1M,10/16/2012,14:12,,,68.850,0.000,68.850,71.670,72.150,2.820,69.330,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368975N1218364W003,PV1D,10/14/2011,11:30,,,67.480,0.000,67.480,71.800,72.150,4.320,67.830,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368975N1218364W003,PV1D,4/18/2012,10:30,,,66.930,0.000,66.930,71.800,72.150,4.870,67.280,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368975N1218364W003,PV1D,10/16/2012,14:16,,,68.230,0.000,68.230,71.800,72.150,3.570,68.580,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368986N1218194W001,PV8S,10/14/2011,11:20,,,114.130,0.000,114.130,118.100,118.800,3.970,114.830,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368986N1218194W001,PV8S,5/1/2012,11:30,,,112.550,0.000,112.550,118.100,118.800,5.550,113.250,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368986N1218194W001,PV8S,10/16/2012,13:26,,,115.230,0.000,115.230,118.100,118.800,2.870,115.930,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368986N1218194W002,PV8M,10/14/2011,11:20,,,114.350,0.000,114.350,118.000,118.800,3.650,115.150,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368986N1218194W002,PV8M,5/1/2012,11:30,,,113.100,0.000,113.100,118.000,118.800,4.900,113.900,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368986N1218194W002,PV8M,10/16/2012,12:00,7 - Special/Other,,,,,118.000,118.800,,,,,Pajaro Valley Water Management Agency,CASGEM,
+368986N1218194W003,PV8D,10/14/2011,11:20,,,114.120,0.000,114.120,118.220,118.800,4.100,114.700,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368986N1218194W003,PV8D,5/1/2012,11:30,,,112.850,0.000,112.850,118.220,118.800,5.370,113.430,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368986N1218194W003,PV8D,10/16/2012,13:30,,,115.620,0.000,115.620,118.220,118.800,2.600,116.200,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368998N1218303W001,PV13,10/14/2011,11:25,,,88.500,0.000,88.500,99.500,100.000,11.000,89.000,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+368998N1218303W001,PV13,5/1/2012,11:40,,,88.160,0.000,88.160,99.500,100.000,11.340,88.660,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+368998N1218303W001,PV13,10/29/2012,14:00,,,89.700,0.000,89.700,99.500,100.000,9.800,90.200,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+369223N1218495W001,SC-A4A,10/31/2011,12:00,,,186.010,0.000,186.010,185.890,186.570,-0.120,186.690,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W001,SC-A4A,3/12/2012,12:00,,,183.340,0.000,183.340,185.890,186.570,2.550,184.020,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W001,SC-A4A,10/8/2012,12:00,,,185.130,0.000,185.130,185.890,186.570,0.760,185.810,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W002,SC-A4B,10/31/2011,12:00,,,181.910,0.000,181.910,185.890,186.910,3.980,182.930,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W002,SC-A4B,3/12/2012,12:00,,,180.570,0.000,180.570,185.890,186.910,5.320,181.590,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W002,SC-A4B,10/8/2012,12:00,,,182.330,0.000,182.330,185.890,186.910,3.560,183.350,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W003,SC-A4C,10/31/2011,12:00,,,182.520,0.000,182.520,185.890,186.690,3.370,183.320,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W003,SC-A4C,3/12/2012,12:00,,,180.660,0.000,180.660,185.890,186.690,5.230,181.460,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W003,SC-A4C,10/8/2012,12:00,,,182.330,0.000,182.330,185.890,186.690,3.560,183.130,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W004,SC-A4D,10/31/2011,12:00,,,180.500,0.000,180.500,185.890,187.040,5.390,181.650,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W004,SC-A4D,3/12/2012,12:00,,,180.700,0.000,180.700,185.890,187.040,5.190,181.850,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369223N1218495W004,SC-A4D,10/8/2012,12:00,,,182.270,0.000,182.270,185.890,187.040,3.620,183.420,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369341N1218169W001,SCC11S01E36AP,9/13/2011,12:00,,,166.100,0.000,166.100,318.000,318.000,151.900,166.100,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+369341N1218169W001,SCC11S01E36AP,4/17/2012,12:00,,,164.800,0.000,164.800,318.000,318.000,153.200,164.800,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+369341N1218169W001,SCC11S01E36AP,10/17/2012,12:00,,,164.600,0.000,164.600,318.000,318.000,153.400,164.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+369356N1218642W001,SC-A3A,10/31/2011,12:00,,,103.590,0.000,103.590,103.090,104.340,-0.500,104.840,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369356N1218642W001,SC-A3A,4/5/2012,12:00,,,100.830,0.000,100.830,103.090,104.340,2.260,102.080,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369356N1218642W001,SC-A3A,10/8/2012,12:00,,,101.230,0.000,101.230,103.090,104.340,1.860,102.480,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369356N1218642W002,SC-A3B,10/31/2011,12:00,,,101.140,0.000,101.140,103.090,104.100,1.950,102.150,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369356N1218642W002,SC-A3B,4/5/2012,12:00,,,99.800,0.000,99.800,103.090,104.100,3.290,100.810,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369356N1218642W002,SC-A3B,10/8/2012,12:00,,,100.300,0.000,100.300,103.090,104.100,2.790,101.310,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369356N1218642W003,SC-A3C,10/31/2011,12:00,,,99.680,0.000,99.680,103.090,104.790,3.410,101.380,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369356N1218642W003,SC-A3C,4/5/2012,12:00,,,99.480,0.000,99.480,103.090,104.790,3.610,101.180,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369356N1218642W003,SC-A3C,10/8/2012,12:00,,,99.870,0.000,99.870,103.090,104.790,3.220,101.570,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369381N1218267W001,SCC11S01E26AP,9/13/2011,12:00,,,117.000,0.000,117.000,358.000,357.000,241.000,116.000,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+369381N1218267W001,SCC11S01E26AP,4/17/2012,12:00,,,117.200,0.000,117.200,358.000,357.000,240.800,116.200,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+369381N1218267W001,SCC11S01E26AP,10/17/2012,12:00,,,117.000,0.000,117.000,358.000,357.000,241.000,116.000,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+369406N1217428W001,782,10/14/2011,12:35,,,61.680,0.000,61.680,60.000,58.200,-1.680,59.880,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,Voluntary,
+369406N1217428W001,782,4/26/2012,15:45,,,56.120,0.000,56.120,60.000,58.200,3.880,54.320,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+369406N1217428W001,782,10/22/2012,10:55,,,65.200,0.000,65.200,60.000,58.200,-5.200,63.400,ES - Electric sounder measurement,0.01 Ft,Pajaro Valley Water Management Agency,CASGEM,
+369454N1218708W001,SC-A2A,10/31/2011,12:00,,,127.700,0.000,127.700,127.240,128.390,-0.460,128.850,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369454N1218708W001,SC-A2A,1/10/2012,12:00,,,124.470,0.000,124.470,127.240,128.390,2.770,125.620,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,last reading for this well; well scheduled for replacement
+369454N1218708W001,SC-A2A,10/8/2012,12:00,6 - Well has been destroyed,,,,,127.240,128.390,,,,,Soquel Creek Water District,CASGEM,well destroyed
+369454N1218708W002,SC-A2B,10/31/2011,12:00,,,120.860,0.000,120.860,127.240,128.080,6.380,121.700,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369454N1218708W002,SC-A2B,1/10/2012,12:00,,,120.670,0.000,120.670,127.240,128.080,6.570,121.510,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,last reading for this well; well scheduled for replacement
+369454N1218708W002,SC-A2B,10/8/2012,12:00,6 - Well has been destroyed,,,,,127.240,128.080,,,,,Soquel Creek Water District,CASGEM,well destroyed
+369454N1218708W003,SC-A2C,10/31/2011,12:00,,,122.360,0.000,122.360,127.240,128.440,4.880,123.560,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369454N1218708W003,SC-A2C,1/10/2012,12:00,,,121.800,0.000,121.800,127.240,128.440,5.440,123.000,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,last reading for this well; well scheduled for replacement
+369454N1218708W003,SC-A2C,10/8/2012,12:00,6 - Well has been destroyed,,,,,127.240,128.440,,,,,Soquel Creek Water District,CASGEM,well destroyed
+369542N1218789W001,SC-A8A,10/31/2011,12:00,,,73.300,0.000,73.300,82.020,82.380,8.720,73.660,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369542N1218789W001,SC-A8A,3/27/2012,12:00,,,73.210,0.000,73.210,82.020,82.380,8.810,73.570,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369542N1218789W001,SC-A8A,10/8/2012,12:00,,,74.130,0.000,74.130,82.020,82.380,7.890,74.490,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369542N1218789W002,SC-A8B,10/31/2011,12:00,,,70.960,0.000,70.960,81.760,82.190,10.800,71.390,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369542N1218789W002,SC-A8B,3/27/2012,12:00,,,71.310,0.000,71.310,81.760,82.190,10.450,71.740,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369542N1218789W002,SC-A8B,10/8/2012,12:00,,,71.920,0.000,71.920,81.760,82.190,9.840,72.350,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369542N1218789W003,SC-A8C,10/31/2011,12:00,,,72.800,0.000,72.800,82.100,82.200,9.300,72.900,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369542N1218789W003,SC-A8C,3/27/2012,12:00,,,71.980,0.000,71.980,82.100,82.200,10.120,72.080,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369542N1218789W003,SC-A8C,10/8/2012,12:00,,,72.370,0.000,72.370,82.100,82.200,9.730,72.470,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369558N1219720W001,Soquel Point Shallow,10/5/2011,09:20,,,25.780,0.000,25.780,30.310,30.620,4.530,26.090,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369558N1219720W001,Soquel Point Shallow,4/6/2012,10:25,,,24.890,0.000,24.890,30.310,30.620,5.420,25.200,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369558N1219720W001,Soquel Point Shallow,10/9/2012,09:05,,,25.770,0.000,25.770,30.310,30.620,4.540,26.080,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369558N1219720W002,Soquel Point Medium,10/5/2011,09:20,,,25.820,0.000,25.820,30.240,30.620,4.420,26.200,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369558N1219720W002,Soquel Point Medium,4/6/2012,10:25,,,24.620,0.000,24.620,30.240,30.620,5.620,25.000,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369558N1219720W002,Soquel Point Medium,10/9/2012,09:05,,,25.710,0.000,25.710,30.240,30.620,4.530,26.090,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369558N1219720W003,Soquel Point Deep,10/5/2011,09:20,,,25.530,0.000,25.530,30.370,30.620,4.840,25.780,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369558N1219720W003,Soquel Point Deep,4/6/2012,10:25,,,24.230,0.000,24.230,30.370,30.620,6.140,24.480,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369558N1219720W003,Soquel Point Deep,10/9/2012,09:05,,,25.460,0.000,25.460,30.370,30.620,4.910,25.710,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369573N1219750W001,Moran Lake Shallow,10/5/2011,09:15,,,21.740,0.000,21.740,27.100,27.340,5.360,21.980,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,RP elevation changed from 27.06' to 27.10'
+369573N1219750W001,Moran Lake Shallow,4/6/2012,10:52,,,21.250,0.000,21.250,27.100,27.340,5.850,21.490,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369573N1219750W001,Moran Lake Shallow,10/9/2012,09:50,,,21.740,0.000,21.740,26.940,27.340,5.200,22.140,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,RP Elevation changed after setting of new box
+369573N1219750W002,Moran Lake Medium,10/5/2011,09:15,,,21.760,0.000,21.760,27.100,27.340,5.340,22.000,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369573N1219750W002,Moran Lake Medium,4/6/2012,10:52,,,21.280,0.000,21.280,27.100,27.340,5.820,21.520,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369573N1219750W002,Moran Lake Medium,10/9/2012,09:50,,,21.700,0.000,21.700,26.960,27.340,5.260,22.080,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,RP Elevation changed after setting of new box
+369573N1219750W003,Moran Lake Deep,10/5/2011,09:15,,,21.170,0.000,21.170,27.060,27.340,5.890,21.450,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,RP elevation changed from 27.10' to 27.06'
+369573N1219750W003,Moran Lake Deep,4/6/2012,10:52,,,20.690,0.000,20.690,27.060,27.340,6.370,20.970,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369573N1219750W003,Moran Lake Deep,10/9/2012,09:50,,,21.090,0.000,21.090,26.900,27.340,5.810,21.530,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,RP Elevation changed after setting of new box
+369604N1219650W001,Pleasure PT. Shallow,10/5/2011,09:30,,,37.980,0.000,37.980,45.300,45.300,7.320,37.980,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369604N1219650W001,Pleasure PT. Shallow,4/6/2012,09:48,,,35.750,0.000,35.750,45.300,45.300,9.550,35.750,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369604N1219650W001,Pleasure PT. Shallow,10/9/2012,10:41,,,39.950,0.000,39.950,45.300,45.300,5.350,39.950,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369604N1219650W002,Pleasure PT. Medium,10/5/2011,09:30,,,37.890,0.000,37.890,45.250,45.250,7.360,37.890,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,RP elevation changed from 45.30' to 45.25'
+369604N1219650W002,Pleasure PT. Medium,3/9/2012,09:48,,,34.980,0.000,34.980,45.250,45.250,10.270,34.980,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,Reading not taken on 4/6/2012; Reading taken on 3/9/2012 was used instead.
+369604N1219650W002,Pleasure PT. Medium,10/9/2012,10:41,,,40.280,0.000,40.280,45.250,45.250,4.970,40.280,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369604N1219650W003,Pleasure PT. Deep,10/5/2011,09:30,,,37.730,0.000,37.730,45.240,45.240,7.510,37.730,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,RP elevation changed from 45.30' to 45.24'
+369604N1219650W003,Pleasure PT. Deep,4/6/2012,09:48,,,34.590,0.000,34.590,45.240,45.240,10.650,34.590,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369604N1219650W003,Pleasure PT. Deep,10/9/2012,10:41,,,39.690,0.000,39.690,45.240,45.240,5.550,39.690,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369610N1219729W001,Beltz #2,10/5/2011,09:05,,,18.070,0.000,18.070,22.650,22.920,4.580,18.340,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369610N1219729W001,Beltz #2,4/6/2012,11:10,,,16.660,0.000,16.660,22.650,22.920,5.990,16.930,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369610N1219729W001,Beltz #2,10/9/2012,10:19,,,17.980,0.000,17.980,22.650,22.920,4.670,18.250,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369613N1218877W001,SC-A1A,10/31/2011,12:00,,,60.770,0.000,60.770,64.760,65.590,3.990,61.600,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W001,SC-A1A,4/9/2012,12:00,,,58.500,0.000,58.500,64.760,65.590,6.260,59.330,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W001,SC-A1A,10/8/2012,12:00,,,59.150,0.000,59.150,64.760,65.590,5.610,59.980,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W002,SC-A1B,10/31/2011,12:00,,,58.000,0.000,58.000,64.760,65.790,6.760,59.030,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W002,SC-A1B,4/9/2012,12:00,,,58.420,0.000,58.420,64.760,65.790,6.340,59.450,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W002,SC-A1B,10/8/2012,12:00,,,59.100,0.000,59.100,64.760,65.790,5.660,60.130,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W003,SC-A1C,10/31/2011,12:00,,,59.600,0.000,59.600,64.760,65.630,5.160,60.470,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W003,SC-A1C,4/9/2012,12:00,,,57.920,0.000,57.920,64.760,65.630,6.840,58.790,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W003,SC-A1C,10/8/2012,12:00,,,58.860,0.000,58.860,64.760,65.630,5.900,59.730,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W004,SC-A1D,10/31/2011,12:00,,,58.720,0.000,58.720,64.760,65.650,6.040,59.610,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W004,SC-A1D,4/9/2012,12:00,,,57.770,0.000,57.770,64.760,65.650,6.990,58.660,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369613N1218877W004,SC-A1D,10/8/2012,12:00,,,58.810,0.000,58.810,64.760,65.650,5.950,59.700,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369636N1219768W001,Corcoran Shallow,10/5/2011,08:50,,,20.220,0.000,20.220,25.600,26.050,5.380,20.670,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369636N1219768W001,Corcoran Shallow,4/6/2012,09:16,,,18.880,0.000,18.880,25.600,26.050,6.720,19.330,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369636N1219768W001,Corcoran Shallow,10/9/2012,08:40,,,20.670,0.000,20.670,25.600,26.050,4.930,21.120,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369636N1219768W002,Corcoran Medium,10/5/2011,08:50,,,20.370,0.000,20.370,25.740,26.050,5.370,20.680,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369636N1219768W002,Corcoran Medium,4/6/2012,09:16,,,18.710,0.000,18.710,25.740,26.050,7.030,19.020,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369636N1219768W002,Corcoran Medium,10/9/2012,08:40,,,20.530,0.000,20.530,25.740,26.050,5.210,20.840,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369636N1219768W003,Corcoran Deep,10/5/2011,08:50,,,16.600,0.000,16.600,25.680,26.050,9.080,16.970,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369636N1219768W003,Corcoran Deep,4/6/2012,09:16,,,14.200,0.000,14.200,25.680,26.050,11.480,14.570,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369636N1219768W003,Corcoran Deep,10/9/2012,08:40,,,16.660,0.000,16.660,25.680,26.050,9.020,17.030,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369660N1219719W001,Santa Margarita TW,10/5/2011,09:45,,,39.690,0.000,39.690,57.480,55.000,17.790,37.210,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369660N1219719W001,Santa Margarita TW,4/6/2012,12:00,,,37.680,0.000,37.680,57.480,55.000,19.800,35.200,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369660N1219719W001,Santa Margarita TW,10/9/2012,11:34,,,39.940,0.000,39.940,57.480,55.000,17.540,37.460,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369664N1219921W001,Schwan Lake,10/5/2011,08:40,,,41.820,0.000,41.820,53.180,53.580,11.360,42.220,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369664N1219921W001,Schwan Lake,4/6/2012,08:59,,,42.190,0.000,42.190,53.180,53.580,10.990,42.590,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369664N1219921W001,Schwan Lake,10/9/2012,08:26,,,42.660,0.000,42.660,53.180,53.580,10.520,43.060,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369683N1219712W001,Beltz #4 Shallow,10/5/2011,10:05,,,51.310,0.000,51.310,59.640,60.080,8.330,51.750,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,RP elevation changed from 59.50' to 59.64'
+369683N1219712W001,Beltz #4 Shallow,4/6/2012,12:18,,,48.710,0.000,48.710,59.640,60.080,10.930,49.150,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369683N1219712W001,Beltz #4 Shallow,10/9/2012,11:49,,,52.620,0.000,52.620,59.640,60.080,7.020,53.060,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369683N1219712W002,Beltz #4 Deep,10/5/2011,10:05,,,51.140,0.000,51.140,59.340,60.080,8.200,51.880,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369683N1219712W002,Beltz #4 Deep,4/6/2012,12:18,,,48.570,0.000,48.570,59.340,60.080,10.770,49.310,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369683N1219712W002,Beltz #4 Deep,10/9/2012,11:49,,,52.480,0.000,52.480,59.340,60.080,6.860,53.220,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369698N1219563W001,SC-1A,10/17/2011,12:00,,,66.870,0.000,66.870,72.330,72.530,5.460,67.070,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369698N1219563W001,SC-1A,4/16/2012,12:00,,,66.100,0.000,66.100,72.330,72.530,6.230,66.300,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369698N1219563W001,SC-1A,10/5/2012,12:00,,,61.330,0.000,61.330,72.330,72.530,11.000,61.530,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369698N1219563W002,SC-1B,10/17/2011,12:00,,,58.610,0.000,58.610,72.330,72.530,13.720,58.810,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369698N1219563W002,SC-1B,4/16/2012,12:00,,,59.330,0.000,59.330,72.330,72.530,13.000,59.530,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369698N1219563W002,SC-1B,10/5/2012,12:00,,,62.390,0.000,62.390,72.330,72.530,9.940,62.590,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369701N1219065W001,SC-8A,10/18/2011,12:00,,,8.380,0.000,8.380,11.440,12.080,3.060,9.020,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369701N1219065W001,SC-8A,2/22/2012,12:00,,,2.780,0.000,2.780,11.440,12.080,8.660,3.420,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369701N1219065W001,SC-8A,10/5/2012,12:00,,,13.000,0.000,13.000,11.440,12.080,-1.560,13.640,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,"this well has had it's name changed to indicate that it is a replacement well (1995), nothing else has changed"
+369701N1219065W002,SC-8B,10/18/2011,12:00,,,25.470,0.000,25.470,11.440,12.080,-14.030,26.110,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369701N1219065W002,SC-8B,2/22/2012,12:00,,,17.400,0.000,17.400,11.440,12.080,-5.960,18.040,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369701N1219065W002,SC-8B,10/5/2012,12:00,,,25.480,0.000,25.480,11.440,12.080,-14.040,26.120,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,"this well has had it's name changed to indicate that it is a replacement well (1995), nothing else has changed"
+369701N1219065W003,SC-8C,10/18/2011,12:00,,,12.820,0.000,12.820,11.440,12.080,-1.380,13.460,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369701N1219065W003,SC-8C,2/22/2012,12:00,7 - Special/Other,,,,,11.440,12.080,,,,,Soquel Creek Water District,CASGEM,unable to sound; no March/April data collected
+369701N1219065W003,SC-8C,10/5/2012,12:00,7 - Special/Other,,,,,11.440,12.080,,,,,Soquel Creek Water District,CASGEM,"this well has had it's name changed to indicate that it is a replacement well (1995), nothing else has changed"
+369701N1219065W004,SC-8D,10/18/2011,12:00,,,10.370,0.000,10.370,11.440,12.080,1.070,11.010,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369701N1219065W004,SC-8D,2/22/2012,12:00,,,5.580,0.000,5.580,11.440,12.080,5.860,6.220,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369701N1219065W004,SC-8D,10/5/2012,12:00,,,10.500,0.000,10.500,11.440,12.080,0.940,11.140,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,"this well has had it's name changed to indicate that it is a replacement well (1995), nothing else has changed"
+369701N1219065W005,SC-8E,10/18/2011,12:00,,,0.500,0.000,0.500,11.440,12.080,10.940,1.140,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369701N1219065W005,SC-8E,2/22/2012,12:00,,,-2.390,0.000,-2.390,11.440,12.080,13.830,-1.750,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,artesian well - measured by column; no March/April data collected
+369701N1219065W005,SC-8E,10/16/2012,12:00,,,-0.940,0.000,-0.940,11.440,12.080,12.380,-0.300,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,"this well has had it's name changed to indicate that it is a replacement well (1995), nothing else has changed; measured via column"
+369703N1219064W001,SC-8F,10/18/2011,12:00,,,6.280,0.000,6.280,10.640,11.380,4.360,7.020,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369703N1219064W001,SC-8F,2/22/2012,12:00,,,5.600,0.000,5.600,10.640,11.380,5.040,6.340,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,last reading for this well; well scheduled for replacement
+369703N1219064W001,SC-8F,10/5/2012,12:00,6 - Well has been destroyed,,,,,10.640,11.380,,,,,Soquel Creek Water District,CASGEM,well destroyed
+369740N1219177W001,SC-9A,10/20/2011,12:00,,,11.370,0.000,11.370,13.490,14.230,2.120,12.110,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369740N1219177W001,SC-9A,2/23/2012,12:00,,,5.090,0.000,5.090,13.490,14.230,8.400,5.830,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,last reading for this well; well scheduled for replacement
+369740N1219177W001,SC-9A,10/5/2012,12:00,6 - Well has been destroyed,,,,,13.490,14.230,,,,,Soquel Creek Water District,CASGEM,well destroyed
+369740N1219177W002,SC-9B,10/20/2011,12:00,,,25.110,0.000,25.110,13.490,14.230,-11.620,25.850,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369740N1219177W002,SC-9B,2/23/2012,12:00,7 - Special/Other,,,,,13.490,14.230,,,,,Soquel Creek Water District,CASGEM,unable to sound; last reading for this well; well scheduled for replacement
+369740N1219177W002,SC-9B,10/5/2012,12:00,6 - Well has been destroyed,,,,,13.490,14.230,,,,,Soquel Creek Water District,CASGEM,well destroyed
+369740N1219177W003,SC-9C,10/20/2011,12:00,,,32.140,0.000,32.140,13.490,14.230,-18.650,32.880,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369740N1219177W003,SC-9C,2/23/2012,12:00,,,22.450,0.000,22.450,13.490,14.230,-8.960,23.190,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,last reading for this well; well scheduled for replacement
+369740N1219177W003,SC-9C,10/5/2012,12:00,6 - Well has been destroyed,,,,,13.490,14.230,,,,,Soquel Creek Water District,CASGEM,well destroyed
+369740N1219177W004,SC-9D,10/20/2011,12:00,,,-2.640,0.000,-2.640,13.490,14.230,16.130,-1.900,OTH - Other,0.1 Ft,Soquel Creek Water District,CASGEM,Artesian well; measured by column
+369740N1219177W004,SC-9D,2/23/2012,12:00,,,-5.870,0.000,-5.870,13.490,14.230,19.360,-5.130,OTH - Other,0.1 Ft,Soquel Creek Water District,CASGEM,artesian well - measured by column; last reading for this well; well scheduled for replacement
+369740N1219177W004,SC-9D,10/5/2012,12:00,6 - Well has been destroyed,,,,,13.490,14.230,,,,,Soquel Creek Water District,CASGEM,well destroyed
+369740N1219177W005,SC-9E,10/20/2011,12:00,,,1.610,0.000,1.610,13.490,14.230,11.880,2.350,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+369740N1219177W005,SC-9E,2/23/2012,12:00,,,1.150,0.000,1.150,13.490,14.230,12.340,1.890,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,last reading for this well; well scheduled for replacement
+369740N1219177W005,SC-9E,10/5/2012,12:00,6 - Well has been destroyed,,,,,13.490,14.230,,,,,Soquel Creek Water District,CASGEM,well destroyed
+369762N1219449W001,SC-3RA,10/18/2011,12:00,,,91.730,0.000,91.730,97.230,97.550,5.500,92.050,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369762N1219449W001,SC-3RA,4/16/2012,12:00,,,87.400,0.000,87.400,97.230,97.550,9.830,87.720,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369762N1219449W001,SC-3RA,10/4/2012,12:00,,,95.770,0.000,95.770,97.230,97.550,1.460,96.090,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369762N1219449W002,SC-3RB,10/18/2011,12:00,,,63.100,0.000,63.100,97.410,97.580,34.310,63.270,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369762N1219449W002,SC-3RB,4/16/2012,12:00,,,63.560,0.000,63.560,97.410,97.580,33.850,63.730,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369762N1219449W002,SC-3RB,10/4/2012,12:00,,,64.680,0.000,64.680,97.410,97.580,32.730,64.850,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369762N1219449W003,SC-3RC,10/18/2011,12:00,,,46.580,0.000,46.580,97.470,97.790,50.890,46.900,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369762N1219449W003,SC-3RC,4/16/2012,12:00,,,46.260,0.000,46.260,97.470,97.790,51.210,46.580,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369762N1219449W003,SC-3RC,10/4/2012,12:00,,,47.950,0.000,47.950,97.470,97.790,49.520,48.270,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369796N1219727W001,Coffee Lane Shallow,10/5/2011,10:35,,,31.980,0.000,31.980,79.960,80.310,47.980,32.330,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369796N1219727W001,Coffee Lane Shallow,4/6/2012,13:15,,,32.310,0.000,32.310,79.960,80.310,47.650,32.660,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369796N1219727W001,Coffee Lane Shallow,10/9/2012,14:36,,,33.180,0.000,33.180,79.960,80.310,46.780,33.530,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369796N1219727W002,Coffee Lane Deep,10/5/2011,10:35,,,31.780,0.000,31.780,79.970,80.310,48.190,32.120,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369796N1219727W002,Coffee Lane Deep,4/6/2012,13:15,,,32.130,0.000,32.130,79.970,80.310,47.840,32.470,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369796N1219727W002,Coffee Lane Deep,10/9/2012,14:36,,,32.980,0.000,32.980,79.970,80.310,46.990,33.320,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369797N1219309W001,SC-5A,10/21/2011,12:00,,,119.340,0.000,119.340,121.610,122.330,2.270,120.060,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369797N1219309W001,SC-5A,3/12/2012,12:00,,,113.940,0.000,113.940,121.610,122.330,7.670,114.660,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369797N1219309W001,SC-5A,10/18/2012,12:00,,,123.220,0.000,123.220,121.610,122.330,-1.610,123.940,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,"this well has had it's name changed to indicate that it is a replacement well (2002), nothing else has changed"
+369797N1219309W002,SC-5B,10/21/2011,12:00,,,116.540,0.000,116.540,121.610,122.290,5.070,117.220,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369797N1219309W002,SC-5B,3/12/2012,12:00,,,113.720,0.000,113.720,121.610,122.290,7.890,114.400,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369797N1219309W002,SC-5B,10/18/2012,12:00,,,118.750,0.000,118.750,121.610,122.290,2.860,119.430,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,"this well has had it's name changed to indicate that it is a replacement well (2002), nothing else has changed"
+369797N1219309W003,SC-5C,10/21/2011,12:00,,,79.380,0.000,79.380,121.610,122.300,42.230,80.070,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369797N1219309W003,SC-5C,3/12/2012,12:00,,,77.850,0.000,77.850,121.610,122.300,43.760,78.540,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369797N1219309W003,SC-5C,10/18/2012,12:00,,,77.160,0.000,77.160,121.610,122.300,44.450,77.850,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,"this well has had it's name changed to indicate that it is a replacement well (2002), nothing else has changed"
+369816N1219601W001,Auto Plaza Shallow,10/5/2011,10:25,,,74.890,0.000,74.890,88.280,88.600,13.390,75.210,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369816N1219601W001,Auto Plaza Shallow,4/6/2012,12:50,,,74.750,0.000,74.750,88.280,88.600,13.530,75.070,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369816N1219601W001,Auto Plaza Shallow,11/7/2012,14:12,,,74.760,0.000,74.760,88.280,88.600,13.520,75.080,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369816N1219601W002,Auto Plaza Medium,10/5/2011,10:25,,,72.470,0.000,72.470,88.270,88.600,15.800,72.800,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369816N1219601W002,Auto Plaza Medium,4/6/2012,12:50,,,71.940,0.000,71.940,88.270,88.600,16.330,72.270,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369816N1219601W002,Auto Plaza Medium,11/7/2012,14:12,,,72.510,0.000,72.510,88.270,88.600,15.760,72.840,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369816N1219601W003,Auto Plaza Deep,10/5/2011,10:25,,,71.580,0.000,71.580,88.270,88.600,16.690,71.910,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369816N1219601W003,Auto Plaza Deep,4/6/2012,12:50,,,71.090,0.000,71.090,88.270,88.600,17.180,71.420,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369816N1219601W003,Auto Plaza Deep,11/7/2012,14:12,,,70.090,0.000,70.090,88.270,88.600,18.180,70.420,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369833N1218749W001,SC-20A,10/7/2011,12:00,,,136.510,0.000,136.510,174.160,174.370,37.650,136.720,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369833N1218749W001,SC-20A,2/22/2012,12:00,,,134.990,0.000,134.990,174.160,174.370,39.170,135.200,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369833N1218749W001,SC-20A,10/9/2012,12:00,,,147.220,0.000,147.220,174.160,174.370,26.940,147.430,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369833N1218749W002,SC-20B,10/7/2011,12:00,,,141.770,0.000,141.770,174.020,174.290,32.250,142.040,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369833N1218749W002,SC-20B,2/22/2012,12:00,,,142.940,0.000,142.940,174.020,174.290,31.080,143.210,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369833N1218749W002,SC-20B,10/9/2012,12:00,,,143.680,0.000,143.680,174.020,174.290,30.340,143.950,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369833N1218749W003,SC-20C,10/7/2011,12:00,,,97.930,0.000,97.930,173.930,174.320,76.000,98.320,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,
+369833N1218749W003,SC-20C,2/22/2012,12:00,,,97.560,0.000,97.560,173.930,174.320,76.370,97.950,TR - Electronic pressure transducer,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369833N1218749W003,SC-20C,10/9/2012,12:00,,,97.910,0.000,97.910,173.930,174.320,76.020,98.300,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369840N1218769W001,SCC11S01E08CP,9/13/2011,12:00,,4 - Pumped recently,259.000,0.000,259.000,279.000,278.000,20.000,258.000,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,"Pump recently shut off, Measurements made by Santa cruz County Environmental Health Services staff"
+369840N1218769W001,SCC11S01E08CP,4/17/2012,12:00,0 - Measurement Discontinued,,,,,279.000,278.000,,,,,Central Water District,Voluntary,Well dropped from system
+369841N1219679W001,Cory Steet Shallow,10/5/2011,10:50,,,72.190,0.000,72.190,108.770,109.000,36.580,72.420,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369841N1219679W001,Cory Steet Shallow,4/6/2012,14:10,,,71.900,0.000,71.900,108.770,109.000,36.870,72.130,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369841N1219679W001,Cory Steet Shallow,10/9/2012,15:05,,,71.170,0.000,71.170,108.770,109.000,37.600,71.400,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369841N1219679W002,Cory Street Medium,10/5/2011,10:50,,,70.410,0.000,70.410,108.740,109.000,38.330,70.670,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369841N1219679W002,Cory Street Medium,4/6/2012,14:10,,,70.300,0.000,70.300,108.740,109.000,38.440,70.560,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369841N1219679W002,Cory Street Medium,10/9/2012,15:05,,,69.620,0.000,69.620,108.740,109.000,39.120,69.880,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369841N1219679W003,Cory Street Deep,10/5/2011,10:50,,,73.180,0.000,73.180,108.760,109.000,35.580,73.420,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369841N1219679W003,Cory Street Deep,4/6/2012,14:10,,,72.980,0.000,72.980,108.760,109.000,35.780,73.220,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369841N1219679W003,Cory Street Deep,10/9/2012,15:05,,,69.260,0.000,69.260,108.760,109.000,39.500,69.500,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369921N1219115W001,SC-19,10/7/2011,12:00,,,325.680,0.000,325.680,408.170,408.370,82.490,325.880,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+369921N1219115W001,SC-19,2/22/2012,12:00,,,313.750,0.000,313.750,408.170,408.370,94.420,313.950,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369921N1219115W001,SC-19,10/18/2012,12:00,,,321.540,0.000,321.540,408.170,408.370,86.630,321.740,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,no March/April data collected
+369966N1219758W001,Thurber Lane Shallow,10/5/2011,10:55,,,78.780,0.000,78.780,183.550,183.940,104.770,79.170,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369966N1219758W001,Thurber Lane Shallow,4/6/2012,14:36,,,78.320,0.000,78.320,183.550,183.940,105.230,78.710,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369966N1219758W001,Thurber Lane Shallow,10/9/2012,14:20,,,78.780,0.000,78.780,183.550,183.940,104.770,79.170,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369966N1219758W002,Thurber Lane Deep,10/5/2011,10:55,,,157.060,0.000,157.060,183.540,183.940,26.480,157.460,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,Voluntary,
+369966N1219758W002,Thurber Lane Deep,4/6/2012,14:36,,,153.950,0.000,153.950,183.540,183.940,29.590,154.350,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369966N1219758W002,Thurber Lane Deep,10/9/2012,14:20,,,155.030,0.000,155.030,183.540,183.940,28.510,155.430,ES - Electric sounder measurement,0.01 Ft,Santa Cruz Municipal Utilities,CASGEM,
+369974N1218645W001,SCC11S01E04EP,9/13/2011,12:00,,,210.400,0.000,210.400,387.000,387.000,176.600,210.400,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+369974N1218645W001,SCC11S01E04EP,4/17/2012,12:00,,,208.800,0.000,208.800,387.000,387.000,178.200,208.800,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+369974N1218645W001,SCC11S01E04EP,10/17/2012,12:00,,,210.600,0.000,210.600,387.000,387.000,176.400,210.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+369978N1218689W001,SCC11S01E04DP,9/13/2011,12:00,,,23.300,0.000,23.300,216.000,215.000,192.700,22.300,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+369978N1218689W001,SCC11S01E04DP,4/17/2012,12:00,,,23.300,0.000,23.300,216.000,215.000,192.700,22.300,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+369978N1218689W001,SCC11S01E04DP,10/17/2012,12:00,,,23.800,0.000,23.800,216.000,215.000,192.200,22.800,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+369991N1218638W001,SCC11S01E04FP,9/13/2011,12:00,,,78.100,0.000,78.100,303.000,302.000,224.900,77.100,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+369991N1218638W001,SCC11S01E04FP,4/17/2012,12:00,,,77.600,0.000,77.600,303.000,302.000,225.400,76.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+369991N1218638W001,SCC11S01E04FP,10/17/2012,12:00,,,78.400,0.000,78.400,303.000,302.000,224.600,77.400,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370054N1217465W001,SCC11S02E04AP,9/13/2011,12:00,,1 - Pumping,253.000,0.000,253.000,781.000,780.000,528.000,252.000,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,"Pump running, Measurements made by Santa cruz County Environmental Health Services staff"
+370054N1217465W001,SCC11S02E04AP,4/13/2012,12:00,,,135.700,0.000,135.700,781.000,780.000,645.300,134.700,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370054N1217465W001,SCC11S02E04AP,10/17/2012,12:00,,,145.200,0.000,145.200,781.000,780.000,635.800,144.200,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370061N1219374W001,SCC11S01W02AP,9/13/2011,12:00,,,131.300,0.000,131.300,172.000,170.000,40.700,129.300,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370061N1219374W001,SCC11S01W02AP,4/13/2012,12:00,,,129.600,0.000,129.600,172.000,170.000,42.400,127.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370061N1219374W001,SCC11S01W02AP,10/16/2012,12:00,,,133.600,0.000,133.600,172.000,170.000,38.400,131.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370078N1220134W001,SCC11S01W06CP,9/14/2011,12:00,,,268.000,0.000,268.000,472.000,471.000,204.000,267.000,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370078N1220134W001,SCC11S01W06CP,4/12/2012,12:00,,,259.600,0.000,259.600,472.000,471.000,212.400,258.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370078N1220134W001,SCC11S01W06CP,10/16/2012,12:00,,,267.800,0.000,267.800,472.000,471.000,204.200,266.800,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370090N1218853W001,SCC11S01E05AP,9/13/2011,12:00,,,144.400,0.000,144.400,445.000,445.000,300.600,144.400,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370090N1218853W001,SCC11S01E05AP,4/13/2012,12:00,,,143.000,0.000,143.000,445.000,445.000,302.000,143.000,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370090N1218853W001,SCC11S01E05AP,10/17/2012,12:00,,,144.100,0.000,144.100,445.000,445.000,300.900,144.100,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370102N1219499W001,SC-10AA,10/17/2011,12:00,,,14.180,0.000,14.180,86.250,86.520,72.070,14.450,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+370102N1219499W001,SC-10AA,3/12/2012,12:00,,,16.960,0.000,16.960,86.250,86.520,69.290,17.230,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+370102N1219499W001,SC-10AA,10/10/2012,12:00,,,16.290,0.000,16.290,86.250,86.520,69.960,16.560,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+370102N1219499W002,SC-10A,10/17/2011,12:00,,,18.740,0.000,18.740,86.250,86.520,67.510,19.010,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+370102N1219499W002,SC-10A,3/12/2012,12:00,,,8.950,0.000,8.950,86.250,86.520,77.300,9.220,"PG - Airline measurement, pressure gage, or manometer",0.1 Ft,Soquel Creek Water District,CASGEM,
+370102N1219499W002,SC-10A,10/10/2012,12:00,,,17.380,0.000,17.380,86.250,86.520,68.870,17.650,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+370123N1219247W001,SC-11A,10/7/2011,12:00,,,386.960,0.000,386.960,502.290,502.590,115.330,387.260,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+370123N1219247W001,SC-11A,2/22/2012,12:00,0 - Measurement Discontinued,,,,,502.290,502.590,,,,,Soquel Creek Water District,CASGEM,well  out of service
+370123N1219247W001,SC-11A,10/10/2012,12:00,0 - Measurement Discontinued,,,,,502.290,502.590,,,,,Soquel Creek Water District,CASGEM,well  out of service
+370123N1219247W002,SC-11B,10/7/2011,12:00,,,326.780,0.000,326.780,502.310,502.600,175.530,327.070,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+370123N1219247W002,SC-11B,2/22/2012,12:00,0 - Measurement Discontinued,,,,,502.310,502.600,,,,,Soquel Creek Water District,CASGEM,well  out of service
+370123N1219247W002,SC-11B,10/10/2012,12:00,0 - Measurement Discontinued,,,,,502.310,502.600,,,,,Soquel Creek Water District,CASGEM,well  out of service
+370123N1219247W003,SC-11C,10/7/2011,12:00,,,203.800,0.000,203.800,502.290,502.600,298.490,204.110,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+370123N1219247W003,SC-11C,2/22/2012,12:00,0 - Measurement Discontinued,,,,,502.290,502.600,,,,,Soquel Creek Water District,CASGEM,well  out of service
+370123N1219247W003,SC-11C,10/10/2012,12:00,0 - Measurement Discontinued,,,,,502.290,502.600,,,,,Soquel Creek Water District,CASGEM,well  out of service
+370123N1219247W004,SC-11D,10/7/2011,12:00,,,203.180,0.000,203.180,502.140,502.590,298.960,203.630,ES - Electric sounder measurement,0.1 Ft,Soquel Creek Water District,CASGEM,
+370123N1219247W004,SC-11D,2/22/2012,12:00,0 - Measurement Discontinued,,,,,502.140,502.590,,,,,Soquel Creek Water District,CASGEM,well  out of service
+370123N1219247W004,SC-11D,10/10/2012,12:00,0 - Measurement Discontinued,,,,,502.140,502.590,,,,,Soquel Creek Water District,CASGEM,well  out of service
+370153N1218907W001,SCC10S01E32AP,9/13/2011,12:00,,,87.200,0.000,87.200,684.000,683.000,596.800,86.200,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370153N1218907W001,SCC10S01E32AP,4/17/2012,12:00,,,87.600,0.000,87.600,684.000,683.000,596.400,86.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370153N1218907W001,SCC10S01E32AP,10/17/2012,12:00,,,88.600,0.000,88.600,684.000,683.000,595.400,87.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370192N1219517W001,SCC10S01W34CP,9/13/2011,12:00,,,42.300,0.000,42.300,131.000,131.000,88.700,42.300,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370192N1219517W001,SCC10S01W34CP,4/17/2012,12:00,,,29.800,0.000,29.800,131.000,131.000,101.200,29.800,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370192N1219517W001,SCC10S01W34CP,10/18/2012,12:00,,,40.000,0.000,40.000,131.000,131.000,91.000,40.000,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370244N1220037W001,SCC10S01W30AP,9/13/2011,12:00,,,349.200,0.000,349.200,695.000,695.000,345.800,349.200,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370244N1220037W001,SCC10S01W30AP,4/19/2012,12:00,,,347.500,0.000,347.500,695.000,695.000,347.500,347.500,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370244N1220037W001,SCC10S01W30AP,10/16/2012,12:00,,,347.800,0.000,347.800,695.000,695.000,347.200,347.800,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370266N1219495W001,SCC10S01W27AS,9/14/2011,12:00,,,87.600,0.000,87.600,199.000,198.000,111.400,86.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370266N1219495W001,SCC10S01W27AS,4/19/2012,12:00,,,79.900,0.000,79.900,199.000,198.000,119.100,78.900,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370266N1219495W001,SCC10S01W27AS,10/16/2012,12:00,,,88.400,0.000,88.400,199.000,198.000,110.600,87.400,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370467N1220194W001,AB303 MW-1,9/30/2011,12:00,9 - Temporarily inaccessible,,,,,561.700,561.700,,,,,Scotts Valley Water District,CASGEM,
+370467N1220194W001,AB303 MW-1,4/20/2012,12:00,7 - Special/Other,,,,,561.700,561.700,,,,,Scotts Valley Water District,CASGEM,
+370467N1220194W001,AB303 MW-1,10/30/2012,16:40,,,80.700,0.000,80.700,561.700,561.700,481.000,80.700,ES - Electric sounder measurement,0.1 Ft,Scotts Valley Water District,CASGEM,
+370494N1220381W001,AB303 MW-3A,9/30/2011,16:30,,,175.800,0.000,175.800,526.180,523.330,350.380,172.950,ES - Electric sounder measurement,0.1 Ft,Scotts Valley Water District,CASGEM,
+370494N1220381W001,AB303 MW-3A,4/16/2012,12:00,7 - Special/Other,,,,,526.180,523.330,,,,,Scotts Valley Water District,CASGEM,
+370494N1220381W001,AB303 MW-3A,10/25/2012,16:30,,,175.600,0.000,175.600,526.180,523.330,350.580,172.750,ES - Electric sounder measurement,0.1 Ft,Scotts Valley Water District,CASGEM,
+370494N1220381W002,AB303 MW-3B,9/30/2011,16:40,,,115.400,0.000,115.400,524.430,523.330,409.030,114.300,ES - Electric sounder measurement,0.1 Ft,Scotts Valley Water District,CASGEM,
+370494N1220381W002,AB303 MW-3B,4/17/2012,12:00,7 - Special/Other,,,,,524.430,523.330,,,,,Scotts Valley Water District,CASGEM,
+370494N1220381W002,AB303 MW-3B,10/25/2012,16:40,D - Dry well,,,,,524.430,523.330,,,,,Scotts Valley Water District,CASGEM,
+370536N1220097W001,SVWD #7,9/30/2011,12:00,9 - Temporarily inaccessible,,,,,568.050,561.700,,,,,Scotts Valley Water District,CASGEM,
+370536N1220097W001,SVWD #7,4/18/2012,12:00,7 - Special/Other,,,,,568.050,561.700,,,,,Scotts Valley Water District,CASGEM,
+370536N1220097W001,SVWD #7,9/20/2012,10:00,,,288.000,0.000,288.000,568.050,561.700,280.050,281.650,ES - Electric sounder measurement,0.1 Ft,Scotts Valley Water District,CASGEM,
+370538N1219516W001,SCC10S01W15AP,9/13/2011,12:00,,,34.100,0.000,34.100,423.000,423.000,388.900,34.100,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370538N1219516W001,SCC10S01W15AP,4/22/2012,12:00,,,35.800,0.000,35.800,423.000,423.000,387.200,35.800,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370538N1219516W001,SCC10S01W15AP,10/16/2012,12:00,,,38.200,0.000,38.200,423.000,423.000,384.800,38.200,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370557N1219725W001,SCC10S01W16AP,9/14/2011,12:00,,,67.100,0.000,67.100,412.000,410.000,344.900,65.100,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370557N1219725W001,SCC10S01W16AP,4/13/2012,12:00,,,67.200,0.000,67.200,412.000,410.000,344.800,65.200,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370557N1219725W001,SCC10S01W16AP,10/16/2012,12:00,,,67.100,0.000,67.100,412.000,410.000,344.900,65.100,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370578N1219403W001,SCC10S01W14BP,10/17/2011,12:00,,,55.400,0.000,55.400,326.000,325.000,270.600,54.400,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,Measurements made by Santa cruz County Environmental Health Services staff
+370578N1219403W001,SCC10S01W14BP,4/17/2012,12:00,,,67.100,0.000,67.100,326.000,325.000,258.900,66.100,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370578N1219403W001,SCC10S01W14BP,10/18/2012,12:00,,,50.600,0.000,50.600,326.000,325.000,275.400,49.600,AS - Acoustic or sonic sounder,1 Ft,Central Water District,Voluntary,
+370687N1220050W001,SVWD TW-19,10/19/2011,16:00,,,324.000,0.000,324.000,659.610,658.490,335.610,322.880,ES - Electric sounder measurement,0.1 Ft,Scotts Valley Water District,CASGEM,
+370687N1220050W001,SVWD TW-19,4/15/2012,12:00,7 - Special/Other,,,,,659.610,658.490,,,,,Scotts Valley Water District,CASGEM,
+370687N1220050W001,SVWD TW-19,11/8/2012,12:31,,,320.550,0.000,320.550,659.610,658.490,339.060,319.430,ES - Electric sounder measurement,0.1 Ft,Scotts Valley Water District,CASGEM,
+370731N1220044W001,SVWD TW-18,10/19/2011,16:15,,,246.600,0.000,246.600,715.030,712.530,468.430,244.100,ES - Electric sounder measurement,0.1 Ft,Scotts Valley Water District,CASGEM,
+370731N1220044W001,SVWD TW-18,4/19/2012,12:00,7 - Special/Other,,,,,715.030,712.530,,,,,Scotts Valley Water District,CASGEM,
+370731N1220044W001,SVWD TW-18,11/8/2012,13:27,,,245.950,0.000,245.950,715.030,712.530,469.080,243.450,ES - Electric sounder measurement,0.1 Ft,Scotts Valley Water District,CASGEM,
