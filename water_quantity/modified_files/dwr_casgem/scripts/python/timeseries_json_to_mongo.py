@@ -4,6 +4,7 @@ import sys, os, simplejson, pymongo
 # Create list of files.
 file_list = []
 
+# Connect to mongodb
 conn = pymongo.Connection("localhost",27017)
 
 # Set path to list of files.
@@ -16,26 +17,24 @@ for file in [doc for doc in os.listdir(path)
 if doc.endswith(".json")]:
     file_list.append(file)
     
-    
-    # Read file list.
+# Read file list.
 for i in file_list:
 
     print "Processing file: " + path + i
 
+    # Connect to mongo database
     db = conn.watertable
+    # Connect to collection
     c = db.database
+    # Open geoJSON file
     o = open(path + "/" + i)
-#    contents = o.read()
+    # Read into memory
     s = simplejson.load(o)
-    o.close()
-    #clean = contents.replace('\n', '')
+    o.close()  
 
-  
-
-    print "Loading" + " into MongoDB"
+    # Read the features part of the geoJSON document and insert into mongoDB.
     for x in s['features']:
         c.insert(x)
 
 print "Done."
-
 sys.exit()
