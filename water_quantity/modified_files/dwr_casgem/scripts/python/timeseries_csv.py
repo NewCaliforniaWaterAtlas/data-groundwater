@@ -92,6 +92,11 @@ def cleanupRow(row):
 # Count total records.
 totalcount = 0
 
+# Add cleaned up column headers.
+header = "filename,county,latitude,longitude,well,filetime,casgem_id,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_ap,reading_ws,rp_to_ws,rp_elecation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting,comments,month,day,year"
+
+fout.write(header + '\n')
+
 # Read file list.
 for i in file_list:
 
@@ -153,12 +158,6 @@ for i in file_list:
                 if rowcount != 0:
                     fout.write(row_dated)
 
-            # Add cleaned up column headers.
-            else:
-                row = "filename,county,latitude,longitude,well,filetime,casgem_id,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_ap,reading_ws,rp_to_ws,rp_elecation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting,comments,month,day,year"
-
-                fout.write(row + '\n')
-
             rowcount = rowcount + 1
             totalcount = totalcount + 1
         filecount = filecount + 1
@@ -166,4 +165,8 @@ for i in file_list:
 fout.truncate()
 fout.close()
 print "Done. Processed " + str(totalcount) + " records."
+
+#Convert to geoJSON
+# csvjson --lat latitude --lon longitude --k well --crs EPSG:4269 -i 4 ../../database/casgem_timeseries.csv > ../../database/casgem_timeseries.json
+
 sys.exit()
