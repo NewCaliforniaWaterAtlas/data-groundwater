@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import sys, os, datetime
+import sys, os, datetime, time
 
 # Create list of files.
 file_list = []
@@ -42,12 +42,15 @@ def cleanupRow(row):
     
         # Create empty values for month, day, year
         date_csv = ",,"
+        date_bson = ""
     
         # Split the / separated date and convert into comma-separated string.
         if(row_list[8] != '' and row_list[8] != "Date"):
             date = row_list[8].strip()
             date_list = date.split("/")
             date_csv = ",".join(date_list)
+#            s = datetime.datetime.strptime(date, '%m/%d/%Y')
+#            date_bson = s.strftime(time.mktime(s))
     
         # Error checking for null and empty values. Convert to empty string or NULL value.
         if(row_list[10] == ''):
@@ -82,6 +85,9 @@ def cleanupRow(row):
     
         # Append date.
         row = row + date_csv
+        
+        # Append timestamped date for MongoDB
+        row = row + date_bson
     
         return row
     
@@ -93,7 +99,7 @@ def cleanupRow(row):
 totalcount = 0
 
 # Add cleaned up column headers.
-header = "filename,county,latitude,longitude,well,filetime,casgem_id,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_ap,reading_ws,rp_to_ws,rp_elecation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting,comments,month,day,year"
+header = "filename,county,latitude,longitude,well,filetime,casgem_id,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_ap,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting,comments,month,day,year"
 
 fout.write(header + '\n')
 

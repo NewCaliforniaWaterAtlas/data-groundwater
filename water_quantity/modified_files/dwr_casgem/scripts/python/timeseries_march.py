@@ -166,7 +166,7 @@ for i in file_list:
 
             # Add cleaned up column headers.
             else:
-                row = "filename,county,latitude,longitude,well,filetime,casgem_id,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_ap,reading_ws,rp_to_ws,rp_elecation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting,comments,day,month,year"
+                row = "filename,county,latitude,longitude,well,filetime,casgem_id,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_ap,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting,comments,day,month,year"
 
                 fout.write(row + '\n')
 
