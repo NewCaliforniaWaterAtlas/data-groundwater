@@ -72,3 +72,7 @@ sys.exit()
 
 # Dump mongo database
 # mongodump --collection database --db watertable --dbpath ~/htdocs/nwca_dropbox/Dropbox/data/data-water-table/mongodb
+
+# db.database.ensureIndex({'geometry.coordinates': '2d'});
+# db.database.ensureIndex({'properties.isodate': 1})
+# db.database.ensureIndex({'properties.county': 1})

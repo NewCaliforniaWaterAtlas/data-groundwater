@@ -134,8 +134,17 @@ for i in file_list:
 
                 filename = str(i)
 
-                county = i.split("_", 1)[0]
+                countyArray = i.split("_", 2)
+                
+                if(len(countyArray) > 2) :
+                  county = countyArray[0] + " " + countyArray[1]
+                elif(len(countyArray) > 3) :
+                  county = countyArray[0] + " " + countyArray[1] + " " + countyArray[2]
+                else:
+                  county = countyArray[0]
     
+    
+                print county
                 # Parse latitude and longitude
                 # 397135N1219039W001
                 location = row.split(",")[0]
@@ -172,7 +181,8 @@ fout.truncate()
 fout.close()
 print "Done. Processed " + str(totalcount) + " records."
 
-#Convert to geoJSON
+# Then run this
+# Convert to geoJSON
 # csvjson --lat latitude --lon longitude --k well --crs EPSG:4269 -i 4 ../../database/casgem_timeseries.csv > ../../database/casgem_timeseries.json
 
 sys.exit()

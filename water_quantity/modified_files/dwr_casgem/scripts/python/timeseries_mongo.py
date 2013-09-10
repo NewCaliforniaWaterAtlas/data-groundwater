@@ -96,7 +96,7 @@ totalcount = 0
 for i in file_list:
 
 # Add cleaned up column headers.
-    header = "filename,county,latitude,longitude,well,filetime,casgem_id,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_ap,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting,comments,month,day,year"
+    header = "filename,county,latitude,longitude,well,filetime,casgem_id,local_well_number,date,military_time_pst,no_measurement,questionable_measurement,reading_rp,reading_ws,rp_to_ws,rp_elevation,gs_elevation,wse,gs_to_ws,measurement_method,measurement_accuracy,collecting,comments,month,day,year"
 
     # Open file we will write to, replace it with new data.
 
@@ -139,7 +139,14 @@ for i in file_list:
 
                 filename = str(i)
 
-                county = i.split("_", 1)[0]
+                countyArray = i.split("_", 2)
+                
+                if(len(countyArray) > 2) :
+                  county = countyArray[0] + " " + countyArray[1]
+                elif(len(countyArray) > 3) :
+                  county = countyArray[0] + " " + countyArray[1] + " " + countyArray[2]
+                else:
+                  county = countyArray[0]
     
                 # Parse latitude and longitude
                 # 397135N1219039W001
@@ -183,8 +190,5 @@ for i in file_list:
     output_file.close()
 
 print "Done. Processed " + str(totalcount) + " records."
-
-#Convert to geoJSON
-# csvjson --lat latitude --lon longitude --k well --crs EPSG:4269 -i 4 ../../database/casgem_timeseries.csv > ../../database/casgem_timeseries.json
 
 sys.exit()
