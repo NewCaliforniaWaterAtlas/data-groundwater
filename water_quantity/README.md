@@ -40,6 +40,62 @@ To update the data:
 5. Update git log.
 6. @TODO Need a new import script to account for updates & missing county information.
 
+### Loading Timeseries data into Mongo
+
+1. Download files to the correct folder. 
+  * "/timeseries" for data for counties saved with proper naming convention
+  * "/updates" for data from all counties
+2. To create mongo database from timeseries data, run 
+```
+./water_quantity/modified_files/dwr_casgem/scripts/python/./timeseries_csv.py
+```
+3. This will create a new CSV file of ALL of the timeseries data to ../database/casgem_timeseries.csv
+4. You will need the csvjson converter: http://csvkit.readthedocs.org/en/latest/scripts/csvjson.html
+5. In terminal, convert this file to geoJSON:
+```
+csvjson --lat latitude --lon longitude --k well --crs EPSG:4269 -i 4 ../../database/casgem_timeseries.csv > ../../database/casgem_timeseries.json
+```
+6. Drop the existing collection. Run mongod, run mongo. use watertable; db.database.drop();
+7. Import geoJSON formatted data to Mongo
+```
+./water_quantity/modified_files/dwr_casgem/timeseries_js_to_mongo.py
+```
+
+8. Create a dump of the mongo database
+```
+mongodump --collection database --db watertable --dbpath ~/htdocs/nwca_dropbox/Dropbox/data/data-water-table/mongodb
+```
+9. Create indexes
+```
+db.database.ensureIndex({'geometry.coordinates': '2d'});
+db.database.ensureIndex({'properties.isodate': 1})
+db.database.ensureIndex({'properties.county': 1})
+```
+10. Copy mongodump to Dropbox
+/Dropbox/data/data-water-table/mongodb/dump
+Dropbox link: https://www.dropbox.com/sh/2drursxcmr01nkd/4tnSUMxIi0
+11. Push to openshift server.
+Need keys and credentials in order to do this, exmaple is for syntax purposes
+12. Copy mongodump to server using secure copy:
+scp -r watertable 521fe2dbe0xxxxxxxxxx@watertable-watertransfer.rhcloud.com:/var/lib/openshift/521fe2dbe0b8cdd7fb0001f2/app-root/data/dumps 
+13. ssh into server: ssh 521fe2dbe0xxxxxxxxxx@watertable-watertransfer.rhcloud.com
+14. 
+```mongorestore -d watertable app-root/data/dumps/watertable 
+```
+or this @TODO test
+```
+mongorestore -h521fe390exxxxx-watertransfer.rhcloud.com:51xxx -uadmin -p xxxxxxxxxxxx -d watertable app-root/data/dumps/watertable
+```
+15. Tip: get openshift environment variables, get your ssh stuff by logging into openshift
+```
+ssh 521fe2dbe0xxxxxxxxxx@watertable-watertransfer.rhcloud.com
+env |grep OPENSHIFT_MONGODB
+```
+
+@TODO test this
+./water_quantity/modified_files/dwr_casgem/timeseries_js_to_mongo.py -- this script seems to deal with individual json files -- which might actually be the better way to do this because something in the process might hang… I forget though -- chach
+
+
 
 
 ### Notes
