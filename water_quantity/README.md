@@ -1,6 +1,4 @@
---------------------------------------------------------------------------------
 # Water Quantity Data
---------------------------------------------------------------------------------
 
 @TODO Change name of this folder? Move to own repository?
 
@@ -19,13 +17,14 @@ Team: New California Water Atlas @CAWaterAtlas, @chachasikes, @videmsky
 ## Timeseries
 Getting Timeseries data for groundwater elevation
 
-1.CASGEM: http://www.casgem.water.ca.gov
-2.Login, create account
-3.Go to Reports
-4.Select time range
-5.Filter by county: All counties
-6.Get results > Export to CSV
-7.Download.
+
+1. CASGEM: http://www.casgem.water.ca.gov
+2. Login, create account
+3. Go to Reports
+4. Select time range
+5. Filter by county: All counties
+6. Get results > Export to CSV
+7. Download.
 
 ### Timeseries Updates
 Going forward, we can export several months at a time and add it to the folder of timeseries data.
@@ -33,12 +32,13 @@ Going forward, we can export several months at a time and add it to the folder o
 
 To update the data:
 
-1.Select date range of the day after the last import to the current day.
-2.Get results.
-3.Download to CSV. Save to original_files/dwr_casgem/updates
-4.Naming convention: All_Counties_M.D.YYYY-M.D.YYYY.csv  (for the date range)
-5.Update git log.
-6.@TODO Need a new import script to account for updates & missing county information.
+
+1. Select date range of the day after the last import to the current day.
+2. Get results.
+3. Download to CSV. Save to original_files/dwr_casgem/updates
+4. Naming convention: All_Counties_M.D.YYYY-M.D.YYYY.csv  (for the date range)
+5. Update git log.
+6. @TODO Need a new import script to account for updates & missing county information.
 
 
 
