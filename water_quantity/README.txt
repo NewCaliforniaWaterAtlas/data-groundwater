@@ -21,7 +21,8 @@
 * ArcGIS endpoint
 * Run python script ./modified_files/dwr_casgem/scripts/python/wells_casgem_arcgis
 * This downloads JSON data from ArcGIS endpoint.
-* Check that results are not maxing out at 1000 - if they are, the script my need to be adjusted to get smaller units. Certain counties have a lot of well readings (Ex. Fresno), so the results are limited to voluntary collected data, by collecting agencies. To obtain a list of all collecting agencies, use the timeseries data to get a distinct list of counties. We did this with mongodb. 
+* Check that results are not maxing out at 1000 - if they are, the script my need to be adjusted to get smaller units. Certain counties have a lot of well readings (Ex. Fresno), so the results are limited to voluntary collected data, by collecting agencies. To obtain a list of all collecting agencies, use the timeseries data to get a distinct list of counties. We did this with mongodb.
+* Shorted facets that contain ampersand to just the first word. ArcGIS does a LIKE search for the district, so right now it doesn't matter. Changing '&' to a properly escaped character might also work, but need to see what ArcGIS accepts.
 * Rebuild mongo collection of wells: ./modified_files/dwr_casgem/scripts/python/wells_json_to_mongo.py
 
 > db.database.distinct('properties.collecting', {'properties.county':'Fresno'});
