@@ -1,0 +1,418 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 175, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S09E09P001M", 
+        "CASGEM_WELL_ID" : "2104", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376841N1209854W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6841", 
+        "LONGITUDE" : "-120.9854", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13468033.1214, 
+        "y" : 4534895.3536
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 375, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "04S09E05P001M", 
+        "CASGEM_WELL_ID" : "2323", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376113N1210024W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6113", 
+        "LONGITUDE" : "-121.0024", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13469925.5528, 
+        "y" : 4524660.1296
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 377, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "04S09E06R001M", 
+        "CASGEM_WELL_ID" : "2325", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376118N1210118W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6118", 
+        "LONGITUDE" : "-121.0118", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13470971.956, 
+        "y" : 4524730.3923
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 687, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S09E21P001M", 
+        "CASGEM_WELL_ID" : "2669", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376552N1209868W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6552", 
+        "LONGITUDE" : "-120.9868", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13468188.9687, 
+        "y" : 4530830.9937
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 1144, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S09E29L001M", 
+        "CASGEM_WELL_ID" : "3173", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376457N1210060W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6457", 
+        "LONGITUDE" : "-121.006", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13470326.3029, 
+        "y" : 4529495.3039
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 1147, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S09E31F001M", 
+        "CASGEM_WELL_ID" : "3178", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376321N1210238W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6321", 
+        "LONGITUDE" : "-121.0238", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13472307.7899, 
+        "y" : 4527583.4559
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 23668, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S09E19J001M", 
+        "CASGEM_WELL_ID" : "26179", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376582N1210141W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6582", 
+        "LONGITUDE" : "-121.0141", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13471227.9908, 
+        "y" : 4531252.8259
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 24131, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S09E32F001M", 
+        "CASGEM_WELL_ID" : "26695", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376316N1210043W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6316", 
+        "LONGITUDE" : "-121.0043", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13470137.0598, 
+        "y" : 4527513.174
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 24208, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "04S09E06K001M", 
+        "CASGEM_WELL_ID" : "26786", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376163N1210188W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6163", 
+        "LONGITUDE" : "-121.0188", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13471751.1924, 
+        "y" : 4525362.7776
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 24209, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "04S09E09K001M", 
+        "CASGEM_WELL_ID" : "26787", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376013N1209838W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.6013", 
+        "LONGITUDE" : "-120.9838", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13467855.0102, 
+        "y" : 4523254.9753
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 24210, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : "19", 
+        "SWN" : "04S09E09Q001M", 
+        "CASGEM_WELL_ID" : "26788", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375985N1209841W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5985", 
+        "LONGITUDE" : "-120.9841", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13467888.4061, 
+        "y" : 4522861.5659
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Modesto", 
+        "OBJECTID" : 24024, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1147", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S09E16K001M", 
+        "CASGEM_WELL_ID" : "26573", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/19/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376738N1209846W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6738", 
+        "LONGITUDE" : "-120.9846", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13467944.0658, 
+        "y" : 4533446.6286
+      }
+    }
+  ]
+}

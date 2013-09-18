@@ -1,0 +1,11 @@
+
+{
+  "error" : 
+  {
+    "code" : 400, 
+    "message" : "", 
+    "details" : [
+      "Unable to perform query. Please check your parameters."
+    ]
+  }
+}

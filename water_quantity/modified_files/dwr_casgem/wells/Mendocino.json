@@ -1,0 +1,2018 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 8558, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N16W03C080M", 
+        "CASGEM_WELL_ID" : "10709", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388519N1236368W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "38.8519", 
+        "LONGITUDE" : "-123.6368", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13763185.6193, 
+        "y" : 4700479.666
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 12591, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14N16W32P080M", 
+        "CASGEM_WELL_ID" : "14858", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "390282N1236615W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.0282", 
+        "LONGITUDE" : "-123.6615", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13765935.2107, 
+        "y" : 4725711.786
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11125, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N16W34K080M", 
+        "CASGEM_WELL_ID" : "13331", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388592N1236187W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "38.8592", 
+        "LONGITUDE" : "-123.6187", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13761170.7365, 
+        "y" : 4701523.2012
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10978, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N11W02F001M", 
+        "CASGEM_WELL_ID" : "13179", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "72", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "3357", 
+        "CASGEM_STATION_ID" : "389252N1230569W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "38.9252", 
+        "LONGITUDE" : "-123.0569", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13698631.4466, 
+        "y" : 4710962.7709
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 15848, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16N17W27F001M", 
+        "CASGEM_WELL_ID" : "18172", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "392225N1237457W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.2225", 
+        "LONGITUDE" : "-123.7457", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13775308.3119, 
+        "y" : 4753593.0866
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14746, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18N17W29A001M", 
+        "CASGEM_WELL_ID" : "17055", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "60", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393969N1237729W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.3969", 
+        "LONGITUDE" : "-123.7729", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13778336.202, 
+        "y" : 4778684.6072
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14747, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18N18W25R080M", 
+        "CASGEM_WELL_ID" : "17056", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393884N1238101W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.3884", 
+        "LONGITUDE" : "-123.8101", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13782477.2871, 
+        "y" : 4777460.2318
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14802, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N11W18J001M", 
+        "CASGEM_WELL_ID" : "17112", 
+        "GW_BASIN_NAME" : "Potter Valley", 
+        "GW_BASIN_CODE" : "1-51", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "36", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393287N1231158W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3287", 
+        "LONGITUDE" : "-123.1158", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13705188.1646, 
+        "y" : 4768864.9935
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14803, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N11W18J002M", 
+        "CASGEM_WELL_ID" : "17113", 
+        "GW_BASIN_NAME" : "Potter Valley", 
+        "GW_BASIN_CODE" : "1-51", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393288N1231165W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3288", 
+        "LONGITUDE" : "-123.1165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13705266.0883, 
+        "y" : 4768879.3847
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14804, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N11W32J001M", 
+        "CASGEM_WELL_ID" : "17114", 
+        "GW_BASIN_NAME" : "Potter Valley", 
+        "GW_BASIN_CODE" : "1-51", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "11", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "392842N1230950W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.2842", 
+        "LONGITUDE" : "-123.095", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13702872.7192, 
+        "y" : 4762462.93
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14805, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N12W28M001M", 
+        "CASGEM_WELL_ID" : "17115", 
+        "GW_BASIN_NAME" : "Ukiah Valley", 
+        "GW_BASIN_CODE" : "1-52", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "32", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "392962N1232047W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.2962", 
+        "LONGITUDE" : "-123.2047", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13715084.4673, 
+        "y" : 4764188.9284
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 15704, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15N12W34Q001M", 
+        "CASGEM_WELL_ID" : "18026", 
+        "GW_BASIN_NAME" : "Ukiah Valley", 
+        "GW_BASIN_CODE" : "1-52", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "112", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "74481", 
+        "CASGEM_STATION_ID" : "391096N1231677W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.1096", 
+        "LONGITUDE" : "-123.1677", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13710965.6462, 
+        "y" : 4737383.0136
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 15712, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15N17W15L080M", 
+        "CASGEM_WELL_ID" : "18034", 
+        "GW_BASIN_NAME" : "Fort Bragg Terrace Area", 
+        "GW_BASIN_CODE" : "1-21", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391613N1237347W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.1613", 
+        "LONGITUDE" : "-123.7347", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13774083.7975, 
+        "y" : 4744802.8205
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 15328, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N17W30C081M", 
+        "CASGEM_WELL_ID" : "17645", 
+        "GW_BASIN_NAME" : "Fort Bragg Terrace Area", 
+        "GW_BASIN_CODE" : "1-21", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "128", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393124N1238006W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3124", 
+        "LONGITUDE" : "-123.8006", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13781419.7519, 
+        "y" : 4766519.4955
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 13118, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N16W28J080M", 
+        "CASGEM_WELL_ID" : "15401", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389598N1236329W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "38.9598", 
+        "LONGITUDE" : "-123.6329", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13762751.4733, 
+        "y" : 4715914.9022
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 13121, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N17W25H001M", 
+        "CASGEM_WELL_ID" : "15404", 
+        "GW_BASIN_NAME" : "Fort Bragg Terrace Area", 
+        "GW_BASIN_CODE" : "1-21", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389659N1236864W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9659", 
+        "LONGITUDE" : "-123.6864", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13768707.0661, 
+        "y" : 4716788.2166
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19960, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N12W17Q001M", 
+        "CASGEM_WELL_ID" : "22358", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397616N1232146W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7616", 
+        "LONGITUDE" : "-123.2146", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13716186.5303, 
+        "y" : 4831358.8783
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19959, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N12W06Q001M", 
+        "CASGEM_WELL_ID" : "22357", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "660", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "USBR ELOG", 
+        "CASGEM_STATION_ID" : "397902N1232386W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7902", 
+        "LONGITUDE" : "-123.2386", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13718858.1981, 
+        "y" : 4835501.3887
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "US Geological Survey", 
+        "OBJECTID" : 19963, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "783", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N12W31N001M", 
+        "CASGEM_WELL_ID" : "22361", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398059N1232464W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8059", 
+        "LONGITUDE" : "-123.2464", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13719726.4901, 
+        "y" : 4837776.1563
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "US Geological Survey", 
+        "OBJECTID" : 19964, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "783", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13W36Q001M", 
+        "CASGEM_WELL_ID" : "22362", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398027N1232566W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8027", 
+        "LONGITUDE" : "-123.2566", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13720861.9489, 
+        "y" : 4837312.4672
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19650, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18N13W08L001M", 
+        "CASGEM_WELL_ID" : "22041", 
+        "GW_BASIN_NAME" : "Little Lake Valley", 
+        "GW_BASIN_CODE" : "1-13", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "19", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "394243N1233270W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.4243", 
+        "LONGITUDE" : "-123.327", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13728698.8411, 
+        "y" : 4782632.4333
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19651, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18N13W17J001M", 
+        "CASGEM_WELL_ID" : "22042", 
+        "GW_BASIN_NAME" : "Little Lake Valley", 
+        "GW_BASIN_CODE" : "1-13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "USGS", 
+        "CASGEM_STATION_ID" : "394104N1233159W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.4104", 
+        "LONGITUDE" : "-123.3159", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13727463.1947, 
+        "y" : 4780629.5101
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19652, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18N13W18E001M", 
+        "CASGEM_WELL_ID" : "22043", 
+        "GW_BASIN_NAME" : "Little Lake Valley", 
+        "GW_BASIN_CODE" : "1-13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "493", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "DWR", 
+        "CASGEM_STATION_ID" : "394164N1233489W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.4164", 
+        "LONGITUDE" : "-123.3489", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13731136.7379, 
+        "y" : 4781494.0323
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19653, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18N13W18L001M", 
+        "CASGEM_WELL_ID" : "22044", 
+        "GW_BASIN_NAME" : "Little Lake Valley", 
+        "GW_BASIN_CODE" : "1-13", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "91", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "394120N1233456W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.412", 
+        "LONGITUDE" : "-123.3456", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13730769.3836, 
+        "y" : 4780860.0421
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19654, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18N13W20H004M", 
+        "CASGEM_WELL_ID" : "22045", 
+        "GW_BASIN_NAME" : "Little Lake Valley", 
+        "GW_BASIN_CODE" : "1-13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "26", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "394022N1233214W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.4022", 
+        "LONGITUDE" : "-123.3214", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13728075.4519, 
+        "y" : 4779448.1168
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19655, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19N13W32F001M", 
+        "CASGEM_WELL_ID" : "22046", 
+        "GW_BASIN_NAME" : "Little Lake Valley", 
+        "GW_BASIN_CODE" : "1-13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "138", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "80088", 
+        "CASGEM_STATION_ID" : "394573N1233285W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.4573", 
+        "LONGITUDE" : "-123.3285", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13728865.8203, 
+        "y" : 4787389.1753
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19657, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21N14W30M001M", 
+        "CASGEM_WELL_ID" : "22048", 
+        "GW_BASIN_NAME" : "Laytonville Valley", 
+        "GW_BASIN_CODE" : "1-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "23", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "DWR", 
+        "CASGEM_STATION_ID" : "396458N1234714W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.6458", 
+        "LONGITUDE" : "-123.4714", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13744773.3755, 
+        "y" : 4814603.6133
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19656, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19N13W32L002M", 
+        "CASGEM_WELL_ID" : "22047", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "44", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "DWR", 
+        "CASGEM_STATION_ID" : "394567N1233257W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.4567", 
+        "LONGITUDE" : "-123.3257", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13728554.1257, 
+        "y" : 4787302.6689
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 28625, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N15W15E080M", 
+        "CASGEM_WELL_ID" : "31442", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388040N1235321W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "38.804", 
+        "LONGITUDE" : "-123.5321", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13751530.4686, 
+        "y" : 4693635.0145
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30991, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16N12W16N002M", 
+        "CASGEM_WELL_ID" : "33876", 
+        "GW_BASIN_NAME" : "Ukiah Valley", 
+        "GW_BASIN_CODE" : "1-52", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "274", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "15976", 
+        "CASGEM_STATION_ID" : "392358N1232020W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.2358", 
+        "LONGITUDE" : "-123.202", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13714783.9047, 
+        "y" : 4755504.4029
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21514, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "SV-3", 
+        "SWN" : "13N12W24R001M", 
+        "CASGEM_WELL_ID" : "23985", 
+        "GW_BASIN_NAME" : "Sanel Valley", 
+        "GW_BASIN_CODE" : "1-53", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "78", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/25/2013", 
+        "COMPLETION_RPT_NBR" : "791828", 
+        "CASGEM_STATION_ID" : "389661N1231206W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9661", 
+        "LONGITUDE" : "-123.1206", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13705722.4982, 
+        "y" : 4716816.8511
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30265, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14N16W31D080M", 
+        "CASGEM_WELL_ID" : "33123", 
+        "GW_BASIN_NAME" : "Fort Bragg Terrace Area", 
+        "GW_BASIN_CODE" : "1-21", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "390388N1236843W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0388", 
+        "LONGITUDE" : "-123.6843", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13768473.2951, 
+        "y" : 4727230.8645
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29978, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14N12W26F002M", 
+        "CASGEM_WELL_ID" : "32828", 
+        "GW_BASIN_NAME" : "Ukiah Valley", 
+        "GW_BASIN_CODE" : "1-52", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "59199", 
+        "CASGEM_STATION_ID" : "390466N1231507W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0466", 
+        "LONGITUDE" : "-123.1507", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13709073.2148, 
+        "y" : 4728348.8226
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29151, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N11W18E001M", 
+        "CASGEM_WELL_ID" : "31982", 
+        "GW_BASIN_NAME" : "Sanel Valley", 
+        "GW_BASIN_CODE" : "1-53", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "52", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389882N1231186W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9882", 
+        "LONGITUDE" : "-123.1186", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13705499.8592, 
+        "y" : 4719981.4647
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29157, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N17W34D001M", 
+        "CASGEM_WELL_ID" : "31988", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389536N1237385W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "38.9536", 
+        "LONGITUDE" : "-123.7385", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13774506.8115, 
+        "y" : 4715027.3484
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34193, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21N15W24A001M", 
+        "CASGEM_WELL_ID" : "37150", 
+        "GW_BASIN_NAME" : "Laytonville Valley", 
+        "GW_BASIN_CODE" : "1-12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "22", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "396670N1234745W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.667", 
+        "LONGITUDE" : "-123.4745", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13745118.466, 
+        "y" : 4817668.9698
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34229, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N12W06L003M", 
+        "CASGEM_WELL_ID" : "37187", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "660", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "USBR", 
+        "CASGEM_STATION_ID" : "397941N1232377W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7941", 
+        "LONGITUDE" : "-123.2377", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13718758.0105, 
+        "y" : 4836066.4099
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32670, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19N17W16F004M", 
+        "CASGEM_WELL_ID" : "35589", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "395111N1237623W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.5111", 
+        "LONGITUDE" : "-123.7623", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13777156.2154, 
+        "y" : 4795148.9439
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33120, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14N12W05K001M", 
+        "CASGEM_WELL_ID" : "36047", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "94", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "37", 
+        "CASGEM_STATION_ID" : "391017N1232036W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.1017", 
+        "LONGITUDE" : "-123.2036", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13714962.0159, 
+        "y" : 4736249.7122
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32336, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15N17W13N080M", 
+        "CASGEM_WELL_ID" : "35249", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391581N1237021W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.1581", 
+        "LONGITUDE" : "-123.7021", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13770454.7821, 
+        "y" : 4744343.4093
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23266, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AV-3A", 
+        "SWN" : "14N14W34R005M", 
+        "CASGEM_WELL_ID" : "25767", 
+        "GW_BASIN_NAME" : "Anderson Valley", 
+        "GW_BASIN_CODE" : "1-19", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "48", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/16/2013", 
+        "COMPLETION_RPT_NBR" : "791833", 
+        "CASGEM_STATION_ID" : "390254N1233823W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0254", 
+        "LONGITUDE" : "-123.3823", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13734854.8089, 
+        "y" : 4725310.558
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23265, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AV-2B", 
+        "SWN" : "13N14W02N001M", 
+        "CASGEM_WELL_ID" : "25766", 
+        "GW_BASIN_NAME" : "Anderson Valley", 
+        "GW_BASIN_CODE" : "1-19", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/16/2013", 
+        "COMPLETION_RPT_NBR" : "791832", 
+        "CASGEM_STATION_ID" : "390106N1233775W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0106", 
+        "LONGITUDE" : "-123.3775", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13734320.4753, 
+        "y" : 4723190.0454
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23264, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AV-1B", 
+        "SWN" : "13N14W11B002M", 
+        "CASGEM_WELL_ID" : "25765", 
+        "GW_BASIN_NAME" : "Anderson Valley", 
+        "GW_BASIN_CODE" : "1-19", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "168", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/16/2013", 
+        "COMPLETION_RPT_NBR" : "791830", 
+        "CASGEM_STATION_ID" : "390047N1233685W002", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0047", 
+        "LONGITUDE" : "-123.3685", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13733318.5999, 
+        "y" : 4722344.8296
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35673, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AV-3B", 
+        "SWN" : "14N14W34R006M", 
+        "CASGEM_WELL_ID" : "38672", 
+        "GW_BASIN_NAME" : "Anderson Valley", 
+        "GW_BASIN_CODE" : "1-19", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "135", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/16/2013", 
+        "COMPLETION_RPT_NBR" : "791834", 
+        "CASGEM_STATION_ID" : "390254N1233823W002", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0254", 
+        "LONGITUDE" : "-123.3823", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13734854.8089, 
+        "y" : 4725310.558
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35671, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AV-1A", 
+        "SWN" : "13N14W11B001M", 
+        "CASGEM_WELL_ID" : "38670", 
+        "GW_BASIN_NAME" : "Anderson Valley", 
+        "GW_BASIN_CODE" : "1-19", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "48", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/16/2013", 
+        "COMPLETION_RPT_NBR" : "791829", 
+        "CASGEM_STATION_ID" : "390047N1233685W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0047", 
+        "LONGITUDE" : "-123.3685", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13733318.5999, 
+        "y" : 4722344.8296
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21512, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "SV-2A", 
+        "SWN" : "13N11W19H001M", 
+        "CASGEM_WELL_ID" : "23983", 
+        "GW_BASIN_NAME" : "Sanel Valley", 
+        "GW_BASIN_CODE" : "1-53", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "44", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/16/2013", 
+        "COMPLETION_RPT_NBR" : "791826", 
+        "CASGEM_STATION_ID" : "389722N1231033W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9722", 
+        "LONGITUDE" : "-123.1033", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13703796.671, 
+        "y" : 4717690.2431
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33670, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19N13W32L003M", 
+        "CASGEM_WELL_ID" : "36612", 
+        "GW_BASIN_NAME" : "Little Lake Valley", 
+        "GW_BASIN_CODE" : "1-13", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "120", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "119307", 
+        "CASGEM_STATION_ID" : "394556N1233278W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.4556", 
+        "LONGITUDE" : "-123.3278", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13728787.8967, 
+        "y" : 4787144.0759
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33671, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21N15W01L002M", 
+        "CASGEM_WELL_ID" : "36613", 
+        "GW_BASIN_NAME" : "Laytonville Valley", 
+        "GW_BASIN_CODE" : "1-12", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "65", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397043N1234841W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7043", 
+        "LONGITUDE" : "-123.4841", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13746187.1331, 
+        "y" : 4823064.5463
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21513, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "SV-2B", 
+        "SWN" : "13N11W19H002M", 
+        "CASGEM_WELL_ID" : "23984", 
+        "GW_BASIN_NAME" : "Sanel Valley", 
+        "GW_BASIN_CODE" : "1-53", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "67", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/16/2013", 
+        "COMPLETION_RPT_NBR" : "791827", 
+        "CASGEM_STATION_ID" : "389722N1231033W002", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9722", 
+        "LONGITUDE" : "-123.1033", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13703796.671, 
+        "y" : 4717690.2431
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23267, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AV-3C", 
+        "SWN" : "14N14W34R007M", 
+        "CASGEM_WELL_ID" : "25768", 
+        "GW_BASIN_NAME" : "Anderson Valley", 
+        "GW_BASIN_CODE" : "1-19", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "226", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/16/2013", 
+        "COMPLETION_RPT_NBR" : "791835", 
+        "CASGEM_STATION_ID" : "390254N1233823W003", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0254", 
+        "LONGITUDE" : "-123.3823", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13734854.8089, 
+        "y" : 4725310.558
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21511, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "SV-1", 
+        "SWN" : "13N11W17Q001M", 
+        "CASGEM_WELL_ID" : "23982", 
+        "GW_BASIN_NAME" : "Sanel Valley", 
+        "GW_BASIN_CODE" : "1-53", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "109", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/16/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389812N1230889W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9812", 
+        "LONGITUDE" : "-123.0889", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13702193.6703, 
+        "y" : 4718978.9915
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32329, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "15N12W08L001M", 
+        "SWN" : "15N12W08L001M", 
+        "CASGEM_WELL_ID" : "35242", 
+        "GW_BASIN_NAME" : "Ukiah Valley", 
+        "GW_BASIN_CODE" : "1-52", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "62", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/30/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391730N1232108W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.173", 
+        "LONGITUDE" : "-123.2108", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13715763.5162, 
+        "y" : 4746482.7209
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35857, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N16W18K001M", 
+        "CASGEM_WELL_ID" : "38859", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389022N1236759W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "38.9022", 
+        "LONGITUDE" : "-123.6759", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13767538.2114, 
+        "y" : 4707672.228
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36900, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21N15W12M002M", 
+        "CASGEM_WELL_ID" : "39945", 
+        "GW_BASIN_NAME" : "Laytonville Valley", 
+        "GW_BASIN_CODE" : "1-12", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "50", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "396893N1234924W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.6893", 
+        "LONGITUDE" : "-123.4924", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13747111.0848, 
+        "y" : 4820894.393
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35672, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AV-2A", 
+        "SWN" : "13N14W02N002M", 
+        "CASGEM_WELL_ID" : "38671", 
+        "GW_BASIN_NAME" : "Anderson Valley", 
+        "GW_BASIN_CODE" : "1-19", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/25/2013", 
+        "COMPLETION_RPT_NBR" : "791831", 
+        "CASGEM_STATION_ID" : "390106N1233775W002", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0106", 
+        "LONGITUDE" : "-123.3775", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13734320.4753, 
+        "y" : 4723190.0454
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34232, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "RVCWD-12", 
+        "SWN" : "23N13W36C003M", 
+        "CASGEM_WELL_ID" : "37190", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "289", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/24/2013", 
+        "COMPLETION_RPT_NBR" : "USBR", 
+        "CASGEM_STATION_ID" : "398110N1232597W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.811", 
+        "LONGITUDE" : "-123.2597", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13721207.0393, 
+        "y" : 4838515.2053
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19961, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "RVCWD-8", 
+        "SWN" : "22N13W12K001M", 
+        "CASGEM_WELL_ID" : "22359", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "180", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/24/2013", 
+        "COMPLETION_RPT_NBR" : "169", 
+        "CASGEM_STATION_ID" : "397801N1232529W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7801", 
+        "LONGITUDE" : "-123.2529", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13720450.0668, 
+        "y" : 4834038.2776
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19957, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "RVCWD-13", 
+        "SWN" : "22N12W04B001M", 
+        "CASGEM_WELL_ID" : "22355", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/24/2013", 
+        "COMPLETION_RPT_NBR" : "USGS", 
+        "CASGEM_STATION_ID" : "398013N1231983W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8013", 
+        "LONGITUDE" : "-123.1983", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13714372.0226, 
+        "y" : 4837109.6101
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34230, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "RVCWD-10", 
+        "SWN" : "22N13W01N001M", 
+        "CASGEM_WELL_ID" : "37188", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "69", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/24/2013", 
+        "COMPLETION_RPT_NBR" : "114971", 
+        "CASGEM_STATION_ID" : "397900N1232628W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.79", 
+        "LONGITUDE" : "-123.2628", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13721552.1298, 
+        "y" : 4835472.4141
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34231, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "RVCWD-11", 
+        "SWN" : "22N13W12R001M", 
+        "CASGEM_WELL_ID" : "37189", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "321", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/24/2013", 
+        "COMPLETION_RPT_NBR" : "USBR", 
+        "CASGEM_STATION_ID" : "397756N1232479W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7756", 
+        "LONGITUDE" : "-123.2479", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13719893.4693, 
+        "y" : 4833386.4655
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19962, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "RVCWD-9", 
+        "SWN" : "23N12W29P003M", 
+        "CASGEM_WELL_ID" : "22360", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/24/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398214N1232217W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8214", 
+        "LONGITUDE" : "-123.2217", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13716976.8987, 
+        "y" : 4840022.4556
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19958, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "RVCWD-7", 
+        "SWN" : "22N12W06E002M", 
+        "CASGEM_WELL_ID" : "22356", 
+        "GW_BASIN_NAME" : "Covelo Round Valley", 
+        "GW_BASIN_CODE" : "1-11", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "65", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Mendocino", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/24/2013", 
+        "COMPLETION_RPT_NBR" : "2553", 
+        "CASGEM_STATION_ID" : "397975N1232453W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7975", 
+        "LONGITUDE" : "-123.2453", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13719604.0387, 
+        "y" : 4836559.0186
+      }
+    }
+  ]
+}

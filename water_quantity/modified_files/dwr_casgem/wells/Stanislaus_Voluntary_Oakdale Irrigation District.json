@@ -1,0 +1,418 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 538, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02S11E08G001M", 
+        "CASGEM_WELL_ID" : "2509", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377821N1207796W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.7821", 
+        "LONGITUDE" : "-120.7796", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13445123.5702, 
+        "y" : 4548689.4176
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 556, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02S11E32A001M", 
+        "CASGEM_WELL_ID" : "2527", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377246N1207763W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.7246", 
+        "LONGITUDE" : "-120.7763", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444756.2159, 
+        "y" : 4540593.7485
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 1467, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S10E04F001M", 
+        "CASGEM_WELL_ID" : "3534", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377066N1208763W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.7066", 
+        "LONGITUDE" : "-120.8763", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13455888.165, 
+        "y" : 4538060.7442
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 1476, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S10E13A002M", 
+        "CASGEM_WELL_ID" : "3543", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376810N1208152W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.681", 
+        "LONGITUDE" : "-120.8152", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13449086.5441, 
+        "y" : 4534459.3084
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 2299, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02S10E20B001M", 
+        "CASGEM_WELL_ID" : "4432", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377518N1208999W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.7518", 
+        "LONGITUDE" : "-120.8999", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458515.305, 
+        "y" : 4544422.5679
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 2300, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02S10E21N001M", 
+        "CASGEM_WELL_ID" : "4434", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377405N1208821W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.7405", 
+        "LONGITUDE" : "-120.8821", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13456533.818, 
+        "y" : 4542831.7478
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 2445, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02S11E07E001M", 
+        "CASGEM_WELL_ID" : "4595", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377791N1208116W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.7791", 
+        "LONGITUDE" : "-120.8116", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13448685.7939, 
+        "y" : 4548266.8792
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 24490, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S10E11R001M", 
+        "CASGEM_WELL_ID" : "27098", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376846N1208313W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6846", 
+        "LONGITUDE" : "-120.8313", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13450878.7879, 
+        "y" : 4534965.6852
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 24491, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "03S10E13A001M", 
+        "CASGEM_WELL_ID" : "27099", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376816N1208121W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.6816", 
+        "LONGITUDE" : "-120.8121", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13448741.4537, 
+        "y" : 4534543.7028
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 24925, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "01S10E32P001M", 
+        "CASGEM_WELL_ID" : "27565", 
+        "GW_BASIN_NAME" : "Eastern San Joaquin", 
+        "GW_BASIN_CODE" : "5-22.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378013N1209004W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.8013", 
+        "LONGITUDE" : "-120.9004", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458570.9647, 
+        "y" : 4551394.0693
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 24785, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02S11E06N001M", 
+        "CASGEM_WELL_ID" : "27420", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377841N1208124W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.7841", 
+        "LONGITUDE" : "-120.8124", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13448774.8495, 
+        "y" : 4548971.1194
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Oakdale Irrigation District", 
+        "OBJECTID" : 35018, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "281", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02S11E17N001M", 
+        "CASGEM_WELL_ID" : "38002", 
+        "GW_BASIN_NAME" : "Modesto", 
+        "GW_BASIN_CODE" : "5-22.02", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377580N1207899W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.758", 
+        "LONGITUDE" : "-120.7899", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13446270.161, 
+        "y" : 4545295.5104
+      }
+    }
+  ]
+}

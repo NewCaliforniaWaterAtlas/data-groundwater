@@ -1,0 +1,674 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 18797, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S27E04C001M", 
+        "CASGEM_WELL_ID" : "21171", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356142N1190751W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6142", 
+        "LONGITUDE" : "-119.0751", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255379.4982, 
+        "y" : 4247664.9177
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 18803, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S27E09M001M", 
+        "CASGEM_WELL_ID" : "21177", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355944N1196952W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5944", 
+        "LONGITUDE" : "-119.6952", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13324408.7144, 
+        "y" : 4244954.006
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 21498, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E10L001M", 
+        "CASGEM_WELL_ID" : "23969", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352450N1191728W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.245", 
+        "LONGITUDE" : "-119.1728", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266255.4124, 
+        "y" : 4197225.711
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 21538, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E27G001M", 
+        "CASGEM_WELL_ID" : "24010", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352056N1191684W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2056", 
+        "LONGITUDE" : "-119.1684", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265765.6066, 
+        "y" : 4191856.5835
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 21786, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E13C001M", 
+        "CASGEM_WELL_ID" : "24263", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352375N1190306W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2375", 
+        "LONGITUDE" : "-119.0306", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13250425.7808, 
+        "y" : 4196203.468
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 21795, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E19G001M", 
+        "CASGEM_WELL_ID" : "24272", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352158N1191192W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2158", 
+        "LONGITUDE" : "-119.1192", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260288.6877, 
+        "y" : 4193246.3106
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 21812, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E35K001M", 
+        "CASGEM_WELL_ID" : "24289", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351867N1190453W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1867", 
+        "LONGITUDE" : "-119.0453", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13252062.1773, 
+        "y" : 4189281.9622
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 19896, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S25E17E001M", 
+        "CASGEM_WELL_ID" : "22291", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353214N1193252W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3214", 
+        "LONGITUDE" : "-119.3252", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283220.5028, 
+        "y" : 4207644.3531
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 19909, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S25E21P002M", 
+        "CASGEM_WELL_ID" : "22305", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352978N1193015W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2978", 
+        "LONGITUDE" : "-119.3015", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280582.2309, 
+        "y" : 4204424.9795
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 20025, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E27B001M", 
+        "CASGEM_WELL_ID" : "22426", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351217N1189565W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1217", 
+        "LONGITUDE" : "-118.9565", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13242177.0066, 
+        "y" : 4180432.0114
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 19423, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E36J001M", 
+        "CASGEM_WELL_ID" : "21812", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350994N1190215W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0994", 
+        "LONGITUDE" : "-119.0215", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13249412.7735, 
+        "y" : 4177397.425
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 19424, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E36R001M", 
+        "CASGEM_WELL_ID" : "21813", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350953N1190215W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0953", 
+        "LONGITUDE" : "-119.0215", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13249412.7735, 
+        "y" : 4176839.5869
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 34326, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E26E001M", 
+        "CASGEM_WELL_ID" : "37287", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351156N1189501W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1156", 
+        "LONGITUDE" : "-118.9501", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13241464.5618, 
+        "y" : 4179601.8402
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 34081, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S25E06R001M", 
+        "CASGEM_WELL_ID" : "37036", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353403N1193234W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3403", 
+        "LONGITUDE" : "-119.3234", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283020.1277, 
+        "y" : 4210223.2578
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 33792, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E20N001M", 
+        "CASGEM_WELL_ID" : "36737", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352117N1191995W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2117", 
+        "LONGITUDE" : "-119.1995", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269227.6428, 
+        "y" : 4192687.6738
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 33532, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S27E17C001M", 
+        "CASGEM_WELL_ID" : "36470", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353217N1191015W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3217", 
+        "LONGITUDE" : "-119.1015", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258318.3327, 
+        "y" : 4207685.2834
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 33552, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E22R003M", 
+        "CASGEM_WELL_ID" : "36490", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351222N1189515W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1222", 
+        "LONGITUDE" : "-118.9515", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13241620.4091, 
+        "y" : 4180500.061
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 33641, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E13M001M", 
+        "CASGEM_WELL_ID" : "36581", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352272N1191417W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2272", 
+        "LONGITUDE" : "-119.1417", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262793.3762, 
+        "y" : 4194799.7417
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 33642, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E16P001M", 
+        "CASGEM_WELL_ID" : "36582", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352269N1191923W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2269", 
+        "LONGITUDE" : "-119.1923", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268426.1425, 
+        "y" : 4194758.8592
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TENNECO-WEST", 
+        "OBJECTID" : 35793, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1070", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E29L002M", 
+        "CASGEM_WELL_ID" : "38794", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352011N1191015W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2011", 
+        "LONGITUDE" : "-119.1015", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258318.3327, 
+        "y" : 4191243.5241
+      }
+    }
+  ]
+}

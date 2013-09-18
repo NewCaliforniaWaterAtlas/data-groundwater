@@ -1,0 +1,1282 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 59, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "07S05W15C001M", 
+        "CASGEM_WELL_ID" : "8400", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "85", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373277N1223879W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.3277", 
+        "LONGITUDE" : "-122.3879", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13624158.7073, 
+        "y" : 4484882.9075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4687, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "05S05W29N001M", 
+        "CASGEM_WELL_ID" : "7007", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "82", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374651N1224410W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.4651", 
+        "LONGITUDE" : "-122.441", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13630069.7722, 
+        "y" : 4504135.5382
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4684, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "05S05W19H001M", 
+        "CASGEM_WELL_ID" : "7004", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "105", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "38256", 
+        "CASGEM_STATION_ID" : "374833N1224430W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.4833", 
+        "LONGITUDE" : "-122.443", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13630292.4112, 
+        "y" : 4506688.3921
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4685, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "05S05W19J002M", 
+        "CASGEM_WELL_ID" : "7005", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374806N1224456W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.4806", 
+        "LONGITUDE" : "-122.4456", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13630581.8419, 
+        "y" : 4506309.6327
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4686, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "05S05W29F004M", 
+        "CASGEM_WELL_ID" : "7006", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374700N1224326W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.47", 
+        "LONGITUDE" : "-122.4326", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13629134.6885, 
+        "y" : 4504822.7839
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4688, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "05S05W32K001M", 
+        "CASGEM_WELL_ID" : "7008", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "38", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374517N1224295W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.4517", 
+        "LONGITUDE" : "-122.4295", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13628789.5981, 
+        "y" : 4502256.3616
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 8483, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "08S05W10F001M", 
+        "CASGEM_WELL_ID" : "10632", 
+        "GW_BASIN_NAME" : "Pescadero Valley", 
+        "GW_BASIN_CODE" : "2-26", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372551N1223851W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.2551", 
+        "LONGITUDE" : "-122.3851", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13623847.0127, 
+        "y" : 4474724.3385
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 8484, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "08S05W10H001M", 
+        "CASGEM_WELL_ID" : "10633", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372571N1223732W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.2571", 
+        "LONGITUDE" : "-122.3732", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13622522.3107, 
+        "y" : 4475004.0576
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105190, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "P-2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48475", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "23", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/19/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375039N1224961W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.503941", 
+        "LONGITUDE" : "-122.496065", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636199.58, 
+        "y" : 4509584.3897
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Montara Water and Sanitary District", 
+        "OBJECTID" : 88057, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "5044", 
+        "LOCAL_WELL_NBR" : "P-3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48476", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "15", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/19/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375039N1224961W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.503941", 
+        "LONGITUDE" : "-122.496065", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636199.58, 
+        "y" : 4509584.3897
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Montara Water and Sanitary District", 
+        "OBJECTID" : 88056, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "5044", 
+        "LOCAL_WELL_NBR" : "P-2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48475", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "23", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/19/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375039N1224961W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.503941", 
+        "LONGITUDE" : "-122.496065", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636199.58, 
+        "y" : 4509584.3897
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105191, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Codo Well", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48473", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "39", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/12/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375083N1224973W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.508283", 
+        "LONGITUDE" : "-122.497349", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636342.5142, 
+        "y" : 4510193.6879
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Montara Water and Sanitary District", 
+        "OBJECTID" : 88055, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "5044", 
+        "LOCAL_WELL_NBR" : "P-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48474", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "48", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/19/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375039N1224961W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.503941", 
+        "LONGITUDE" : "-122.496065", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636199.58, 
+        "y" : 4509584.3897
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105188, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "P-3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48476", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "15", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/19/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375039N1224961W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.503941", 
+        "LONGITUDE" : "-122.496065", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636199.58, 
+        "y" : 4509584.3897
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105189, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "P-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48474", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "48", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/19/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375039N1224961W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.503941", 
+        "LONGITUDE" : "-122.496065", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636199.58, 
+        "y" : 4509584.3897
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 28477, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "08S05W09H001M", 
+        "CASGEM_WELL_ID" : "31292", 
+        "GW_BASIN_NAME" : "Pescadero Valley", 
+        "GW_BASIN_CODE" : "2-26", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372540N1223950W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.254", 
+        "LONGITUDE" : "-122.395", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13624949.0756, 
+        "y" : 4474570.4961
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 28478, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "08S05W10K001M", 
+        "CASGEM_WELL_ID" : "31293", 
+        "GW_BASIN_NAME" : "Pescadero Valley", 
+        "GW_BASIN_CODE" : "2-26", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372520N1223784W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.252", 
+        "LONGITUDE" : "-122.3784", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13623101.1721, 
+        "y" : 4474290.7885
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 28479, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "08S05W11M001M", 
+        "CASGEM_WELL_ID" : "31294", 
+        "GW_BASIN_NAME" : "Pescadero Valley", 
+        "GW_BASIN_CODE" : "2-26", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "36", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372511N1223703W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.2511", 
+        "LONGITUDE" : "-122.3703", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13622199.4842, 
+        "y" : 4474164.9224
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 28116, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "07S05W15E002M", 
+        "CASGEM_WELL_ID" : "30924", 
+        "GW_BASIN_NAME" : "San Gregorio Valley", 
+        "GW_BASIN_CODE" : "2-24", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "44", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373253N1223870W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.3253", 
+        "LONGITUDE" : "-122.387", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13624058.5197, 
+        "y" : 4484546.9303
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Montara Water and Sanitary District", 
+        "OBJECTID" : 88052, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "5044", 
+        "LOCAL_WELL_NBR" : "Old NAW", 
+        "SWN" : "05S06W11E001M", 
+        "CASGEM_WELL_ID" : "48471", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "114", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/26/2013", 
+        "COMPLETION_RPT_NBR" : "4671", 
+        "CASGEM_STATION_ID" : "375153N1224967W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.514602", 
+        "LONGITUDE" : "-122.495424", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636128.2242, 
+        "y" : 4511080.4752
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105186, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Old SAW", 
+        "SWN" : "05S06W11E002M", 
+        "CASGEM_WELL_ID" : "48472", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "114", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/26/2013", 
+        "COMPLETION_RPT_NBR" : "134138", 
+        "CASGEM_STATION_ID" : "375135N1224939W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.513513", 
+        "LONGITUDE" : "-122.49385", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13635953.0073, 
+        "y" : 4510927.6433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Montara Water and Sanitary District", 
+        "OBJECTID" : 88054, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "5044", 
+        "LOCAL_WELL_NBR" : "Codo Well", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48473", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "39", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/12/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375083N1224973W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.508283", 
+        "LONGITUDE" : "-122.497349", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636342.5142, 
+        "y" : 4510193.6879
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Montara Water and Sanitary District", 
+        "OBJECTID" : 88053, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "5044", 
+        "LOCAL_WELL_NBR" : "Old SAW", 
+        "SWN" : "05S06W11E002M", 
+        "CASGEM_WELL_ID" : "48472", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "114", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/26/2013", 
+        "COMPLETION_RPT_NBR" : "134138", 
+        "CASGEM_STATION_ID" : "375135N1224939W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.513513", 
+        "LONGITUDE" : "-122.49385", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13635953.0073, 
+        "y" : 4510927.6433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105187, 
+        "SHP_FILE_ID" : "3735", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Old NAW", 
+        "SWN" : "05S06W11E001M", 
+        "CASGEM_WELL_ID" : "48471", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "114", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : "Montara Water and Sanitary District", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/26/2013", 
+        "COMPLETION_RPT_NBR" : "4671", 
+        "CASGEM_STATION_ID" : "375153N1224967W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.514602", 
+        "LONGITUDE" : "-122.495424", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636128.2242, 
+        "y" : 4511080.4752
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 104050, 
+        "SHP_FILE_ID" : "1863", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Well Number 6", 
+        "SWN" : "05S06W11F003M", 
+        "CASGEM_WELL_ID" : "46280", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/27/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373052N1222921W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.514444", 
+        "LONGITUDE" : "-122.489166", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13635431.5868, 
+        "y" : 4511058.3011
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 104312, 
+        "SHP_FILE_ID" : "1863", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Frenchmans Creek  W1", 
+        "SWN" : "05S05W20E001M", 
+        "CASGEM_WELL_ID" : "40008", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/07/2011", 
+        "COMPLETION_RPT_NBR" : "107505", 
+        "CASGEM_STATION_ID" : "374845N1224391W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.4845", 
+        "LONGITUDE" : "-122.4391", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13629858.2652, 
+        "y" : 4506856.734
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 104313, 
+        "SHP_FILE_ID" : "1863", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Pilarcitos Creek W1", 
+        "SWN" : "05S05W29P001M", 
+        "CASGEM_WELL_ID" : "40046", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "84", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/07/2011", 
+        "COMPLETION_RPT_NBR" : "20202", 
+        "CASGEM_STATION_ID" : "374643N1224317W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.4643", 
+        "LONGITUDE" : "-122.4317", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13629034.501, 
+        "y" : 4504023.3391
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Coastside County Water District", 
+        "OBJECTID" : 43548, 
+        "SHP_FILE_ID" : "1863", 
+        "ME_ID" : "5036", 
+        "LOCAL_WELL_NBR" : "Well Number 6", 
+        "SWN" : "05S06W11F003M", 
+        "CASGEM_WELL_ID" : "46280", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/27/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373052N1222921W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.514444", 
+        "LONGITUDE" : "-122.489166", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13635431.5868, 
+        "y" : 4511058.3011
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Coastside County Water District", 
+        "OBJECTID" : 49931, 
+        "SHP_FILE_ID" : "1863", 
+        "ME_ID" : "5036", 
+        "LOCAL_WELL_NBR" : "Frenchmans Creek  W1", 
+        "SWN" : "05S05W20E001M", 
+        "CASGEM_WELL_ID" : "40008", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/07/2011", 
+        "COMPLETION_RPT_NBR" : "107505", 
+        "CASGEM_STATION_ID" : "374845N1224391W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.4845", 
+        "LONGITUDE" : "-122.4391", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13629858.2652, 
+        "y" : 4506856.734
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Coastside County Water District", 
+        "OBJECTID" : 49932, 
+        "SHP_FILE_ID" : "1863", 
+        "ME_ID" : "5036", 
+        "LOCAL_WELL_NBR" : "Pilarcitos Creek W1", 
+        "SWN" : "05S05W29P001M", 
+        "CASGEM_WELL_ID" : "40046", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "84", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/07/2011", 
+        "COMPLETION_RPT_NBR" : "20202", 
+        "CASGEM_STATION_ID" : "374643N1224317W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.4643", 
+        "LONGITUDE" : "-122.4317", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13629034.501, 
+        "y" : 4504023.3391
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Westside Basin", 
+        "OBJECTID" : 102927, 
+        "SHP_FILE_ID" : "2112", 
+        "ME_ID" : "1145", 
+        "LOCAL_WELL_NBR" : "CUP 18 MW 425", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48976", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "450", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "U", 
+        "SUBMIT_DATE" : "12/13/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376669N1224483W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.679057", 
+        "LONGITUDE" : "-122.46334", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13632556.6496, 
+        "y" : 4534186.0158
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Westside Basin", 
+        "OBJECTID" : 102929, 
+        "SHP_FILE_ID" : "2112", 
+        "ME_ID" : "1145", 
+        "LOCAL_WELL_NBR" : "CUP 36 MW 455", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48978", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "470", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "U", 
+        "SUBMIT_DATE" : "12/13/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376347N1224264W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.65209", 
+        "LONGITUDE" : "-122.432114", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13629080.5872, 
+        "y" : 4530393.7122
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Westside Basin", 
+        "OBJECTID" : 104396, 
+        "SHP_FILE_ID" : "2112", 
+        "ME_ID" : "1145", 
+        "LOCAL_WELL_NBR" : "CUP 10A MW 500", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49246", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "550", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/13/2012", 
+        "COMPLETION_RPT_NBR" : "EO144912", 
+        "CASGEM_STATION_ID" : "376852N1224702W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.685206", 
+        "LONGITUDE" : "-122.47018", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13633318.075, 
+        "y" : 4535050.9277
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Westside Basin", 
+        "OBJECTID" : 102928, 
+        "SHP_FILE_ID" : "2112", 
+        "ME_ID" : "1145", 
+        "LOCAL_WELL_NBR" : "CUP 23 MW 440", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48977", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "465", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "U", 
+        "SUBMIT_DATE" : "12/13/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376521N1224321W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.666899", 
+        "LONGITUDE" : "-122.448271", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13630879.1762, 
+        "y" : 4532476.0953
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Westside Basin", 
+        "OBJECTID" : 102930, 
+        "SHP_FILE_ID" : "2112", 
+        "ME_ID" : "1145", 
+        "LOCAL_WELL_NBR" : "CUP 44-1 MW 460", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48979", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "420", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "U", 
+        "SUBMIT_DATE" : "12/13/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376063N1223938W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.63466", 
+        "LONGITUDE" : "-122.426425", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13628447.2906, 
+        "y" : 4527943.3064
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Westside Basin", 
+        "OBJECTID" : 102931, 
+        "SHP_FILE_ID" : "2112", 
+        "ME_ID" : "1145", 
+        "LOCAL_WELL_NBR" : "CUP M-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48980", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "255", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "U", 
+        "SUBMIT_DATE" : "12/13/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377053N1224851W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.60631", 
+        "LONGITUDE" : "-122.393808", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13624816.3828, 
+        "y" : 4523958.934
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Westside Basin", 
+        "OBJECTID" : 102926, 
+        "SHP_FILE_ID" : "2112", 
+        "ME_ID" : "1145", 
+        "LOCAL_WELL_NBR" : "Park Plaza MW 460", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48975", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "460", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "U", 
+        "SUBMIT_DATE" : "12/13/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376954N1224798W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.695379", 
+        "LONGITUDE" : "-122.479746", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13634382.9572, 
+        "y" : 4536482.0087
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Westside Basin", 
+        "OBJECTID" : 102925, 
+        "SHP_FILE_ID" : "2112", 
+        "ME_ID" : "1145", 
+        "LOCAL_WELL_NBR" : "LMMW-6D", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48974", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "255", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "U", 
+        "SUBMIT_DATE" : "12/13/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377053N1224851W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.705337", 
+        "LONGITUDE" : "-122.48511", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13634980.075, 
+        "y" : 4537883.0348
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4689, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "05S06W10J001M", 
+        "SWN" : "05S06W10J001M", 
+        "CASGEM_WELL_ID" : "7009", 
+        "GW_BASIN_NAME" : "Half Moon Bay Terrace", 
+        "GW_BASIN_CODE" : "2-22", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Mateo", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "04/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375103N1224996W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.5103", 
+        "LONGITUDE" : "-122.4996", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636593.0944, 
+        "y" : 4510476.7388
+      }
+    }
+  ]
+}

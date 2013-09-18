@@ -1,0 +1,98 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Consolidated Irrigation District", 
+        "OBJECTID" : 18770, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "266", 
+        "LOCAL_WELL_NBR" : "17S22E03C001M", 
+        "SWN" : "17S22E03C001M", 
+        "CASGEM_WELL_ID" : "21143", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/24/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364886N1195752W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4886", 
+        "LONGITUDE" : "-119.5752", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311050.3755, 
+        "y" : 4368061.9351
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Consolidated Irrigation District", 
+        "OBJECTID" : 18768, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "266", 
+        "LOCAL_WELL_NBR" : "17S22E01C001M", 
+        "SWN" : "17S22E01C001M", 
+        "CASGEM_WELL_ID" : "21141", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/24/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364886N1195393W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4886", 
+        "LONGITUDE" : "-119.5393", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307054.0058, 
+        "y" : 4368061.9351
+      }
+    }
+  ]
+}

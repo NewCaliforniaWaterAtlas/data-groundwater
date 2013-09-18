@@ -1,0 +1,3938 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 7834, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S25E13K001M", 
+        "CASGEM_WELL_ID" : "36600", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352322N1192449W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2322", 
+        "LONGITUDE" : "-119.2449", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274281.5477, 
+        "y" : 4195481.14
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 7727, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "DMW4", 
+        "SWN" : "28S22E09A002M", 
+        "CASGEM_WELL_ID" : "25200", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355053N1195996W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5053", 
+        "LONGITUDE" : "-119.5996", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313766.5711, 
+        "y" : 4232763.191
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 18895, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S23E06L001M", 
+        "CASGEM_WELL_ID" : "21270", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356050N1195363W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.605", 
+        "LONGITUDE" : "-119.5363", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13306720.0473, 
+        "y" : 4246405.2187
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22383, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-2", 
+        "SWN" : "27S21E11A001M", 
+        "CASGEM_WELL_ID" : "24869", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356016N1196756W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6016", 
+        "LONGITUDE" : "-119.6756", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13322226.8524, 
+        "y" : 4245939.7144
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22384, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "GL12A", 
+        "SWN" : "27S22E03P002M", 
+        "CASGEM_WELL_ID" : "24870", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356069N1195916W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6069", 
+        "LONGITUDE" : "-119.5916", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312876.0152, 
+        "y" : 4246665.3621
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22385, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-3", 
+        "SWN" : "27S22E04R001M", 
+        "CASGEM_WELL_ID" : "24871", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356014N1195999W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6014", 
+        "LONGITUDE" : "-119.5999", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313799.9669, 
+        "y" : 4245912.3324
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22386, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S22E05A001M", 
+        "CASGEM_WELL_ID" : "24872", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356144N1196177W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6144", 
+        "LONGITUDE" : "-119.6177", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315781.4539, 
+        "y" : 4247692.304
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22387, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-2B", 
+        "SWN" : "27S22E05H001M", 
+        "CASGEM_WELL_ID" : "24873", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356089N1196210W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6089", 
+        "LONGITUDE" : "-119.621", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316148.8082, 
+        "y" : 4246939.2038
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22388, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-1", 
+        "SWN" : "27S22E06B001M", 
+        "CASGEM_WELL_ID" : "24874", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356147N1196449W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6147", 
+        "LONGITUDE" : "-119.6449", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318809.344, 
+        "y" : 4247733.3837
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22389, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-1", 
+        "SWN" : "27S22E06D001M", 
+        "CASGEM_WELL_ID" : "24875", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356139N1196524W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6139", 
+        "LONGITUDE" : "-119.6524", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13319644.2402, 
+        "y" : 4247623.8383
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22390, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "TO5", 
+        "SWN" : "27S22E06J002M", 
+        "CASGEM_WELL_ID" : "24876", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356056N1196391W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6056", 
+        "LONGITUDE" : "-119.6391", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318163.691, 
+        "y" : 4246487.3686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21552, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E34K004M", 
+        "CASGEM_WELL_ID" : "24024", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351872N1191703W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1872", 
+        "LONGITUDE" : "-119.1703", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265977.1137, 
+        "y" : 4189350.0661
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21574, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "DMW6,DWRBVBEL", 
+        "SWN" : "28S23E31B001M", 
+        "CASGEM_WELL_ID" : "24047", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354533N1195378W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4533", 
+        "LONGITUDE" : "-119.5378", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13306887.0265, 
+        "y" : 4225654.7121
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22467, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "TO2", 
+        "SWN" : "27S22E06K002M", 
+        "CASGEM_WELL_ID" : "24954", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356056N1196416W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6056", 
+        "LONGITUDE" : "-119.6416", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318441.9897, 
+        "y" : 4246487.3686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22468, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-3A", 
+        "SWN" : "27S22E07H001M", 
+        "CASGEM_WELL_ID" : "24955", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355981N1196393W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5981", 
+        "LONGITUDE" : "-119.6393", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318185.9549, 
+        "y" : 4245460.5395
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22469, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-17", 
+        "SWN" : "27S22E07H002M", 
+        "CASGEM_WELL_ID" : "24956", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355981N1196393W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5981", 
+        "LONGITUDE" : "-119.6393", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318185.9549, 
+        "y" : 4245460.5395
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22470, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "TO6", 
+        "SWN" : "27S22E07J002M", 
+        "CASGEM_WELL_ID" : "24957", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355903N1196399W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5903", 
+        "LONGITUDE" : "-119.6399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318252.7466, 
+        "y" : 4244392.7394
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22471, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "TO8", 
+        "SWN" : "27S22E07J004M", 
+        "CASGEM_WELL_ID" : "24958", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355903N1196399W003", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5903", 
+        "LONGITUDE" : "-119.6399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318252.7466, 
+        "y" : 4244392.7394
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22472, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "TO9", 
+        "SWN" : "27S22E07J005M", 
+        "CASGEM_WELL_ID" : "24959", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355903N1196399W004", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5903", 
+        "LONGITUDE" : "-119.6399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318252.7466, 
+        "y" : 4244392.7394
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22473, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-4B", 
+        "SWN" : "27S22E07R001M", 
+        "CASGEM_WELL_ID" : "24960", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355889N1196407W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5889", 
+        "LONGITUDE" : "-119.6407", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318341.8022, 
+        "y" : 4244201.0939
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22474, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-5A", 
+        "SWN" : "27S22E08H001M", 
+        "CASGEM_WELL_ID" : "24961", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355953N1196177W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5953", 
+        "LONGITUDE" : "-119.6177", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315781.4539, 
+        "y" : 4245077.2147
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22475, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "T10", 
+        "SWN" : "27S22E08M001M", 
+        "CASGEM_WELL_ID" : "24962", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355911N1196357W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5911", 
+        "LONGITUDE" : "-119.6357", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317785.2047, 
+        "y" : 4244502.2525
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22476, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-5", 
+        "SWN" : "27S22E09H002M", 
+        "CASGEM_WELL_ID" : "24963", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355939N1196002W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5939", 
+        "LONGITUDE" : "-119.6002", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313833.3628, 
+        "y" : 4244885.5573
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22477, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "GL9", 
+        "SWN" : "27S22E13L001M", 
+        "CASGEM_WELL_ID" : "24964", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355772N1195552W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5772", 
+        "LONGITUDE" : "-119.5552", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308823.9857, 
+        "y" : 4242599.6168
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21221, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S24E02A001M", 
+        "CASGEM_WELL_ID" : "23676", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353517N1193592W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3517", 
+        "LONGITUDE" : "-119.3592", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287005.3655, 
+        "y" : 4211779.0793
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21222, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Psch@", 
+        "SWN" : "30S24E02C001M", 
+        "CASGEM_WELL_ID" : "23677", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353514N1193688W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3514", 
+        "LONGITUDE" : "-119.3688", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13288074.0326, 
+        "y" : 4211738.1338
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21223, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S24E06N001M", 
+        "CASGEM_WELL_ID" : "23678", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353403N1194471W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3403", 
+        "LONGITUDE" : "-119.4471", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13296790.3487, 
+        "y" : 4210223.2578
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21263, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S24E12E001M", 
+        "CASGEM_WELL_ID" : "23720", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353336N1193607W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3336", 
+        "LONGITUDE" : "-119.3607", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287172.3447, 
+        "y" : 4209308.9739
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21262, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S24E11G003M", 
+        "CASGEM_WELL_ID" : "23719", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353342N1193637W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3342", 
+        "LONGITUDE" : "-119.3637", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287506.3032, 
+        "y" : 4209390.847
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21266, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Anton", 
+        "SWN" : "30S24E14Q001M", 
+        "CASGEM_WELL_ID" : "23723", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353130N1193688W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.313", 
+        "LONGITUDE" : "-119.3688", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13288074.0326, 
+        "y" : 4206498.3667
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21746, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Rmnni", 
+        "SWN" : "29S24E30P001M", 
+        "CASGEM_WELL_ID" : "24222", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353689N1194430W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3689", 
+        "LONGITUDE" : "-119.443", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13296333.9388, 
+        "y" : 4214126.8748
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21320, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-1A", 
+        "SWN" : "27S21E12A001M", 
+        "CASGEM_WELL_ID" : "23779", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356008N1196561W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6008", 
+        "LONGITUDE" : "-119.6561", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13320056.1223, 
+        "y" : 4245830.1869
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21322, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-8D", 
+        "SWN" : "27S22E15A002M", 
+        "CASGEM_WELL_ID" : "23781", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355864N1195833W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5864", 
+        "LONGITUDE" : "-119.5833", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311952.0634, 
+        "y" : 4243858.8783
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21324, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-6", 
+        "SWN" : "27S22E20M001M", 
+        "CASGEM_WELL_ID" : "23783", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355619N1196342W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5619", 
+        "LONGITUDE" : "-119.6342", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317618.2255, 
+        "y" : 4240505.7303
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21325, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-12A", 
+        "SWN" : "27S22E23D004M", 
+        "CASGEM_WELL_ID" : "23784", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355694N1195814W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5694", 
+        "LONGITUDE" : "-119.5814", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311740.5563, 
+        "y" : 4241532.0953
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21748, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Trtta", 
+        "SWN" : "29S24E31B001M", 
+        "CASGEM_WELL_ID" : "24224", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353656N1194342W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3656", 
+        "LONGITUDE" : "-119.4342", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13295354.3273, 
+        "y" : 4213676.3869
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21750, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S24E32Q001M", 
+        "CASGEM_WELL_ID" : "24226", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353577N1194177W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3577", 
+        "LONGITUDE" : "-119.4177", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13293517.5557, 
+        "y" : 4212598.0209
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21751, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S24E33P001M", 
+        "CASGEM_WELL_ID" : "24227", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353547N1194085W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3547", 
+        "LONGITUDE" : "-119.4085", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13292493.4164, 
+        "y" : 4212188.5425
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 20952, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S22E04P001M", 
+        "CASGEM_WELL_ID" : "23382", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356025N1196116W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6025", 
+        "LONGITUDE" : "-119.6116", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315102.405, 
+        "y" : 4246062.9342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 20956, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S22E10Q001M", 
+        "CASGEM_WELL_ID" : "23386", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355881N1195896W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5881", 
+        "LONGITUDE" : "-119.5896", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312653.3762, 
+        "y" : 4244091.5838
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 21340, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-17A", 
+        "SWN" : "28S22E03D001M", 
+        "CASGEM_WELL_ID" : "23801", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355283N1196000W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5283", 
+        "LONGITUDE" : "-119.6", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313811.0989, 
+        "y" : 4235908.7937
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 19910, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S25E22D001M", 
+        "CASGEM_WELL_ID" : "22306", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353072N1192834W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3072", 
+        "LONGITUDE" : "-119.2834", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278567.3481, 
+        "y" : 4205707.1598
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 19942, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S23E11E001M", 
+        "CASGEM_WELL_ID" : "22340", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355102N1194758W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5102", 
+        "LONGITUDE" : "-119.4758", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13299985.2181, 
+        "y" : 4233433.2656
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 20436, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Ptrni", 
+        "SWN" : "28S23E31R001M", 
+        "CASGEM_WELL_ID" : "22852", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354416N1195328W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4416", 
+        "LONGITUDE" : "-119.5328", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13306330.4291, 
+        "y" : 4224055.9377
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 20438, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S23E36H001M", 
+        "CASGEM_WELL_ID" : "22854", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354500N1194430W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.45", 
+        "LONGITUDE" : "-119.443", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13296333.9388, 
+        "y" : 4225203.7522
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 19635, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E01F001M", 
+        "CASGEM_WELL_ID" : "22026", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352633N1191376W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2633", 
+        "LONGITUDE" : "-119.1376", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262336.9663, 
+        "y" : 4199720.3808
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 19796, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Blmni", 
+        "SWN" : "29S23E10Q001M", 
+        "CASGEM_WELL_ID" : "22190", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354158N1194910W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4158", 
+        "LONGITUDE" : "-119.491", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13301677.2744, 
+        "y" : 4220531.256
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 19799, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Trgni", 
+        "SWN" : "29S23E17H003M", 
+        "CASGEM_WELL_ID" : "22193", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354061N1195188W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4061", 
+        "LONGITUDE" : "-119.5188", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13304771.9562, 
+        "y" : 4219206.3769
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22686, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-8C", 
+        "SWN" : "27S22E15N002M", 
+        "CASGEM_WELL_ID" : "25178", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355719N1195968W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5719", 
+        "LONGITUDE" : "-119.5968", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313454.8765, 
+        "y" : 4241874.2383
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22687, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-7B", 
+        "SWN" : "27S22E17N001M", 
+        "CASGEM_WELL_ID" : "25179", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355756N1196335W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5756", 
+        "LONGITUDE" : "-119.6335", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317540.3018, 
+        "y" : 4242380.6295
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22688, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-3", 
+        "SWN" : "27S22E18B001M", 
+        "CASGEM_WELL_ID" : "25180", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355867N1196435W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5867", 
+        "LONGITUDE" : "-119.6435", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318653.4967, 
+        "y" : 4243899.9436
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22689, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-4", 
+        "SWN" : "27S22E18E001M", 
+        "CASGEM_WELL_ID" : "25181", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355811N1196510W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5811", 
+        "LONGITUDE" : "-119.651", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13319488.3929, 
+        "y" : 4243133.4165
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22690, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-10", 
+        "SWN" : "27S22E20R003M", 
+        "CASGEM_WELL_ID" : "25182", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355578N1196182W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5578", 
+        "LONGITUDE" : "-119.6182", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315837.1136, 
+        "y" : 4239944.6914
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22691, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-11", 
+        "SWN" : "27S22E21R002M", 
+        "CASGEM_WELL_ID" : "25183", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355589N1196004W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5589", 
+        "LONGITUDE" : "-119.6004", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313855.6267, 
+        "y" : 4240095.2112
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22692, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-13", 
+        "SWN" : "27S22E23E005M", 
+        "CASGEM_WELL_ID" : "25184", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355650N1195802W003", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.565", 
+        "LONGITUDE" : "-119.5802", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311606.973, 
+        "y" : 4240929.9495
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22693, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "GL11", 
+        "SWN" : "27S22E24L001M", 
+        "CASGEM_WELL_ID" : "25185", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355647N1195552W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5647", 
+        "LONGITUDE" : "-119.5552", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308823.9857, 
+        "y" : 4240888.8953
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22694, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "GL12", 
+        "SWN" : "27S22E25D002M", 
+        "CASGEM_WELL_ID" : "25186", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355572N1195627W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5572", 
+        "LONGITUDE" : "-119.5627", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309658.8819, 
+        "y" : 4239862.5906
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22695, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-10C", 
+        "SWN" : "27S22E29H001M", 
+        "CASGEM_WELL_ID" : "25187", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355533N1196182W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5533", 
+        "LONGITUDE" : "-119.6182", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315837.1136, 
+        "y" : 4239328.95
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22696, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-10D", 
+        "SWN" : "27S22E29J001M", 
+        "CASGEM_WELL_ID" : "25188", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355489N1196188W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5489", 
+        "LONGITUDE" : "-119.6188", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315903.9053, 
+        "y" : 4238726.9252
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22697, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-14A", 
+        "SWN" : "27S22E32A001M", 
+        "CASGEM_WELL_ID" : "25189", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355431N1196193W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5431", 
+        "LONGITUDE" : "-119.6193", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315959.565, 
+        "y" : 4237933.3975
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22698, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-9", 
+        "SWN" : "27S22E32C001M", 
+        "CASGEM_WELL_ID" : "25190", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355436N1196316W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5436", 
+        "LONGITUDE" : "-119.6316", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317328.7948, 
+        "y" : 4238001.8028
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22699, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-15", 
+        "SWN" : "27S22E33A001M", 
+        "CASGEM_WELL_ID" : "25191", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355428N1196027W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5428", 
+        "LONGITUDE" : "-119.6027", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314111.6615, 
+        "y" : 4237892.3545
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22700, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "DMW3", 
+        "SWN" : "27S22E33A002M", 
+        "CASGEM_WELL_ID" : "25192", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355428N1196027W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5428", 
+        "LONGITUDE" : "-119.6027", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314111.6615, 
+        "y" : 4237892.3545
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22701, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-16", 
+        "SWN" : "27S22E33P001M", 
+        "CASGEM_WELL_ID" : "25193", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355287N1196088W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5287", 
+        "LONGITUDE" : "-119.6088", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314790.7104, 
+        "y" : 4235963.5078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22702, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "ST3", 
+        "SWN" : "28S22E02R001M", 
+        "CASGEM_WELL_ID" : "25194", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355139N1195643W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5139", 
+        "LONGITUDE" : "-119.5643", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309836.9931, 
+        "y" : 4233939.2674
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22703, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-21", 
+        "SWN" : "28S22E04N001M", 
+        "CASGEM_WELL_ID" : "25195", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355140N1196165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.514", 
+        "LONGITUDE" : "-119.6165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315647.8705, 
+        "y" : 4233952.9434
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22705, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-15D", 
+        "SWN" : "28S22E05F002M", 
+        "CASGEM_WELL_ID" : "25197", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355211N1196316W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5211", 
+        "LONGITUDE" : "-119.6316", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317328.7948, 
+        "y" : 4234923.9864
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22706, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-15", 
+        "SWN" : "28S22E05R002M", 
+        "CASGEM_WELL_ID" : "25198", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355144N1196210W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5144", 
+        "LONGITUDE" : "-119.621", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316148.8082, 
+        "y" : 4234007.6478
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22708, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-27", 
+        "SWN" : "28S22E11R001M", 
+        "CASGEM_WELL_ID" : "25201", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355019N1195677W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5019", 
+        "LONGITUDE" : "-119.5677", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310215.4793, 
+        "y" : 4232298.2653
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22709, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-29", 
+        "SWN" : "28S22E13N001M", 
+        "CASGEM_WELL_ID" : "25202", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354872N1195629W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4872", 
+        "LONGITUDE" : "-119.5629", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309681.1458, 
+        "y" : 4230288.3717
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22710, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-26", 
+        "SWN" : "28S22E15A001M", 
+        "CASGEM_WELL_ID" : "25203", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354994N1195849W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4994", 
+        "LONGITUDE" : "-119.5849", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312130.1746, 
+        "y" : 4231956.4207
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22711, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-22", 
+        "SWN" : "28S22E16D001M", 
+        "CASGEM_WELL_ID" : "25204", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354992N1196160W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4992", 
+        "LONGITUDE" : "-119.616", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315592.2107, 
+        "y" : 4231929.0736
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22756, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-15A", 
+        "SWN" : "28S22E17A001M", 
+        "CASGEM_WELL_ID" : "25251", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354992N1196224W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4992", 
+        "LONGITUDE" : "-119.6224", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316304.6555, 
+        "y" : 4231929.0736
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22757, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "DMW7,KCWA", 
+        "SWN" : "29S23E16R003M", 
+        "CASGEM_WELL_ID" : "25252", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354014N1195007W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4014", 
+        "LONGITUDE" : "-119.5007", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13302757.0734, 
+        "y" : 4218564.4825
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 22758, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-10", 
+        "SWN" : "27S22E19R001M", 
+        "CASGEM_WELL_ID" : "25253", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355583N1196391W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5583", 
+        "LONGITUDE" : "-119.6391", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318163.691, 
+        "y" : 4240013.1092
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34186, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Librk", 
+        "SWN" : "28S22E25K001M", 
+        "CASGEM_WELL_ID" : "37143", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354606N1195524W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4606", 
+        "LONGITUDE" : "-119.5524", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308512.2911, 
+        "y" : 4226652.3558
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34187, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Hchin", 
+        "SWN" : "28S23E20N001M", 
+        "CASGEM_WELL_ID" : "37144", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354742N1195282W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4742", 
+        "LONGITUDE" : "-119.5282", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13305818.3594, 
+        "y" : 4228511.2212
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34200, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "GL10", 
+        "SWN" : "27S22E13R002M", 
+        "CASGEM_WELL_ID" : "37157", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355752N1195483W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5752", 
+        "LONGITUDE" : "-119.5483", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308055.8812, 
+        "y" : 4242325.8834
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34201, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-10A", 
+        "SWN" : "27S22E20H001M", 
+        "CASGEM_WELL_ID" : "37158", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355669N1196200W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5669", 
+        "LONGITUDE" : "-119.62", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316037.4887, 
+        "y" : 4241189.963
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35058, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-2A", 
+        "SWN" : "27S22E05P001M", 
+        "CASGEM_WELL_ID" : "38042", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356044N1196296W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6044", 
+        "LONGITUDE" : "-119.6296", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317106.1558, 
+        "y" : 4246323.0695
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35059, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "TO1", 
+        "SWN" : "27S22E06J001M", 
+        "CASGEM_WELL_ID" : "38043", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356056N1196404W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6056", 
+        "LONGITUDE" : "-119.6404", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318308.4063, 
+        "y" : 4246487.3686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35060, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "TO1", 
+        "SWN" : "27S22E06K001M", 
+        "CASGEM_WELL_ID" : "38044", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356056N1196416W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6056", 
+        "LONGITUDE" : "-119.6416", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318441.9897, 
+        "y" : 4246487.3686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34716, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-15B", 
+        "SWN" : "28S22E16N001M", 
+        "CASGEM_WELL_ID" : "37695", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354853N1196243W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4853", 
+        "LONGITUDE" : "-119.6243", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316516.1625, 
+        "y" : 4230028.6164
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34717, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-28", 
+        "SWN" : "28S22E21B001M", 
+        "CASGEM_WELL_ID" : "37696", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354850N1196071W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.485", 
+        "LONGITUDE" : "-119.6071", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314601.4673, 
+        "y" : 4229987.603
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34718, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-20", 
+        "SWN" : "28S22E10A001M", 
+        "CASGEM_WELL_ID" : "37697", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355139N1195849W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5139", 
+        "LONGITUDE" : "-119.5849", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312130.1746, 
+        "y" : 4233939.2674
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 33973, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Trgni", 
+        "SWN" : "29S23E08A001M", 
+        "CASGEM_WELL_ID" : "36924", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354258N1195228W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4258", 
+        "LONGITUDE" : "-119.5228", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13305217.2342, 
+        "y" : 4221897.2777
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 33975, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Hair", 
+        "SWN" : "29S23E24P001M", 
+        "CASGEM_WELL_ID" : "36927", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353842N1194585W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3842", 
+        "LONGITUDE" : "-119.4585", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13298059.3909, 
+        "y" : 4216215.7412
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34361, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S22E08Q001M", 
+        "CASGEM_WELL_ID" : "37324", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355875N1196224W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5875", 
+        "LONGITUDE" : "-119.6224", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316304.6555, 
+        "y" : 4244009.4519
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34362, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S22E10R001M", 
+        "CASGEM_WELL_ID" : "37325", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355003N1195827W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5003", 
+        "LONGITUDE" : "-119.5827", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311885.2717, 
+        "y" : 4232079.4835
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34389, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-23", 
+        "SWN" : "28S22E15N006M", 
+        "CASGEM_WELL_ID" : "37354", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354852N1195978W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4852", 
+        "LONGITUDE" : "-119.5978", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313566.196, 
+        "y" : 4230014.9452
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35213, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "TO3", 
+        "SWN" : "27S22E06K003M", 
+        "CASGEM_WELL_ID" : "38202", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356056N1196416W003", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6056", 
+        "LONGITUDE" : "-119.6416", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318441.9897, 
+        "y" : 4246487.3686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35214, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-16", 
+        "SWN" : "27S22E07J001M", 
+        "CASGEM_WELL_ID" : "38203", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355908N1196399W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5908", 
+        "LONGITUDE" : "-119.6399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318252.7466, 
+        "y" : 4244461.185
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35215, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "TO7", 
+        "SWN" : "27S22E07J003M", 
+        "CASGEM_WELL_ID" : "38204", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355903N1196399W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5903", 
+        "LONGITUDE" : "-119.6399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318252.7466, 
+        "y" : 4244392.7394
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35216, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-3A", 
+        "SWN" : "27S22E07N001M", 
+        "CASGEM_WELL_ID" : "38205", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355872N1196510W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5872", 
+        "LONGITUDE" : "-119.651", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13319488.3929, 
+        "y" : 4243968.3862
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35217, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "DMW1", 
+        "SWN" : "27S22E08A002M", 
+        "CASGEM_WELL_ID" : "38206", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356011N1196182W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6011", 
+        "LONGITUDE" : "-119.6182", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315837.1136, 
+        "y" : 4245871.2596
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35218, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-4A", 
+        "SWN" : "27S22E08P001M", 
+        "CASGEM_WELL_ID" : "38207", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355875N1196288W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5875", 
+        "LONGITUDE" : "-119.6288", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317017.1002, 
+        "y" : 4244009.4519
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35219, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-6", 
+        "SWN" : "27S22E10A001M", 
+        "CASGEM_WELL_ID" : "38208", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355997N1195821W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5997", 
+        "LONGITUDE" : "-119.5821", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311818.48, 
+        "y" : 4245679.5883
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34025, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "ElkP@", 
+        "SWN" : "30S24E14H001M", 
+        "CASGEM_WELL_ID" : "36979", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353192N1193592W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3192", 
+        "LONGITUDE" : "-119.3592", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287005.3655, 
+        "y" : 4207344.2023
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 34037, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E01A002M", 
+        "CASGEM_WELL_ID" : "36991", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351778N1191320W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1778", 
+        "LONGITUDE" : "-119.132", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261713.5772, 
+        "y" : 4188069.7817
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 33796, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E33C001M", 
+        "CASGEM_WELL_ID" : "36741", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351941N1191927W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1941", 
+        "LONGITUDE" : "-119.1927", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268470.6703, 
+        "y" : 4190289.9436
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 33798, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E35D001M", 
+        "CASGEM_WELL_ID" : "36743", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351939N1191624W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1939", 
+        "LONGITUDE" : "-119.1624", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265097.6897, 
+        "y" : 4190262.6997
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 33874, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Olsen", 
+        "SWN" : "30S24E06B001M", 
+        "CASGEM_WELL_ID" : "36822", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353522N1194385W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3522", 
+        "LONGITUDE" : "-119.4385", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13295833.0011, 
+        "y" : 4211847.3221
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 33478, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Trtta", 
+        "SWN" : "29S22E01A001M", 
+        "CASGEM_WELL_ID" : "36416", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354405N1195606W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4405", 
+        "LONGITUDE" : "-119.5606", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309425.1109, 
+        "y" : 4223905.6375
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 33872, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "Dvini", 
+        "SWN" : "30S23E01D001M", 
+        "CASGEM_WELL_ID" : "36820", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353536N1194610W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3536", 
+        "LONGITUDE" : "-119.461", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13298337.6897, 
+        "y" : 4212038.4042
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 36191, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S24E11G001M", 
+        "CASGEM_WELL_ID" : "39201", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353331N1193645W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3331", 
+        "LONGITUDE" : "-119.3645", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287595.3588, 
+        "y" : 4209240.7468
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 36641, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-8B,KCWA", 
+        "SWN" : "27S22E16H001M", 
+        "CASGEM_WELL_ID" : "39674", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355818N1195997W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5818", 
+        "LONGITUDE" : "-119.5997", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313777.703, 
+        "y" : 4243229.2295
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 36642, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "ST1", 
+        "SWN" : "27S22E27R001M", 
+        "CASGEM_WELL_ID" : "39675", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355530N1195827W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.553", 
+        "LONGITUDE" : "-119.5827", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311885.2717, 
+        "y" : 4239287.9018
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35919, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-2D", 
+        "SWN" : "27S22E04E002M", 
+        "CASGEM_WELL_ID" : "38923", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356097N1196181W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6097", 
+        "LONGITUDE" : "-119.6181", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315825.9817, 
+        "y" : 4247048.7425
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35920, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-7C", 
+        "SWN" : "27S22E20L001M", 
+        "CASGEM_WELL_ID" : "38924", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355631N1196302W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5631", 
+        "LONGITUDE" : "-119.6302", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317172.9475, 
+        "y" : 4240669.9423
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 36527, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-11", 
+        "SWN" : "27S22E32K001M", 
+        "CASGEM_WELL_ID" : "39549", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355356N1196271W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5356", 
+        "LONGITUDE" : "-119.6271", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316827.8571, 
+        "y" : 4236907.3692
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35740, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-8A,KCWA", 
+        "SWN" : "27S22E15D001M", 
+        "CASGEM_WELL_ID" : "38741", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355865N1195985W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5865", 
+        "LONGITUDE" : "-119.5985", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313644.1196, 
+        "y" : 4243872.5667
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35741, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-4C", 
+        "SWN" : "27S22E16M004M", 
+        "CASGEM_WELL_ID" : "38742", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355756N1196225W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5756", 
+        "LONGITUDE" : "-119.6225", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316315.7874, 
+        "y" : 4242380.6295
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35742, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "T11", 
+        "SWN" : "27S22E17N002M", 
+        "CASGEM_WELL_ID" : "38743", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355756N1196335W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5756", 
+        "LONGITUDE" : "-119.6335", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317540.3018, 
+        "y" : 4242380.6295
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35743, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-4A", 
+        "SWN" : "27S22E18J001M", 
+        "CASGEM_WELL_ID" : "38744", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355797N1196399W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5797", 
+        "LONGITUDE" : "-119.6399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318252.7466, 
+        "y" : 4242941.7931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35744, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-7A", 
+        "SWN" : "27S22E20M003M", 
+        "CASGEM_WELL_ID" : "38745", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355656N1196335W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5656", 
+        "LONGITUDE" : "-119.6335", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317540.3018, 
+        "y" : 4241012.0584
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35745, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-9", 
+        "SWN" : "27S22E23A001M", 
+        "CASGEM_WELL_ID" : "38746", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355708N1195638W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5708", 
+        "LONGITUDE" : "-119.5638", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309781.3333, 
+        "y" : 4241723.694
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35746, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "bv-17", 
+        "SWN" : "28S22E04K001M", 
+        "CASGEM_WELL_ID" : "38747", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355200N1196082W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.52", 
+        "LONGITUDE" : "-119.6082", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314723.9187, 
+        "y" : 4234773.5375
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35747, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-12", 
+        "SWN" : "28S22E05A003M", 
+        "CASGEM_WELL_ID" : "38748", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355283N1196191W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5283", 
+        "LONGITUDE" : "-119.6191", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315937.3011, 
+        "y" : 4235908.7937
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35748, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BEL-14", 
+        "SWN" : "28S22E05G001M", 
+        "CASGEM_WELL_ID" : "38749", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355217N1196254W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5217", 
+        "LONGITUDE" : "-119.6254", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316638.6139, 
+        "y" : 4235006.0503
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35749, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-19", 
+        "SWN" : "28S22E09A001M", 
+        "CASGEM_WELL_ID" : "38750", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355139N1195996W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5139", 
+        "LONGITUDE" : "-119.5996", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313766.5711, 
+        "y" : 4233939.2674
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35750, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-25", 
+        "SWN" : "28S22E14P001M", 
+        "CASGEM_WELL_ID" : "38751", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354856N1195810W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4856", 
+        "LONGITUDE" : "-119.581", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311696.0286, 
+        "y" : 4230069.63
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Buena Vista Water Storage District", 
+        "OBJECTID" : 35751, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "863", 
+        "LOCAL_WELL_NBR" : "BV-24", 
+        "SWN" : "28S22E16A001M", 
+        "CASGEM_WELL_ID" : "38752", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354992N1191659W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4992", 
+        "LONGITUDE" : "-119.1659", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265487.3079, 
+        "y" : 4231929.0736
+      }
+    }
+  ]
+}

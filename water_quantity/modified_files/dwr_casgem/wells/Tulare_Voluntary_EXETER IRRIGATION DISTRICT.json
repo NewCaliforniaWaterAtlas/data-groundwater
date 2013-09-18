@@ -1,0 +1,2658 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 7823, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E11M001M", 
+        "CASGEM_WELL_ID" : "35500", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362864N1191345W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2864", 
+        "LONGITUDE" : "-119.1345", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261991.8759, 
+        "y" : 4340101.4686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 7657, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E11D001M", 
+        "CASGEM_WELL_ID" : "18000", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362936N1191315W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2936", 
+        "LONGITUDE" : "-119.1315", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261657.9174, 
+        "y" : 4341095.8469
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15807, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E11R001M", 
+        "CASGEM_WELL_ID" : "18131", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362853N1191209W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2853", 
+        "LONGITUDE" : "-119.1209", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260477.9308, 
+        "y" : 4339949.5577
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15808, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E13M001M", 
+        "CASGEM_WELL_ID" : "18132", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362739N1191176W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2739", 
+        "LONGITUDE" : "-119.1176", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260110.5765, 
+        "y" : 4338375.3352
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15810, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E14H001M", 
+        "CASGEM_WELL_ID" : "18134", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362761N1191223W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2761", 
+        "LONGITUDE" : "-119.1223", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260633.7781, 
+        "y" : 4338679.1146
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15811, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E14K001M", 
+        "CASGEM_WELL_ID" : "18135", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362750N1191234W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.275", 
+        "LONGITUDE" : "-119.1234", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260756.2296, 
+        "y" : 4338527.2239
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15812, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E15A001M", 
+        "CASGEM_WELL_ID" : "18136", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362822N1191398W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2822", 
+        "LONGITUDE" : "-119.1398", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262581.8692, 
+        "y" : 4339521.4569
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15813, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E15C001M", 
+        "CASGEM_WELL_ID" : "18137", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362817N1191470W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2817", 
+        "LONGITUDE" : "-119.147", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263383.3695, 
+        "y" : 4339452.41
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15814, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E15L001M", 
+        "CASGEM_WELL_ID" : "18138", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362753N1191456W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2753", 
+        "LONGITUDE" : "-119.1456", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263227.5223, 
+        "y" : 4338568.6484
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15815, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E15R001M", 
+        "CASGEM_WELL_ID" : "18139", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362714N1191365W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2714", 
+        "LONGITUDE" : "-119.1365", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262214.5149, 
+        "y" : 4338030.1417
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15816, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E16J001M", 
+        "CASGEM_WELL_ID" : "18140", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362750N1191545W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.275", 
+        "LONGITUDE" : "-119.1545", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264218.2657, 
+        "y" : 4338527.2239
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15818, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E17A001M", 
+        "CASGEM_WELL_ID" : "18142", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362828N1191723W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2828", 
+        "LONGITUDE" : "-119.1723", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266199.7527, 
+        "y" : 4339604.3138
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15820, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E17H001M", 
+        "CASGEM_WELL_ID" : "18144", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362758N1191723W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2758", 
+        "LONGITUDE" : "-119.1723", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266199.7527, 
+        "y" : 4338637.6897
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15823, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E20H001M", 
+        "CASGEM_WELL_ID" : "18147", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362614N1191723W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2614", 
+        "LONGITUDE" : "-119.1723", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266199.7527, 
+        "y" : 4336649.4782
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15825, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E21R001M", 
+        "CASGEM_WELL_ID" : "18149", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362544N1191545W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2544", 
+        "LONGITUDE" : "-119.1545", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264218.2657, 
+        "y" : 4335683.1189
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15826, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E22G001M", 
+        "CASGEM_WELL_ID" : "18150", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362628N1191448W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2628", 
+        "LONGITUDE" : "-119.1448", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263138.4667, 
+        "y" : 4336842.7605
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15827, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E23E001M", 
+        "CASGEM_WELL_ID" : "18151", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362625N1191356W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2625", 
+        "LONGITUDE" : "-119.1356", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262114.3274, 
+        "y" : 4336801.3425
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15828, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E23Q002M", 
+        "CASGEM_WELL_ID" : "18152", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362556N1191270W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2556", 
+        "LONGITUDE" : "-119.127", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261156.9797, 
+        "y" : 4335848.7744
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15829, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E24H001M", 
+        "CASGEM_WELL_ID" : "18153", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362644N1191045W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2644", 
+        "LONGITUDE" : "-119.1045", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258652.2912, 
+        "y" : 4337063.6587
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15830, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E24N001M", 
+        "CASGEM_WELL_ID" : "18154", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362558N1191165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2558", 
+        "LONGITUDE" : "-119.1165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259988.1251, 
+        "y" : 4335876.3838
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15831, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E25M001M", 
+        "CASGEM_WELL_ID" : "18155", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362436N1191165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2436", 
+        "LONGITUDE" : "-119.1165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259988.1251, 
+        "y" : 4334192.3344
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15832, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E26C001M", 
+        "CASGEM_WELL_ID" : "18156", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362533N1191298W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2533", 
+        "LONGITUDE" : "-119.1298", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261468.6743, 
+        "y" : 4335531.2703
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15835, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E27J001M", 
+        "CASGEM_WELL_ID" : "18159", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362461N1191370W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2461", 
+        "LONGITUDE" : "-119.137", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262270.1746, 
+        "y" : 4334537.4051
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15824, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E21A001M", 
+        "CASGEM_WELL_ID" : "18148", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362681N1191545W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2681", 
+        "LONGITUDE" : "-119.1545", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264218.2657, 
+        "y" : 4337574.5032
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15842, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E34N001M", 
+        "CASGEM_WELL_ID" : "18166", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362275N1191540W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2275", 
+        "LONGITUDE" : "-119.154", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264162.606, 
+        "y" : 4331970.3436
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15143, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E02A001M", 
+        "CASGEM_WELL_ID" : "17458", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363111N1191187W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3111", 
+        "LONGITUDE" : "-119.1187", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260233.028, 
+        "y" : 4343513.1213
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15144, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E02C001M", 
+        "CASGEM_WELL_ID" : "17459", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363106N1191267W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3106", 
+        "LONGITUDE" : "-119.1267", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261123.5839, 
+        "y" : 4343444.0488
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15145, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E03D001M", 
+        "CASGEM_WELL_ID" : "17460", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363114N1191523W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3114", 
+        "LONGITUDE" : "-119.1523", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263973.3628, 
+        "y" : 4343554.565
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15146, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E03R001M", 
+        "CASGEM_WELL_ID" : "17461", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362975N1191365W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2975", 
+        "LONGITUDE" : "-119.1365", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262214.5149, 
+        "y" : 4341634.5068
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15676, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E05R001M", 
+        "CASGEM_WELL_ID" : "17996", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363006N1191728W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3006", 
+        "LONGITUDE" : "-119.1728", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266255.4124, 
+        "y" : 4342062.6916
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15678, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E10L001M", 
+        "CASGEM_WELL_ID" : "17998", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362864N1191470W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2864", 
+        "LONGITUDE" : "-119.147", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263383.3695, 
+        "y" : 4340101.4686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 15679, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E11C001M", 
+        "CASGEM_WELL_ID" : "17999", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362967N1191273W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2967", 
+        "LONGITUDE" : "-119.1273", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261190.3756, 
+        "y" : 4341524.0103
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16748, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E24B001M", 
+        "CASGEM_WELL_ID" : "19088", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363527N1191067W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3527", 
+        "LONGITUDE" : "-119.1067", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258897.1941, 
+        "y" : 4349261.5068
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16751, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E25D001M", 
+        "CASGEM_WELL_ID" : "19091", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363399N1191123W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3399", 
+        "LONGITUDE" : "-119.1123", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259520.5832, 
+        "y" : 4347492.4458
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16752, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E25E001M", 
+        "CASGEM_WELL_ID" : "19092", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363346N1191148W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3346", 
+        "LONGITUDE" : "-119.1148", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259798.8819, 
+        "y" : 4346760.0291
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16753, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E25K001M", 
+        "CASGEM_WELL_ID" : "19093", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363296N1191067W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3296", 
+        "LONGITUDE" : "-119.1067", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258897.1941, 
+        "y" : 4346069.1157
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16754, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E25K004M", 
+        "CASGEM_WELL_ID" : "19094", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363327N1191056W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3327", 
+        "LONGITUDE" : "-119.1056", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258774.7426, 
+        "y" : 4346497.4768
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16755, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E25L001M", 
+        "CASGEM_WELL_ID" : "19095", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363324N1191115W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3324", 
+        "LONGITUDE" : "-119.1115", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259431.5276, 
+        "y" : 4346456.0218
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16756, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E26D001M", 
+        "CASGEM_WELL_ID" : "19096", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363406N1191342W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3406", 
+        "LONGITUDE" : "-119.1342", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261958.4801, 
+        "y" : 4347589.1838
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16757, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E26P001M", 
+        "CASGEM_WELL_ID" : "19097", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363261N1191281W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3261", 
+        "LONGITUDE" : "-119.1281", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261279.4312, 
+        "y" : 4345585.5026
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16758, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E26Q001M", 
+        "CASGEM_WELL_ID" : "19098", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363261N1191217W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3261", 
+        "LONGITUDE" : "-119.1217", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260566.9864, 
+        "y" : 4345585.5026
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16759, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E26Q002M", 
+        "CASGEM_WELL_ID" : "19099", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363275N1191256W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3275", 
+        "LONGITUDE" : "-119.1256", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261001.1324, 
+        "y" : 4345778.9452
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16760, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E27H001M", 
+        "CASGEM_WELL_ID" : "19101", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363339N1191351W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3339", 
+        "LONGITUDE" : "-119.1351", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262058.6676, 
+        "y" : 4346663.2986
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16761, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E27P001M", 
+        "CASGEM_WELL_ID" : "19102", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363269N1191440W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3269", 
+        "LONGITUDE" : "-119.144", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263049.4111, 
+        "y" : 4345696.0408
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16764, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E32R001M", 
+        "CASGEM_WELL_ID" : "19105", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363128N1191715W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3128", 
+        "LONGITUDE" : "-119.1715", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266110.6971, 
+        "y" : 4343747.9711
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16765, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E33R001M", 
+        "CASGEM_WELL_ID" : "19106", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363156N1191534W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3156", 
+        "LONGITUDE" : "-119.1534", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264095.8143, 
+        "y" : 4344134.7938
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16774, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E17H002M", 
+        "CASGEM_WELL_ID" : "19116", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363649N1190628W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3649", 
+        "LONGITUDE" : "-119.0628", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13254010.2684, 
+        "y" : 4350947.9138
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16776, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E19A001M", 
+        "CASGEM_WELL_ID" : "19118", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363543N1190809W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3543", 
+        "LONGITUDE" : "-119.0809", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256025.1512, 
+        "y" : 4349482.6599
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16777, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E19G001M", 
+        "CASGEM_WELL_ID" : "19119", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363474N1190865W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3474", 
+        "LONGITUDE" : "-119.0865", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256648.5404, 
+        "y" : 4348528.9697
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16778, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E19N001M", 
+        "CASGEM_WELL_ID" : "19120", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363407N1190942W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3407", 
+        "LONGITUDE" : "-119.0942", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257505.7004, 
+        "y" : 4347603.0036
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16779, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E20D001M", 
+        "CASGEM_WELL_ID" : "19121", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363518N1190762W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3518", 
+        "LONGITUDE" : "-119.0762", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255501.9496, 
+        "y" : 4349137.1102
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 16780, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E20N002M", 
+        "CASGEM_WELL_ID" : "19122", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363416N1190801W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3416", 
+        "LONGITUDE" : "-119.0801", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255936.0956, 
+        "y" : 4347727.3825
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 17422, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E30A001M", 
+        "CASGEM_WELL_ID" : "19773", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363385N1190812W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3385", 
+        "LONGITUDE" : "-119.0812", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256058.5471, 
+        "y" : 4347298.9724
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 17423, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E30E001M", 
+        "CASGEM_WELL_ID" : "19774", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363335N1190945W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3335", 
+        "LONGITUDE" : "-119.0945", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257539.0963, 
+        "y" : 4346608.0244
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 17424, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E30G001M", 
+        "CASGEM_WELL_ID" : "19775", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363363N1190901W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3363", 
+        "LONGITUDE" : "-119.0901", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257049.2905, 
+        "y" : 4346994.9498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32238, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E23C001M", 
+        "CASGEM_WELL_ID" : "35150", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363524N1191259W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3524", 
+        "LONGITUDE" : "-119.1259", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261034.5283, 
+        "y" : 4349220.0411
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32239, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E27L001M", 
+        "CASGEM_WELL_ID" : "35151", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363300N1191442W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.33", 
+        "LONGITUDE" : "-119.1442", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263071.675, 
+        "y" : 4346124.3871
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32242, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E33F001M", 
+        "CASGEM_WELL_ID" : "35154", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363203N1191637W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3203", 
+        "LONGITUDE" : "-119.1637", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265242.405, 
+        "y" : 4344784.1346
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32243, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E34P002M", 
+        "CASGEM_WELL_ID" : "35155", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363136N1191445W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3136", 
+        "LONGITUDE" : "-119.1445", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263105.0708, 
+        "y" : 4343858.4905
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32244, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E35R001M", 
+        "CASGEM_WELL_ID" : "35156", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363150N1191176W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.315", 
+        "LONGITUDE" : "-119.1176", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260110.5765, 
+        "y" : 4344051.9021
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32583, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E13M003M", 
+        "CASGEM_WELL_ID" : "35501", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362747N1191178W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2747", 
+        "LONGITUDE" : "-119.1178", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260132.8404, 
+        "y" : 4338485.7995
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32584, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E14E001M", 
+        "CASGEM_WELL_ID" : "35502", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362750N1191309W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.275", 
+        "LONGITUDE" : "-119.1309", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261591.1257, 
+        "y" : 4338527.2239
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32587, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E23H001M", 
+        "CASGEM_WELL_ID" : "35505", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362611N1191209W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2611", 
+        "LONGITUDE" : "-119.1209", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260477.9308, 
+        "y" : 4336608.061
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32588, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E24E001M", 
+        "CASGEM_WELL_ID" : "35506", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362625N1191140W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2625", 
+        "LONGITUDE" : "-119.114", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259709.8263, 
+        "y" : 4336801.3425
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32589, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E24Q001M", 
+        "CASGEM_WELL_ID" : "35507", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362550N1191073W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.255", 
+        "LONGITUDE" : "-119.1073", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258963.9858, 
+        "y" : 4335765.9463
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32591, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E26M002M", 
+        "CASGEM_WELL_ID" : "35509", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362461N1191362W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2461", 
+        "LONGITUDE" : "-119.1362", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262181.119, 
+        "y" : 4334537.4051
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32592, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E27B001M", 
+        "CASGEM_WELL_ID" : "35510", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362536N1191426W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2536", 
+        "LONGITUDE" : "-119.1426", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262893.5638, 
+        "y" : 4335572.6834
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32593, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E28J002M", 
+        "CASGEM_WELL_ID" : "35511", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362447N1191567W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2447", 
+        "LONGITUDE" : "-119.1567", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264463.1686, 
+        "y" : 4334344.1642
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32586, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E22D002M", 
+        "CASGEM_WELL_ID" : "35504", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362667N1191523W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2667", 
+        "LONGITUDE" : "-119.1523", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263973.3628, 
+        "y" : 4337381.2078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32596, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E34J001M", 
+        "CASGEM_WELL_ID" : "35514", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362286N1191370W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2286", 
+        "LONGITUDE" : "-119.137", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262270.1746, 
+        "y" : 4332122.1421
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32317, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E08J001M", 
+        "CASGEM_WELL_ID" : "35230", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362889N1191726W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2889", 
+        "LONGITUDE" : "-119.1726", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266233.1485, 
+        "y" : 4340446.7284
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32318, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E10K001M", 
+        "CASGEM_WELL_ID" : "35231", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362897N1191423W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2897", 
+        "LONGITUDE" : "-119.1423", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262860.1679, 
+        "y" : 4340557.2139
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32319, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E10R001M", 
+        "CASGEM_WELL_ID" : "35232", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362842N1191390W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2842", 
+        "LONGITUDE" : "-119.139", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262492.8136, 
+        "y" : 4339797.6491
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32356, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E19D001M", 
+        "CASGEM_WELL_ID" : "35269", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363546N1190959W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3546", 
+        "LONGITUDE" : "-119.0959", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257694.9436, 
+        "y" : 4349524.1266
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32357, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E19H001M", 
+        "CASGEM_WELL_ID" : "35270", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363474N1190809W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3474", 
+        "LONGITUDE" : "-119.0809", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256025.1512, 
+        "y" : 4348528.9697
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 32358, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S27E20J001M", 
+        "CASGEM_WELL_ID" : "35271", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363441N1190634W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3441", 
+        "LONGITUDE" : "-119.0634", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13254077.0601, 
+        "y" : 4348072.8869
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 33254, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E01D001M", 
+        "CASGEM_WELL_ID" : "36186", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363111N1191165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3111", 
+        "LONGITUDE" : "-119.1165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259988.1251, 
+        "y" : 4343513.1213
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 33256, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E03B001M", 
+        "CASGEM_WELL_ID" : "36188", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363114N1191395W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3114", 
+        "LONGITUDE" : "-119.1395", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262548.4734, 
+        "y" : 4343554.565
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 33257, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E03P001M", 
+        "CASGEM_WELL_ID" : "36189", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362978N1191456W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2978", 
+        "LONGITUDE" : "-119.1456", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263227.5223, 
+        "y" : 4341675.9433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 36223, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E35M001M", 
+        "CASGEM_WELL_ID" : "39236", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363150N1191306W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.315", 
+        "LONGITUDE" : "-119.1306", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261557.7299, 
+        "y" : 4344051.9021
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 36259, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E15J001M", 
+        "CASGEM_WELL_ID" : "39272", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362753N1191365W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2753", 
+        "LONGITUDE" : "-119.1365", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262214.5149, 
+        "y" : 4338568.6484
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EXETER IRRIGATION DISTRICT", 
+        "OBJECTID" : 36275, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1096", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E35D001M", 
+        "CASGEM_WELL_ID" : "39288", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363253N1191337W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3253", 
+        "LONGITUDE" : "-119.1337", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261902.8203, 
+        "y" : 4345474.9656
+      }
+    }
+  ]
+}

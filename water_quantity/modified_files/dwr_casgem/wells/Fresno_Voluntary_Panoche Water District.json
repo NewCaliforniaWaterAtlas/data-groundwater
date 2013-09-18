@@ -1,0 +1,2306 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 7864, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "59", 
+        "SWN" : "13S12E28N001M", 
+        "CASGEM_WELL_ID" : "39600", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367643N1206745W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7643", 
+        "LONGITUDE" : "-120.6745", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433423.8917, 
+        "y" : 4406303.9713
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 11852, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "37", 
+        "SWN" : "12S13E32R001M", 
+        "CASGEM_WELL_ID" : "14099", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368368N1205643W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8368", 
+        "LONGITUDE" : "-120.5643", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13421156.4838, 
+        "y" : 4416383.1595
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 11294, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "58", 
+        "SWN" : "13S12E28D001M", 
+        "CASGEM_WELL_ID" : "13508", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367775N1206724W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7775", 
+        "LONGITUDE" : "-120.6724", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433190.1208, 
+        "y" : 4408138.3685
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 12464, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "1", 
+        "SWN" : "12S11E12N001M", 
+        "CASGEM_WELL_ID" : "14729", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368971N1207277W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8971", 
+        "LONGITUDE" : "-120.7277", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439346.0886, 
+        "y" : 4424773.5433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 12465, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "2", 
+        "SWN" : "12S11E13E001M", 
+        "CASGEM_WELL_ID" : "14730", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368891N1207271W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8891", 
+        "LONGITUDE" : "-120.7271", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439279.2969, 
+        "y" : 4423660.0101
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 11037, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "17", 
+        "SWN" : "12S12E18N001M", 
+        "CASGEM_WELL_ID" : "13239", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368802N1207088W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8802", 
+        "LONGITUDE" : "-120.7088", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437242.1503, 
+        "y" : 4422421.3415
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 11147, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "57", 
+        "SWN" : "13S12E15N002M", 
+        "CASGEM_WELL_ID" : "13353", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367932N1206560W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7932", 
+        "LONGITUDE" : "-120.656", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431364.4812, 
+        "y" : 4410320.6008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 11189, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12S12E34N001M", 
+        "CASGEM_WELL_ID" : "13395", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368368N1206524W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8368", 
+        "LONGITUDE" : "-120.6524", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13430963.731, 
+        "y" : 4416383.1595
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21948, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E22H006M", 
+        "CASGEM_WELL_ID" : "24428", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367886N1206409W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7886", 
+        "LONGITUDE" : "-120.6409", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429683.5568, 
+        "y" : 4409681.1743
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21949, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E22H007M", 
+        "CASGEM_WELL_ID" : "24429", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367889N1206415W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7889", 
+        "LONGITUDE" : "-120.6415", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429750.3485, 
+        "y" : 4409722.8749
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21950, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E23A001M", 
+        "CASGEM_WELL_ID" : "24430", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367911N1206228W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7911", 
+        "LONGITUDE" : "-120.6228", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13427668.6741, 
+        "y" : 4410028.684
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21951, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E14K001M", 
+        "CASGEM_WELL_ID" : "24431", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367969N1206265W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7969", 
+        "LONGITUDE" : "-120.6265", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428080.5562, 
+        "y" : 4410834.95
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21952, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E15F001M", 
+        "CASGEM_WELL_ID" : "24432", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368029N1206506W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8029", 
+        "LONGITUDE" : "-120.6506", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13430763.3559, 
+        "y" : 4411669.0825
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21953, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E08J001M", 
+        "CASGEM_WELL_ID" : "24433", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368136N1206752W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8136", 
+        "LONGITUDE" : "-120.6752", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433501.8154, 
+        "y" : 4413156.781
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21954, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E10D002M", 
+        "CASGEM_WELL_ID" : "24434", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368211N1206558W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8211", 
+        "LONGITUDE" : "-120.6558", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431342.2173, 
+        "y" : 4414199.6843
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21955, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E02N001M", 
+        "CASGEM_WELL_ID" : "24435", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368224N1206376W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8224", 
+        "LONGITUDE" : "-120.6376", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429316.2025, 
+        "y" : 4414380.4646
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21956, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S11E12F001M", 
+        "CASGEM_WELL_ID" : "24436", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368173N1207231W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8173", 
+        "LONGITUDE" : "-120.7231", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13438834.019, 
+        "y" : 4413671.2672
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21957, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12S11E01M001M", 
+        "CASGEM_WELL_ID" : "24437", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369135N1207265W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.9135", 
+        "LONGITUDE" : "-120.7265", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439212.5053, 
+        "y" : 4427056.6513
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21958, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12S12E06R001M", 
+        "CASGEM_WELL_ID" : "24438", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369104N1206934W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.9104", 
+        "LONGITUDE" : "-120.6934", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13435527.8301, 
+        "y" : 4426625.0506
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21959, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E22H005M", 
+        "CASGEM_WELL_ID" : "24439", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367890N1206409W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.789", 
+        "LONGITUDE" : "-120.6409", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429683.5568, 
+        "y" : 4409736.7751
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21883, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "13", 
+        "SWN" : "12S11E24F006M", 
+        "CASGEM_WELL_ID" : "24362", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368725N1207201W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8725", 
+        "LONGITUDE" : "-120.7201", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13438500.0605, 
+        "y" : 4421349.8009
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21884, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "15", 
+        "SWN" : "12S11E24A001M", 
+        "CASGEM_WELL_ID" : "24363", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368781N1207116W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8781", 
+        "LONGITUDE" : "-120.7116", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437553.8448, 
+        "y" : 4422129.0924
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21885, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "18", 
+        "SWN" : "12S12E19R002M", 
+        "CASGEM_WELL_ID" : "24364", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368657N1206906W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8657", 
+        "LONGITUDE" : "-120.6906", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13435216.1355, 
+        "y" : 4420403.5951
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21886, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "21", 
+        "SWN" : "12S12E32J001M", 
+        "CASGEM_WELL_ID" : "24365", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368431N1206735W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8431", 
+        "LONGITUDE" : "-120.6735", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433312.5722, 
+        "y" : 4417259.4571
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21887, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "23", 
+        "SWN" : "12S12E32J003M", 
+        "CASGEM_WELL_ID" : "24366", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368431N1206725W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8431", 
+        "LONGITUDE" : "-120.6725", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433201.2528, 
+        "y" : 4417259.4571
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21888, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "25", 
+        "SWN" : "12S12E34D003M", 
+        "CASGEM_WELL_ID" : "24367", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368492N1206535W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8492", 
+        "LONGITUDE" : "-120.6535", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431086.1824, 
+        "y" : 4418108.0045
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21889, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "28", 
+        "SWN" : "12S12E09F001M", 
+        "CASGEM_WELL_ID" : "24368", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369015N1206634W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.9015", 
+        "LONGITUDE" : "-120.6634", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13432188.2454, 
+        "y" : 4425386.0363
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21890, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "32", 
+        "SWN" : "12S12E34A001M", 
+        "CASGEM_WELL_ID" : "24369", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368495N1206393W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8495", 
+        "LONGITUDE" : "-120.6393", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429505.4457, 
+        "y" : 4418149.7381
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21891, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "35", 
+        "SWN" : "12S13E31A001M", 
+        "CASGEM_WELL_ID" : "24370", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368495N1205837W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8495", 
+        "LONGITUDE" : "-120.5837", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13423316.082, 
+        "y" : 4418149.7381
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21892, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "45", 
+        "SWN" : "13S13E05P002M", 
+        "CASGEM_WELL_ID" : "24371", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368226N1205776W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8226", 
+        "LONGITUDE" : "-120.5776", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13422637.0331, 
+        "y" : 4414408.2772
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21893, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "46", 
+        "SWN" : "13S13E05P003M", 
+        "CASGEM_WELL_ID" : "24372", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368226N1205772W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8226", 
+        "LONGITUDE" : "-120.5772", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13422592.5053, 
+        "y" : 4414408.2772
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21894, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "52", 
+        "SWN" : "13S12E13A001M", 
+        "CASGEM_WELL_ID" : "24373", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368051N1206033W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8051", 
+        "LONGITUDE" : "-120.6033", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13425497.944, 
+        "y" : 4411974.9474
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21895, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "55", 
+        "SWN" : "13S12E13D001M", 
+        "CASGEM_WELL_ID" : "24374", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368058N1206184W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8058", 
+        "LONGITUDE" : "-120.6184", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13427178.8683, 
+        "y" : 4412072.2699
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21896, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E34J002M", 
+        "CASGEM_WELL_ID" : "24375", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367535N1206400W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7535", 
+        "LONGITUDE" : "-120.64", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429583.3693, 
+        "y" : 4404803.3358
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21897, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E27F001M", 
+        "CASGEM_WELL_ID" : "24376", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368585N1206460W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8585", 
+        "LONGITUDE" : "-120.646", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13430251.2862, 
+        "y" : 4419401.8219
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21898, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E22F001M", 
+        "CASGEM_WELL_ID" : "24377", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367885N1206510W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7885", 
+        "LONGITUDE" : "-120.651", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13430807.8837, 
+        "y" : 4409667.2742
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 21899, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E23F001M", 
+        "CASGEM_WELL_ID" : "24378", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367887N1206328W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7887", 
+        "LONGITUDE" : "-120.6328", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428781.869, 
+        "y" : 4409695.0745
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 22759, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "3", 
+        "SWN" : "12S11E06N003M", 
+        "CASGEM_WELL_ID" : "25254", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369103N1208177W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.9103", 
+        "LONGITUDE" : "-120.8177", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13449364.8428, 
+        "y" : 4426611.1283
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 22760, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "5", 
+        "SWN" : "12S11E17R001M", 
+        "CASGEM_WELL_ID" : "25255", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368777N1207820W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8777", 
+        "LONGITUDE" : "-120.782", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13445390.737, 
+        "y" : 4422073.4268
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 22761, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "6", 
+        "SWN" : "12S11E17C005M", 
+        "CASGEM_WELL_ID" : "25256", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368915N1207922W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8915", 
+        "LONGITUDE" : "-120.7922", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13446526.1958, 
+        "y" : 4423994.0578
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 22762, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "8", 
+        "SWN" : "12S11E23E002M", 
+        "CASGEM_WELL_ID" : "25257", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368722N1207450W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8722", 
+        "LONGITUDE" : "-120.745", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441271.9158, 
+        "y" : 4421308.0547
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 29650, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13S12E03N001M", 
+        "CASGEM_WELL_ID" : "32492", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368224N1206557W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8224", 
+        "LONGITUDE" : "-120.6557", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431331.0853, 
+        "y" : 4414380.4646
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 29292, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12S12E18D001M", 
+        "CASGEM_WELL_ID" : "32126", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368916N1207091W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8916", 
+        "LONGITUDE" : "-120.7091", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437275.5461, 
+        "y" : 4424007.9766
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34949, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "10", 
+        "SWN" : "12S11E24F003M", 
+        "CASGEM_WELL_ID" : "37932", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368725N1207216W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8725", 
+        "LONGITUDE" : "-120.7216", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13438667.0397, 
+        "y" : 4421349.8009
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34950, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "12", 
+        "SWN" : "12S11E24F005M", 
+        "CASGEM_WELL_ID" : "37933", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368725N1207206W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8725", 
+        "LONGITUDE" : "-120.7206", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13438555.7203, 
+        "y" : 4421349.8009
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34951, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "16", 
+        "SWN" : "12S12E07N003M", 
+        "CASGEM_WELL_ID" : "37934", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368975N1207092W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8975", 
+        "LONGITUDE" : "-120.7092", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437286.6781, 
+        "y" : 4424829.223
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34952, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "19", 
+        "SWN" : "12S12E29N001M", 
+        "CASGEM_WELL_ID" : "37935", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368509N1206892W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8509", 
+        "LONGITUDE" : "-120.6892", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13435060.2882, 
+        "y" : 4418344.497
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34953, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "22", 
+        "SWN" : "12S12E32J002M", 
+        "CASGEM_WELL_ID" : "37936", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368430N1206730W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.843", 
+        "LONGITUDE" : "-120.673", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433256.9125, 
+        "y" : 4417245.5471
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34954, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "24", 
+        "SWN" : "13S12E04A001M", 
+        "CASGEM_WELL_ID" : "37937", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368357N1206572W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8357", 
+        "LONGITUDE" : "-120.6572", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431498.0645, 
+        "y" : 4416230.1626
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34955, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "29", 
+        "SWN" : "12S12E10R001M", 
+        "CASGEM_WELL_ID" : "37938", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368954N1206374W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8954", 
+        "LONGITUDE" : "-120.6374", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429293.9386, 
+        "y" : 4424536.9077
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34956, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "31", 
+        "SWN" : "12S12E26D001M", 
+        "CASGEM_WELL_ID" : "37939", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369635N1206332W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.9635", 
+        "LONGITUDE" : "-120.6332", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428826.3968, 
+        "y" : 4434020.3784
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34957, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "40", 
+        "SWN" : "13S12E35R001M", 
+        "CASGEM_WELL_ID" : "37940", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367511N1206239W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7511", 
+        "LONGITUDE" : "-120.6239", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13427791.1255, 
+        "y" : 4404469.8899
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34958, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "44", 
+        "SWN" : "13S13E05P001M", 
+        "CASGEM_WELL_ID" : "37941", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368227N1205780W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8227", 
+        "LONGITUDE" : "-120.578", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13422681.5609, 
+        "y" : 4414422.1836
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34959, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "47", 
+        "SWN" : "13S13E05P004M", 
+        "CASGEM_WELL_ID" : "37942", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368226N1205768W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8226", 
+        "LONGITUDE" : "-120.5768", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13422547.9775, 
+        "y" : 4414408.2772
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34960, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "53", 
+        "SWN" : "13S12E13H001M", 
+        "CASGEM_WELL_ID" : "37943", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368010N1206032W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.801", 
+        "LONGITUDE" : "-120.6032", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13425486.812, 
+        "y" : 4411404.9334
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34961, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "56", 
+        "SWN" : "13S12E10N002M", 
+        "CASGEM_WELL_ID" : "37944", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368075N1206570W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8075", 
+        "LONGITUDE" : "-120.657", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431475.8006, 
+        "y" : 4412308.6283
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34962, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "62", 
+        "SWN" : "13S12E34J001M", 
+        "CASGEM_WELL_ID" : "37945", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367539N1206400W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7539", 
+        "LONGITUDE" : "-120.64", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429583.3693, 
+        "y" : 4404858.9111
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34719, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "4", 
+        "SWN" : "12S11E07C001M", 
+        "CASGEM_WELL_ID" : "37698", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369070N1208150W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.907", 
+        "LONGITUDE" : "-120.815", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13449064.2802, 
+        "y" : 4426151.7022
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 34720, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "7", 
+        "SWN" : "12S12E14N001M", 
+        "CASGEM_WELL_ID" : "37699", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368805N1206350W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8805", 
+        "LONGITUDE" : "-120.635", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429026.7718, 
+        "y" : 4422463.092
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 35144, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12S12E06J001M", 
+        "CASGEM_WELL_ID" : "38129", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369136N1206935W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.9136", 
+        "LONGITUDE" : "-120.6935", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13435538.9621, 
+        "y" : 4427070.5742
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 35145, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12S11E02D001M", 
+        "CASGEM_WELL_ID" : "38130", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369230N1207462W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.923", 
+        "LONGITUDE" : "-120.7462", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441405.4992, 
+        "y" : 4428379.4079
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 35146, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12S12E21E002M", 
+        "CASGEM_WELL_ID" : "38131", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368726N1206718W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8726", 
+        "LONGITUDE" : "-120.6718", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433123.3291, 
+        "y" : 4421363.7163
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 35858, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "34", 
+        "SWN" : "12S12E25R002M", 
+        "CASGEM_WELL_ID" : "38860", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368510N1205996W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.851", 
+        "LONGITUDE" : "-120.5996", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13425086.0619, 
+        "y" : 4418358.4085
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 35987, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "27", 
+        "SWN" : "12S12E21A001M", 
+        "CASGEM_WELL_ID" : "38993", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368780N1206552W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.878", 
+        "LONGITUDE" : "-120.6552", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431275.4256, 
+        "y" : 4422115.176
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 36830, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "9", 
+        "SWN" : "12S11E24F002M", 
+        "CASGEM_WELL_ID" : "39873", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368725N1207212W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8725", 
+        "LONGITUDE" : "-120.7212", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13438622.512, 
+        "y" : 4421349.8009
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 35580, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "48", 
+        "SWN" : "13S13E09D002M", 
+        "CASGEM_WELL_ID" : "38576", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368208N1205661W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8208", 
+        "LONGITUDE" : "-120.5661", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13421356.8589, 
+        "y" : 4414157.9662
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 36513, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "43", 
+        "SWN" : "13S13E08D001M", 
+        "CASGEM_WELL_ID" : "39535", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368214N1205837W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8214", 
+        "LONGITUDE" : "-120.5837", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13423316.082, 
+        "y" : 4414241.4026
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 36516, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12S11E24F004M", 
+        "CASGEM_WELL_ID" : "39538", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368725N1207211W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.8725", 
+        "LONGITUDE" : "-120.7211", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13438611.38, 
+        "y" : 4421349.8009
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 36106, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "60", 
+        "SWN" : "13S13E30D001M", 
+        "CASGEM_WELL_ID" : "39115", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367783N1206021W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.7783", 
+        "LONGITUDE" : "-120.6021", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13425364.3606, 
+        "y" : 4408249.5543
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 11167, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "14", 
+        "SWN" : "12S12E19E001M", 
+        "CASGEM_WELL_ID" : "13373", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368721N1207082W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "36.8721", 
+        "LONGITUDE" : "-120.7082", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437175.3586, 
+        "y" : 4421294.1394
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Panoche Water District", 
+        "OBJECTID" : 29672, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "320", 
+        "LOCAL_WELL_NBR" : "33", 
+        "SWN" : "12S12E25N002M", 
+        "CASGEM_WELL_ID" : "32515", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "368507N1206171W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "36.8507", 
+        "LONGITUDE" : "-120.6171", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13427034.153, 
+        "y" : 4418316.6741
+      }
+    }
+  ]
+}

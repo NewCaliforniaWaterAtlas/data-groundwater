@@ -1,0 +1,418 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19647, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "17N01W20H001H", 
+        "SWN" : "17N01W20H001H", 
+        "CASGEM_WELL_ID" : "22038", 
+        "GW_BASIN_NAME" : "Smith River Plain", 
+        "GW_BASIN_CODE" : "1-1", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "30", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "13721", 
+        "CASGEM_STATION_ID" : "418522N1242019W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.852247", 
+        "LONGITUDE" : "-124.201582", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13826056.864, 
+        "y" : 5138872.3924
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19646, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N01W15M002H", 
+        "CASGEM_WELL_ID" : "22037", 
+        "GW_BASIN_NAME" : "Smith River Plain", 
+        "GW_BASIN_CODE" : "1-1", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "27", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418655N1241742W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8655", 
+        "LONGITUDE" : "-124.1742", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13823008.7137, 
+        "y" : 5140853.2405
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Resighini Rancheria", 
+        "OBJECTID" : 105185, 
+        "SHP_FILE_ID" : "3776", 
+        "ME_ID" : "1470", 
+        "LOCAL_WELL_NBR" : "GEMW1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49443", 
+        "GW_BASIN_NAME" : "Lower Klamath River Valley", 
+        "GW_BASIN_CODE" : "1-14", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "415137N1240262W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.513735", 
+        "LONGITUDE" : "-124.02621", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13806534.5422, 
+        "y" : 5088415.3393
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19643, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "16N01W02F002H", 
+        "SWN" : "16N01W02F002H", 
+        "CASGEM_WELL_ID" : "22034", 
+        "GW_BASIN_NAME" : "Smith River Plain", 
+        "GW_BASIN_CODE" : "1-1", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "34", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/03/2013", 
+        "COMPLETION_RPT_NBR" : "132261", 
+        "CASGEM_STATION_ID" : "418103N1241481W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.810912", 
+        "LONGITUDE" : "-124.149271", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13820233.6301, 
+        "y" : 5132696.9276
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19641, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "13N01E03M001H", 
+        "SWN" : "13N01E03M001H", 
+        "CASGEM_WELL_ID" : "22032", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "48", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/14/2013", 
+        "COMPLETION_RPT_NBR" : "1562", 
+        "CASGEM_STATION_ID" : "415441N1240474W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.544001", 
+        "LONGITUDE" : "-124.047155", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13808866.129, 
+        "y" : 5092915.8707
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Resighini Rancheria", 
+        "OBJECTID" : 105846, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1470", 
+        "LOCAL_WELL_NBR" : "13N01E03M001H", 
+        "SWN" : "13N01E03M001H", 
+        "CASGEM_WELL_ID" : "22032", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "48", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/14/2013", 
+        "COMPLETION_RPT_NBR" : "1562", 
+        "CASGEM_STATION_ID" : "415441N1240474W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.544001", 
+        "LONGITUDE" : "-124.047155", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13808866.129, 
+        "y" : 5092915.8707
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Resighini Rancheria", 
+        "OBJECTID" : 105847, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1470", 
+        "LOCAL_WELL_NBR" : "13N01E15R001H", 
+        "SWN" : "13N01E15R001H", 
+        "CASGEM_WELL_ID" : "22033", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/14/2013", 
+        "COMPLETION_RPT_NBR" : "61058", 
+        "CASGEM_STATION_ID" : "415117N1240356W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.511733", 
+        "LONGITUDE" : "-124.035656", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13807586.0661, 
+        "y" : 5088117.7176
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19642, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "13N01E15R001H", 
+        "SWN" : "13N01E15R001H", 
+        "CASGEM_WELL_ID" : "22033", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/14/2013", 
+        "COMPLETION_RPT_NBR" : "61058", 
+        "CASGEM_STATION_ID" : "415117N1240356W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.511733", 
+        "LONGITUDE" : "-124.035656", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13807586.0661, 
+        "y" : 5088117.7176
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19645, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "17N01W02P001H", 
+        "SWN" : "17N01W02P001H", 
+        "CASGEM_WELL_ID" : "22036", 
+        "GW_BASIN_NAME" : "Smith River Plain", 
+        "GW_BASIN_CODE" : "1-1", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "27", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/03/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418892N1241471W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.889267", 
+        "LONGITUDE" : "-124.146898", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13819969.4689, 
+        "y" : 5144406.583
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19644, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "16N01W17K001H", 
+        "SWN" : "16N01W17K001H", 
+        "CASGEM_WELL_ID" : "22035", 
+        "GW_BASIN_NAME" : "Smith River Plain", 
+        "GW_BASIN_CODE" : "1-1", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/03/2013", 
+        "COMPLETION_RPT_NBR" : "75", 
+        "CASGEM_STATION_ID" : "417784N1241996W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.778353", 
+        "LONGITUDE" : "-124.199615", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13825837.8985, 
+        "y" : 5127835.4058
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19648, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "18N01W27P003H", 
+        "SWN" : "18N01W27P003H", 
+        "CASGEM_WELL_ID" : "22039", 
+        "GW_BASIN_NAME" : "Smith River Plain", 
+        "GW_BASIN_CODE" : "1-1", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "25", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/03/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419172N1241698W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.917173", 
+        "LONGITUDE" : "-124.169521", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13822487.8498, 
+        "y" : 5148580.4245
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19649, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "18N01W35B002H", 
+        "SWN" : "18N01W35B002H", 
+        "CASGEM_WELL_ID" : "22040", 
+        "GW_BASIN_NAME" : "Smith River Plain", 
+        "GW_BASIN_CODE" : "1-1", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "42", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Del Norte", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/03/2013", 
+        "COMPLETION_RPT_NBR" : "113196", 
+        "CASGEM_STATION_ID" : "419155N1241432W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.915529", 
+        "LONGITUDE" : "-124.14298", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13819533.3192, 
+        "y" : 5148334.4843
+      }
+    }
+  ]
+}

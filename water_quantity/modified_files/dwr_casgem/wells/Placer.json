@@ -1,0 +1,4226 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9055, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E01N001M", 
+        "CASGEM_WELL_ID" : "11216", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388253N1213735W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8253", 
+        "LONGITUDE" : "-121.3735", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511236.2158, 
+        "y" : 4696678.1009
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9056, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E06H001M", 
+        "CASGEM_WELL_ID" : "11217", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388352N1214515W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8352", 
+        "LONGITUDE" : "-121.4515", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519919.1361, 
+        "y" : 4698092.8031
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9057, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E07H001M", 
+        "CASGEM_WELL_ID" : "11218", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388175N1214520W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8175", 
+        "LONGITUDE" : "-121.452", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519974.7958, 
+        "y" : 4695563.6256
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9058, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E16H001M", 
+        "CASGEM_WELL_ID" : "11219", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "460", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "127", 
+        "CASGEM_STATION_ID" : "388029N1214145W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8029", 
+        "LONGITUDE" : "-121.4145", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13515800.3149, 
+        "y" : 4693477.8845
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9059, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E17A004M", 
+        "CASGEM_WELL_ID" : "11220", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "210", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388069N1214338W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8069", 
+        "LONGITUDE" : "-121.4338", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13517948.7811, 
+        "y" : 4694049.2779
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9061, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E20C001M", 
+        "CASGEM_WELL_ID" : "11222", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "286", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "46429", 
+        "CASGEM_STATION_ID" : "387945N1214427W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7945", 
+        "LONGITUDE" : "-121.4427", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13518939.5246, 
+        "y" : 4692278.0627
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9063, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E24J001M", 
+        "CASGEM_WELL_ID" : "11224", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "170", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387854N1213613W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7854", 
+        "LONGITUDE" : "-121.3613", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13509878.118, 
+        "y" : 4690978.4153
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9196, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E28C001M", 
+        "CASGEM_WELL_ID" : "11358", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387789N1214243W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7789", 
+        "LONGITUDE" : "-121.4243", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13516891.2459, 
+        "y" : 4690050.1973
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9197, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E29G002M", 
+        "CASGEM_WELL_ID" : "11359", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "388", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387739N1214417W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7739", 
+        "LONGITUDE" : "-121.4417", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13518828.2051, 
+        "y" : 4689336.241
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County", 
+        "OBJECTID" : 9198, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "466", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E31D003M", 
+        "CASGEM_WELL_ID" : "11360", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387630N1214664W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.763", 
+        "LONGITUDE" : "-121.4664", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13521577.7965, 
+        "y" : 4687779.9898
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9199, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E32R001M", 
+        "CASGEM_WELL_ID" : "11361", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "397", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387530N1214331W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.753", 
+        "LONGITUDE" : "-121.4331", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13517870.8574, 
+        "y" : 4686352.4455
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9200, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E34R003M", 
+        "CASGEM_WELL_ID" : "11362", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387539N1213994W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7539", 
+        "LONGITUDE" : "-121.3994", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13514119.3906, 
+        "y" : 4686480.9163
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 7798, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E04F001M", 
+        "CASGEM_WELL_ID" : "32900", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389193N1214277W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9193", 
+        "LONGITUDE" : "-121.4277", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13517269.7322, 
+        "y" : 4710118.5734
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11434, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N05E12D001M", 
+        "CASGEM_WELL_ID" : "13651", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "410", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387412N1213888W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7412", 
+        "LONGITUDE" : "-121.3888", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13512939.404, 
+        "y" : 4684668.2003
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11440, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N06E03M001M", 
+        "CASGEM_WELL_ID" : "13658", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387505N1213191W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7505", 
+        "LONGITUDE" : "-121.3191", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13505180.4355, 
+        "y" : 4685995.5906
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11441, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N06E05H001M", 
+        "CASGEM_WELL_ID" : "13659", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "256", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387511N1213389W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7511", 
+        "LONGITUDE" : "-121.3389", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13507384.5614, 
+        "y" : 4686081.2346
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11442, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N06E05L001M", 
+        "CASGEM_WELL_ID" : "13660", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "400", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387488N1213489W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7488", 
+        "LONGITUDE" : "-121.3489", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13508497.7563, 
+        "y" : 4685752.9365
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11443, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N06E07L001M", 
+        "CASGEM_WELL_ID" : "13661", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "180", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387333N1213658W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7333", 
+        "LONGITUDE" : "-121.3658", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13510379.0557, 
+        "y" : 4683540.768
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11444, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N06E09D001M", 
+        "CASGEM_WELL_ID" : "13662", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "350", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387429N1213328W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7429", 
+        "LONGITUDE" : "-121.3328", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13506705.5125, 
+        "y" : 4684910.8287
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11445, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N06E10C001M", 
+        "CASGEM_WELL_ID" : "13663", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "400", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387430N1213121W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.743", 
+        "LONGITUDE" : "-121.3121", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13504401.1991, 
+        "y" : 4684925.1011
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11446, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N06E13C001M", 
+        "CASGEM_WELL_ID" : "13664", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "218", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "10694", 
+        "CASGEM_STATION_ID" : "387269N1212760W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7269", 
+        "LONGITUDE" : "-121.276", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13500382.5654, 
+        "y" : 4682627.4966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11447, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N06E17A001M", 
+        "CASGEM_WELL_ID" : "13665", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "340", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387285N1213396W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7285", 
+        "LONGITUDE" : "-121.3396", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13507462.4851, 
+        "y" : 4682855.8068
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11451, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N07E18B001M", 
+        "CASGEM_WELL_ID" : "13670", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "52331", 
+        "CASGEM_STATION_ID" : "387290N1212518W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.729", 
+        "LONGITUDE" : "-121.2518", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13497688.6338, 
+        "y" : 4682927.1547
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 12278, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N06E34P002M", 
+        "CASGEM_WELL_ID" : "14537", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389267N1212976W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9267", 
+        "LONGITUDE" : "-121.2976", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13502787.0664, 
+        "y" : 4711177.4086
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10958, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E26H002M", 
+        "CASGEM_WELL_ID" : "13158", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388625N1213791W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8625", 
+        "LONGITUDE" : "-121.3791", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511859.6049, 
+        "y" : 4701994.9715
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10959, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E28C001M", 
+        "CASGEM_WELL_ID" : "13159", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388674N1214243W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8674", 
+        "LONGITUDE" : "-121.4243", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13516891.2459, 
+        "y" : 4702695.5193
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SUTTER, SOUTH, WATER DISTRICT", 
+        "OBJECTID" : 10960, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1086", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E31A001M", 
+        "CASGEM_WELL_ID" : "13160", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388501N1214521W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8501", 
+        "LONGITUDE" : "-121.4521", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519985.9278, 
+        "y" : 4700222.3724
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10961, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E35E002M", 
+        "CASGEM_WELL_ID" : "13161", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "352", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388480N1213913W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.848", 
+        "LONGITUDE" : "-121.3913", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13513217.7027, 
+        "y" : 4699922.2048
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10962, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E06A001M", 
+        "CASGEM_WELL_ID" : "13162", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "180", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389261N1213426W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9261", 
+        "LONGITUDE" : "-121.3426", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13507796.4435, 
+        "y" : 4711091.553
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10964, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E14F001M", 
+        "CASGEM_WELL_ID" : "13164", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388931N1212757W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8931", 
+        "LONGITUDE" : "-121.2757", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13500349.1696, 
+        "y" : 4706370.6118
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County", 
+        "OBJECTID" : 10965, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "466", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E18L001M", 
+        "CASGEM_WELL_ID" : "13165", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388875N1213497W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8875", 
+        "LONGITUDE" : "-121.3497", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13508586.8119, 
+        "y" : 4705569.7002
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10966, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E20P003M", 
+        "CASGEM_WELL_ID" : "13166", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388696N1213321W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8696", 
+        "LONGITUDE" : "-121.3321", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13506627.5889, 
+        "y" : 4703010.0666
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 10967, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E27D001M", 
+        "CASGEM_WELL_ID" : "13167", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "126", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388658N1213020W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8658", 
+        "LONGITUDE" : "-121.302", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13503276.8722, 
+        "y" : 4702466.7637
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10968, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E28M001M", 
+        "CASGEM_WELL_ID" : "13168", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388607N1213177W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8607", 
+        "LONGITUDE" : "-121.3177", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13505024.5882, 
+        "y" : 4701737.6395
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10969, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E32K001M", 
+        "CASGEM_WELL_ID" : "13169", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388448N1213257W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8448", 
+        "LONGITUDE" : "-121.3257", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13505915.1441, 
+        "y" : 4699464.8235
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9743, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E06A001M", 
+        "CASGEM_WELL_ID" : "11916", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "265", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "83886", 
+        "CASGEM_STATION_ID" : "388378N1213431W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8378", 
+        "LONGITUDE" : "-121.3431", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13507852.1033, 
+        "y" : 4698464.3737
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 10963, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E11E001M", 
+        "CASGEM_WELL_ID" : "13163", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "145", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389062N1212808W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9062", 
+        "LONGITUDE" : "-121.2808", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13500916.899, 
+        "y" : 4708244.4197
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9744, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E10P001M", 
+        "CASGEM_WELL_ID" : "11917", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "410", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388134N1212990W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8134", 
+        "LONGITUDE" : "-121.299", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13502942.9137, 
+        "y" : 4694977.8606
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9745, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E11R001M", 
+        "CASGEM_WELL_ID" : "11918", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388133N1212663W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8133", 
+        "LONGITUDE" : "-121.2663", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13499302.7664, 
+        "y" : 4694963.5741
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9746, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E16M002M", 
+        "CASGEM_WELL_ID" : "11919", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387998N1213186W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7998", 
+        "LONGITUDE" : "-121.3186", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13505124.7758, 
+        "y" : 4693035.0766
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9747, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E18P005M", 
+        "CASGEM_WELL_ID" : "11920", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387975N1213541W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7975", 
+        "LONGITUDE" : "-121.3541", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13509076.6177, 
+        "y" : 4692706.5542
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9749, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E30F002M", 
+        "CASGEM_WELL_ID" : "11922", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "195", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387743N1213514W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7743", 
+        "LONGITUDE" : "-121.3514", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13508776.0551, 
+        "y" : 4689393.3557
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9750, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E34D001M", 
+        "CASGEM_WELL_ID" : "11923", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "320", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387652N1213019W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7652", 
+        "LONGITUDE" : "-121.3019", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13503265.7403, 
+        "y" : 4688094.0764
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9751, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E34H001M", 
+        "CASGEM_WELL_ID" : "11924", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "280", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "15197", 
+        "CASGEM_STATION_ID" : "387603N1212864W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7603", 
+        "LONGITUDE" : "-121.2864", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13501540.2881, 
+        "y" : 4687394.5331
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14732, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E01R001M", 
+        "CASGEM_WELL_ID" : "17041", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "370", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389142N1213590W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9142", 
+        "LONGITUDE" : "-121.359", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13509622.0832, 
+        "y" : 4709388.8999
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14733, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E06J003M", 
+        "CASGEM_WELL_ID" : "17042", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389168N1214567W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9168", 
+        "LONGITUDE" : "-121.4567", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13520497.9974, 
+        "y" : 4709760.8838
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14734, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E06R001M", 
+        "CASGEM_WELL_ID" : "17043", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389128N1214522W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9128", 
+        "LONGITUDE" : "-121.4522", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519997.0597, 
+        "y" : 4709188.6066
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14735, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E12Q001M", 
+        "CASGEM_WELL_ID" : "17044", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388974N1213665W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8974", 
+        "LONGITUDE" : "-121.3665", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13510456.9794, 
+        "y" : 4706985.6404
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14736, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E14R001M", 
+        "CASGEM_WELL_ID" : "17045", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "653", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388843N1213773W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8843", 
+        "LONGITUDE" : "-121.3773", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511659.2299, 
+        "y" : 4705112.0647
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14737, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E17D001M", 
+        "CASGEM_WELL_ID" : "17046", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "185", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388966N1214480W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8966", 
+        "LONGITUDE" : "-121.448", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519529.5179, 
+        "y" : 4706871.2137
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14738, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E26D001M", 
+        "CASGEM_WELL_ID" : "17047", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388676N1213939W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8676", 
+        "LONGITUDE" : "-121.3939", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13513507.1334, 
+        "y" : 4702724.1141
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14890, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E01K001M", 
+        "CASGEM_WELL_ID" : "17201", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "390061N1213646W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0061", 
+        "LONGITUDE" : "-121.3646", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13510245.4723, 
+        "y" : 4722545.3829
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14896, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E10B002M", 
+        "CASGEM_WELL_ID" : "17207", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389985N1214047W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9985", 
+        "LONGITUDE" : "-121.4047", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13514709.3839, 
+        "y" : 4721456.7127
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14899, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E22C003M", 
+        "CASGEM_WELL_ID" : "17210", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "400", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389674N1214063W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9674", 
+        "LONGITUDE" : "-121.4063", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13514887.4951, 
+        "y" : 4717002.9775
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14902, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E34R003M", 
+        "CASGEM_WELL_ID" : "17213", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "70", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389278N1213964W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9278", 
+        "LONGITUDE" : "-121.3964", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13513785.4321, 
+        "y" : 4711334.8124
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14903, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E34R004M", 
+        "CASGEM_WELL_ID" : "17214", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389278N1213964W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9278", 
+        "LONGITUDE" : "-121.3964", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13513785.4321, 
+        "y" : 4711334.8124
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14904, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N06E09N002M", 
+        "CASGEM_WELL_ID" : "17215", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "52", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389864N1213187W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9864", 
+        "LONGITUDE" : "-121.3187", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13505135.9077, 
+        "y" : 4719723.6765
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14905, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N06E30M001M", 
+        "CASGEM_WELL_ID" : "17216", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389448N1213561W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9448", 
+        "LONGITUDE" : "-121.3561", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13509299.2567, 
+        "y" : 4713767.7277
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County", 
+        "OBJECTID" : 14906, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "466", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N06E33C001M", 
+        "CASGEM_WELL_ID" : "17217", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "391", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389405N1213162W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9405", 
+        "LONGITUDE" : "-121.3162", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13504857.609, 
+        "y" : 4713152.2882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14900, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E24J001M", 
+        "CASGEM_WELL_ID" : "17211", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389631N1213611W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9631", 
+        "LONGITUDE" : "-121.3611", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13509855.8541, 
+        "y" : 4716387.3416
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 15323, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N16E19G001M", 
+        "CASGEM_WELL_ID" : "17640", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "98", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "372323", 
+        "CASGEM_STATION_ID" : "393079N1202452W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3079", 
+        "LONGITUDE" : "-120.2452", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13385634.4343, 
+        "y" : 4765872.0616
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 13408, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N05E05E001M", 
+        "CASGEM_WELL_ID" : "15695", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "210", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "885", 
+        "CASGEM_STATION_ID" : "387510N1214647W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.751", 
+        "LONGITUDE" : "-121.4647", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13521388.5534, 
+        "y" : 4686066.9606
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 13409, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N05E08L002M", 
+        "CASGEM_WELL_ID" : "15696", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "190", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387341N1214620W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7341", 
+        "LONGITUDE" : "-121.462", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13521087.9907, 
+        "y" : 4683654.9327
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Squaw Valley Public Service District", 
+        "OBJECTID" : 58299, 
+        "SHP_FILE_ID" : "1943", 
+        "ME_ID" : "5150", 
+        "LOCAL_WELL_NBR" : "SVPSD-4R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46980", 
+        "GW_BASIN_NAME" : "Olympic Valley", 
+        "GW_BASIN_CODE" : "6-108", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "74", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/14/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391978N1202320W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.197817", 
+        "LONGITUDE" : "-120.23199", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13384163.9039, 
+        "y" : 4750046.9017
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County", 
+        "OBJECTID" : 28941, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "466", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E06B001M", 
+        "CASGEM_WELL_ID" : "31768", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "180", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388366N1213470W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8366", 
+        "LONGITUDE" : "-121.347", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13508286.2493, 
+        "y" : 4698292.8779
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 28942, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E15C004M", 
+        "CASGEM_WELL_ID" : "31769", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "98", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388074N1212947W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8074", 
+        "LONGITUDE" : "-121.2947", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13502464.2399, 
+        "y" : 4694120.7043
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County", 
+        "OBJECTID" : 28943, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "466", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E17J002M", 
+        "CASGEM_WELL_ID" : "31770", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "113", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388008N1213219W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8008", 
+        "LONGITUDE" : "-121.3219", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13505492.1301, 
+        "y" : 4693177.9158
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County", 
+        "OBJECTID" : 28944, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "466", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E28N001M", 
+        "CASGEM_WELL_ID" : "31771", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387694N1213195W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7694", 
+        "LONGITUDE" : "-121.3195", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13505224.9633, 
+        "y" : 4688693.7232
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 28945, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N06E32F003M", 
+        "CASGEM_WELL_ID" : "31772", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "290", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387597N1213328W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7597", 
+        "LONGITUDE" : "-121.3328", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13506705.5125, 
+        "y" : 4687308.8781
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 27486, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E03M003M", 
+        "CASGEM_WELL_ID" : "30280", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "600", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388297N1214134W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8297", 
+        "LONGITUDE" : "-121.4134", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13515677.8635, 
+        "y" : 4697306.8332
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 27487, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N05E15G001M", 
+        "CASGEM_WELL_ID" : "30281", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "134", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388037N1214031W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8037", 
+        "LONGITUDE" : "-121.4031", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13514531.2727, 
+        "y" : 4693592.1606
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29742, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N05E04Q001M", 
+        "CASGEM_WELL_ID" : "32585", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "550", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387447N1214384W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7447", 
+        "LONGITUDE" : "-121.4384", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13518460.8507, 
+        "y" : 4685167.7355
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29743, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N05E10J003M", 
+        "CASGEM_WELL_ID" : "32586", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387344N1214154W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7344", 
+        "LONGITUDE" : "-121.4154", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13515900.5025, 
+        "y" : 4683697.7448
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30233, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N07E07E002M", 
+        "CASGEM_WELL_ID" : "33090", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387374N1212622W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7374", 
+        "LONGITUDE" : "-121.2622", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13498846.3565, 
+        "y" : 4684125.8756
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30234, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N07E18J001M", 
+        "CASGEM_WELL_ID" : "33091", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "164", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387216N1212470W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7216", 
+        "LONGITUDE" : "-121.247", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13497154.3002, 
+        "y" : 4681871.2555
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30046, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E01D002M", 
+        "CASGEM_WELL_ID" : "32899", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389254N1213763W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9254", 
+        "LONGITUDE" : "-121.3763", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511547.9104, 
+        "y" : 4710991.389
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30047, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E07H001M", 
+        "CASGEM_WELL_ID" : "32901", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "415", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "80", 
+        "CASGEM_STATION_ID" : "389078N1214522W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9078", 
+        "LONGITUDE" : "-121.4522", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519997.0597, 
+        "y" : 4708473.3055
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30048, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E14H001M", 
+        "CASGEM_WELL_ID" : "32902", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388915N1213781W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8915", 
+        "LONGITUDE" : "-121.3781", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511748.2855, 
+        "y" : 4706141.7735
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30049, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E17A002M", 
+        "CASGEM_WELL_ID" : "32903", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "380", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388943N1214335W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8943", 
+        "LONGITUDE" : "-121.4335", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13517915.3852, 
+        "y" : 4706542.244
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30050, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E18R001M", 
+        "CASGEM_WELL_ID" : "32904", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388837N1214520W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8837", 
+        "LONGITUDE" : "-121.452", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519974.7958, 
+        "y" : 4705026.2604
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29233, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E29D001M", 
+        "CASGEM_WELL_ID" : "32066", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388667N1214513W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8667", 
+        "LONGITUDE" : "-121.4513", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519896.8722, 
+        "y" : 4702595.438
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29234, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E33C001M", 
+        "CASGEM_WELL_ID" : "32067", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "610", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388531N1214244W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8531", 
+        "LONGITUDE" : "-121.4244", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13516902.3779, 
+        "y" : 4700651.1987
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29236, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E16D001M", 
+        "CASGEM_WELL_ID" : "32069", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "106", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388963N1213206W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8963", 
+        "LONGITUDE" : "-121.3206", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13505347.4147, 
+        "y" : 4706828.304
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29237, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E19P001M", 
+        "CASGEM_WELL_ID" : "32070", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388693N1213503W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8693", 
+        "LONGITUDE" : "-121.3503", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13508653.6036, 
+        "y" : 4702967.1732
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29238, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E27D002M", 
+        "CASGEM_WELL_ID" : "32071", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "231", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388672N1213019W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8672", 
+        "LONGITUDE" : "-121.3019", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13503265.7403, 
+        "y" : 4702666.9245
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29239, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N06E30L001M", 
+        "CASGEM_WELL_ID" : "32072", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388603N1213502W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8603", 
+        "LONGITUDE" : "-121.3502", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13508642.4717, 
+        "y" : 4701680.4556
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29685, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N06E33M002M", 
+        "CASGEM_WELL_ID" : "32528", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "85", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389328N1213211W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9328", 
+        "LONGITUDE" : "-121.3211", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13505403.0745, 
+        "y" : 4712050.3152
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32705, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E03J001M", 
+        "CASGEM_WELL_ID" : "35625", 
+        "GW_BASIN_NAME" : "South Yuba", 
+        "GW_BASIN_CODE" : "5-21.61", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "390049N1213984W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0049", 
+        "LONGITUDE" : "-121.3984", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13514008.0711, 
+        "y" : 4722373.4798
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32708, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E10B001M", 
+        "CASGEM_WELL_ID" : "35628", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389964N1214008W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9964", 
+        "LONGITUDE" : "-121.4008", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13514275.2379, 
+        "y" : 4721155.9166
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32711, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E24E002M", 
+        "CASGEM_WELL_ID" : "35631", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389652N1213744W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9652", 
+        "LONGITUDE" : "-121.3744", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511336.4033, 
+        "y" : 4716687.9963
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32713, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N05E34P001M", 
+        "CASGEM_WELL_ID" : "35633", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389292N1214056W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9292", 
+        "LONGITUDE" : "-121.4056", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13514809.5715, 
+        "y" : 4711535.1481
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32714, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N06E06A001M", 
+        "CASGEM_WELL_ID" : "35634", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "390119N1213407W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.0119", 
+        "LONGITUDE" : "-121.3407", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13507584.9365, 
+        "y" : 4723376.2888
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32715, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N06E19B001M", 
+        "CASGEM_WELL_ID" : "35635", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "330", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389671N1213479W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9671", 
+        "LONGITUDE" : "-121.3479", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13508386.4368, 
+        "y" : 4716960.0249
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32716, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N06E33M001M", 
+        "CASGEM_WELL_ID" : "35636", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389323N1213173W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9323", 
+        "LONGITUDE" : "-121.3173", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13504980.0604, 
+        "y" : 4711978.7627
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SUTTER, SOUTH, WATER DISTRICT", 
+        "OBJECTID" : 9060, 
+        "SHP_FILE_ID" : "3043", 
+        "ME_ID" : "1086", 
+        "LOCAL_WELL_NBR" : "South Sutter WD", 
+        "SWN" : "11N05E18R001M", 
+        "CASGEM_WELL_ID" : "11221", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387977N1214521W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7977", 
+        "LONGITUDE" : "-121.4521", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519985.9278, 
+        "y" : 4692735.121
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36720, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10N06E12D001M", 
+        "CASGEM_WELL_ID" : "39757", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "62", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387421N1212777W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7421", 
+        "LONGITUDE" : "-121.2777", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13500571.8086, 
+        "y" : 4684796.6499
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36117, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N05E15A001M", 
+        "CASGEM_WELL_ID" : "39126", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388965N1214009W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8965", 
+        "LONGITUDE" : "-121.4009", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13514286.3698, 
+        "y" : 4706856.9104
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29235, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "12N06E07M001M", 
+        "SWN" : "12N06E07M001M", 
+        "CASGEM_WELL_ID" : "32068", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "175", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/25/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389031N1213576W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9031", 
+        "LONGITUDE" : "-121.3576", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13509466.2359, 
+        "y" : 4707800.9683
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 89981, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "WPMW-1B", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48561", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "610", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387786N1213737W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.778603", 
+        "LONGITUDE" : "-121.373697", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511258.1457, 
+        "y" : 4690007.7869
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 9062, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "O'Brien well", 
+        "SWN" : "11N05E23B001M", 
+        "CASGEM_WELL_ID" : "11223", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "195", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387943N1213856W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7943", 
+        "LONGITUDE" : "-121.3856", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13512583.1816, 
+        "y" : 4692249.4972
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90292, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "CVMW-1B", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48571", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "800", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387957N1213813W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.795654", 
+        "LONGITUDE" : "-121.381258", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13512099.8324, 
+        "y" : 4692442.887
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 89982, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "WPMW-1C", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48562", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "610", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387786N1213737W003", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.778602", 
+        "LONGITUDE" : "-121.373698", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511258.2571, 
+        "y" : 4690007.6441
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Sutter Water District", 
+        "OBJECTID" : 86452, 
+        "SHP_FILE_ID" : "3043", 
+        "ME_ID" : "5180", 
+        "LOCAL_WELL_NBR" : "South Sutter WD", 
+        "SWN" : "11N05E18R001M", 
+        "CASGEM_WELL_ID" : "11221", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387977N1214521W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7977", 
+        "LONGITUDE" : "-121.4521", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519985.9278, 
+        "y" : 4692735.121
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 89984, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "WPMW-2B", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48564", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "477", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388145N1213491W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.814497", 
+        "LONGITUDE" : "-121.349143", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13508524.807, 
+        "y" : 4695134.5852
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 89983, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "WPMW-2A", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48563", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "477", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388145N1213491W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.814497", 
+        "LONGITUDE" : "-121.349144", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13508524.9183, 
+        "y" : 4695134.5852
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 89977, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "O'Brien well", 
+        "SWN" : "11N05E23B001M", 
+        "CASGEM_WELL_ID" : "11223", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "195", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387943N1213856W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7943", 
+        "LONGITUDE" : "-121.3856", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13512583.1816, 
+        "y" : 4692249.4972
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90293, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "CVMW-1C", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48572", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "800", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387957N1213813W003", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.795655", 
+        "LONGITUDE" : "-121.381258", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13512099.8324, 
+        "y" : 4692443.0298
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Squaw Valley Public Service District", 
+        "OBJECTID" : 58297, 
+        "SHP_FILE_ID" : "1943", 
+        "ME_ID" : "5150", 
+        "LOCAL_WELL_NBR" : "PlumpJack Shallow", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46978", 
+        "GW_BASIN_NAME" : "Olympic Valley", 
+        "GW_BASIN_CODE" : "6-108", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "34", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/14/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391975N1202374W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.197452", 
+        "LONGITUDE" : "-120.237438", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13384770.3724, 
+        "y" : 4749994.4718
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Squaw Valley Public Service District", 
+        "OBJECTID" : 58302, 
+        "SHP_FILE_ID" : "1943", 
+        "ME_ID" : "5150", 
+        "LOCAL_WELL_NBR" : "Poulsen Shallow", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46983", 
+        "GW_BASIN_NAME" : "Olympic Valley", 
+        "GW_BASIN_CODE" : "6-108", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "29", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/14/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391978N1202286W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.197762", 
+        "LONGITUDE" : "-120.228648", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383791.8741, 
+        "y" : 4750039.0012
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90296, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "SVMW West - 1C", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48575", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "775", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/03/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387623N1213915W003", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.762325", 
+        "LONGITUDE" : "-121.391529", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13513243.1949, 
+        "y" : 4687683.6243
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 103434, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "17N17E29B001M", 
+        "SWN" : "17N17E29B001M", 
+        "CASGEM_WELL_ID" : "34407", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2012", 
+        "COMPLETION_RPT_NBR" : "372831", 
+        "CASGEM_STATION_ID" : "393006N1201122W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3006", 
+        "LONGITUDE" : "-120.1122", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13370828.9421, 
+        "y" : 4764821.8685
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90297, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "SVMW East-2A", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48576", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "720", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/03/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387626N1213651W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.762629", 
+        "LONGITUDE" : "-121.365099", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13510301.0208, 
+        "y" : 4687727.0243
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Squaw Valley Public Service District", 
+        "OBJECTID" : 58301, 
+        "SHP_FILE_ID" : "1943", 
+        "ME_ID" : "5150", 
+        "LOCAL_WELL_NBR" : "MW-5D", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46982", 
+        "GW_BASIN_NAME" : "Olympic Valley", 
+        "GW_BASIN_CODE" : "6-108", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "90", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/14/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391980N1202300W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.197959", 
+        "LONGITUDE" : "-120.230032", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383945.9403, 
+        "y" : 4750067.2991
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Squaw Valley Public Service District", 
+        "OBJECTID" : 58300, 
+        "SHP_FILE_ID" : "1943", 
+        "ME_ID" : "5150", 
+        "LOCAL_WELL_NBR" : "MW-5S", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46981", 
+        "GW_BASIN_NAME" : "Olympic Valley", 
+        "GW_BASIN_CODE" : "6-108", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "25", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/14/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391980N1202301W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.197963", 
+        "LONGITUDE" : "-120.230057", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383948.7233, 
+        "y" : 4750067.8737
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90299, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "SVMW East-2C", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48578", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "720", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/03/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387626N1213651W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.76263", 
+        "LONGITUDE" : "-121.365098", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13510300.9094, 
+        "y" : 4687727.1671
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 89980, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "WPMW-1A", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48560", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "610", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387786N1213737W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.778603", 
+        "LONGITUDE" : "-121.373698", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511258.2571, 
+        "y" : 4690007.7869
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 89662, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "WPMW-3A", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48565", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "238", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388476N1212872W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.847609", 
+        "LONGITUDE" : "-121.287189", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13501628.1192, 
+        "y" : 4699866.3174
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Squaw Valley Public Service District", 
+        "OBJECTID" : 58303, 
+        "SHP_FILE_ID" : "1943", 
+        "ME_ID" : "5150", 
+        "LOCAL_WELL_NBR" : "Poulsen Deep", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46984", 
+        "GW_BASIN_NAME" : "Olympic Valley", 
+        "GW_BASIN_CODE" : "6-108", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "105", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/14/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391977N1202286W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.197747", 
+        "LONGITUDE" : "-120.228631", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383789.9817, 
+        "y" : 4750036.8466
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 89664, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "WPMW-4A", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48567", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "306", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387755N1212753W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.775536", 
+        "LONGITUDE" : "-121.275254", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13500299.5211, 
+        "y" : 4689569.842
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90289, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "WPMW-4B", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48568", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "306", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387755N1212753W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.775535", 
+        "LONGITUDE" : "-121.275255", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13500299.6324, 
+        "y" : 4689569.6992
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 89663, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "WPMW-3B", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48566", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "238", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388476N1212872W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.847609", 
+        "LONGITUDE" : "-121.287187", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13501627.8966, 
+        "y" : 4699866.3174
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90294, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "SVMW West - 1A", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48573", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "775", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/03/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387623N1213915W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.762324", 
+        "LONGITUDE" : "-121.39153", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13513243.3062, 
+        "y" : 4687683.4815
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90290, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "CVMW-1A", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48569", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "800", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/29/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387957N1213813W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.795655", 
+        "LONGITUDE" : "-121.38126", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13512100.055, 
+        "y" : 4692443.0298
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90295, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "SVMW West - 1B", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48574", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "775", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/03/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387623N1213915W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.762325", 
+        "LONGITUDE" : "-121.39153", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13513243.3062, 
+        "y" : 4687683.6243
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 31510, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "17N17E29B001M", 
+        "SWN" : "17N17E29B001M", 
+        "CASGEM_WELL_ID" : "34407", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2012", 
+        "COMPLETION_RPT_NBR" : "372831", 
+        "CASGEM_STATION_ID" : "393006N1201122W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3006", 
+        "LONGITUDE" : "-120.1122", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13370828.9421, 
+        "y" : 4764821.8685
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 85496, 
+        "SHP_FILE_ID" : "3043", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "South Sutter WD", 
+        "SWN" : "11N05E18R001M", 
+        "CASGEM_WELL_ID" : "11221", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "387977N1214521W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.7977", 
+        "LONGITUDE" : "-121.4521", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519985.9278, 
+        "y" : 4692735.121
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Squaw Valley Public Service District", 
+        "OBJECTID" : 58298, 
+        "SHP_FILE_ID" : "1943", 
+        "ME_ID" : "5150", 
+        "LOCAL_WELL_NBR" : "PlumpJack Deep", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46979", 
+        "GW_BASIN_NAME" : "Olympic Valley", 
+        "GW_BASIN_CODE" : "6-108", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "132", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/14/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "391974N1202373W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.197426", 
+        "LONGITUDE" : "-120.23725", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13384749.4444, 
+        "y" : 4749990.7371
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 15327, 
+        "SHP_FILE_ID" : "2943", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "17N17E19K001M", 
+        "SWN" : "17N17E19K001M", 
+        "CASGEM_WELL_ID" : "17644", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "201", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/12/2012", 
+        "COMPLETION_RPT_NBR" : "372325", 
+        "CASGEM_STATION_ID" : "393072N1201315W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3072", 
+        "LONGITUDE" : "-120.1315", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372977.4082, 
+        "y" : 4765771.3534
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105205, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "SVMW East-2B", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48577", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "720", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/24/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "381626N1213651W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.762629", 
+        "LONGITUDE" : "-121.365097", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13510300.7981, 
+        "y" : 4687727.0243
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 103433, 
+        "SHP_FILE_ID" : "2943", 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "17N17E19K001M", 
+        "SWN" : "17N17E19K001M", 
+        "CASGEM_WELL_ID" : "17644", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "201", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/12/2012", 
+        "COMPLETION_RPT_NBR" : "372325", 
+        "CASGEM_STATION_ID" : "393072N1201315W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3072", 
+        "LONGITUDE" : "-120.1315", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372977.4082, 
+        "y" : 4765771.3534
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Roseville", 
+        "OBJECTID" : 90298, 
+        "SHP_FILE_ID" : "1871", 
+        "ME_ID" : "5110", 
+        "LOCAL_WELL_NBR" : "SVMW East-2B", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48577", 
+        "GW_BASIN_NAME" : "North American", 
+        "GW_BASIN_CODE" : "5-21.64", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "720", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Placer", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/24/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "381626N1213651W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.762629", 
+        "LONGITUDE" : "-121.365097", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13510300.7981, 
+        "y" : 4687727.0243
+      }
+    }
+  ]
+}

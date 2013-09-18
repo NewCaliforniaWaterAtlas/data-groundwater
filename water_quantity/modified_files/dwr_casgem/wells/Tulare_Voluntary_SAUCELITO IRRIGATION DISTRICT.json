@@ -1,0 +1,1602 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 19151, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S27E30M001M", 
+        "CASGEM_WELL_ID" : "21530", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359825N1191070W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9825", 
+        "LONGITUDE" : "-119.107", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258930.5899, 
+        "y" : 4298213.6661
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 19152, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S27E30R001M", 
+        "CASGEM_WELL_ID" : "21531", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359789N1190940W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9789", 
+        "LONGITUDE" : "-119.094", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257483.4365, 
+        "y" : 4297718.4329
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 18780, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23S26E04C002M", 
+        "CASGEM_WELL_ID" : "21153", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359639N1191706W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9639", 
+        "LONGITUDE" : "-119.1706", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266010.5095, 
+        "y" : 4295655.204
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 18784, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23S26E09C001M", 
+        "CASGEM_WELL_ID" : "21157", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359497N1191726W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9497", 
+        "LONGITUDE" : "-119.1726", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266233.1485, 
+        "y" : 4293702.3751
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 18785, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23S26E10F001M", 
+        "CASGEM_WELL_ID" : "21158", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359428N1191528W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9428", 
+        "LONGITUDE" : "-119.1528", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264029.0226, 
+        "y" : 4292753.592
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 18786, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23S26E10H001M", 
+        "CASGEM_WELL_ID" : "21159", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359428N1191440W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9428", 
+        "LONGITUDE" : "-119.144", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263049.4111, 
+        "y" : 4292753.592
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20505, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E06A001M", 
+        "CASGEM_WELL_ID" : "22922", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360506N1191967W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0506", 
+        "LONGITUDE" : "-119.1967", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268915.9482, 
+        "y" : 4307586.0896
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20509, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E09B001M", 
+        "CASGEM_WELL_ID" : "22926", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360361N1191690W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0361", 
+        "LONGITUDE" : "-119.169", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265832.3983, 
+        "y" : 4305589.814
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20515, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E13A001M", 
+        "CASGEM_WELL_ID" : "22932", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360206N1191078W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0206", 
+        "LONGITUDE" : "-119.1078", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259019.6455, 
+        "y" : 4303456.2706
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20516, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E13C001M", 
+        "CASGEM_WELL_ID" : "22933", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360219N1191165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0219", 
+        "LONGITUDE" : "-119.1165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259988.1251, 
+        "y" : 4303635.1968
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20118, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E02A001M", 
+        "CASGEM_WELL_ID" : "22520", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360486N1191253W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0486", 
+        "LONGITUDE" : "-119.1253", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260967.7366, 
+        "y" : 4307310.7193
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20120, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E03J001M", 
+        "CASGEM_WELL_ID" : "22522", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360442N1191437W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0442", 
+        "LONGITUDE" : "-119.1437", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263016.0152, 
+        "y" : 4306704.9295
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20648, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E14C003M", 
+        "CASGEM_WELL_ID" : "23068", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360225N1191381W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0225", 
+        "LONGITUDE" : "-119.1381", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262392.6261, 
+        "y" : 4303717.7792
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20649, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E15J001M", 
+        "CASGEM_WELL_ID" : "23069", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360150N1191437W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.015", 
+        "LONGITUDE" : "-119.1437", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263016.0152, 
+        "y" : 4302685.5453
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20650, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E17C001M", 
+        "CASGEM_WELL_ID" : "23070", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360219N1191884W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0219", 
+        "LONGITUDE" : "-119.1884", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267991.9965, 
+        "y" : 4303635.1968
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20654, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E23A002M", 
+        "CASGEM_WELL_ID" : "23074", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360078N1191256W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0078", 
+        "LONGITUDE" : "-119.1256", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261001.1324, 
+        "y" : 4301694.6931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20655, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E24L001M", 
+        "CASGEM_WELL_ID" : "23075", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359981N1191165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9981", 
+        "LONGITUDE" : "-119.1165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259988.1251, 
+        "y" : 4300359.9381
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20656, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E25J001M", 
+        "CASGEM_WELL_ID" : "23076", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359825N1191084W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9825", 
+        "LONGITUDE" : "-119.1084", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259086.4372, 
+        "y" : 4298213.6661
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20658, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E26P001M", 
+        "CASGEM_WELL_ID" : "23078", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359806N1191351W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9806", 
+        "LONGITUDE" : "-119.1351", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262058.6676, 
+        "y" : 4297952.2902
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20659, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E28B001M", 
+        "CASGEM_WELL_ID" : "23079", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359900N1191681W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.99", 
+        "LONGITUDE" : "-119.1681", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265732.2108, 
+        "y" : 4299245.4747
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20660, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E29A001M", 
+        "CASGEM_WELL_ID" : "23080", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359903N1191792W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9903", 
+        "LONGITUDE" : "-119.1792", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266967.8571, 
+        "y" : 4299286.7491
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20661, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E32E001M", 
+        "CASGEM_WELL_ID" : "23081", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359731N1191926W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9731", 
+        "LONGITUDE" : "-119.1926", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268459.5383, 
+        "y" : 4296920.6045
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20662, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E33P001M", 
+        "CASGEM_WELL_ID" : "23082", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359647N1191701W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9647", 
+        "LONGITUDE" : "-119.1701", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265954.8498, 
+        "y" : 4295765.233
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20663, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E34H001M", 
+        "CASGEM_WELL_ID" : "23083", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359725N1191437W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9725", 
+        "LONGITUDE" : "-119.1437", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263016.0152, 
+        "y" : 4296838.0739
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20664, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E34R001M", 
+        "CASGEM_WELL_ID" : "23084", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359658N1191431W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9658", 
+        "LONGITUDE" : "-119.1431", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262949.2235, 
+        "y" : 4295916.5246
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20665, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E35K001M", 
+        "CASGEM_WELL_ID" : "23085", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359683N1191306W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9683", 
+        "LONGITUDE" : "-119.1306", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261557.7299, 
+        "y" : 4296260.3772
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20666, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E35K002M", 
+        "CASGEM_WELL_ID" : "23086", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359694N1191340W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9694", 
+        "LONGITUDE" : "-119.134", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261936.2162, 
+        "y" : 4296411.6757
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 31875, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23S26E05G001M", 
+        "CASGEM_WELL_ID" : "34778", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359575N1191884W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9575", 
+        "LONGITUDE" : "-119.1884", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267991.9965, 
+        "y" : 4294775.0123
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 31877, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23S26E10C001M", 
+        "CASGEM_WELL_ID" : "34780", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359494N1191528W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9494", 
+        "LONGITUDE" : "-119.1528", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264029.0226, 
+        "y" : 4293661.1219
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 34213, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S27E30L003M", 
+        "CASGEM_WELL_ID" : "37170", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359858N1190984W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9858", 
+        "LONGITUDE" : "-119.0984", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257973.2423, 
+        "y" : 4298667.6498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33828, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E13R001M", 
+        "CASGEM_WELL_ID" : "36773", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360083N1191090W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0083", 
+        "LONGITUDE" : "-119.109", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259153.2289, 
+        "y" : 4301763.4994
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33829, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E15C001M", 
+        "CASGEM_WELL_ID" : "36774", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360225N1191526W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0225", 
+        "LONGITUDE" : "-119.1526", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264006.7587, 
+        "y" : 4303717.7792
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33830, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E16C001M", 
+        "CASGEM_WELL_ID" : "36775", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360208N1191703W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0208", 
+        "LONGITUDE" : "-119.1703", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265977.1137, 
+        "y" : 4303483.7975
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33832, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E22L001M", 
+        "CASGEM_WELL_ID" : "36777", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359989N1191526W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9989", 
+        "LONGITUDE" : "-119.1526", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264006.7587, 
+        "y" : 4300470.0148
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33833, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E24A001M", 
+        "CASGEM_WELL_ID" : "36778", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360078N1191084W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0078", 
+        "LONGITUDE" : "-119.1084", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259086.4372, 
+        "y" : 4301694.6931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33834, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E25A001M", 
+        "CASGEM_WELL_ID" : "36779", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359933N1191078W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9933", 
+        "LONGITUDE" : "-119.1078", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259019.6455, 
+        "y" : 4299699.5015
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33835, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E26N001M", 
+        "CASGEM_WELL_ID" : "36780", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359792N1191420W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9792", 
+        "LONGITUDE" : "-119.142", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262826.7721, 
+        "y" : 4297759.7014
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33836, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E27R001M", 
+        "CASGEM_WELL_ID" : "36781", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359792N1191434W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9792", 
+        "LONGITUDE" : "-119.1434", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262982.6194, 
+        "y" : 4297759.7014
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33837, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E31L001M", 
+        "CASGEM_WELL_ID" : "36782", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359708N1192056W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9708", 
+        "LONGITUDE" : "-119.2056", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269906.6917, 
+        "y" : 4296604.2406
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33838, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E33H001M", 
+        "CASGEM_WELL_ID" : "36783", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359722N1191612W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9722", 
+        "LONGITUDE" : "-119.1612", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264964.1063, 
+        "y" : 4296796.8088
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33839, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E34K001M", 
+        "CASGEM_WELL_ID" : "36784", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359711N1191517W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9711", 
+        "LONGITUDE" : "-119.1517", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263906.5712, 
+        "y" : 4296645.5049
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33840, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E35A001M", 
+        "CASGEM_WELL_ID" : "36785", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359761N1191256W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9761", 
+        "LONGITUDE" : "-119.1256", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261001.1324, 
+        "y" : 4297333.267
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33841, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E36H001M", 
+        "CASGEM_WELL_ID" : "36786", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359744N1191078W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9744", 
+        "LONGITUDE" : "-119.1078", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259019.6455, 
+        "y" : 4297099.423
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33683, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E07J001M", 
+        "CASGEM_WELL_ID" : "36625", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360292N1191976W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0292", 
+        "LONGITUDE" : "-119.1976", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269016.1358, 
+        "y" : 4304639.9912
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33684, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E08C001M", 
+        "CASGEM_WELL_ID" : "36626", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360342N1191906W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0342", 
+        "LONGITUDE" : "-119.1906", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268236.8993, 
+        "y" : 4305328.2603
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33687, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E12B001M", 
+        "CASGEM_WELL_ID" : "36629", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360367N1191165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0367", 
+        "LONGITUDE" : "-119.1165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259988.1251, 
+        "y" : 4305672.4112
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33688, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E12R002M", 
+        "CASGEM_WELL_ID" : "36630", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360250N1191081W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.025", 
+        "LONGITUDE" : "-119.1081", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259053.0414, 
+        "y" : 4304061.879
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 33689, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S26E13J001M", 
+        "CASGEM_WELL_ID" : "36631", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360142N1191076W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0142", 
+        "LONGITUDE" : "-119.1076", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258997.3816, 
+        "y" : 4302575.4461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAUCELITO IRRIGATION DISTRICT", 
+        "OBJECTID" : 20657, 
+        "SHP_FILE_ID" : "1903", 
+        "ME_ID" : "1100", 
+        "LOCAL_WELL_NBR" : "044", 
+        "SWN" : "22S26E26A001M", 
+        "CASGEM_WELL_ID" : "23077", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : "Lower Tule River ID", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/15/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359933N1191256W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.993243", 
+        "LONGITUDE" : "-119.125561", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260996.791, 
+        "y" : 4299691.6591
+      }
+    }
+  ]
+}

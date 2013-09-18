@@ -1,0 +1,1730 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 41, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E15A001M", 
+        "CASGEM_WELL_ID" : "6600", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374182N1208504W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4182", 
+        "LONGITUDE" : "-120.8504", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13453004.9902, 
+        "y" : 4497559.8925
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 2892, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S12E06N001M", 
+        "CASGEM_WELL_ID" : "5066", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374341N1206999W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4341", 
+        "LONGITUDE" : "-120.6999", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436251.4068, 
+        "y" : 4499788.7008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4996, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S11E04R001M", 
+        "CASGEM_WELL_ID" : "7327", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374346N1207754W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4346", 
+        "LONGITUDE" : "-120.7754", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444656.0284, 
+        "y" : 4499858.7968
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4997, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S11E05R001M", 
+        "CASGEM_WELL_ID" : "7328", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374346N1207941W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4346", 
+        "LONGITUDE" : "-120.7941", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13446737.7028, 
+        "y" : 4499858.7968
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4999, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S11E06N001M", 
+        "CASGEM_WELL_ID" : "7330", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374335N1208118W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4335", 
+        "LONGITUDE" : "-120.8118", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13448708.0578, 
+        "y" : 4499704.5863
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 5003, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S11E08D001M", 
+        "CASGEM_WELL_ID" : "7334", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374335N1207941W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4335", 
+        "LONGITUDE" : "-120.7941", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13446737.7028, 
+        "y" : 4499704.5863
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 5005, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S11E08R001M", 
+        "CASGEM_WELL_ID" : "7336", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374202N1207779W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4202", 
+        "LONGITUDE" : "-120.7779", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444934.3271, 
+        "y" : 4497840.2197
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 5013, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S11E16H001M", 
+        "CASGEM_WELL_ID" : "7344", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374127N1207596W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4127", 
+        "LONGITUDE" : "-120.7596", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442897.1804, 
+        "y" : 4496789.0312
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 5138, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S11E19M002M", 
+        "CASGEM_WELL_ID" : "7478", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373968N1208132W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3968", 
+        "LONGITUDE" : "-120.8132", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13448863.9051, 
+        "y" : 4494560.8596
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4160, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E09Q001M", 
+        "CASGEM_WELL_ID" : "6456", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374202N1208729W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4202", 
+        "LONGITUDE" : "-120.8729", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13455509.6787, 
+        "y" : 4497840.2197
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 3445, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "05S11E21N001M", 
+        "CASGEM_WELL_ID" : "5680", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374788N1207749W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4788", 
+        "LONGITUDE" : "-120.7749", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444600.3686, 
+        "y" : 4506057.1341
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4287, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E10A001M", 
+        "CASGEM_WELL_ID" : "6591", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374327N1208504W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4327", 
+        "LONGITUDE" : "-120.8504", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13453004.9902, 
+        "y" : 4499592.4346
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4296, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E15F001M", 
+        "CASGEM_WELL_ID" : "6601", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374146N1208602W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4146", 
+        "LONGITUDE" : "-120.8602", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454095.9212, 
+        "y" : 4497055.3223
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4302, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E17N001M", 
+        "CASGEM_WELL_ID" : "6607", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374052N1209035W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4052", 
+        "LONGITUDE" : "-120.9035", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458916.0551, 
+        "y" : 4495737.9479
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4303, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E18N001M", 
+        "CASGEM_WELL_ID" : "6608", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374052N1209213W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4052", 
+        "LONGITUDE" : "-120.9213", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13460897.5421, 
+        "y" : 4495737.9479
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4304, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E20A001M", 
+        "CASGEM_WELL_ID" : "6609", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374038N1208871W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4038", 
+        "LONGITUDE" : "-120.8871", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457090.4155, 
+        "y" : 4495541.7574
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4305, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E20D001M", 
+        "CASGEM_WELL_ID" : "6610", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374021N1209043W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4021", 
+        "LONGITUDE" : "-120.9043", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13459005.1107, 
+        "y" : 4495303.5309
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4310, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E21A001M", 
+        "CASGEM_WELL_ID" : "6615", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374041N1208685W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4041", 
+        "LONGITUDE" : "-120.8685", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13455019.8729, 
+        "y" : 4495583.7979
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4314, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E22A001M", 
+        "CASGEM_WELL_ID" : "6619", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374038N1208507W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4038", 
+        "LONGITUDE" : "-120.8507", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13453038.386, 
+        "y" : 4495541.7574
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4316, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E23N001M", 
+        "CASGEM_WELL_ID" : "6621", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373916N1208466W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3916", 
+        "LONGITUDE" : "-120.8466", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13452581.9761, 
+        "y" : 4493832.2519
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4317, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E23R001M", 
+        "CASGEM_WELL_ID" : "6622", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373902N1208324W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3902", 
+        "LONGITUDE" : "-120.8324", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13451001.2393, 
+        "y" : 4493636.097
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4318, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E24D001M", 
+        "CASGEM_WELL_ID" : "6623", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374035N1208310W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4035", 
+        "LONGITUDE" : "-120.831", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13450845.392, 
+        "y" : 4495499.717
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4323, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E30A001M", 
+        "CASGEM_WELL_ID" : "6628", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373896N1209057W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3896", 
+        "LONGITUDE" : "-120.9057", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13459160.958, 
+        "y" : 4493552.0317
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4325, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E32A001M", 
+        "CASGEM_WELL_ID" : "6630", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373752N1208874W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3752", 
+        "LONGITUDE" : "-120.8874", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457123.8113, 
+        "y" : 4491534.6665
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4327, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E34D001M", 
+        "CASGEM_WELL_ID" : "6632", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373741N1208679W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3741", 
+        "LONGITUDE" : "-120.8679", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454953.0813, 
+        "y" : 4491380.5782
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 4324, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E30D001M", 
+        "CASGEM_WELL_ID" : "6629", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373896N1209218W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3896", 
+        "LONGITUDE" : "-120.9218", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13460953.2018, 
+        "y" : 4493552.0317
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 3640, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S09E36D001M", 
+        "CASGEM_WELL_ID" : "5885", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373755N1209404W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3755", 
+        "LONGITUDE" : "-120.9404", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13463023.7443, 
+        "y" : 4491576.691
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 3650, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E02H001M", 
+        "CASGEM_WELL_ID" : "5895", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374424N1208313W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4424", 
+        "LONGITUDE" : "-120.8313", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13450878.7879, 
+        "y" : 4500952.3549
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 3653, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E03N001M", 
+        "CASGEM_WELL_ID" : "5898", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374338N1208671W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4338", 
+        "LONGITUDE" : "-120.8671", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454864.0257, 
+        "y" : 4499746.6435
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 3656, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E05R001M", 
+        "CASGEM_WELL_ID" : "5902", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374335N1208868W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4335", 
+        "LONGITUDE" : "-120.8868", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457057.0196, 
+        "y" : 4499704.5863
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 3661, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E07N001M", 
+        "CASGEM_WELL_ID" : "5907", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374196N1209213W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4196", 
+        "LONGITUDE" : "-120.9213", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13460897.5421, 
+        "y" : 4497756.1208
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 3662, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E08A001M", 
+        "CASGEM_WELL_ID" : "5908", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374313N1208871W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4313", 
+        "LONGITUDE" : "-120.8871", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457090.4155, 
+        "y" : 4499396.1719
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 3664, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E08N001M", 
+        "CASGEM_WELL_ID" : "5910", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374196N1209035W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4196", 
+        "LONGITUDE" : "-120.9035", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458916.0551, 
+        "y" : 4497756.1208
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 25822, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : "155", 
+        "SWN" : "06S11E06Q001M", 
+        "CASGEM_WELL_ID" : "28525", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374374N1207996W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4374", 
+        "LONGITUDE" : "-120.7996", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13447349.96, 
+        "y" : 4500251.343
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 25825, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S11E08N001M", 
+        "CASGEM_WELL_ID" : "28528", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374202N1207946W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4202", 
+        "LONGITUDE" : "-120.7946", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13446793.3626, 
+        "y" : 4497840.2197
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 25094, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E02D001M", 
+        "CASGEM_WELL_ID" : "27754", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374482N1208479W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4482", 
+        "LONGITUDE" : "-120.8479", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13452726.6914, 
+        "y" : 4501765.5874
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 24808, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S09E13N001M", 
+        "CASGEM_WELL_ID" : "27444", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374052N1209399W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4052", 
+        "LONGITUDE" : "-120.9399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13462968.0846, 
+        "y" : 4495737.9479
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 24809, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S09E15R001M", 
+        "CASGEM_WELL_ID" : "27445", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374057N1209596W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4057", 
+        "LONGITUDE" : "-120.9596", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13465161.0786, 
+        "y" : 4495808.0169
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 26578, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E11A001M", 
+        "CASGEM_WELL_ID" : "29349", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374327N1208321W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4327", 
+        "LONGITUDE" : "-120.8321", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13450967.8435, 
+        "y" : 4499592.4346
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 26581, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E12N001M", 
+        "CASGEM_WELL_ID" : "29352", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374191N1208299W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4191", 
+        "LONGITUDE" : "-120.8299", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13450722.9406, 
+        "y" : 4497686.0388
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 26582, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E14F001M", 
+        "CASGEM_WELL_ID" : "29353", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374116N1208407W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4116", 
+        "LONGITUDE" : "-120.8407", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13451925.1911, 
+        "y" : 4496634.8657
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 26584, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E15D001M", 
+        "CASGEM_WELL_ID" : "29355", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374182N1208671W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4182", 
+        "LONGITUDE" : "-120.8671", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454864.0257, 
+        "y" : 4497559.8925
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 26586, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E17A001M", 
+        "CASGEM_WELL_ID" : "29357", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374185N1208868W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4185", 
+        "LONGITUDE" : "-120.8868", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457057.0196, 
+        "y" : 4497601.9411
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 26591, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E26N001M", 
+        "CASGEM_WELL_ID" : "29362", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373760N1208493W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.376", 
+        "LONGITUDE" : "-120.8493", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13452882.5387, 
+        "y" : 4491646.7322
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 26592, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E28D001M", 
+        "CASGEM_WELL_ID" : "29363", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373891N1208857W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3891", 
+        "LONGITUDE" : "-120.8857", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13456934.5682, 
+        "y" : 4493481.9778
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 26594, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E29N001M", 
+        "CASGEM_WELL_ID" : "29365", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373763N1209043W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3763", 
+        "LONGITUDE" : "-120.9043", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13459005.1107, 
+        "y" : 4491688.7572
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 26595, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E30N001M", 
+        "CASGEM_WELL_ID" : "29366", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373763N1209221W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3763", 
+        "LONGITUDE" : "-120.9221", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13460986.5977, 
+        "y" : 4491688.7572
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 35117, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "05S10E35R002M", 
+        "CASGEM_WELL_ID" : "38102", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374524N1208310W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4524", 
+        "LONGITUDE" : "-120.831", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13450845.392, 
+        "y" : 4502354.5192
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 35883, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E12R001M", 
+        "CASGEM_WELL_ID" : "38886", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374193N1208138W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4193", 
+        "LONGITUDE" : "-120.8138", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13448930.6968, 
+        "y" : 4497714.0715
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 35884, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E27D001M", 
+        "CASGEM_WELL_ID" : "38887", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373893N1208674W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3893", 
+        "LONGITUDE" : "-120.8674", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454897.4215, 
+        "y" : 4493509.9993
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 35966, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "05S12E29H001M", 
+        "CASGEM_WELL_ID" : "38972", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374702N1206677W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4702", 
+        "LONGITUDE" : "-120.6677", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13432666.9192, 
+        "y" : 4504850.8357
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 36875, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S09E23R001M", 
+        "CASGEM_WELL_ID" : "39919", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373907N1209416W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.3907", 
+        "LONGITUDE" : "-120.9416", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13463157.3277, 
+        "y" : 4493706.1519
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "TURLOCK IRRIGATION DISTRICT", 
+        "OBJECTID" : 36952, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1088", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "06S10E29G001M", 
+        "CASGEM_WELL_ID" : "39999", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373830N1208924W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.383", 
+        "LONGITUDE" : "-120.8924", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457680.4088, 
+        "y" : 4492627.3579
+      }
+    }
+  ]
+}

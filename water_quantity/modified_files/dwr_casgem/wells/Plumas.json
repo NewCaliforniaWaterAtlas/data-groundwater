@@ -1,0 +1,5090 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 7840, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27N08E03E001M", 
+        "CASGEM_WELL_ID" : "37200", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "124", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "10820", 
+        "CASGEM_STATION_ID" : "402301N1210762W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "40.2301", 
+        "LONGITUDE" : "-121.0762", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13478140.9312, 
+        "y" : 4899436.3409
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 7683, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E17H001M", 
+        "CASGEM_WELL_ID" : "20700", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "91", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "NONE", 
+        "CASGEM_STATION_ID" : "397612N1203149W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7612", 
+        "LONGITUDE" : "-120.3149", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13393393.4028, 
+        "y" : 4831300.9533
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18332, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E10C001M", 
+        "CASGEM_WELL_ID" : "20696", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "841", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "132809", 
+        "CASGEM_STATION_ID" : "397776N1202894W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7776", 
+        "LONGITUDE" : "-120.2894", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13390554.7558, 
+        "y" : 4833676.1545
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18334, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E15Q001M", 
+        "CASGEM_WELL_ID" : "20698", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72392", 
+        "CASGEM_STATION_ID" : "397556N1202844W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7556", 
+        "LONGITUDE" : "-120.2844", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13389998.1584, 
+        "y" : 4830490.0386
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 18335, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E16L001M", 
+        "CASGEM_WELL_ID" : "20699", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "NONE", 
+        "CASGEM_STATION_ID" : "397587N1203077W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7587", 
+        "LONGITUDE" : "-120.3077", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13392591.9025, 
+        "y" : 4830938.9297
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18336, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E17R001M", 
+        "CASGEM_WELL_ID" : "20701", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "NONE", 
+        "CASGEM_STATION_ID" : "397527N1203152W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7527", 
+        "LONGITUDE" : "-120.3152", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13393426.7987, 
+        "y" : 4830070.1265
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18338, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E26K001M", 
+        "CASGEM_WELL_ID" : "20703", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397275N1202658W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7275", 
+        "LONGITUDE" : "-120.2658", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13387927.6158, 
+        "y" : 4826421.9793
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18339, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E26K003M", 
+        "CASGEM_WELL_ID" : "20704", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "735", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72912", 
+        "CASGEM_STATION_ID" : "397284N1202655W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7284", 
+        "LONGITUDE" : "-120.2655", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13387894.22, 
+        "y" : 4826552.2473
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18340, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E28L001M", 
+        "CASGEM_WELL_ID" : "20705", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "296", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397282N1203065W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7282", 
+        "LONGITUDE" : "-120.3065", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13392458.3191, 
+        "y" : 4826523.2987
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18341, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E34G001M", 
+        "CASGEM_WELL_ID" : "20706", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "863", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "DWR", 
+        "CASGEM_STATION_ID" : "397173N1202834W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7173", 
+        "LONGITUDE" : "-120.2834", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13389886.8389, 
+        "y" : 4824945.7274
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18342, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E34L005M", 
+        "CASGEM_WELL_ID" : "20707", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397113N1202882W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7113", 
+        "LONGITUDE" : "-120.2882", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13390421.1724, 
+        "y" : 4824077.4459
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18343, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E36H001M", 
+        "CASGEM_WELL_ID" : "20708", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "462", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "DWR", 
+        "CASGEM_STATION_ID" : "397161N1202444W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7161", 
+        "LONGITUDE" : "-120.2444", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13385545.3787, 
+        "y" : 4824772.065
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18344, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E36J001M", 
+        "CASGEM_WELL_ID" : "20709", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "775", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "397114N1202406W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7114", 
+        "LONGITUDE" : "-120.2406", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13385122.3647, 
+        "y" : 4824091.9166
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 18351, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N16E18R001M", 
+        "CASGEM_WELL_ID" : "20716", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "550", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72932", 
+        "CASGEM_STATION_ID" : "397521N1202266W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7521", 
+        "LONGITUDE" : "-120.2266", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383563.8918, 
+        "y" : 4829983.2504
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 18352, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N16E19K001M", 
+        "CASGEM_WELL_ID" : "20717", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "321", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "53134", 
+        "CASGEM_STATION_ID" : "397413N1202259W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7413", 
+        "LONGITUDE" : "-120.2259", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383485.9682, 
+        "y" : 4828419.609
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 18353, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N16E20G002M", 
+        "CASGEM_WELL_ID" : "20718", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397465N1202098W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7465", 
+        "LONGITUDE" : "-120.2098", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13381693.7244, 
+        "y" : 4829172.4427
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 18348, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N16E08P001M", 
+        "CASGEM_WELL_ID" : "20713", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "615", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72966", 
+        "CASGEM_STATION_ID" : "397659N1202162W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7659", 
+        "LONGITUDE" : "-120.2162", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13382406.1691, 
+        "y" : 4831981.5934
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93810, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N15E29H001M", 
+        "SWN" : "23N15E29H001M", 
+        "CASGEM_WELL_ID" : "22078", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "145", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398190N1203179W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.819012", 
+        "LONGITUDE" : "-120.317943", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13393732.1481, 
+        "y" : 4839676.3475
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19687, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N15E29H001M", 
+        "SWN" : "23N15E29H001M", 
+        "CASGEM_WELL_ID" : "22078", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "145", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398190N1203179W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.819012", 
+        "LONGITUDE" : "-120.317943", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13393732.1481, 
+        "y" : 4839676.3475
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18204, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N14E21Q001M", 
+        "CASGEM_WELL_ID" : "20567", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "383", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397404N1204172W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7404", 
+        "LONGITUDE" : "-120.4172", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13404781.3868, 
+        "y" : 4828289.3166
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18205, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N14E21Q002M", 
+        "CASGEM_WELL_ID" : "20568", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "133", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "301834", 
+        "CASGEM_STATION_ID" : "397404N1204172W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7404", 
+        "LONGITUDE" : "-120.4172", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13404781.3868, 
+        "y" : 4828289.3166
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18206, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N14E26L001M", 
+        "CASGEM_WELL_ID" : "20569", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "198", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397283N1203814W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7283", 
+        "LONGITUDE" : "-120.3814", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13400796.149, 
+        "y" : 4826537.773
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18207, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N14E35C002M", 
+        "CASGEM_WELL_ID" : "20570", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397221N1203837W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7221", 
+        "LONGITUDE" : "-120.3837", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13401052.1838, 
+        "y" : 4825640.407
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18209, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Roberti Well", 
+        "SWN" : "22N15E10B001M", 
+        "CASGEM_WELL_ID" : "20572", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "945", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/11/2012", 
+        "COMPLETION_RPT_NBR" : "201846", 
+        "CASGEM_STATION_ID" : "397808N1202893W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7808", 
+        "LONGITUDE" : "-120.2893", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13390543.6239, 
+        "y" : 4834139.6744
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 20158, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E36L003M", 
+        "SWN" : "23N16E36L003M", 
+        "CASGEM_WELL_ID" : "22560", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "230", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "225170", 
+        "CASGEM_STATION_ID" : "398024N1201371W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8024", 
+        "LONGITUDE" : "-120.1371", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373600.7974, 
+        "y" : 4837268.9975
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19920, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28N07E18D002M", 
+        "CASGEM_WELL_ID" : "22317", 
+        "GW_BASIN_NAME" : "Lake Almanor Valley", 
+        "GW_BASIN_CODE" : "5-7", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "98", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "402918N1212429W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "40.2918", 
+        "LONGITUDE" : "-121.2429", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13496697.8903, 
+        "y" : 4908436.9078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33108, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "22N16E01A002M", 
+        "SWN" : "22N16E01A002M", 
+        "CASGEM_WELL_ID" : "36035", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397927N1201294W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7927", 
+        "LONGITUDE" : "-120.1294", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372743.6373, 
+        "y" : 4835863.5781
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19982, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27N08E10G001M", 
+        "CASGEM_WELL_ID" : "22381", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "117", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "10811", 
+        "CASGEM_STATION_ID" : "402146N1210682W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "40.2146", 
+        "LONGITUDE" : "-121.0682", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13477250.3753, 
+        "y" : 4897176.5475
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19983, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27N08E10K001M", 
+        "CASGEM_WELL_ID" : "22382", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "93", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "53435", 
+        "CASGEM_STATION_ID" : "402132N1210645W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "40.2132", 
+        "LONGITUDE" : "-121.0645", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13476838.4931, 
+        "y" : 4896972.4625
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19679, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E25K001M", 
+        "CASGEM_WELL_ID" : "22070", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "35", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398170N1203595W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.817", 
+        "LONGITUDE" : "-120.3595", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13398358.2521, 
+        "y" : 4839384.7449
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19680, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E35L001M", 
+        "CASGEM_WELL_ID" : "22071", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "18", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398020N1203815W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.802", 
+        "LONGITUDE" : "-120.3815", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13400807.2809, 
+        "y" : 4837211.0381
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19681, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N15E20Q001M", 
+        "CASGEM_WELL_ID" : "22072", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "268", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72397", 
+        "CASGEM_STATION_ID" : "398278N1203195W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8278", 
+        "LONGITUDE" : "-120.3195", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13393905.4725, 
+        "y" : 4840950.1076
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19682, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N15E25J001M", 
+        "CASGEM_WELL_ID" : "22073", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "855", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72987", 
+        "CASGEM_STATION_ID" : "398133N1202400W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8133", 
+        "LONGITUDE" : "-120.24", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13385055.573, 
+        "y" : 4838848.5198
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19683, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N15E26G001M", 
+        "CASGEM_WELL_ID" : "22074", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "832", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72993", 
+        "CASGEM_STATION_ID" : "398184N1202652W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8184", 
+        "LONGITUDE" : "-120.2652", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13387860.8242, 
+        "y" : 4839587.6484
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19685, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N15E27E001M", 
+        "CASGEM_WELL_ID" : "22076", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398204N1202904W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8204", 
+        "LONGITUDE" : "-120.2904", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13390666.0753, 
+        "y" : 4839877.5177
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19686, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N15E29D001M", 
+        "CASGEM_WELL_ID" : "22077", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "420", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "NONE", 
+        "CASGEM_STATION_ID" : "398240N1203327W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.824", 
+        "LONGITUDE" : "-120.3327", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13395374.8898, 
+        "y" : 4840399.3038
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19688, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N15E29N001M", 
+        "CASGEM_WELL_ID" : "22079", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "696", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "NONE", 
+        "CASGEM_STATION_ID" : "398105N1203329W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8105", 
+        "LONGITUDE" : "-120.3329", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13395397.1537, 
+        "y" : 4838442.7471
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19689, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N15E34D001M", 
+        "CASGEM_WELL_ID" : "22080", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "137", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398094N1202932W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8094", 
+        "LONGITUDE" : "-120.2932", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13390977.7699, 
+        "y" : 4838283.3409
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19690, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N15E36G001M", 
+        "CASGEM_WELL_ID" : "22081", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "848", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72994", 
+        "CASGEM_STATION_ID" : "398028N1202451W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8028", 
+        "LONGITUDE" : "-120.2451", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13385623.3024, 
+        "y" : 4837326.9572
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19691, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E17M001M", 
+        "CASGEM_WELL_ID" : "22082", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "130", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398447N1202174W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8447", 
+        "LONGITUDE" : "-120.2174", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13382539.7525, 
+        "y" : 4843400.1041
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19692, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E19N001M", 
+        "CASGEM_WELL_ID" : "22083", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398271N1202359W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8271", 
+        "LONGITUDE" : "-120.2359", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13384599.1631, 
+        "y" : 4840848.6414
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19694, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E25J001M", 
+        "CASGEM_WELL_ID" : "22085", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398125N1201305W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8125", 
+        "LONGITUDE" : "-120.1305", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372866.0887, 
+        "y" : 4838732.5831
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19696, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E29G001M", 
+        "CASGEM_WELL_ID" : "22087", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "840", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72910", 
+        "CASGEM_STATION_ID" : "398155N1202086W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8155", 
+        "LONGITUDE" : "-120.2086", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13381560.141, 
+        "y" : 4839167.3529
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 20162, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N17E30M001M", 
+        "CASGEM_WELL_ID" : "22564", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "120", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "NONE", 
+        "CASGEM_STATION_ID" : "398156N1201258W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8156", 
+        "LONGITUDE" : "-120.1258", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372342.8871, 
+        "y" : 4839181.8455
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19743, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E35Q001M", 
+        "CASGEM_WELL_ID" : "22136", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397982N1201508W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7982", 
+        "LONGITUDE" : "-120.1508", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375125.8744, 
+        "y" : 4836660.441
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19744, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E36B001M", 
+        "CASGEM_WELL_ID" : "22137", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "315", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "165865", 
+        "CASGEM_STATION_ID" : "398072N1201321W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8072", 
+        "LONGITUDE" : "-120.1321", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373044.1999, 
+        "y" : 4837964.5361
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19745, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E36D001M", 
+        "CASGEM_WELL_ID" : "22138", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398061N1201408W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8061", 
+        "LONGITUDE" : "-120.1408", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374012.6795, 
+        "y" : 4837805.1376
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19746, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E36H001M", 
+        "CASGEM_WELL_ID" : "22139", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398044N1201280W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8044", 
+        "LONGITUDE" : "-120.128", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372587.79, 
+        "y" : 4837558.7994
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22669, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E10H003M", 
+        "CASGEM_WELL_ID" : "25160", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "95", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "96664", 
+        "CASGEM_STATION_ID" : "398745N1204957W002", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8745", 
+        "LONGITUDE" : "-120.4957", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13413519.9668, 
+        "y" : 4847721.6861
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22670, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E10H002M", 
+        "CASGEM_WELL_ID" : "25161", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "380096", 
+        "CASGEM_STATION_ID" : "398742N1204966W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8742", 
+        "LONGITUDE" : "-120.4966", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13413620.1543, 
+        "y" : 4847678.1709
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22671, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11A002M", 
+        "CASGEM_WELL_ID" : "25162", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "145", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "510640", 
+        "CASGEM_STATION_ID" : "398775N1204764W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8775", 
+        "LONGITUDE" : "-120.4764", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411371.5006, 
+        "y" : 4848156.8487
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22672, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11A005M", 
+        "CASGEM_WELL_ID" : "25164", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398775N1204763W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8775", 
+        "LONGITUDE" : "-120.4763", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411360.3687, 
+        "y" : 4848156.8487
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22716, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11E001M", 
+        "CASGEM_WELL_ID" : "25211", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "437994", 
+        "CASGEM_STATION_ID" : "398742N1204942W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8742", 
+        "LONGITUDE" : "-120.4942", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13413352.9875, 
+        "y" : 4847678.1709
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22717, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11H002M", 
+        "CASGEM_WELL_ID" : "25212", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398740N1204783W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.874", 
+        "LONGITUDE" : "-120.4783", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411583.0076, 
+        "y" : 4847649.1609
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22718, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11H003M", 
+        "CASGEM_WELL_ID" : "25213", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398754N1204798W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8754", 
+        "LONGITUDE" : "-120.4798", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411749.9869, 
+        "y" : 4847852.2329
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22719, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E12B001M", 
+        "CASGEM_WELL_ID" : "25214", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "105", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "425446", 
+        "CASGEM_STATION_ID" : "398784N1204628W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8784", 
+        "LONGITUDE" : "-120.4628", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13409857.5555, 
+        "y" : 4848287.4012
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22720, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E12C001M", 
+        "CASGEM_WELL_ID" : "25215", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "440", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "554746", 
+        "CASGEM_STATION_ID" : "398789N1204698W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8789", 
+        "LONGITUDE" : "-120.4698", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410636.792, 
+        "y" : 4848359.9311
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22721, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E12E002M", 
+        "CASGEM_WELL_ID" : "25216", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "660", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "756257", 
+        "CASGEM_STATION_ID" : "398730N1204730W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.873", 
+        "LONGITUDE" : "-120.473", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410993.0143, 
+        "y" : 4847504.112
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22722, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E13B001M", 
+        "CASGEM_WELL_ID" : "25217", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "186", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "233923", 
+        "CASGEM_STATION_ID" : "398647N1204632W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8647", 
+        "LONGITUDE" : "-120.4632", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13409902.0833, 
+        "y" : 4846300.2876
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22723, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E12L002M", 
+        "CASGEM_WELL_ID" : "25218", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "145", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "185017", 
+        "CASGEM_STATION_ID" : "398719N1204687W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8719", 
+        "LONGITUDE" : "-120.4687", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410514.3405, 
+        "y" : 4847344.5606
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22724, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E08K001M", 
+        "CASGEM_WELL_ID" : "25219", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "185", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "554717", 
+        "CASGEM_STATION_ID" : "398615N1204328W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8615", 
+        "LONGITUDE" : "-120.4328", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13406517.9708, 
+        "y" : 4845836.2015
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22725, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E08K003M", 
+        "CASGEM_WELL_ID" : "25220", 
+        "GW_BASIN_NAME" : "Merced", 
+        "GW_BASIN_CODE" : "5-22.04", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "149", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "092089", 
+        "CASGEM_STATION_ID" : "371581N1205245W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1581", 
+        "LONGITUDE" : "-120.5245", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13416725.9681, 
+        "y" : 4461166.8594
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22726, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E08K005M", 
+        "CASGEM_WELL_ID" : "25221", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "210", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "185019", 
+        "CASGEM_STATION_ID" : "398592N1204338W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8592", 
+        "LONGITUDE" : "-120.4338", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13406629.2903, 
+        "y" : 4845502.6529
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22727, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E08N001M", 
+        "CASGEM_WELL_ID" : "25222", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "163", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "783744", 
+        "CASGEM_STATION_ID" : "398578N1204411W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8578", 
+        "LONGITUDE" : "-120.4411", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13407441.9226, 
+        "y" : 4845299.6288
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22728, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11J001M", 
+        "CASGEM_WELL_ID" : "25223", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "185", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "722959", 
+        "CASGEM_STATION_ID" : "398718N1204768W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8718", 
+        "LONGITUDE" : "-120.4768", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411416.0284, 
+        "y" : 4847330.0561
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22729, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "24N13E22G001M", 
+        "CASGEM_WELL_ID" : "25224", 
+        "GW_BASIN_NAME" : "Grizzly Valley", 
+        "GW_BASIN_CODE" : "5-59", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "155", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "1096414", 
+        "CASGEM_STATION_ID" : "399315N1205010W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.9315", 
+        "LONGITUDE" : "-120.501", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13414109.9601, 
+        "y" : 4855993.0335
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22730, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E12H001M", 
+        "CASGEM_WELL_ID" : "25225", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "520", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "91986, 99", 
+        "CASGEM_STATION_ID" : "398740N1204586W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.874", 
+        "LONGITUDE" : "-120.4586", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13409390.0137, 
+        "y" : 4847649.1609
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22731, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E07A001M", 
+        "CASGEM_WELL_ID" : "25226", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398689N1204456W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8689", 
+        "LONGITUDE" : "-120.4456", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13407942.8603, 
+        "y" : 4846909.4336
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22732, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E08K004M", 
+        "CASGEM_WELL_ID" : "25227", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398615N1204335W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8615", 
+        "LONGITUDE" : "-120.4335", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13406595.8945, 
+        "y" : 4845836.2015
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22733, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E17D001M", 
+        "CASGEM_WELL_ID" : "25228", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "145", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "406188", 
+        "CASGEM_STATION_ID" : "398530N1204404W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.853", 
+        "LONGITUDE" : "-120.4404", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13407363.9989, 
+        "y" : 4844603.5777
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22734, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E21D003M", 
+        "CASGEM_WELL_ID" : "25229", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "120", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "216689", 
+        "CASGEM_STATION_ID" : "398387N1204229W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8387", 
+        "LONGITUDE" : "-120.4229", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13405415.9078, 
+        "y" : 4842530.2138
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34176, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28N07E05M001M", 
+        "CASGEM_WELL_ID" : "37132", 
+        "GW_BASIN_NAME" : "Lake Almanor Valley", 
+        "GW_BASIN_CODE" : "5-7", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "145", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "403025N1212297W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "40.3025", 
+        "LONGITUDE" : "-121.2297", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13495228.473, 
+        "y" : 4909998.6198
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34697, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11A006M", 
+        "CASGEM_WELL_ID" : "37676", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "245", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "554744", 
+        "CASGEM_STATION_ID" : "398757N1204776W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8757", 
+        "LONGITUDE" : "-120.4776", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411505.084, 
+        "y" : 4847895.7489
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34698, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11H001M", 
+        "CASGEM_WELL_ID" : "37677", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "175", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "406186", 
+        "CASGEM_STATION_ID" : "398741N1204780W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8741", 
+        "LONGITUDE" : "-120.478", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411549.6118, 
+        "y" : 4847663.6659
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34699, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11N001M", 
+        "CASGEM_WELL_ID" : "37678", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "295", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "380121", 
+        "CASGEM_STATION_ID" : "398680N1204913W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.868", 
+        "LONGITUDE" : "-120.4913", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13413030.161, 
+        "y" : 4846778.8991
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34700, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E12E001M", 
+        "CASGEM_WELL_ID" : "37679", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "355", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "406180", 
+        "CASGEM_STATION_ID" : "398726N1204739W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8726", 
+        "LONGITUDE" : "-120.4739", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411093.2019, 
+        "y" : 4847446.093
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34701, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11F001M", 
+        "CASGEM_WELL_ID" : "37680", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398752N1204895W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8752", 
+        "LONGITUDE" : "-120.4895", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13412829.7859, 
+        "y" : 4847823.2224
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34702, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E12E003M", 
+        "CASGEM_WELL_ID" : "37681", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398753N1204746W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8753", 
+        "LONGITUDE" : "-120.4746", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411171.1255, 
+        "y" : 4847837.7276
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34703, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E08K002M", 
+        "CASGEM_WELL_ID" : "37682", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "185020", 
+        "CASGEM_STATION_ID" : "398607N1204300W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8607", 
+        "LONGITUDE" : "-120.43", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13406206.2762, 
+        "y" : 4845720.1833
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34704, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E08K006M", 
+        "CASGEM_WELL_ID" : "37683", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "207", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "92088", 
+        "CASGEM_STATION_ID" : "398616N1204344W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8616", 
+        "LONGITUDE" : "-120.4344", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13406696.082, 
+        "y" : 4845850.7038
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34705, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E08L001M", 
+        "CASGEM_WELL_ID" : "37684", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "756254", 
+        "CASGEM_STATION_ID" : "398581N1204392W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8581", 
+        "LONGITUDE" : "-120.4392", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13407230.4155, 
+        "y" : 4845343.1336
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34706, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E02A001M", 
+        "CASGEM_WELL_ID" : "37685", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "180", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "207714", 
+        "CASGEM_STATION_ID" : "398927N1204767W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8927", 
+        "LONGITUDE" : "-120.4767", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411404.8965, 
+        "y" : 4850361.9652
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34707, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E25M001M", 
+        "CASGEM_WELL_ID" : "37686", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398247N1204755W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8247", 
+        "LONGITUDE" : "-120.4755", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411271.3131, 
+        "y" : 4840500.7653
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34708, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E07H001M", 
+        "CASGEM_WELL_ID" : "37687", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "165", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "554720", 
+        "CASGEM_STATION_ID" : "398650N1204484W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.865", 
+        "LONGITUDE" : "-120.4484", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13408254.5549, 
+        "y" : 4846343.7968
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34709, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E21D001M", 
+        "CASGEM_WELL_ID" : "37688", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "216688", 
+        "CASGEM_STATION_ID" : "398380N1204231W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.838", 
+        "LONGITUDE" : "-120.4231", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13405438.1717, 
+        "y" : 4842428.7316
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 34481, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E36K001M", 
+        "CASGEM_WELL_ID" : "37453", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398004N1201317W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8004", 
+        "LONGITUDE" : "-120.1317", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372999.6721, 
+        "y" : 4836979.2041
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32938, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N12E09Q001M", 
+        "CASGEM_WELL_ID" : "35863", 
+        "GW_BASIN_NAME" : "Mohawk Valley", 
+        "GW_BASIN_CODE" : "5-11", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "80", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397780N1206348W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.778", 
+        "LONGITUDE" : "-120.6348", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429004.5079, 
+        "y" : 4833734.0933
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33820, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E36A001M", 
+        "CASGEM_WELL_ID" : "36765", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "165870", 
+        "CASGEM_STATION_ID" : "398066N1201281W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8066", 
+        "LONGITUDE" : "-120.1281", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372598.922, 
+        "y" : 4837877.5911
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33105, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N15E34L002M", 
+        "CASGEM_WELL_ID" : "36032", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397116N1202884W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7116", 
+        "LONGITUDE" : "-120.2884", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13390443.4363, 
+        "y" : 4824120.8582
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33211, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N16E07G001M", 
+        "CASGEM_WELL_ID" : "36143", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "810", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72919", 
+        "CASGEM_STATION_ID" : "397762N1202287W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7762", 
+        "LONGITUDE" : "-120.2287", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383797.6627, 
+        "y" : 4833473.3713
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33212, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N16E17D001M", 
+        "CASGEM_WELL_ID" : "36144", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "810", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72926", 
+        "CASGEM_STATION_ID" : "397659N1202185W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7659", 
+        "LONGITUDE" : "-120.2185", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13382662.2039, 
+        "y" : 4831981.5934
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33213, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N16E19A001M", 
+        "CASGEM_WELL_ID" : "36145", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "500", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72433", 
+        "CASGEM_STATION_ID" : "397513N1202266W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7513", 
+        "LONGITUDE" : "-120.2266", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383563.8918, 
+        "y" : 4829867.4167
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33214, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N16E19M001M", 
+        "CASGEM_WELL_ID" : "36146", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "256", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "397417N1202377W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7417", 
+        "LONGITUDE" : "-120.2377", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13384799.5382, 
+        "y" : 4828477.5172
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33215, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22N16E30Q001M", 
+        "CASGEM_WELL_ID" : "36147", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397259N1202270W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.7259", 
+        "LONGITUDE" : "-120.227", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383608.4196, 
+        "y" : 4826190.3959
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33718, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E25G001M", 
+        "CASGEM_WELL_ID" : "36661", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "28", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Quincy", 
+        "CASGEM_STATION_ID" : "398179N1203607W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8179", 
+        "LONGITUDE" : "-120.3607", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13398491.8355, 
+        "y" : 4839515.1824
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33719, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N14E25K004M", 
+        "CASGEM_WELL_ID" : "36662", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "52372", 
+        "CASGEM_STATION_ID" : "398169N1203573W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8169", 
+        "LONGITUDE" : "-120.3573", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13398113.3493, 
+        "y" : 4839370.252
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33720, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E27R001M", 
+        "CASGEM_WELL_ID" : "36663", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398107N1201653W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8107", 
+        "LONGITUDE" : "-120.1653", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13376740.007, 
+        "y" : 4838471.7303
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33721, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E30C001M", 
+        "CASGEM_WELL_ID" : "36664", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "690", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "72983", 
+        "CASGEM_STATION_ID" : "398232N1202315W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8232", 
+        "LONGITUDE" : "-120.2315", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13384109.3573, 
+        "y" : 4840283.349
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33722, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E32J001M", 
+        "CASGEM_WELL_ID" : "36665", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "860", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "354803", 
+        "CASGEM_STATION_ID" : "398014N1202051W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8014", 
+        "LONGITUDE" : "-120.2051", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13381170.5228, 
+        "y" : 4837124.0997
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93497, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E36R001M", 
+        "SWN" : "23N16E36R001M", 
+        "CASGEM_WELL_ID" : "22562", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "213453", 
+        "CASGEM_STATION_ID" : "397960N1201281W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.796", 
+        "LONGITUDE" : "-120.1281", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372598.922, 
+        "y" : 4836341.6882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33107, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N15E36N001M", 
+        "SWN" : "22N15E36N001M", 
+        "CASGEM_WELL_ID" : "36034", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "803", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/17/2013", 
+        "COMPLETION_RPT_NBR" : "13", 
+        "CASGEM_STATION_ID" : "397082N1202574W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7082", 
+        "LONGITUDE" : "-120.2574", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13386992.5321, 
+        "y" : 4823628.8634
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 36897, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N16E34G003M", 
+        "CASGEM_WELL_ID" : "39942", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398034N1201729W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8034", 
+        "LONGITUDE" : "-120.1729", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13377586.0352, 
+        "y" : 4837413.8974
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35727, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E10H001M", 
+        "CASGEM_WELL_ID" : "38728", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "575757", 
+        "CASGEM_STATION_ID" : "398745N1204957W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8745", 
+        "LONGITUDE" : "-120.4957", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13413519.9668, 
+        "y" : 4847721.6861
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35728, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11A001M", 
+        "CASGEM_WELL_ID" : "38729", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "214", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "756258", 
+        "CASGEM_STATION_ID" : "398760N1204766W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.876", 
+        "LONGITUDE" : "-120.4766", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411393.7645, 
+        "y" : 4847939.2651
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35729, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E11A003M", 
+        "CASGEM_WELL_ID" : "38730", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "216674", 
+        "CASGEM_STATION_ID" : "398775N1204764W002", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8775", 
+        "LONGITUDE" : "-120.4764", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411371.5006, 
+        "y" : 4848156.8487
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36980, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23N13E12L001M", 
+        "CASGEM_WELL_ID" : "40028", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "190", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "35665", 
+        "CASGEM_STATION_ID" : "398692N1204675W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "39.8692", 
+        "LONGITUDE" : "-120.4675", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410380.7571, 
+        "y" : 4846952.9454
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34175, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "28N06E24A001M", 
+        "SWN" : "28N06E24A001M", 
+        "CASGEM_WELL_ID" : "37131", 
+        "GW_BASIN_NAME" : "Lake Almanor Valley", 
+        "GW_BASIN_CODE" : "5-7", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "51", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/29/2013", 
+        "COMPLETION_RPT_NBR" : "10818", 
+        "CASGEM_STATION_ID" : "402761N1212543W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "40.2761", 
+        "LONGITUDE" : "-121.2543", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13497966.9325, 
+        "y" : 4906145.8713
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33821, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E36D002M", 
+        "SWN" : "23N16E36D002M", 
+        "CASGEM_WELL_ID" : "36766", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "185", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "379877", 
+        "CASGEM_STATION_ID" : "398039N1201412W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8039", 
+        "LONGITUDE" : "-120.1412", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374057.2073, 
+        "y" : 4837486.3481
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93494, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N17E31Q002M", 
+        "SWN" : "23N17E31Q002M", 
+        "CASGEM_WELL_ID" : "22566", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "184993", 
+        "CASGEM_STATION_ID" : "397960N1201163W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.796", 
+        "LONGITUDE" : "-120.1163", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371285.352, 
+        "y" : 4836341.6882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 20160, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E36R001M", 
+        "SWN" : "23N16E36R001M", 
+        "CASGEM_WELL_ID" : "22562", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "213453", 
+        "CASGEM_STATION_ID" : "397960N1201281W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.796", 
+        "LONGITUDE" : "-120.1281", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372598.922, 
+        "y" : 4836341.6882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93816, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E36D002M", 
+        "SWN" : "23N16E36D002M", 
+        "CASGEM_WELL_ID" : "36766", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "185", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "379877", 
+        "CASGEM_STATION_ID" : "398039N1201412W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8039", 
+        "LONGITUDE" : "-120.1412", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374057.2073, 
+        "y" : 4837486.3481
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93499, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E36L003M", 
+        "SWN" : "23N16E36L003M", 
+        "CASGEM_WELL_ID" : "22560", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "230", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "225170", 
+        "CASGEM_STATION_ID" : "398024N1201371W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8024", 
+        "LONGITUDE" : "-120.1371", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373600.7974, 
+        "y" : 4837268.9975
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 37125, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E30R001M", 
+        "SWN" : "23N16E30R001M", 
+        "CASGEM_WELL_ID" : "40174", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "820", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "72902", 
+        "CASGEM_STATION_ID" : "398098N1202211W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8098", 
+        "LONGITUDE" : "-120.2211", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13382951.6346, 
+        "y" : 4838341.3065
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19693, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E23F001M", 
+        "SWN" : "23N16E23F001M", 
+        "CASGEM_WELL_ID" : "22084", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398315N1201583W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8315", 
+        "LONGITUDE" : "-120.1583", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375960.7706, 
+        "y" : 4841486.4458
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93813, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E30R001M", 
+        "SWN" : "23N16E30R001M", 
+        "CASGEM_WELL_ID" : "40174", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "820", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "72902", 
+        "CASGEM_STATION_ID" : "398098N1202211W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8098", 
+        "LONGITUDE" : "-120.2211", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13382951.6346, 
+        "y" : 4838341.3065
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93812, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E28L001M", 
+        "SWN" : "23N16E28L001M", 
+        "CASGEM_WELL_ID" : "22086", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "257", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398165N1201934W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8165", 
+        "LONGITUDE" : "-120.1934", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13379868.0847, 
+        "y" : 4839312.2804
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 33819, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E33A002M", 
+        "SWN" : "23N16E33A002M", 
+        "CASGEM_WELL_ID" : "36764", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "297", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "207721", 
+        "CASGEM_STATION_ID" : "398059N1201862W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8059", 
+        "LONGITUDE" : "-120.1862", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13379066.5844, 
+        "y" : 4837776.1563
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93817, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E36L004M", 
+        "SWN" : "23N16E36L004M", 
+        "CASGEM_WELL_ID" : "37454", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "184758", 
+        "CASGEM_STATION_ID" : "398024N1201386W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8024", 
+        "LONGITUDE" : "-120.1386", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373767.7766, 
+        "y" : 4837268.9975
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93814, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E32Q001M", 
+        "SWN" : "23N16E32Q001M", 
+        "CASGEM_WELL_ID" : "22135", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "820", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "72911", 
+        "CASGEM_STATION_ID" : "397979N1202099W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7979", 
+        "LONGITUDE" : "-120.2099", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13381704.8563, 
+        "y" : 4836616.9741
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19695, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E28L001M", 
+        "SWN" : "23N16E28L001M", 
+        "CASGEM_WELL_ID" : "22086", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "257", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398165N1201934W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8165", 
+        "LONGITUDE" : "-120.1934", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13379868.0847, 
+        "y" : 4839312.2804
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93811, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E23F001M", 
+        "SWN" : "23N16E23F001M", 
+        "CASGEM_WELL_ID" : "22084", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "398315N1201583W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8315", 
+        "LONGITUDE" : "-120.1583", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375960.7706, 
+        "y" : 4841486.4458
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 19742, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E32Q001M", 
+        "SWN" : "23N16E32Q001M", 
+        "CASGEM_WELL_ID" : "22135", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "820", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "72911", 
+        "CASGEM_STATION_ID" : "397979N1202099W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7979", 
+        "LONGITUDE" : "-120.2099", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13381704.8563, 
+        "y" : 4836616.9741
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93815, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E33A002M", 
+        "SWN" : "23N16E33A002M", 
+        "CASGEM_WELL_ID" : "36764", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "297", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "207721", 
+        "CASGEM_STATION_ID" : "398059N1201862W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8059", 
+        "LONGITUDE" : "-120.1862", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13379066.5844, 
+        "y" : 4837776.1563
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 34482, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E36L004M", 
+        "SWN" : "23N16E36L004M", 
+        "CASGEM_WELL_ID" : "37454", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "184758", 
+        "CASGEM_STATION_ID" : "398024N1201386W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.8024", 
+        "LONGITUDE" : "-120.1386", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373767.7766, 
+        "y" : 4837268.9975
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93809, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N16E20P002M", 
+        "SWN" : "22N16E20P002M", 
+        "CASGEM_WELL_ID" : "20719", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "205", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "15151", 
+        "CASGEM_STATION_ID" : "397372N1202128W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7372", 
+        "LONGITUDE" : "-120.2128", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13382027.6828, 
+        "y" : 4827826.0685
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93503, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N15E08Q001M", 
+        "SWN" : "22N15E08Q001M", 
+        "CASGEM_WELL_ID" : "20571", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "943", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "ELOG", 
+        "CASGEM_STATION_ID" : "397667N1203238W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7667", 
+        "LONGITUDE" : "-120.3238", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13394384.1463, 
+        "y" : 4832097.4516
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18347, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N16E06R002M", 
+        "SWN" : "22N16E06R002M", 
+        "CASGEM_WELL_ID" : "20712", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "816", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "72934", 
+        "CASGEM_STATION_ID" : "397831N1202245W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7831", 
+        "LONGITUDE" : "-120.2245", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383330.1209, 
+        "y" : 4834472.8426
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33106, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N15E34L006M", 
+        "SWN" : "22N15E34L006M", 
+        "CASGEM_WELL_ID" : "36033", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "48", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397106N1202878W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7106", 
+        "LONGITUDE" : "-120.2878", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13390376.6446, 
+        "y" : 4823976.1513
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18349, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N16E17C001M", 
+        "SWN" : "22N16E17C001M", 
+        "CASGEM_WELL_ID" : "20714", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "184", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "72920", 
+        "CASGEM_STATION_ID" : "397626N1202151W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7626", 
+        "LONGITUDE" : "-120.2151", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13382283.7177, 
+        "y" : 4831503.6923
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19684, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N15E26R001M", 
+        "SWN" : "23N15E26R001M", 
+        "CASGEM_WELL_ID" : "22075", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "763", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "72992", 
+        "CASGEM_STATION_ID" : "398100N1202582W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.81", 
+        "LONGITUDE" : "-120.2582", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13387081.5877, 
+        "y" : 4838370.2894
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 18354, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "22N16E20P002M", 
+        "SWN" : "22N16E20P002M", 
+        "CASGEM_WELL_ID" : "20719", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "205", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "15151", 
+        "CASGEM_STATION_ID" : "397372N1202128W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7372", 
+        "LONGITUDE" : "-120.2128", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13382027.6828, 
+        "y" : 4827826.0685
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33104, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N15E27Q001M", 
+        "SWN" : "22N15E27Q001M", 
+        "CASGEM_WELL_ID" : "36031", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397226N1202835W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7226", 
+        "LONGITUDE" : "-120.2835", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13389897.9708, 
+        "y" : 4825712.7722
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18350, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N16E17E002M", 
+        "SWN" : "22N16E17E002M", 
+        "CASGEM_WELL_ID" : "20715", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "125", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397622N1202205W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7622", 
+        "LONGITUDE" : "-120.2205", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13382884.8429, 
+        "y" : 4831445.7665
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18346, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N16E04A001M", 
+        "SWN" : "22N16E04A001M", 
+        "CASGEM_WELL_ID" : "20711", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "251", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397945N1201920W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7945", 
+        "LONGITUDE" : "-120.192", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13379712.2374, 
+        "y" : 4836124.3626
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 18208, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "22N15E08Q001M", 
+        "SWN" : "22N15E08Q001M", 
+        "CASGEM_WELL_ID" : "20571", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "943", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "ELOG", 
+        "CASGEM_STATION_ID" : "397667N1203238W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7667", 
+        "LONGITUDE" : "-120.3238", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13394384.1463, 
+        "y" : 4832097.4516
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18345, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N15E36Q001M", 
+        "SWN" : "22N15E36Q001M", 
+        "CASGEM_WELL_ID" : "20710", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "426", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "53135", 
+        "CASGEM_STATION_ID" : "397081N1202449W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7081", 
+        "LONGITUDE" : "-120.2449", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13385601.0385, 
+        "y" : 4823614.3933
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18333, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N15E13N001M", 
+        "SWN" : "22N15E13N001M", 
+        "CASGEM_WELL_ID" : "20697", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "740", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "72964", 
+        "CASGEM_STATION_ID" : "397529N1202568W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7529", 
+        "LONGITUDE" : "-120.2568", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13386925.7404, 
+        "y" : 4830099.0854
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18337, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N15E22Q001M", 
+        "SWN" : "22N15E22Q001M", 
+        "CASGEM_WELL_ID" : "20702", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "600", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/22/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397403N1202870W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7403", 
+        "LONGITUDE" : "-120.287", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13390287.5891, 
+        "y" : 4828274.8397
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93498, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N16E36N002M", 
+        "SWN" : "23N16E36N002M", 
+        "CASGEM_WELL_ID" : "22561", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "50", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/17/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397951N1201418W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7951", 
+        "LONGITUDE" : "-120.1418", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374123.999, 
+        "y" : 4836211.2923
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93496, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N17E31P001M", 
+        "SWN" : "23N17E31P001M", 
+        "CASGEM_WELL_ID" : "37457", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "212", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/20/2013", 
+        "COMPLETION_RPT_NBR" : "214594", 
+        "CASGEM_STATION_ID" : "397978N1201176W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7978", 
+        "LONGITUDE" : "-120.1176", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371430.0673, 
+        "y" : 4836602.4852
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 20159, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N16E36N002M", 
+        "SWN" : "23N16E36N002M", 
+        "CASGEM_WELL_ID" : "22561", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "50", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/17/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397951N1201418W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7951", 
+        "LONGITUDE" : "-120.1418", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374123.999, 
+        "y" : 4836211.2923
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 20163, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N17E31Q001M", 
+        "SWN" : "23N17E31Q001M", 
+        "CASGEM_WELL_ID" : "22565", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "89770", 
+        "CASGEM_STATION_ID" : "397981N1201150W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7981", 
+        "LONGITUDE" : "-120.115", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371140.6366, 
+        "y" : 4836645.9521
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93495, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "23N17E31Q001M", 
+        "SWN" : "23N17E31Q001M", 
+        "CASGEM_WELL_ID" : "22565", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "89770", 
+        "CASGEM_STATION_ID" : "397981N1201150W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7981", 
+        "LONGITUDE" : "-120.115", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371140.6366, 
+        "y" : 4836645.9521
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 93504, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N16E01A002M", 
+        "SWN" : "22N16E01A002M", 
+        "CASGEM_WELL_ID" : "36035", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397927N1201294W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7927", 
+        "LONGITUDE" : "-120.1294", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372743.6373, 
+        "y" : 4835863.5781
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19921, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "28N07E18M002M", 
+        "SWN" : "28N07E18M002M", 
+        "CASGEM_WELL_ID" : "22318", 
+        "GW_BASIN_NAME" : "Lake Almanor Valley", 
+        "GW_BASIN_CODE" : "5-7", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "90", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/17/2013", 
+        "COMPLETION_RPT_NBR" : "77", 
+        "CASGEM_STATION_ID" : "402854N1212462W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "40.2854", 
+        "LONGITUDE" : "-121.2462", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13497065.2446, 
+        "y" : 4907502.9178
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 18203, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22N12E09P001M", 
+        "SWN" : "22N12E09P001M", 
+        "CASGEM_WELL_ID" : "20566", 
+        "GW_BASIN_NAME" : "Mohawk Valley", 
+        "GW_BASIN_CODE" : "5-11", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "85", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "397802N1206370W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7802", 
+        "LONGITUDE" : "-120.637", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429249.4108, 
+        "y" : 4834052.7628
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 20164, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N17E31Q002M", 
+        "SWN" : "23N17E31Q002M", 
+        "CASGEM_WELL_ID" : "22566", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/04/2012", 
+        "COMPLETION_RPT_NBR" : "184993", 
+        "CASGEM_STATION_ID" : "397960N1201163W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.796", 
+        "LONGITUDE" : "-120.1163", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371285.352, 
+        "y" : 4836341.6882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 34485, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "23N17E31P001M", 
+        "SWN" : "23N17E31P001M", 
+        "CASGEM_WELL_ID" : "37457", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "212", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/20/2013", 
+        "COMPLETION_RPT_NBR" : "214594", 
+        "CASGEM_STATION_ID" : "397978N1201176W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7978", 
+        "LONGITUDE" : "-120.1176", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371430.0673, 
+        "y" : 4836602.4852
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 105879, 
+        "SHP_FILE_ID" : "3556", 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "DMW 6d", 
+        "SWN" : "23N15E30M001M", 
+        "CASGEM_WELL_ID" : "25534", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "350", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016556", 
+        "CASGEM_STATION_ID" : "398170N1203478W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.817", 
+        "LONGITUDE" : "-120.3478", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13397055.8141, 
+        "y" : 4839384.7449
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23035, 
+        "SHP_FILE_ID" : "3556", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "DMW 6d", 
+        "SWN" : "23N15E30M001M", 
+        "CASGEM_WELL_ID" : "25534", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "350", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016556", 
+        "CASGEM_STATION_ID" : "398170N1203478W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.817", 
+        "LONGITUDE" : "-120.3478", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13397055.8141, 
+        "y" : 4839384.7449
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 105880, 
+        "SHP_FILE_ID" : "3556", 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "DMW 6s", 
+        "SWN" : "23N15E30M002M", 
+        "CASGEM_WELL_ID" : "38383", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016556", 
+        "CASGEM_STATION_ID" : "398170N1203478W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.817", 
+        "LONGITUDE" : "-120.3478", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13397055.8141, 
+        "y" : 4839384.7449
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35391, 
+        "SHP_FILE_ID" : "3556", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "DMW 6s", 
+        "SWN" : "23N15E30M002M", 
+        "CASGEM_WELL_ID" : "38383", 
+        "GW_BASIN_NAME" : "Sierra Valley", 
+        "GW_BASIN_CODE" : "5-12.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016556", 
+        "CASGEM_STATION_ID" : "398170N1203478W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.817", 
+        "LONGITUDE" : "-120.3478", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13397055.8141, 
+        "y" : 4839384.7449
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 105886, 
+        "SHP_FILE_ID" : "3560", 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "DMW 5d", 
+        "SWN" : "23N16E36N003M", 
+        "CASGEM_WELL_ID" : "38381", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "330", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016555", 
+        "CASGEM_STATION_ID" : "397956N1201417W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7956", 
+        "LONGITUDE" : "-120.1417", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374112.867, 
+        "y" : 4836283.7342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35389, 
+        "SHP_FILE_ID" : "3560", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "DMW 5d", 
+        "SWN" : "23N16E36N003M", 
+        "CASGEM_WELL_ID" : "38381", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "330", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016555", 
+        "CASGEM_STATION_ID" : "397956N1201417W001", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7956", 
+        "LONGITUDE" : "-120.1417", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374112.867, 
+        "y" : 4836283.7342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 105887, 
+        "SHP_FILE_ID" : "3560", 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "DMW 5i", 
+        "SWN" : "23N16E36N004M", 
+        "CASGEM_WELL_ID" : "38382", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "205", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016555", 
+        "CASGEM_STATION_ID" : "397956N1201417W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7956", 
+        "LONGITUDE" : "-120.1417", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374112.867, 
+        "y" : 4836283.7342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35390, 
+        "SHP_FILE_ID" : "3560", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "DMW 5i", 
+        "SWN" : "23N16E36N004M", 
+        "CASGEM_WELL_ID" : "38382", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "205", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016555", 
+        "CASGEM_STATION_ID" : "397956N1201417W002", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7956", 
+        "LONGITUDE" : "-120.1417", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374112.867, 
+        "y" : 4836283.7342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Sierra Valley Groundwater Management District", 
+        "OBJECTID" : 105889, 
+        "SHP_FILE_ID" : "3560", 
+        "ME_ID" : "388", 
+        "LOCAL_WELL_NBR" : "DMW 5s", 
+        "SWN" : "23N16E36N005M", 
+        "CASGEM_WELL_ID" : "40175", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016555", 
+        "CASGEM_STATION_ID" : "397956N1201417W003", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7956", 
+        "LONGITUDE" : "-120.1417", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374112.867, 
+        "y" : 4836283.7342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 37126, 
+        "SHP_FILE_ID" : "3560", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "DMW 5s", 
+        "SWN" : "23N16E36N005M", 
+        "CASGEM_WELL_ID" : "40175", 
+        "GW_BASIN_NAME" : "Chilcoot", 
+        "GW_BASIN_CODE" : "5-12.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Plumas", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/17/2013", 
+        "COMPLETION_RPT_NBR" : "e016555", 
+        "CASGEM_STATION_ID" : "397956N1201417W003", 
+        "HYDROLOGIC_REGION" : "Sacramento River", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "39.7956", 
+        "LONGITUDE" : "-120.1417", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374112.867, 
+        "y" : 4836283.7342
+      }
+    }
+  ]
+}

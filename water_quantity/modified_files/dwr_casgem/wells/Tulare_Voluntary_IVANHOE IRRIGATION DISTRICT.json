@@ -1,0 +1,1378 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 13932, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E20P001M", 
+        "CASGEM_WELL_ID" : "16228", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364288N1191842W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4288", 
+        "LONGITUDE" : "-119.1842", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267524.4546, 
+        "y" : 4359785.1392
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 13937, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E28N001M", 
+        "CASGEM_WELL_ID" : "16233", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364174N1191703W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4174", 
+        "LONGITUDE" : "-119.1703", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265977.1137, 
+        "y" : 4358208.0124
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 13938, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E29H001M", 
+        "CASGEM_WELL_ID" : "16234", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364227N1191706W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4227", 
+        "LONGITUDE" : "-119.1706", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266010.5095, 
+        "y" : 4358941.2092
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 13940, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E30E001M", 
+        "CASGEM_WELL_ID" : "16236", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364233N1192042W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4233", 
+        "LONGITUDE" : "-119.2042", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269750.8444, 
+        "y" : 4359024.2158
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 13941, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E31L002M", 
+        "CASGEM_WELL_ID" : "16237", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364039N1191987W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4039", 
+        "LONGITUDE" : "-119.1987", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269138.5872, 
+        "y" : 4356340.6615
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 13942, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E32H001M", 
+        "CASGEM_WELL_ID" : "16238", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364068N1191709W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4068", 
+        "LONGITUDE" : "-119.1709", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266043.9054, 
+        "y" : 4356741.7688
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 13943, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E33H001M", 
+        "CASGEM_WELL_ID" : "16239", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364068N1191548W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4068", 
+        "LONGITUDE" : "-119.1548", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264251.6616, 
+        "y" : 4356741.7688
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 13944, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E34D001M", 
+        "CASGEM_WELL_ID" : "16240", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364118N1191520W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4118", 
+        "LONGITUDE" : "-119.152", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263939.967, 
+        "y" : 4357433.3682
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18548, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S25E01C001M", 
+        "CASGEM_WELL_ID" : "20916", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363978N1192156W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3978", 
+        "LONGITUDE" : "-119.2156", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271019.8866, 
+        "y" : 4355497.002
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18549, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S25E01G001M", 
+        "CASGEM_WELL_ID" : "20917", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363931N1192145W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3931", 
+        "LONGITUDE" : "-119.2145", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270897.4352, 
+        "y" : 4354847.0144
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18550, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S25E02D001M", 
+        "CASGEM_WELL_ID" : "20918", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363989N1192381W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3989", 
+        "LONGITUDE" : "-119.2381", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273524.5752, 
+        "y" : 4355649.1324
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18551, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S25E02G001M", 
+        "CASGEM_WELL_ID" : "20919", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363928N1192295W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3928", 
+        "LONGITUDE" : "-119.2295", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272567.2275, 
+        "y" : 4354805.5271
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18562, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E03C001M", 
+        "CASGEM_WELL_ID" : "20932", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363991N1191440W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3991", 
+        "LONGITUDE" : "-119.144", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263049.4111, 
+        "y" : 4355676.7927
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18563, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E04A001M", 
+        "CASGEM_WELL_ID" : "20933", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363988N1191531W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3988", 
+        "LONGITUDE" : "-119.1531", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264062.4184, 
+        "y" : 4355635.3023
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18564, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E05L001M", 
+        "CASGEM_WELL_ID" : "20934", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363922N1191837W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3922", 
+        "LONGITUDE" : "-119.1837", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267468.7949, 
+        "y" : 4354722.5531
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18565, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E06D001M", 
+        "CASGEM_WELL_ID" : "20935", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363992N1192051W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3992", 
+        "LONGITUDE" : "-119.2051", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269851.032, 
+        "y" : 4355690.6229
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18566, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E06L001M", 
+        "CASGEM_WELL_ID" : "20936", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363889N1192017W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3889", 
+        "LONGITUDE" : "-119.2017", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269472.5457, 
+        "y" : 4354266.2076
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18567, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E07C001M", 
+        "CASGEM_WELL_ID" : "20937", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363828N1191981W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3828", 
+        "LONGITUDE" : "-119.1981", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269071.7955, 
+        "y" : 4353422.7109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16239, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E26R001M", 
+        "CASGEM_WELL_ID" : "18568", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364144N1192276W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4144", 
+        "LONGITUDE" : "-119.2276", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272355.7205, 
+        "y" : 4357793.0175
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16244, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E35D001M", 
+        "CASGEM_WELL_ID" : "18573", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364139N1192376W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4139", 
+        "LONGITUDE" : "-119.2376", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273468.9154, 
+        "y" : 4357723.8532
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16247, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E36A001M", 
+        "CASGEM_WELL_ID" : "18576", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364136N1192076W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4136", 
+        "LONGITUDE" : "-119.2076", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270129.3307, 
+        "y" : 4357682.3548
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16248, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E36G001M", 
+        "CASGEM_WELL_ID" : "18577", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364069N1192151W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4069", 
+        "LONGITUDE" : "-119.2151", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270964.2269, 
+        "y" : 4356755.6003
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16249, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E36M002M", 
+        "CASGEM_WELL_ID" : "18578", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364047N1192237W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4047", 
+        "LONGITUDE" : "-119.2237", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271921.5745, 
+        "y" : 4356451.3103
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16246, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E35M001M", 
+        "CASGEM_WELL_ID" : "18575", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364050N1192401W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.405", 
+        "LONGITUDE" : "-119.2401", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273747.2141, 
+        "y" : 4356492.8039
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31327, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S25E01J002M", 
+        "CASGEM_WELL_ID" : "34221", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363922N1192106W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3922", 
+        "LONGITUDE" : "-119.2106", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270463.2892, 
+        "y" : 4354722.5531
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31446, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E03A001M", 
+        "CASGEM_WELL_ID" : "34341", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363971N1191370W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3971", 
+        "LONGITUDE" : "-119.137", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262270.1746, 
+        "y" : 4355400.1928
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31447, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E03H001M", 
+        "CASGEM_WELL_ID" : "34342", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363924N1191370W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3924", 
+        "LONGITUDE" : "-119.137", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262270.1746, 
+        "y" : 4354750.2111
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31448, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E06B001M", 
+        "CASGEM_WELL_ID" : "34343", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363981N1191956W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3981", 
+        "LONGITUDE" : "-119.1956", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268793.4968, 
+        "y" : 4355538.4919
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31449, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E06J001M", 
+        "CASGEM_WELL_ID" : "34344", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363894N1191890W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3894", 
+        "LONGITUDE" : "-119.189", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268058.7882, 
+        "y" : 4354335.3497
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31450, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E07D001M", 
+        "CASGEM_WELL_ID" : "34345", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363822N1192045W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3822", 
+        "LONGITUDE" : "-119.2045", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269784.2403, 
+        "y" : 4353339.7476
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31962, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S26E07G001M", 
+        "CASGEM_WELL_ID" : "34866", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363781N1191934W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3781", 
+        "LONGITUDE" : "-119.1934", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268548.5939, 
+        "y" : 4352772.8487
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 30839, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E20R001M", 
+        "CASGEM_WELL_ID" : "33723", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364296N1191709W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4296", 
+        "LONGITUDE" : "-119.1709", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266043.9054, 
+        "y" : 4359895.8235
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 30840, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E21E001M", 
+        "CASGEM_WELL_ID" : "33724", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364388N1191703W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4388", 
+        "LONGITUDE" : "-119.1703", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265977.1137, 
+        "y" : 4361168.7745
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 30842, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E28K001M", 
+        "CASGEM_WELL_ID" : "33726", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364193N1191595W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4193", 
+        "LONGITUDE" : "-119.1595", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264774.8632, 
+        "y" : 4358470.8508
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 30843, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E29P001M", 
+        "CASGEM_WELL_ID" : "33727", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364141N1191831W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4141", 
+        "LONGITUDE" : "-119.1831", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267402.0032, 
+        "y" : 4357751.5188
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 30844, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E30A001M", 
+        "CASGEM_WELL_ID" : "33728", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364246N1191887W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4246", 
+        "LONGITUDE" : "-119.1887", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268025.3923, 
+        "y" : 4359204.0655
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 30845, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E31Q001M", 
+        "CASGEM_WELL_ID" : "33729", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364000N1191973W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4", 
+        "LONGITUDE" : "-119.1973", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268982.7399, 
+        "y" : 4355801.265
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 30841, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E27G001M", 
+        "CASGEM_WELL_ID" : "33725", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364238N1191431W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4238", 
+        "LONGITUDE" : "-119.1431", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262949.2235, 
+        "y" : 4359093.3884
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 30846, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E32N001M", 
+        "CASGEM_WELL_ID" : "33730", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364000N1191848W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4", 
+        "LONGITUDE" : "-119.1848", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267591.2463, 
+        "y" : 4355801.265
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31234, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E27R001M", 
+        "CASGEM_WELL_ID" : "34127", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364153N1192420W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4153", 
+        "LONGITUDE" : "-119.242", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273958.7212, 
+        "y" : 4357917.5142
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 33160, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E26C001M", 
+        "CASGEM_WELL_ID" : "36087", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364283N1192334W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4283", 
+        "LONGITUDE" : "-119.2334", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273001.3736, 
+        "y" : 4359715.9621
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "IVANHOE IRRIGATION DISTRICT", 
+        "OBJECTID" : 36163, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1094", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S26E20Q001M", 
+        "CASGEM_WELL_ID" : "39172", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364318N1191776W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4318", 
+        "LONGITUDE" : "-119.1776", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266789.746, 
+        "y" : 4360200.2111
+      }
+    }
+  ]
+}

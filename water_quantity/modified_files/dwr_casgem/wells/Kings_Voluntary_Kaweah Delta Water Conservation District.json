@@ -1,0 +1,1858 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14689, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E30E002M", 
+        "CASGEM_WELL_ID" : "16997", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363358N1196327W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3358", 
+        "LONGITUDE" : "-119.6327", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317451.2462, 
+        "y" : 4346925.855
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14690, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E31E001M", 
+        "CASGEM_WELL_ID" : "16998", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363242N1196357W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3242", 
+        "LONGITUDE" : "-119.6357", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317785.2047, 
+        "y" : 4345322.9789
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14692, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E36P002M", 
+        "CASGEM_WELL_ID" : "17001", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363164N1195399W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3164", 
+        "LONGITUDE" : "-119.5399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307120.7975, 
+        "y" : 4344245.3171
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 15593, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S21E11R001M", 
+        "CASGEM_WELL_ID" : "17913", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362872N1196568W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2872", 
+        "LONGITUDE" : "-119.6568", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13320134.046, 
+        "y" : 4340211.9505
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 15594, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S21E13A001M", 
+        "CASGEM_WELL_ID" : "17914", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362811N1196377W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2811", 
+        "LONGITUDE" : "-119.6377", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318007.8437, 
+        "y" : 4339369.5543
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 15612, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S21E23A002M", 
+        "CASGEM_WELL_ID" : "17932", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362683N1196557W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2683", 
+        "LONGITUDE" : "-119.6557", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13320011.5945, 
+        "y" : 4337602.1171
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 15616, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S21E25P001M", 
+        "CASGEM_WELL_ID" : "17936", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362406N1196466W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2406", 
+        "LONGITUDE" : "-119.6466", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318998.5871, 
+        "y" : 4333778.2642
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14412, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S22E23M001M", 
+        "CASGEM_WELL_ID" : "16717", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361694N1195646W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1694", 
+        "LONGITUDE" : "-119.5646", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309870.3889, 
+        "y" : 4323955.6558
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14417, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S22E28H001M", 
+        "CASGEM_WELL_ID" : "16722", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361603N1195849W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1603", 
+        "LONGITUDE" : "-119.5849", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312130.1746, 
+        "y" : 4322700.8817
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14421, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S22E33F001M", 
+        "CASGEM_WELL_ID" : "16726", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361461N1195921W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1461", 
+        "LONGITUDE" : "-119.5921", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312931.6749, 
+        "y" : 4320743.1734
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14423, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S22E35L001M", 
+        "CASGEM_WELL_ID" : "16728", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361453N1195560W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1453", 
+        "LONGITUDE" : "-119.556", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308913.0413, 
+        "y" : 4320632.8906
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 15629, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E02K001M", 
+        "CASGEM_WELL_ID" : "17949", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363028N1195535W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3028", 
+        "LONGITUDE" : "-119.5535", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308634.7426, 
+        "y" : 4342366.5749
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 15633, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E05M001M", 
+        "CASGEM_WELL_ID" : "17953", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363036N1196160W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3036", 
+        "LONGITUDE" : "-119.616", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315592.2107, 
+        "y" : 4342477.0801
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14931, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S21E01B002M", 
+        "CASGEM_WELL_ID" : "17242", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363128N1196457W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3128", 
+        "LONGITUDE" : "-119.6457", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318898.3996, 
+        "y" : 4343747.9711
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14263, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S22E04C001M", 
+        "CASGEM_WELL_ID" : "16565", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362247N1195924W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2247", 
+        "LONGITUDE" : "-119.5924", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312965.0707, 
+        "y" : 4331583.9571
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14269, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S22E08A001M", 
+        "CASGEM_WELL_ID" : "16571", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362103N1196013W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2103", 
+        "LONGITUDE" : "-119.6013", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313955.8142, 
+        "y" : 4329597.0451
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14274, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S22E13C002M", 
+        "CASGEM_WELL_ID" : "16576", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361925N1195385W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1925", 
+        "LONGITUDE" : "-119.5385", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13306964.9502, 
+        "y" : 4327141.5062
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13592, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S21E01D001M", 
+        "CASGEM_WELL_ID" : "15884", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362242N1196541W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2242", 
+        "LONGITUDE" : "-119.6541", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13319833.4833, 
+        "y" : 4331514.961
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13593, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S21E02A001M", 
+        "CASGEM_WELL_ID" : "15885", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362250N1196574W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.225", 
+        "LONGITUDE" : "-119.6574", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13320200.8376, 
+        "y" : 4331625.355
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13618, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E10B001M", 
+        "CASGEM_WELL_ID" : "15911", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362986N1195738W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2986", 
+        "LONGITUDE" : "-119.5738", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310894.5282, 
+        "y" : 4341786.4414
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13620, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E10R001M", 
+        "CASGEM_WELL_ID" : "15913", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362864N1195654W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2864", 
+        "LONGITUDE" : "-119.5654", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309959.4445, 
+        "y" : 4340101.4686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13621, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E10R002M", 
+        "CASGEM_WELL_ID" : "15914", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362864N1195654W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2864", 
+        "LONGITUDE" : "-119.5654", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309959.4445, 
+        "y" : 4340101.4686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13624, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E16A002M", 
+        "CASGEM_WELL_ID" : "15917", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362839N1195843W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2839", 
+        "LONGITUDE" : "-119.5843", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312063.3829, 
+        "y" : 4339756.2198
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13628, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E17E001M", 
+        "CASGEM_WELL_ID" : "15921", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362792N1196182W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2792", 
+        "LONGITUDE" : "-119.6182", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315837.1136, 
+        "y" : 4339107.182
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13629, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E17L001M", 
+        "CASGEM_WELL_ID" : "15922", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362744N1196143W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2744", 
+        "LONGITUDE" : "-119.6143", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315402.9676, 
+        "y" : 4338444.3752
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13634, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E23A001M", 
+        "CASGEM_WELL_ID" : "15927", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362694N1195477W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2694", 
+        "LONGITUDE" : "-119.5477", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307989.0895, 
+        "y" : 4337753.9949
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13639, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E30D001M", 
+        "CASGEM_WELL_ID" : "15932", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362547N1196341W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2547", 
+        "LONGITUDE" : "-119.6341", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317607.0935, 
+        "y" : 4335724.5325
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13645, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E34L001M", 
+        "CASGEM_WELL_ID" : "15938", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362325N1195749W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2325", 
+        "LONGITUDE" : "-119.5749", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311016.9797, 
+        "y" : 4332660.3539
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13780, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S23E06H001M", 
+        "CASGEM_WELL_ID" : "16074", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363081N1195116W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3081", 
+        "LONGITUDE" : "-119.5116", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13303970.4559, 
+        "y" : 4343098.6929
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 13781, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S23E07A002M", 
+        "CASGEM_WELL_ID" : "16075", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362981N1195113W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2981", 
+        "LONGITUDE" : "-119.5113", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13303937.06, 
+        "y" : 4341717.3799
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 17889, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S23E33J001M", 
+        "CASGEM_WELL_ID" : "20248", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363206N1194757W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3206", 
+        "LONGITUDE" : "-119.4757", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13299974.0862, 
+        "y" : 4344825.5832
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 32191, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S21E34D001M", 
+        "CASGEM_WELL_ID" : "35099", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362400N1196866W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.24", 
+        "LONGITUDE" : "-119.6866", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13323451.3668, 
+        "y" : 4333695.452
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 32194, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E03Q001M", 
+        "CASGEM_WELL_ID" : "35103", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362992N1195735W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2992", 
+        "LONGITUDE" : "-119.5735", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310861.1324, 
+        "y" : 4341869.3157
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 32196, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E05P001M", 
+        "CASGEM_WELL_ID" : "35105", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362992N1196132W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2992", 
+        "LONGITUDE" : "-119.6132", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315280.5162, 
+        "y" : 4341869.3157
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 32073, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S21E12B002M", 
+        "CASGEM_WELL_ID" : "34979", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362983N1196432W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2983", 
+        "LONGITUDE" : "-119.6432", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318620.1009, 
+        "y" : 4341745.0045
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 30552, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S23E09A001M", 
+        "CASGEM_WELL_ID" : "33428", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362947N1194752W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2947", 
+        "LONGITUDE" : "-119.4752", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13299918.4264, 
+        "y" : 4341247.7739
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 30161, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E08P001M", 
+        "CASGEM_WELL_ID" : "33016", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362844N1196127W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2844", 
+        "LONGITUDE" : "-119.6127", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315224.8564, 
+        "y" : 4339825.2687
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 30162, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E09J001M", 
+        "CASGEM_WELL_ID" : "33017", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362892N1195835W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2892", 
+        "LONGITUDE" : "-119.5835", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311974.3273, 
+        "y" : 4340488.1603
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 30165, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E21C001M", 
+        "CASGEM_WELL_ID" : "33020", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362669N1195924W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2669", 
+        "LONGITUDE" : "-119.5924", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312965.0707, 
+        "y" : 4337408.8213
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 30166, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E22A001M", 
+        "CASGEM_WELL_ID" : "33021", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362689N1195674W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2689", 
+        "LONGITUDE" : "-119.5674", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310182.0835, 
+        "y" : 4337684.9593
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 30170, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E29J001M", 
+        "CASGEM_WELL_ID" : "33025", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362464N1196027W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2464", 
+        "LONGITUDE" : "-119.6027", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314111.6615, 
+        "y" : 4334578.8143
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 30199, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E36P001M", 
+        "CASGEM_WELL_ID" : "33055", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363164N1195399W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3164", 
+        "LONGITUDE" : "-119.5399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307120.7975, 
+        "y" : 4344245.3171
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 30279, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E33D002M", 
+        "CASGEM_WELL_ID" : "33137", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362400N1195971W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.24", 
+        "LONGITUDE" : "-119.5971", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313488.2724, 
+        "y" : 4333695.452
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 29210, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S22E07M001M", 
+        "CASGEM_WELL_ID" : "32043", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362019N1196332W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2019", 
+        "LONGITUDE" : "-119.6332", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317506.906, 
+        "y" : 4328438.1819
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 33851, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S22E13A002M", 
+        "CASGEM_WELL_ID" : "36796", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361089N1195368W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1089", 
+        "LONGITUDE" : "-119.5368", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13306775.7071, 
+        "y" : 4315616.2088
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 36173, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S22E27A001M", 
+        "CASGEM_WELL_ID" : "39182", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361642N1195652W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1642", 
+        "LONGITUDE" : "-119.5652", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309937.1806, 
+        "y" : 4323238.6242
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 37040, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S23E18Q001M", 
+        "CASGEM_WELL_ID" : "40088", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362697N1195157W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2697", 
+        "LONGITUDE" : "-119.5157", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13304426.8658, 
+        "y" : 4337795.4164
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 36429, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S22E13A001M", 
+        "CASGEM_WELL_ID" : "39448", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361086N1195399W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1086", 
+        "LONGITUDE" : "-119.5399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307120.7975, 
+        "y" : 4315574.8722
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 81020, 
+        "SHP_FILE_ID" : "1331", 
+        "ME_ID" : "5155", 
+        "LOCAL_WELL_NBR" : "18S23E14A001M", 
+        "SWN" : "18S23E14A001M", 
+        "CASGEM_WELL_ID" : "20231", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/14/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363683N1194399W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3683", 
+        "LONGITUDE" : "-119.4399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13295988.8484, 
+        "y" : 4351417.9432
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 82290, 
+        "SHP_FILE_ID" : "1331", 
+        "ME_ID" : "5155", 
+        "LOCAL_WELL_NBR" : "19S21E13C003M", 
+        "SWN" : "19S21E13C003M", 
+        "CASGEM_WELL_ID" : "17915", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362837N1196499W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2837", 
+        "LONGITUDE" : "-119.6499", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13319365.9415, 
+        "y" : 4339728.6004
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 30197, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : "18S22E32J001M", 
+        "SWN" : "18S22E32J001M", 
+        "CASGEM_WELL_ID" : "33053", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363187N1196015W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3187", 
+        "LONGITUDE" : "-119.6015", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313978.0781, 
+        "y" : 4344563.078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 81360, 
+        "SHP_FILE_ID" : "1331", 
+        "ME_ID" : "5155", 
+        "LOCAL_WELL_NBR" : "20S22E14C001M", 
+        "SWN" : "20S22E14C001M", 
+        "CASGEM_WELL_ID" : "16577", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/16/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361928N1195563W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1928", 
+        "LONGITUDE" : "-119.5563", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308946.4371, 
+        "y" : 4327182.8871
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 82289, 
+        "SHP_FILE_ID" : "1331", 
+        "ME_ID" : "5155", 
+        "LOCAL_WELL_NBR" : "20S21E36P001M", 
+        "SWN" : "20S21E36P001M", 
+        "CASGEM_WELL_ID" : "16042", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/16/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361414N1196460W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1414", 
+        "LONGITUDE" : "-119.646", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318931.7955, 
+        "y" : 4320095.2776
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 81018, 
+        "SHP_FILE_ID" : "1331", 
+        "ME_ID" : "5155", 
+        "LOCAL_WELL_NBR" : "18S22E34R001M", 
+        "SWN" : "18S22E34R001M", 
+        "CASGEM_WELL_ID" : "39125", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/16/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363142N1195685W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3142", 
+        "LONGITUDE" : "-119.5685", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310304.5349, 
+        "y" : 4343941.3807
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 36116, 
+        "SHP_FILE_ID" : "1331", 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : "18S22E34R001M", 
+        "SWN" : "18S22E34R001M", 
+        "CASGEM_WELL_ID" : "39125", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/16/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363142N1195685W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3142", 
+        "LONGITUDE" : "-119.5685", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310304.5349, 
+        "y" : 4343941.3807
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 14275, 
+        "SHP_FILE_ID" : "1331", 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : "20S22E14C001M", 
+        "SWN" : "20S22E14C001M", 
+        "CASGEM_WELL_ID" : "16577", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/16/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361928N1195563W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1928", 
+        "LONGITUDE" : "-119.5563", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308946.4371, 
+        "y" : 4327182.8871
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Kaweah Delta Water Conservation District", 
+        "OBJECTID" : 17873, 
+        "SHP_FILE_ID" : "1331", 
+        "ME_ID" : "276", 
+        "LOCAL_WELL_NBR" : "18S23E14A001M", 
+        "SWN" : "18S23E14A001M", 
+        "CASGEM_WELL_ID" : "20231", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/14/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363683N1194399W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3683", 
+        "LONGITUDE" : "-119.4399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13295988.8484, 
+        "y" : 4351417.9432
+      }
+    }
+  ]
+}

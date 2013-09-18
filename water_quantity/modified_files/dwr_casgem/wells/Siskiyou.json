@@ -1,0 +1,5090 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 100541, 
+        "SHP_FILE_ID" : "3295", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SCV04", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48801", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/08/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "412455N1224899W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.4093", 
+        "LONGITUDE" : "-122.8165", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13671870.241, 
+        "y" : 5072902.0675
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 71417, 
+        "SHP_FILE_ID" : "3323", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SV01", 
+        "SWN" : "45N06W12G001M", 
+        "CASGEM_WELL_ID" : "37001", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "112928", 
+        "CASGEM_STATION_ID" : "417660N1224811W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.766", 
+        "LONGITUDE" : "-122.4811", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13634533.6838, 
+        "y" : 5125991.573
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Tulelake Irrigation District", 
+        "OBJECTID" : 47685, 
+        "SHP_FILE_ID" : "2383", 
+        "ME_ID" : "5021", 
+        "LOCAL_WELL_NBR" : "TL-T3 GP", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46479", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "500", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418391N1214697W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8391", 
+        "LONGITUDE" : "-121.4697", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13521945.1508, 
+        "y" : 5136907.7931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19970, 
+        "SHP_FILE_ID" : "3323", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "SV03A", 
+        "SWN" : "43N05W02C002M", 
+        "CASGEM_WELL_ID" : "22369", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "102", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "127502", 
+        "CASGEM_STATION_ID" : "416082N1223932W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.6082", 
+        "LONGITUDE" : "-122.3932", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13624748.7006, 
+        "y" : 5102469.1926
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Tulelake Irrigation District", 
+        "OBJECTID" : 39499, 
+        "SHP_FILE_ID" : "2383", 
+        "ME_ID" : "5021", 
+        "LOCAL_WELL_NBR" : "TID #4", 
+        "SWN" : "48N04E15K001M", 
+        "CASGEM_WELL_ID" : "38538", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1440", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "751111", 
+        "CASGEM_STATION_ID" : "419978N1214931W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9978", 
+        "LONGITUDE" : "-121.4931", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13524550.0269, 
+        "y" : 5160649.9004
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 85428, 
+        "SHP_FILE_ID" : "3295", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SCV 01", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48358", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/08/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "413348N1225123W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.558", 
+        "LONGITUDE" : "-122.8538", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13676022.458, 
+        "y" : 5094998.2239
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23470, 
+        "SHP_FILE_ID" : "3295", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "SCV03", 
+        "SWN" : "43N09W02P002M", 
+        "CASGEM_WELL_ID" : "25973", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "416033N1228528W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.6033", 
+        "LONGITUDE" : "-122.8528", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13675911.1385, 
+        "y" : 5101739.6987
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Tulelake Irrigation District", 
+        "OBJECTID" : 39496, 
+        "SHP_FILE_ID" : "2383", 
+        "ME_ID" : "5021", 
+        "LOCAL_WELL_NBR" : "TID #1", 
+        "SWN" : "48N04E30F002M", 
+        "CASGEM_WELL_ID" : "38537", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "740", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "751108", 
+        "CASGEM_STATION_ID" : "419721N1215567W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9721", 
+        "LONGITUDE" : "-121.5567", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13531629.9465, 
+        "y" : 5156801.0751
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34046, 
+        "SHP_FILE_ID" : "3323", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "SV01", 
+        "SWN" : "45N06W12G001M", 
+        "CASGEM_WELL_ID" : "37001", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "112928", 
+        "CASGEM_STATION_ID" : "417660N1224811W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.766", 
+        "LONGITUDE" : "-122.4811", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13634533.6838, 
+        "y" : 5125991.573
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Tulelake Irrigation District", 
+        "OBJECTID" : 39497, 
+        "SHP_FILE_ID" : "2383", 
+        "ME_ID" : "5021", 
+        "LOCAL_WELL_NBR" : "TID #2", 
+        "SWN" : "48N04E18J001M", 
+        "CASGEM_WELL_ID" : "38608", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1550", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "751109", 
+        "CASGEM_STATION_ID" : "419980N1215455W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.998", 
+        "LONGITUDE" : "-121.5455", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13530383.1682, 
+        "y" : 5160679.8585
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 104725, 
+        "SHP_FILE_ID" : "1807", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "BV02", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49274", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418225N1220424W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8225", 
+        "LONGITUDE" : "-122.04242", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13585700.0496, 
+        "y" : 5134427.7771
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Tulelake Irrigation District", 
+        "OBJECTID" : 47684, 
+        "SHP_FILE_ID" : "2383", 
+        "ME_ID" : "5021", 
+        "LOCAL_WELL_NBR" : "TL-T1 Q3B", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46478", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "500", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418341N1215420W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8341", 
+        "LONGITUDE" : "-121.542", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13529993.55, 
+        "y" : 5136160.7326
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 100224, 
+        "SHP_FILE_ID" : "3323", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SV03A", 
+        "SWN" : "43N05W02C002M", 
+        "CASGEM_WELL_ID" : "22369", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "102", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "127502", 
+        "CASGEM_STATION_ID" : "416082N1223932W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.6082", 
+        "LONGITUDE" : "-122.3932", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13624748.7006, 
+        "y" : 5102469.1926
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 85436, 
+        "SHP_FILE_ID" : "3295", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SCV 02", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48359", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/08/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "412990N1225279W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.4984", 
+        "LONGITUDE" : "-122.8798", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13678916.7648, 
+        "y" : 5086135.8395
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 100218, 
+        "SHP_FILE_ID" : "3295", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SCV03", 
+        "SWN" : "43N09W02P002M", 
+        "CASGEM_WELL_ID" : "25973", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "416033N1228528W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.6033", 
+        "LONGITUDE" : "-122.8528", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13675911.1385, 
+        "y" : 5101739.6987
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Tulelake Irrigation District", 
+        "OBJECTID" : 39502, 
+        "SHP_FILE_ID" : "2383", 
+        "ME_ID" : "5021", 
+        "LOCAL_WELL_NBR" : "TID #5", 
+        "SWN" : "48N04E13K001M", 
+        "CASGEM_WELL_ID" : "24209", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1570", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "75112", 
+        "CASGEM_STATION_ID" : "419971N1214519W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9971", 
+        "LONGITUDE" : "-121.4519", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13519963.6639, 
+        "y" : 5160545.048
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 103589, 
+        "SHP_FILE_ID" : "3323", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SV03", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49002", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/08/2012", 
+        "COMPLETION_RPT_NBR" : "713302", 
+        "CASGEM_STATION_ID" : "415444N1225387W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.5444", 
+        "LONGITUDE" : "-122.5387", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13640945.6865, 
+        "y" : 5092975.2158
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34501, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "47N01W34Q001M", 
+        "SWN" : "47N01W34Q001M", 
+        "CASGEM_WELL_ID" : "37473", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "358", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/08/2013", 
+        "COMPLETION_RPT_NBR" : "7399", 
+        "CASGEM_STATION_ID" : "418661N1219587W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.86602", 
+        "LONGITUDE" : "-121.964578", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13577034.7178, 
+        "y" : 5140930.9702
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34505, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "47N02W27C001M", 
+        "SWN" : "47N02W27C001M", 
+        "CASGEM_WELL_ID" : "37477", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "601", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/08/2013", 
+        "COMPLETION_RPT_NBR" : "421213", 
+        "CASGEM_STATION_ID" : "418948N1220832W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.894669", 
+        "LONGITUDE" : "-122.083212", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13590240.9942, 
+        "y" : 5145214.4064
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21029, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "48N01W28J001M", 
+        "SWN" : "48N01W28J001M", 
+        "CASGEM_WELL_ID" : "23463", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "350", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/08/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419755N1219785W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.973556", 
+        "LONGITUDE" : "-121.980803", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13578840.8765, 
+        "y" : 5157019.0838
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21031, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "48N01W34B001M", 
+        "SWN" : "48N01W34B001M", 
+        "CASGEM_WELL_ID" : "23465", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "515", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/08/2013", 
+        "COMPLETION_RPT_NBR" : "2376", 
+        "CASGEM_STATION_ID" : "419662N1219633W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.966387", 
+        "LONGITUDE" : "-121.963065", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13576866.2914, 
+        "y" : 5155945.7087
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21010, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "47N01W27B001M", 
+        "SWN" : "47N01W27B001M", 
+        "CASGEM_WELL_ID" : "23444", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/08/2013", 
+        "COMPLETION_RPT_NBR" : "847", 
+        "CASGEM_STATION_ID" : "418944N1219643W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.894441", 
+        "LONGITUDE" : "-121.964195", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13576992.0824, 
+        "y" : 5145180.3095
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21027, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "48N01W26E001M", 
+        "SWN" : "48N01W26E001M", 
+        "CASGEM_WELL_ID" : "23461", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1019", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/08/2013", 
+        "COMPLETION_RPT_NBR" : "81301", 
+        "CASGEM_STATION_ID" : "419803N1219570W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.980479", 
+        "LONGITUDE" : "-121.956763", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13576164.756, 
+        "y" : 5158055.7413
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 102910, 
+        "SHP_FILE_ID" : "3088", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "LK01", 
+        "SWN" : "48N02E14J001M", 
+        "CASGEM_WELL_ID" : "23467", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin- Lower Klamath", 
+        "GW_BASIN_CODE" : "1-2.02", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "203", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/02/2012", 
+        "COMPLETION_RPT_NBR" : "333860", 
+        "CASGEM_STATION_ID" : "419979N1217011W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9979", 
+        "LONGITUDE" : "-121.7011", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547704.481, 
+        "y" : 5160664.8794
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21571, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "45N02W11P001M", 
+        "CASGEM_WELL_ID" : "24044", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417539N1220414W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.7539", 
+        "LONGITUDE" : "-122.0414", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13585586.5037, 
+        "y" : 5124185.8478
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21573, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "45N05W29B001M", 
+        "CASGEM_WELL_ID" : "24046", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "25", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417236N1224461W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.7236", 
+        "LONGITUDE" : "-122.4461", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13630637.5016, 
+        "y" : 5119665.5657
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 102911, 
+        "SHP_FILE_ID" : "3088", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "LK02", 
+        "SWN" : "48N03E34N001M", 
+        "CASGEM_WELL_ID" : "23470", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin- Lower Klamath", 
+        "GW_BASIN_CODE" : "1-2.02", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "262", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/08/2012", 
+        "COMPLETION_RPT_NBR" : "393998", 
+        "CASGEM_STATION_ID" : "419540N1216232W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.954", 
+        "LONGITUDE" : "-121.6232", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13539032.6926, 
+        "y" : 5154091.3558
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21592, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "45N05W29B003M", 
+        "CASGEM_WELL_ID" : "24065", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417242N1224453W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.7242", 
+        "LONGITUDE" : "-122.4453", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13630548.446, 
+        "y" : 5119755.0556
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21593, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "45N06W10A001M", 
+        "CASGEM_WELL_ID" : "24066", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417704N1225126W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7704", 
+        "LONGITUDE" : "-122.5126", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13638040.2478, 
+        "y" : 5126648.2849
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21596, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "45N07W24R001M", 
+        "CASGEM_WELL_ID" : "24069", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Industrial", 
+        "TOTAL_WELL_DEPTH" : "235", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "417309N1225933W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.7309", 
+        "LONGITUDE" : "-122.5933", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13647023.7307, 
+        "y" : 5120754.4156
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21597, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "46N01E08C001M", 
+        "CASGEM_WELL_ID" : "24070", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "118", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418515N1218903W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.8515", 
+        "LONGITUDE" : "-121.8903", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13568766.1286, 
+        "y" : 5138760.755
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21598, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "08D001M", 
+        "SWN" : "46N01E08D001M", 
+        "CASGEM_WELL_ID" : "24071", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "07/15/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418483N1218912W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8483", 
+        "LONGITUDE" : "-121.8912", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13568866.3162, 
+        "y" : 5138282.5369
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21599, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "46N01W01Q001M", 
+        "CASGEM_WELL_ID" : "24072", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "236", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "49918", 
+        "CASGEM_STATION_ID" : "418543N1219225W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8543", 
+        "LONGITUDE" : "-121.9225", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13572350.6162, 
+        "y" : 5139179.2154
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21601, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "46N01W09R001M", 
+        "CASGEM_WELL_ID" : "24074", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "602", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "3956", 
+        "CASGEM_STATION_ID" : "418408N1219789W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8408", 
+        "LONGITUDE" : "-121.9789", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13578629.0355, 
+        "y" : 5137161.8069
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21602, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "10K001M", 
+        "SWN" : "46N01W10K001M", 
+        "CASGEM_WELL_ID" : "24075", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "07/15/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418463N1219644W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8463", 
+        "LONGITUDE" : "-121.9644", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13577014.9029, 
+        "y" : 5137983.6627
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21604, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "46N01W17P001M", 
+        "CASGEM_WELL_ID" : "24077", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "105", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "70185", 
+        "CASGEM_STATION_ID" : "418258N1220053W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8258", 
+        "LONGITUDE" : "-122.0053", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13581567.8701, 
+        "y" : 5134920.7411
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33945, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "47N01W04D002M", 
+        "SWN" : "47N01W04D002M", 
+        "CASGEM_WELL_ID" : "36895", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "419519N1219958W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.952092", 
+        "LONGITUDE" : "-121.995696", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13580498.7577, 
+        "y" : 5153805.7573
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21605, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N01W18Q001M", 
+        "SWN" : "46N01W18Q001M", 
+        "CASGEM_WELL_ID" : "24078", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "142", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "43", 
+        "CASGEM_STATION_ID" : "418226N1220249W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.822524", 
+        "LONGITUDE" : "-122.024794", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13583737.9322, 
+        "y" : 5134431.3622
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21608, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "46N01W31J001M", 
+        "CASGEM_WELL_ID" : "24081", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "88", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417878N1220131W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7878", 
+        "LONGITUDE" : "-122.0131", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13582436.1621, 
+        "y" : 5129245.723
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21610, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "46N02W26Q001M", 
+        "CASGEM_WELL_ID" : "24083", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "120", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "DWR", 
+        "CASGEM_STATION_ID" : "417959N1220575W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7959", 
+        "LONGITUDE" : "-122.0575", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587378.7475, 
+        "y" : 5130455.1156
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21621, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N01E06A002M", 
+        "CASGEM_WELL_ID" : "24094", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "58731", 
+        "CASGEM_STATION_ID" : "419533N1219040W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9533", 
+        "LONGITUDE" : "-121.904", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570291.2057, 
+        "y" : 5153986.5754
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21622, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N01E20D001M", 
+        "CASGEM_WELL_ID" : "24095", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "240", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "49941", 
+        "CASGEM_STATION_ID" : "419107N1218935W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9107", 
+        "LONGITUDE" : "-121.8935", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13569122.351, 
+        "y" : 5147612.1091
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21624, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N01W13G001M", 
+        "CASGEM_WELL_ID" : "24097", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "207", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "419182N1219179W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9182", 
+        "LONGITUDE" : "-121.9179", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13571838.5466, 
+        "y" : 5148734.0656
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21625, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N01W13L001M", 
+        "CASGEM_WELL_ID" : "24098", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1025", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "106990", 
+        "CASGEM_STATION_ID" : "419180N1219323W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.918", 
+        "LONGITUDE" : "-121.9323", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13573441.5473, 
+        "y" : 5148704.145
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105170, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "45N06W26C002M", 
+        "SWN" : "45N06W26C002M", 
+        "CASGEM_WELL_ID" : "49441", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "70", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/03/2013", 
+        "COMPLETION_RPT_NBR" : "65090", 
+        "CASGEM_STATION_ID" : "417258N1225083W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.725788", 
+        "LONGITUDE" : "-122.508262", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13637557.3438, 
+        "y" : 5119991.9094
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 104311, 
+        "SHP_FILE_ID" : "3088", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "LK03", 
+        "SWN" : "48N02E13M001M", 
+        "CASGEM_WELL_ID" : "48997", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin- Lower Klamath", 
+        "GW_BASIN_CODE" : "1-2.02", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "1100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "10/10/2012", 
+        "COMPLETION_RPT_NBR" : "3353", 
+        "CASGEM_STATION_ID" : "419989N1217002W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.998945", 
+        "LONGITUDE" : "-121.700225", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547607.0764, 
+        "y" : 5160821.4115
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21009, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N01W23H003M", 
+        "CASGEM_WELL_ID" : "23443", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419032N1219387W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9032", 
+        "LONGITUDE" : "-121.9387", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574153.992, 
+        "y" : 5146490.2844
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21011, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N01W35L001M", 
+        "CASGEM_WELL_ID" : "23445", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1302", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "87453", 
+        "CASGEM_STATION_ID" : "418714N1219475W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8714", 
+        "LONGITUDE" : "-121.9475", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13575133.6035, 
+        "y" : 5141735.2109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21008, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N01W23H001M", 
+        "CASGEM_WELL_ID" : "23442", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1065", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "107001", 
+        "CASGEM_STATION_ID" : "419037N1219397W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9037", 
+        "LONGITUDE" : "-121.9397", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574265.3115, 
+        "y" : 5146565.0686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21012, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N02W16P001M", 
+        "CASGEM_WELL_ID" : "23446", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419110N1221048W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.911", 
+        "LONGITUDE" : "-122.1048", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13592644.1594, 
+        "y" : 5147656.9848
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21013, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N02W21B001M", 
+        "CASGEM_WELL_ID" : "23447", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "382", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "419079N1221002W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9079", 
+        "LONGITUDE" : "-122.1002", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13592132.0898, 
+        "y" : 5147193.2791
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21014, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N02W22P001M", 
+        "CASGEM_WELL_ID" : "23448", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418962N1220851W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.8962", 
+        "LONGITUDE" : "-122.0851", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13590451.1654, 
+        "y" : 5145443.3669
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21015, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N02W23G001M", 
+        "CASGEM_WELL_ID" : "23449", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "285", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419030N1220607W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.903", 
+        "LONGITUDE" : "-122.0607", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587734.9699, 
+        "y" : 5146460.3709
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21017, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N04E07Q001M", 
+        "CASGEM_WELL_ID" : "23451", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1170", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "414107", 
+        "CASGEM_STATION_ID" : "419242N1215637W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9242", 
+        "LONGITUDE" : "-121.5637", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13532409.1829, 
+        "y" : 5149631.7257
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21026, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N01W25P001M", 
+        "CASGEM_WELL_ID" : "23460", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1134", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "1505", 
+        "CASGEM_STATION_ID" : "419669N1219306W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9669", 
+        "LONGITUDE" : "-121.9306", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13573252.3041, 
+        "y" : 5156022.5134
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21028, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N01W28F001M", 
+        "CASGEM_WELL_ID" : "23462", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "632", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "419777N1219877W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9777", 
+        "LONGITUDE" : "-121.9877", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13579608.647, 
+        "y" : 5157639.5973
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21030, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N01W28J002M", 
+        "CASGEM_WELL_ID" : "23464", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1322", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "3984", 
+        "CASGEM_STATION_ID" : "419737N1219817W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9737", 
+        "LONGITUDE" : "-121.9817", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13578940.7301, 
+        "y" : 5157040.6454
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21032, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N01W34G001M", 
+        "CASGEM_WELL_ID" : "23466", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "383", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "1503", 
+        "CASGEM_STATION_ID" : "419635N1219601W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9635", 
+        "LONGITUDE" : "-121.9601", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13576536.2291, 
+        "y" : 5155513.4882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21034, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N03E14M001M", 
+        "CASGEM_WELL_ID" : "23468", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "454", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "1509", 
+        "CASGEM_STATION_ID" : "419984N1215998W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9984", 
+        "LONGITUDE" : "-121.5998", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536427.8166, 
+        "y" : 5160739.7748
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21035, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N03E33R001M", 
+        "CASGEM_WELL_ID" : "23469", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "350", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "493850", 
+        "CASGEM_STATION_ID" : "419511N1216245W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9511", 
+        "LONGITUDE" : "-121.6245", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13539177.408, 
+        "y" : 5153657.2734
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21827, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "47N01W19L001M", 
+        "SWN" : "47N01W19L001M", 
+        "CASGEM_WELL_ID" : "24305", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "45", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "NONE", 
+        "CASGEM_STATION_ID" : "419017N1220269W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9016", 
+        "LONGITUDE" : "-122.026717", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13583951.9996, 
+        "y" : 5146250.9788
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21612, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N02W35R001M", 
+        "SWN" : "46N02W35R001M", 
+        "CASGEM_WELL_ID" : "24085", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "809", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "62636", 
+        "CASGEM_STATION_ID" : "417822N1220545W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.78214", 
+        "LONGITUDE" : "-122.054433", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587037.3306, 
+        "y" : 5128400.7318
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21037, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N04E16L002M", 
+        "CASGEM_WELL_ID" : "23471", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Industrial", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "393999", 
+        "CASGEM_STATION_ID" : "419980N1215138W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.998", 
+        "LONGITUDE" : "-121.5138", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13526854.3404, 
+        "y" : 5160679.8585
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21038, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N04E28D001M", 
+        "CASGEM_WELL_ID" : "23472", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "98989", 
+        "CASGEM_STATION_ID" : "419756N1215209W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9756", 
+        "LONGITUDE" : "-121.5209", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13527644.7087, 
+        "y" : 5157325.1428
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21039, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Moore", 
+        "SWN" : "48N04E30F001M", 
+        "CASGEM_WELL_ID" : "23473", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Industrial", 
+        "TOTAL_WELL_DEPTH" : "142", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "78764", 
+        "CASGEM_STATION_ID" : "419726N1215574W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9726", 
+        "LONGITUDE" : "-121.5574", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13531707.8702, 
+        "y" : 5156875.9402
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21043, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N05E35F001M", 
+        "CASGEM_WELL_ID" : "23478", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "32", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "128124", 
+        "CASGEM_STATION_ID" : "419591N1213716W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9591", 
+        "LONGITUDE" : "-121.3716", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13511024.7088, 
+        "y" : 5154854.79
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19965, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "18P001", 
+        "SWN" : "42N04W18P001M", 
+        "CASGEM_WELL_ID" : "22363", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "340", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "07/15/2011", 
+        "COMPLETION_RPT_NBR" : "101729", 
+        "CASGEM_STATION_ID" : "414796N1223568W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.4796", 
+        "LONGITUDE" : "-122.3568", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13620696.6711, 
+        "y" : 5083342.0147
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19968, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "42N09W27N001M", 
+        "CASGEM_WELL_ID" : "22366", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "19", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "414569N1228715W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.4569", 
+        "LONGITUDE" : "-122.8715", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13677992.813, 
+        "y" : 5079969.6997
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19969, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "42N09W27N002M", 
+        "CASGEM_WELL_ID" : "22367", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "80", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "414555N1228745W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.4555", 
+        "LONGITUDE" : "-122.8745", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13678326.7715, 
+        "y" : 5079761.7542
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19975, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "43N09W23F001M", 
+        "CASGEM_WELL_ID" : "22374", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "23", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "415644N1228541W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.5644", 
+        "LONGITUDE" : "-122.8541", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13676055.8539, 
+        "y" : 5095950.3751
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23306, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N04E17C001M", 
+        "CASGEM_WELL_ID" : "25808", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "159", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "799491", 
+        "CASGEM_STATION_ID" : "419980N1215360W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.998", 
+        "LONGITUDE" : "-121.536", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13529325.6331, 
+        "y" : 5160679.8585
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23478, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "New Tulelake City Well", 
+        "SWN" : "48N04E35C001M", 
+        "CASGEM_WELL_ID" : "25981", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419626N1214822W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9626", 
+        "LONGITUDE" : "-121.4822", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13523336.6444, 
+        "y" : 5155378.7508
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23487, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Starch Plant", 
+        "SWN" : "48N04E16P003M", 
+        "CASGEM_WELL_ID" : "25991", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Industrial", 
+        "TOTAL_WELL_DEPTH" : "1200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "81307", 
+        "CASGEM_STATION_ID" : "419966N1215163W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9966", 
+        "LONGITUDE" : "-121.5163", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13527132.6391, 
+        "y" : 5160470.1541
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23488, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Main/Takacs", 
+        "SWN" : "48N04E19C001M", 
+        "CASGEM_WELL_ID" : "25992", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "38", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "78748", 
+        "CASGEM_STATION_ID" : "419929N1215587W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9929", 
+        "LONGITUDE" : "-121.5587", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13531852.5855, 
+        "y" : 5159915.9578
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23489, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Amy King", 
+        "SWN" : "48N04E22M001M", 
+        "CASGEM_WELL_ID" : "25993", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "135", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "11064", 
+        "CASGEM_STATION_ID" : "419844N1215056W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9844", 
+        "LONGITUDE" : "-121.5056", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13525941.5205, 
+        "y" : 5158642.9261
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23490, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Frey", 
+        "SWN" : "48N04E30C002M", 
+        "CASGEM_WELL_ID" : "25994", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "84", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "555461", 
+        "CASGEM_STATION_ID" : "419783N1215575W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9783", 
+        "LONGITUDE" : "-121.5575", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13531719.0021, 
+        "y" : 5157729.4433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23491, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Hilton", 
+        "SWN" : "48N04E30E001M", 
+        "CASGEM_WELL_ID" : "25995", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "185", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "133264", 
+        "CASGEM_STATION_ID" : "419703N1215631W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9703", 
+        "LONGITUDE" : "-121.5631", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13532342.3913, 
+        "y" : 5156531.5658
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23492, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Dysert #1", 
+        "SWN" : "48N04E30F004M", 
+        "CASGEM_WELL_ID" : "25996", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419749N1215580W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9749", 
+        "LONGITUDE" : "-121.558", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13531774.6618, 
+        "y" : 5157220.327
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23493, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "D. Jackson", 
+        "SWN" : "48N04E30L001M", 
+        "CASGEM_WELL_ID" : "25997", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "50", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419693N1215586W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9693", 
+        "LONGITUDE" : "-121.5586", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13531841.4535, 
+        "y" : 5156381.8417
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34511, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Westside Store", 
+        "SWN" : "48N04E18L003M", 
+        "CASGEM_WELL_ID" : "37483", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "62608", 
+        "CASGEM_STATION_ID" : "419984N1215587W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9984", 
+        "LONGITUDE" : "-121.5587", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13531852.5855, 
+        "y" : 5160739.7748
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34512, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N04E31M001M", 
+        "CASGEM_WELL_ID" : "37484", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "99000", 
+        "CASGEM_STATION_ID" : "419542N1215655W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9542", 
+        "LONGITUDE" : "-121.5655", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13532609.558, 
+        "y" : 5154121.2932
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34234, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "42N09W02A002M", 
+        "CASGEM_WELL_ID" : "37192", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "22", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "415262N1228403W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.5262", 
+        "LONGITUDE" : "-122.8403", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13674519.6449, 
+        "y" : 5090268.6204
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34235, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "07M001", 
+        "SWN" : "43N04W07M001M", 
+        "CASGEM_WELL_ID" : "37193", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "395", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "07/15/2011", 
+        "COMPLETION_RPT_NBR" : "54058", 
+        "CASGEM_STATION_ID" : "415891N1223553W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.5891", 
+        "LONGITUDE" : "-122.3553", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13620529.6919, 
+        "y" : 5099625.9681
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34236, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "43N05W08R001M", 
+        "CASGEM_WELL_ID" : "37194", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "415833N1224394W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.5833", 
+        "LONGITUDE" : "-122.4394", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13629891.661, 
+        "y" : 5098762.7471
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34237, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "36G001M", 
+        "SWN" : "43N05W36G001M", 
+        "CASGEM_WELL_ID" : "37195", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "322", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "07/15/2011", 
+        "COMPLETION_RPT_NBR" : "42753", 
+        "CASGEM_STATION_ID" : "415324N1223676W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.5324", 
+        "LONGITUDE" : "-122.3676", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13621898.9216, 
+        "y" : 5091190.5619
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34739, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "44N09W25R001M", 
+        "CASGEM_WELL_ID" : "37719", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "416288N1228303W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.6288", 
+        "LONGITUDE" : "-122.8303", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13673406.45, 
+        "y" : 5105536.6506
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34047, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "30D004M", 
+        "SWN" : "45N06W30D004M", 
+        "CASGEM_WELL_ID" : "37002", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "170", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "07/15/2011", 
+        "COMPLETION_RPT_NBR" : "134530", 
+        "CASGEM_STATION_ID" : "417262N1225917W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7262", 
+        "LONGITUDE" : "-122.5917", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13646845.6195, 
+        "y" : 5120053.3611
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34048, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "46N02W25H002M", 
+        "CASGEM_WELL_ID" : "37003", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "1920", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "GEOL.", 
+        "CASGEM_STATION_ID" : "418066N1220348W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8066", 
+        "LONGITUDE" : "-122.0348", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13584851.7951, 
+        "y" : 5132052.9428
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34049, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "46N02W26L002M", 
+        "CASGEM_WELL_ID" : "37004", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417989N1220616W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7989", 
+        "LONGITUDE" : "-122.0616", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587835.1574, 
+        "y" : 5130903.0777
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34502, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N02W16G001M", 
+        "CASGEM_WELL_ID" : "37474", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "171", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "90628", 
+        "CASGEM_STATION_ID" : "419182N1221000W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9182", 
+        "LONGITUDE" : "-122.1", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13592109.8259, 
+        "y" : 5148734.0656
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34503, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N02W21G001M", 
+        "CASGEM_WELL_ID" : "37475", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "382", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419035N1220999W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9035", 
+        "LONGITUDE" : "-122.0999", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13592098.6939, 
+        "y" : 5146535.1548
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34504, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N02W22Q002M", 
+        "CASGEM_WELL_ID" : "37476", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "182", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "418981N1220811W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.8981", 
+        "LONGITUDE" : "-122.0811", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13590005.8875, 
+        "y" : 5145727.5189
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34510, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Ratliff", 
+        "SWN" : "48N04E14M001M", 
+        "CASGEM_WELL_ID" : "37482", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin", 
+        "GW_BASIN_CODE" : "1-2", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "127", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "70162", 
+        "CASGEM_STATION_ID" : "419972N1214843W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9972", 
+        "LONGITUDE" : "-121.4843", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13523570.4154, 
+        "y" : 5160560.0269
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33938, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "46N02W35C001M", 
+        "CASGEM_WELL_ID" : "36888", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "104", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417920N1220617W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.792", 
+        "LONGITUDE" : "-122.0617", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587846.2894, 
+        "y" : 5129872.7964
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33944, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N01E29H002M", 
+        "CASGEM_WELL_ID" : "36894", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "60", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418921N1218814W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8921", 
+        "LONGITUDE" : "-121.8814", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13567775.3852, 
+        "y" : 5144830.2256
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 22489, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N01W02F002M", 
+        "SWN" : "46N01W02F002M", 
+        "CASGEM_WELL_ID" : "24976", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "515", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/06/2013", 
+        "COMPLETION_RPT_NBR" : "799144", 
+        "CASGEM_STATION_ID" : "418585N1219512W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.85853", 
+        "LONGITUDE" : "-121.951146", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13575539.4744, 
+        "y" : 5139811.4243
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21594, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "27D002M", 
+        "SWN" : "45N06W27D002M", 
+        "CASGEM_WELL_ID" : "24067", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "45", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/26/2012", 
+        "COMPLETION_RPT_NBR" : "54934", 
+        "CASGEM_STATION_ID" : "417258N1225337W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7258", 
+        "LONGITUDE" : "-122.5337", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13640389.089, 
+        "y" : 5119993.6992
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21611, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N02W34B002M", 
+        "SWN" : "46N02W34B002M", 
+        "CASGEM_WELL_ID" : "24084", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "206", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "70199", 
+        "CASGEM_STATION_ID" : "417927N1220812W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.79259", 
+        "LONGITUDE" : "-122.080958", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13589990.0801, 
+        "y" : 5129960.8886
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21623, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "47N01W04D001M", 
+        "SWN" : "47N01W04D001M", 
+        "CASGEM_WELL_ID" : "24096", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "460", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "419520N1219959W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.952092", 
+        "LONGITUDE" : "-121.995696", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13580498.7577, 
+        "y" : 5153805.7573
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33943, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "47N01E05E001M", 
+        "SWN" : "47N01E05E001M", 
+        "CASGEM_WELL_ID" : "36893", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "620", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "GEOL 3982", 
+        "CASGEM_STATION_ID" : "419451N1218967W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.94522", 
+        "LONGITUDE" : "-121.896489", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13569455.085, 
+        "y" : 5152777.1945
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34500, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "47N01W23H002M", 
+        "SWN" : "47N01W23H002M", 
+        "CASGEM_WELL_ID" : "37472", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "1031", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "NONE", 
+        "CASGEM_STATION_ID" : "419021N1219431W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.90211", 
+        "LONGITUDE" : "-121.943134", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574647.5826, 
+        "y" : 5146327.2568
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21607, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N01W20N002M", 
+        "SWN" : "46N01W20N002M", 
+        "CASGEM_WELL_ID" : "24080", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1526", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "GEOL.", 
+        "CASGEM_STATION_ID" : "418100N1220090W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.808183", 
+        "LONGITUDE" : "-122.011461", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13582253.7095, 
+        "y" : 5132289.3543
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21609, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N02W25R002M", 
+        "SWN" : "46N02W25R002M", 
+        "CASGEM_WELL_ID" : "24082", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "116", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/07/2013", 
+        "COMPLETION_RPT_NBR" : "72", 
+        "CASGEM_STATION_ID" : "417944N1220350W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.794346", 
+        "LONGITUDE" : "-122.034892", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13584862.0365, 
+        "y" : 5130223.0796
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36435, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N04E31N001M", 
+        "CASGEM_WELL_ID" : "39454", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419519N1215653W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9519", 
+        "LONGITUDE" : "-121.5653", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13532587.2941, 
+        "y" : 5153777.0183
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36904, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N02W21H001M", 
+        "CASGEM_WELL_ID" : "39949", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "174", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "215476", 
+        "CASGEM_STATION_ID" : "419037N1220950W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.9037", 
+        "LONGITUDE" : "-122.095", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13591553.2284, 
+        "y" : 5146565.0686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36905, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "48N01W36M002M", 
+        "CASGEM_WELL_ID" : "39950", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "920", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "3353", 
+        "CASGEM_STATION_ID" : "419577N1219345W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9577", 
+        "LONGITUDE" : "-121.9345", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13573686.4501, 
+        "y" : 5154645.2137
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36907, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "47N01W02J001M", 
+        "CASGEM_WELL_ID" : "39953", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1131", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "11004", 
+        "CASGEM_STATION_ID" : "419435N1219382W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9435", 
+        "LONGITUDE" : "-121.9382", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574098.3322, 
+        "y" : 5152519.7718
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33877, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "28P001M", 
+        "SWN" : "44N09W28P001M", 
+        "CASGEM_WELL_ID" : "36825", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "65", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "03/01/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "416295N1228926W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.6295", 
+        "LONGITUDE" : "-122.8926", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13680341.6543, 
+        "y" : 5105640.9018
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21040, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "48N04E31N002M", 
+        "SWN" : "48N04E31N002M", 
+        "CASGEM_WELL_ID" : "23474", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "337", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/29/2012", 
+        "COMPLETION_RPT_NBR" : "414105", 
+        "CASGEM_STATION_ID" : "419534N1215666W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9534", 
+        "LONGITUDE" : "-121.5666", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13532732.0095, 
+        "y" : 5154001.544
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21570, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "45N01W06A001M", 
+        "SWN" : "45N01W06A001M", 
+        "CASGEM_WELL_ID" : "24043", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "104", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/03/2013", 
+        "COMPLETION_RPT_NBR" : "49917", 
+        "CASGEM_STATION_ID" : "417786N1220041W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.778573", 
+        "LONGITUDE" : "-122.004058", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13581429.6113, 
+        "y" : 5127868.2466
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 94134, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "City of Tulelake", 
+        "SWN" : "48N04E35L002M", 
+        "CASGEM_WELL_ID" : "48704", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "2676", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/10/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419568N1214809W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9568", 
+        "LONGITUDE" : "-121.4809", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13523191.9291, 
+        "y" : 5154510.4885
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19976, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "44N05W14M002M", 
+        "SWN" : "44N05W14M002M", 
+        "CASGEM_WELL_ID" : "22375", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "95", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/17/2013", 
+        "COMPLETION_RPT_NBR" : "133440", 
+        "CASGEM_STATION_ID" : "416595N1223971W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.6595", 
+        "LONGITUDE" : "-122.3971", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13625182.8466, 
+        "y" : 5110109.8759
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21606, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N01W20N001M", 
+        "SWN" : "46N01W20N001M", 
+        "CASGEM_WELL_ID" : "24079", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/06/2013", 
+        "COMPLETION_RPT_NBR" : "50", 
+        "CASGEM_STATION_ID" : "418081N1220122W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.808062", 
+        "LONGITUDE" : "-122.012008", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13582314.6012, 
+        "y" : 5132271.2834
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21603, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N01W17B001M", 
+        "SWN" : "46N01W17B001M", 
+        "CASGEM_WELL_ID" : "24076", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "80", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/06/2013", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "418339N1220049W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.833768", 
+        "LONGITUDE" : "-122.004742", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13581505.7538, 
+        "y" : 5136111.1299
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 104763, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "43N05W19F002M", 
+        "SWN" : "43N05W19F002M", 
+        "CASGEM_WELL_ID" : "49294", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/07/2013", 
+        "COMPLETION_RPT_NBR" : "563238", 
+        "CASGEM_STATION_ID" : "415601N1224718W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.5601", 
+        "LONGITUDE" : "-122.4718", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13633498.4125, 
+        "y" : 5095310.6381
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 104764, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "44N06W18Q001M", 
+        "SWN" : "44N06W18Q001M", 
+        "CASGEM_WELL_ID" : "49295", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "165", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/07/2013", 
+        "COMPLETION_RPT_NBR" : "125419", 
+        "CASGEM_STATION_ID" : "416563N1225813W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.6563", 
+        "LONGITUDE" : "-122.5813", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13645687.8968, 
+        "y" : 5109633.0862
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 104727, 
+        "SHP_FILE_ID" : "1807", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "BV04", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49276", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418947N1220831W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8947", 
+        "LONGITUDE" : "-122.0831", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13590228.5265, 
+        "y" : 5145219.0424
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 104726, 
+        "SHP_FILE_ID" : "1807", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "BV03", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49275", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418225N1220333W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8225", 
+        "LONGITUDE" : "-122.03332", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13584687.0422, 
+        "y" : 5134427.7771
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 100531, 
+        "SHP_FILE_ID" : "3323", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SV04", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48791", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "03/08/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "414686N1222830W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.78095", 
+        "LONGITUDE" : "-122.4716", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13633476.1486, 
+        "y" : 5128223.0842
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Tulelake Irrigation District", 
+        "OBJECTID" : 47688, 
+        "SHP_FILE_ID" : "2383", 
+        "ME_ID" : "5021", 
+        "LOCAL_WELL_NBR" : "CTW #3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "46482", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "2790", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/08/2011", 
+        "COMPLETION_RPT_NBR" : "797943", 
+        "CASGEM_STATION_ID" : "419605N1214815W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9605", 
+        "LONGITUDE" : "-121.4815", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13523258.7208, 
+        "y" : 5155064.3708
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21600, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N01W04N002M", 
+        "SWN" : "46N01W04N002M", 
+        "CASGEM_WELL_ID" : "24073", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "220", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "05/06/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418544N1219958W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.85437", 
+        "LONGITUDE" : "-121.99565", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13580493.637, 
+        "y" : 5139189.6772
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33878, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "45N02W04B001M", 
+        "SWN" : "45N02W04B001M", 
+        "CASGEM_WELL_ID" : "36826", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1237", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/03/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417789N1220759W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.778801", 
+        "LONGITUDE" : "-122.07571", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13589405.8754, 
+        "y" : 5127902.2818
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36093, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N01E06N001M", 
+        "SWN" : "46N01E06N001M", 
+        "CASGEM_WELL_ID" : "39102", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/03/2013", 
+        "COMPLETION_RPT_NBR" : "USGS", 
+        "CASGEM_STATION_ID" : "418512N1219183W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.851143", 
+        "LONGITUDE" : "-121.918135", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13571864.7067, 
+        "y" : 5138707.4026
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21595, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "45N06W30E001M", 
+        "SWN" : "45N06W30E001M", 
+        "CASGEM_WELL_ID" : "24068", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "105", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "49811", 
+        "CASGEM_STATION_ID" : "417220N1225928W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.722", 
+        "LONGITUDE" : "-122.5928", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13646968.0709, 
+        "y" : 5119426.9302
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21618, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N05W31F001M", 
+        "SWN" : "46N05W31F001M", 
+        "CASGEM_WELL_ID" : "24091", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "75", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417941N1224710W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7941", 
+        "LONGITUDE" : "-122.471", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13633409.3569, 
+        "y" : 5130186.3485
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21569, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "44N06W10F001M", 
+        "SWN" : "44N06W10F001M", 
+        "CASGEM_WELL_ID" : "24041", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "113", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "416774N1225301W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.6774", 
+        "LONGITUDE" : "-122.5301", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13639988.3388, 
+        "y" : 5112777.3554
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33808, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "44N05W32C002M", 
+        "SWN" : "44N05W32C002M", 
+        "CASGEM_WELL_ID" : "36753", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "79", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "53277", 
+        "CASGEM_STATION_ID" : "416237N1224524W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.6237", 
+        "LONGITUDE" : "-122.4524", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13631338.8144, 
+        "y" : 5104777.1401
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19967, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "42N06W10J001M", 
+        "SWN" : "42N06W10J001M", 
+        "CASGEM_WELL_ID" : "22365", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "414987N1225202W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.4987", 
+        "LONGITUDE" : "-122.5202", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13638886.2759, 
+        "y" : 5086180.4284
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34239, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "43N09W24F001M", 
+        "SWN" : "43N09W24F001M", 
+        "CASGEM_WELL_ID" : "37197", 
+        "GW_BASIN_NAME" : "Scott River Valley", 
+        "GW_BASIN_CODE" : "1-5", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "205", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/17/2013", 
+        "COMPLETION_RPT_NBR" : "278", 
+        "CASGEM_STATION_ID" : "415635N1228315W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.5635", 
+        "LONGITUDE" : "-122.8315", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13673540.0334, 
+        "y" : 5095816.4731
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34233, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "42N05W08E001M", 
+        "SWN" : "42N05W08E001M", 
+        "CASGEM_WELL_ID" : "37191", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "415017N1224564W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.5017", 
+        "LONGITUDE" : "-122.4564", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13631784.0924, 
+        "y" : 5086626.3286
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21568, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "44N05W34H001M", 
+        "SWN" : "44N05W34H001M", 
+        "CASGEM_WELL_ID" : "24040", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "96", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "USGS", 
+        "CASGEM_STATION_ID" : "416191N1223997W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.6191", 
+        "LONGITUDE" : "-122.3997", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13625472.2772, 
+        "y" : 5104092.143
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34045, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "44N06W27B001M", 
+        "SWN" : "44N06W27B001M", 
+        "CASGEM_WELL_ID" : "36999", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "129187", 
+        "CASGEM_STATION_ID" : "416397N1225224W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.6397", 
+        "LONGITUDE" : "-122.5224", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13639131.1788, 
+        "y" : 5107160.1196
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19966, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "42N05W20J001M", 
+        "SWN" : "42N05W20J001M", 
+        "CASGEM_WELL_ID" : "22364", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "D-LOG", 
+        "CASGEM_STATION_ID" : "414719N1224394W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.4719", 
+        "LONGITUDE" : "-122.4394", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13629891.661, 
+        "y" : 5082197.9694
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19973, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "43N06W15F003M", 
+        "SWN" : "43N06W15F003M", 
+        "CASGEM_WELL_ID" : "22372", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "415748N1225300W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.5748", 
+        "LONGITUDE" : "-122.53", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13639977.2069, 
+        "y" : 5097497.8219
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 33942, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "46N05W33J001M", 
+        "SWN" : "46N05W33J001M", 
+        "CASGEM_WELL_ID" : "36892", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "99808", 
+        "CASGEM_STATION_ID" : "417916N1224217W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.7916", 
+        "LONGITUDE" : "-122.4217", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13627921.306, 
+        "y" : 5129813.0733
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19977, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "44N05W21H001M", 
+        "SWN" : "44N05W21H001M", 
+        "CASGEM_WELL_ID" : "22376", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Stockwatering", 
+        "TOTAL_WELL_DEPTH" : "335", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "YES", 
+        "CASGEM_STATION_ID" : "416462N1224190W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.6462", 
+        "LONGITUDE" : "-122.419", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13627620.7434, 
+        "y" : 5108128.374
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19972, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "43N05W18G001M", 
+        "SWN" : "43N05W18G001M", 
+        "CASGEM_WELL_ID" : "22371", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "329", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "415753N1224660W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.5753", 
+        "LONGITUDE" : "-122.466", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13632852.7595, 
+        "y" : 5097572.2247
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 104690, 
+        "SHP_FILE_ID" : "1807", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "BV01", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49273", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417860N1220153W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.786", 
+        "LONGITUDE" : "-122.0153", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13582681.065, 
+        "y" : 5128976.9898
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 94778, 
+        "SHP_FILE_ID" : "3323", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SV02A", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48707", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/18/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "412854N1222723W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.4756", 
+        "LONGITUDE" : "-122.4539", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13631505.7937, 
+        "y" : 5082747.6885
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21572, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "45N05W07H002M", 
+        "SWN" : "45N05W07H002M", 
+        "CASGEM_WELL_ID" : "24045", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "80", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417638N1224574W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7638", 
+        "LONGITUDE" : "-122.4574", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13631895.4119, 
+        "y" : 5125663.234
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19974, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "43N06W33C001M", 
+        "SWN" : "43N06W33C001M", 
+        "CASGEM_WELL_ID" : "22373", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "317", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/01/2012", 
+        "COMPLETION_RPT_NBR" : "2081", 
+        "CASGEM_STATION_ID" : "415351N1225474W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.5351", 
+        "LONGITUDE" : "-122.5474", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13641914.166, 
+        "y" : 5091592.0801
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Tulelake Irrigation District", 
+        "OBJECTID" : 39498, 
+        "SHP_FILE_ID" : "2383", 
+        "ME_ID" : "5021", 
+        "LOCAL_WELL_NBR" : "TID #3", 
+        "SWN" : "48N04E16M001M", 
+        "CASGEM_WELL_ID" : "24208", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1710", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "751110", 
+        "CASGEM_STATION_ID" : "419979N1215251W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9979", 
+        "LONGITUDE" : "-121.5251", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13528112.2506, 
+        "y" : 5160664.8794
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 103451, 
+        "SHP_FILE_ID" : "3323", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SV02", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48996", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "178", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/08/2012", 
+        "COMPLETION_RPT_NBR" : "1096115", 
+        "CASGEM_STATION_ID" : "417096N1225453W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7096", 
+        "LONGITUDE" : "-122.54526", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13641675.9423, 
+        "y" : 5117577.7066
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34513, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "48N04E35G001M", 
+        "SWN" : "48N04E35G001M", 
+        "CASGEM_WELL_ID" : "37485", 
+        "GW_BASIN_NAME" : "Upper Klamath Lake Basin - Tulelake", 
+        "GW_BASIN_CODE" : "1-2.01", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "220", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/11/2013", 
+        "COMPLETION_RPT_NBR" : "493837", 
+        "CASGEM_STATION_ID" : "419608N1214731W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.9608", 
+        "LONGITUDE" : "-121.4731", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13522323.6371, 
+        "y" : 5155109.2816
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 104765, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "43N05W07K001M", 
+        "SWN" : "43N05W07K001M", 
+        "CASGEM_WELL_ID" : "49296", 
+        "GW_BASIN_NAME" : "Shasta Valley", 
+        "GW_BASIN_CODE" : "1-4", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "73", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/12/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "415867N1224630W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.5867", 
+        "LONGITUDE" : "-122.463", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13632518.801, 
+        "y" : 5099268.7638
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34238, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "43N06W22A001M", 
+        "SWN" : "43N06W22A001M", 
+        "CASGEM_WELL_ID" : "37196", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/17/2013", 
+        "COMPLETION_RPT_NBR" : "205", 
+        "CASGEM_STATION_ID" : "415637N1225176W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.5637", 
+        "LONGITUDE" : "-122.5176", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13638596.8452, 
+        "y" : 5095846.229
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 19971, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "43N05W11A001M", 
+        "SWN" : "43N05W11A001M", 
+        "CASGEM_WELL_ID" : "22370", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "167", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/17/2013", 
+        "COMPLETION_RPT_NBR" : "5586", 
+        "CASGEM_STATION_ID" : "415952N1223848W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "41.5952", 
+        "LONGITUDE" : "-122.3848", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13623813.6168, 
+        "y" : 5100533.9222
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105851, 
+        "SHP_FILE_ID" : "1823", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "RR02", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49691", 
+        "GW_BASIN_NAME" : "Red Rock Valley", 
+        "GW_BASIN_CODE" : "1-18", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417480N1217900W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.748", 
+        "LONGITUDE" : "-121.79", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13557600.7837, 
+        "y" : 5123305.4936
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105857, 
+        "SHP_FILE_ID" : "1823", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "RR05", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49694", 
+        "GW_BASIN_NAME" : "Red Rock Valley", 
+        "GW_BASIN_CODE" : "1-18", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417362N1218064W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7362", 
+        "LONGITUDE" : "-121.8064", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13559426.4234, 
+        "y" : 5121545.0279
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105859, 
+        "SHP_FILE_ID" : "1835", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "HC02", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49699", 
+        "GW_BASIN_NAME" : "Happy Camp Town Area", 
+        "GW_BASIN_CODE" : "1-15", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417782N1233987W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.77815", 
+        "LONGITUDE" : "-123.3987", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13736680.4486, 
+        "y" : 5127805.1027
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105852, 
+        "SHP_FILE_ID" : "1823", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "RR03", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49692", 
+        "GW_BASIN_NAME" : "Red Rock Valley", 
+        "GW_BASIN_CODE" : "1-18", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417581N1217890W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7581", 
+        "LONGITUDE" : "-121.789", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13557489.4642, 
+        "y" : 5124812.5899
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105856, 
+        "SHP_FILE_ID" : "1839", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SEV02", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49697", 
+        "GW_BASIN_NAME" : "Seiad Valley", 
+        "GW_BASIN_CODE" : "1-16", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418413N1231956W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.84125", 
+        "LONGITUDE" : "-123.19555", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13714065.894, 
+        "y" : 5137229.047
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105855, 
+        "SHP_FILE_ID" : "1839", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "SEV01", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49696", 
+        "GW_BASIN_NAME" : "Seiad Valley", 
+        "GW_BASIN_CODE" : "1-16", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "418353N1231864W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.8353", 
+        "LONGITUDE" : "-123.1864", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13713047.3207, 
+        "y" : 5136340.0218
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105853, 
+        "SHP_FILE_ID" : "1823", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "RR04", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49693", 
+        "GW_BASIN_NAME" : "Red Rock Valley", 
+        "GW_BASIN_CODE" : "1-18", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417649N1218332W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7649", 
+        "LONGITUDE" : "-121.8332", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13562409.7857, 
+        "y" : 5125827.4021
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105858, 
+        "SHP_FILE_ID" : "1835", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "HC01", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49698", 
+        "GW_BASIN_NAME" : "Happy Camp Town Area", 
+        "GW_BASIN_CODE" : "1-15", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417993N1233730W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7993", 
+        "LONGITUDE" : "-123.373", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13733819.5376, 
+        "y" : 5130962.8075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105850, 
+        "SHP_FILE_ID" : "1823", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "RR01", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49690", 
+        "GW_BASIN_NAME" : "Red Rock Valley", 
+        "GW_BASIN_CODE" : "1-18", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417438N1217995W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.7438", 
+        "LONGITUDE" : "-121.7995", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558658.3189, 
+        "y" : 5122678.8501
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Siskiyou County Public Health and Community Development", 
+        "OBJECTID" : 105854, 
+        "SHP_FILE_ID" : "1823", 
+        "ME_ID" : "5109", 
+        "LOCAL_WELL_NBR" : "RR06", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49695", 
+        "GW_BASIN_NAME" : "Red Rock Valley", 
+        "GW_BASIN_CODE" : "1-18", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "417625N1217997W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.76245", 
+        "LONGITUDE" : "-121.7997", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558680.5828, 
+        "y" : 5125461.7588
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 21016, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "47N02W23L001M", 
+        "SWN" : "47N02W23L001M", 
+        "CASGEM_WELL_ID" : "23450", 
+        "GW_BASIN_NAME" : "Butte Valley", 
+        "GW_BASIN_CODE" : "1-3", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "281", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Siskiyou", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "05/29/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "419018N1220664W001", 
+        "HYDROLOGIC_REGION" : "North Coast", 
+        "DWR_REGION_OFFICE" : "Northern", 
+        "LATITUDE" : "41.901733", 
+        "LONGITUDE" : "-122.066125", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13588338.8781, 
+        "y" : 5146270.8709
+      }
+    }
+  ]
+}

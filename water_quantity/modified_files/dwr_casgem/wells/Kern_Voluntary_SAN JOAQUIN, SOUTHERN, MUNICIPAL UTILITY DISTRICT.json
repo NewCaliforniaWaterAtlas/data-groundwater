@@ -1,0 +1,2210 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 7703, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E23R001M", 
+        "CASGEM_WELL_ID" : "22700", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357344N1191362W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7344", 
+        "LONGITUDE" : "-119.1362", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262181.119, 
+        "y" : 4264136.4964
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18673, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E28N001M", 
+        "CASGEM_WELL_ID" : "21045", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356311N1192949W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6311", 
+        "LONGITUDE" : "-119.2949", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279847.5222, 
+        "y" : 4249979.3075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18675, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E31F001M", 
+        "CASGEM_WELL_ID" : "21047", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356247N1193291W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6247", 
+        "LONGITUDE" : "-119.3291", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283654.6488, 
+        "y" : 4249102.7947
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18682, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E04R001M", 
+        "CASGEM_WELL_ID" : "21054", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356913N1191774W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6913", 
+        "LONGITUDE" : "-119.1774", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266767.4821, 
+        "y" : 4258227.4444
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18683, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E05H001M", 
+        "CASGEM_WELL_ID" : "21055", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356981N1191870W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6981", 
+        "LONGITUDE" : "-119.187", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267836.1492, 
+        "y" : 4259159.5188
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18684, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E07R001M", 
+        "CASGEM_WELL_ID" : "21056", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357661N1192066W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7661", 
+        "LONGITUDE" : "-119.2066", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270018.0112, 
+        "y" : 4268484.6385
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18690, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E16P001M", 
+        "CASGEM_WELL_ID" : "21062", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356603N1191815W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6603", 
+        "LONGITUDE" : "-119.1815", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267223.892, 
+        "y" : 4253979.2884
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18692, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E17J001M", 
+        "CASGEM_WELL_ID" : "21064", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356639N1191909W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6639", 
+        "LONGITUDE" : "-119.1909", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268270.2952, 
+        "y" : 4254472.538
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18693, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E18P001M", 
+        "CASGEM_WELL_ID" : "21065", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356603N1192159W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6603", 
+        "LONGITUDE" : "-119.2159", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271053.2825, 
+        "y" : 4253979.2884
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18703, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E28P001M", 
+        "CASGEM_WELL_ID" : "21075", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356314N1191778W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6314", 
+        "LONGITUDE" : "-119.1778", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266812.0099, 
+        "y" : 4250020.3958
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18704, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E29C001M", 
+        "CASGEM_WELL_ID" : "21076", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356436N1191966W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6436", 
+        "LONGITUDE" : "-119.1966", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268904.8163, 
+        "y" : 4251691.4491
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18709, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E32L001M", 
+        "CASGEM_WELL_ID" : "21081", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356222N1191962W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6222", 
+        "LONGITUDE" : "-119.1962", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268860.2885, 
+        "y" : 4248760.4259
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18001, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E01C001M", 
+        "CASGEM_WELL_ID" : "20361", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357022N1192416W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7022", 
+        "LONGITUDE" : "-119.2416", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273914.1934, 
+        "y" : 4259721.5432
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18002, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E01P002M", 
+        "CASGEM_WELL_ID" : "20362", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356894N1192340W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6894", 
+        "LONGITUDE" : "-119.234", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273068.1652, 
+        "y" : 4257967.0261
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18004, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E03R001M", 
+        "CASGEM_WELL_ID" : "20364", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356919N1192682W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6919", 
+        "LONGITUDE" : "-119.2682", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276875.2918, 
+        "y" : 4258309.6831
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18005, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E04R001M", 
+        "CASGEM_WELL_ID" : "20365", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356889N1192806W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6889", 
+        "LONGITUDE" : "-119.2806", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278255.6535, 
+        "y" : 4257898.496
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18006, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E05C001M", 
+        "CASGEM_WELL_ID" : "20366", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357038N1193113W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7038", 
+        "LONGITUDE" : "-119.3113", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281673.1619, 
+        "y" : 4259940.8777
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18014, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E12B001M", 
+        "CASGEM_WELL_ID" : "20374", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356883N1192284W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6883", 
+        "LONGITUDE" : "-119.2284", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272444.7761, 
+        "y" : 4257816.2604
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18015, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E14N001M", 
+        "CASGEM_WELL_ID" : "20376", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356616N1192621W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6616", 
+        "LONGITUDE" : "-119.2621", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276196.2429, 
+        "y" : 4254157.4037
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18020, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E17J001M", 
+        "CASGEM_WELL_ID" : "20381", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356683N1193057W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6683", 
+        "LONGITUDE" : "-119.3057", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281049.7727, 
+        "y" : 4255075.4288
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18027, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E23P001M", 
+        "CASGEM_WELL_ID" : "20388", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356458N1192507W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6458", 
+        "LONGITUDE" : "-119.2507", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274927.2007, 
+        "y" : 4251992.8138
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 18028, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E24G001M", 
+        "CASGEM_WELL_ID" : "20389", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356544N1192355W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6544", 
+        "LONGITUDE" : "-119.2355", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273235.1445, 
+        "y" : 4253170.9552
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 20294, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E28H002M", 
+        "CASGEM_WELL_ID" : "22702", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357283N1191698W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7283", 
+        "LONGITUDE" : "-119.1698", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265921.4539, 
+        "y" : 4263299.9863
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 20295, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E28J002M", 
+        "CASGEM_WELL_ID" : "22703", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357236N1191695W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7236", 
+        "LONGITUDE" : "-119.1695", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265888.0581, 
+        "y" : 4262655.5058
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 20297, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E29P001M", 
+        "CASGEM_WELL_ID" : "22705", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357183N1191962W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7183", 
+        "LONGITUDE" : "-119.1962", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268860.2885, 
+        "y" : 4261928.7968
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 20298, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E30A001M", 
+        "CASGEM_WELL_ID" : "22706", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357289N1192053W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7289", 
+        "LONGITUDE" : "-119.2053", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269873.2959, 
+        "y" : 4263382.2631
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 20299, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E30J001M", 
+        "CASGEM_WELL_ID" : "22707", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357252N1192124W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7252", 
+        "LONGITUDE" : "-119.2124", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270663.6642, 
+        "y" : 4262874.8991
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19257, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S24E12H001M", 
+        "CASGEM_WELL_ID" : "21638", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357719N1193312W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7719", 
+        "LONGITUDE" : "-119.3312", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283888.4198, 
+        "y" : 4269280.3852
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19258, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S24E13P002M", 
+        "CASGEM_WELL_ID" : "21639", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357472N1193396W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7472", 
+        "LONGITUDE" : "-119.3396", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284823.5035, 
+        "y" : 4265892.0046
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19292, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E04C001M", 
+        "CASGEM_WELL_ID" : "21673", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357947N1192921W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7947", 
+        "LONGITUDE" : "-119.2921", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279535.8277, 
+        "y" : 4272409.0552
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19293, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E04R001M", 
+        "CASGEM_WELL_ID" : "21674", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357794N1192806W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7794", 
+        "LONGITUDE" : "-119.2806", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278255.6535, 
+        "y" : 4270309.4539
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19748, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E10J001M", 
+        "CASGEM_WELL_ID" : "22141", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357733N1192624W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7733", 
+        "LONGITUDE" : "-119.2624", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276229.6388, 
+        "y" : 4269472.4706
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19749, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E11R001M", 
+        "CASGEM_WELL_ID" : "22142", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357669N1192460W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7669", 
+        "LONGITUDE" : "-119.246", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274403.9991, 
+        "y" : 4268594.3932
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19750, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E12E002M", 
+        "CASGEM_WELL_ID" : "22143", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357708N1192381W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7708", 
+        "LONGITUDE" : "-119.2381", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273524.5752, 
+        "y" : 4269129.4632
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19756, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E20R001M", 
+        "CASGEM_WELL_ID" : "22149", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357355N1192946W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7355", 
+        "LONGITUDE" : "-119.2946", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279814.1264, 
+        "y" : 4264287.3493
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19760, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E23N001M", 
+        "CASGEM_WELL_ID" : "22153", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357325N1192551W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7325", 
+        "LONGITUDE" : "-119.2551", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275417.0065, 
+        "y" : 4263875.9372
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19761, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E26A001M", 
+        "CASGEM_WELL_ID" : "22154", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357289N1192409W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7289", 
+        "LONGITUDE" : "-119.2409", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273836.2697, 
+        "y" : 4263382.2631
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19764, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E28R001M", 
+        "CASGEM_WELL_ID" : "22157", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357200N1192774W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.72", 
+        "LONGITUDE" : "-119.2774", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277899.4311, 
+        "y" : 4262161.8869
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19767, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E32L001M", 
+        "CASGEM_WELL_ID" : "22160", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357075N1193045W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7075", 
+        "LONGITUDE" : "-119.3045", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280916.1893, 
+        "y" : 4260448.1054
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19769, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E35A001M", 
+        "CASGEM_WELL_ID" : "22162", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357150N1192412W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.715", 
+        "LONGITUDE" : "-119.2412", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273869.6656, 
+        "y" : 4261476.342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19770, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E35P001M", 
+        "CASGEM_WELL_ID" : "22163", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357078N1192451W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7078", 
+        "LONGITUDE" : "-119.2451", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274303.8116, 
+        "y" : 4260489.233
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19771, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E35P002M", 
+        "CASGEM_WELL_ID" : "22164", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357036N1192498W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7036", 
+        "LONGITUDE" : "-119.2498", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274827.0132, 
+        "y" : 4259913.4606
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19773, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E36R002M", 
+        "CASGEM_WELL_ID" : "22167", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357055N1192235W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7055", 
+        "LONGITUDE" : "-119.2235", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271899.3106, 
+        "y" : 4260173.9253
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19763, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E27R001M", 
+        "CASGEM_WELL_ID" : "22156", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357183N1192587W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7183", 
+        "LONGITUDE" : "-119.2587", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275817.7567, 
+        "y" : 4261928.7968
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 19833, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E07C001M", 
+        "CASGEM_WELL_ID" : "22228", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357780N1192146W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.778", 
+        "LONGITUDE" : "-119.2146", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270908.5671, 
+        "y" : 4270117.3537
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 20289, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E19B001M", 
+        "CASGEM_WELL_ID" : "22696", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357461N1192098W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7461", 
+        "LONGITUDE" : "-119.2098", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270374.2336, 
+        "y" : 4265741.1296
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 20290, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E19J001M", 
+        "CASGEM_WELL_ID" : "22697", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357419N1192063W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7419", 
+        "LONGITUDE" : "-119.2063", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269984.6154, 
+        "y" : 4265165.0803
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 20291, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E20R001M", 
+        "CASGEM_WELL_ID" : "22698", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357355N1191885W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7355", 
+        "LONGITUDE" : "-119.1885", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268003.1284, 
+        "y" : 4264287.3493
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 20292, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E23B001M", 
+        "CASGEM_WELL_ID" : "22699", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357469N1191390W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7469", 
+        "LONGITUDE" : "-119.139", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262492.8136, 
+        "y" : 4265850.8567
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 31605, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E31H001M", 
+        "CASGEM_WELL_ID" : "34504", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356233N1193135W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6233", 
+        "LONGITUDE" : "-119.3135", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281918.0648, 
+        "y" : 4248911.0668
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 31611, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E06H002M", 
+        "CASGEM_WELL_ID" : "34510", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356983N1192051W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6983", 
+        "LONGITUDE" : "-119.2051", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269851.032, 
+        "y" : 4259186.934
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 31612, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E08H002M", 
+        "CASGEM_WELL_ID" : "34511", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356825N1191873W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6825", 
+        "LONGITUDE" : "-119.1873", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267869.545, 
+        "y" : 4257021.3485
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 34679, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E19A001M", 
+        "CASGEM_WELL_ID" : "37658", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357472N1192060W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7472", 
+        "LONGITUDE" : "-119.206", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269951.2195, 
+        "y" : 4265892.0046
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 34680, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E19L001M", 
+        "CASGEM_WELL_ID" : "37659", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357425N1192152W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7425", 
+        "LONGITUDE" : "-119.2152", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270975.3588, 
+        "y" : 4265247.3712
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 34682, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E23Q001M", 
+        "CASGEM_WELL_ID" : "37661", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357355N1191393W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7355", 
+        "LONGITUDE" : "-119.1393", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262526.2095, 
+        "y" : 4264287.3493
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 34413, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S24E12D002M", 
+        "CASGEM_WELL_ID" : "37381", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357752N1193466W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7752", 
+        "LONGITUDE" : "-119.3466", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285602.7399, 
+        "y" : 4269733.1634
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 34059, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E07P001M", 
+        "CASGEM_WELL_ID" : "37014", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357647N1192152W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7647", 
+        "LONGITUDE" : "-119.2152", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270975.3588, 
+        "y" : 4268292.5705
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 32522, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E14A002M", 
+        "CASGEM_WELL_ID" : "35439", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356725N1192493W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6725", 
+        "LONGITUDE" : "-119.2493", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274771.3535, 
+        "y" : 4255650.9464
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 32531, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E24P001M", 
+        "CASGEM_WELL_ID" : "35448", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356475N1192402W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6475", 
+        "LONGITUDE" : "-119.2402", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273758.3461, 
+        "y" : 4252225.6921
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 33822, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E07R001M", 
+        "CASGEM_WELL_ID" : "36767", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357666N1193155W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7666", 
+        "LONGITUDE" : "-119.3155", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282140.7037, 
+        "y" : 4268553.2351
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 33892, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E12C001M", 
+        "CASGEM_WELL_ID" : "36841", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357725N1192335W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7725", 
+        "LONGITUDE" : "-119.2335", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273012.5055, 
+        "y" : 4269362.7071
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 33898, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E22D002M", 
+        "CASGEM_WELL_ID" : "36847", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357466N1192768W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7466", 
+        "LONGITUDE" : "-119.2768", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277832.6395, 
+        "y" : 4265809.7089
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 33900, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E26H002M", 
+        "CASGEM_WELL_ID" : "36849", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357253N1192412W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7253", 
+        "LONGITUDE" : "-119.2412", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273869.6656, 
+        "y" : 4262888.6114
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 33903, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E30A002M", 
+        "CASGEM_WELL_ID" : "36852", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357292N1193120W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7292", 
+        "LONGITUDE" : "-119.312", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281751.0855, 
+        "y" : 4263423.4018
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 33904, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E31H001M", 
+        "CASGEM_WELL_ID" : "36853", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357106N1193120W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7106", 
+        "LONGITUDE" : "-119.312", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281751.0855, 
+        "y" : 4260873.0982
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 33908, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E06H001M", 
+        "CASGEM_WELL_ID" : "36857", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357861N1192057W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7861", 
+        "LONGITUDE" : "-119.2057", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269917.8237, 
+        "y" : 4271228.8374
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 36367, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E28A001M", 
+        "CASGEM_WELL_ID" : "39383", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356447N1192767W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6447", 
+        "LONGITUDE" : "-119.2767", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277821.5075, 
+        "y" : 4251842.1304
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT", 
+        "OBJECTID" : 36441, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1102", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E29R001M", 
+        "CASGEM_WELL_ID" : "39460", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357202N1192943W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7202", 
+        "LONGITUDE" : "-119.2943", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279780.7305, 
+        "y" : 4262189.3095
+      }
+    }
+  ]
+}

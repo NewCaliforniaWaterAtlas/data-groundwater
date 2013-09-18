@@ -1,0 +1,1986 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 7799, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S21E03A001M", 
+        "CASGEM_WELL_ID" : "33000", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362244N1196749W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2244", 
+        "LONGITUDE" : "-119.6749", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13322148.9287, 
+        "y" : 4331542.5594
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 7654, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S22E24J001M", 
+        "CASGEM_WELL_ID" : "17700", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364378N1195324W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4378", 
+        "LONGITUDE" : "-119.5324", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13306285.9013, 
+        "y" : 4361030.403
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 15394, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S22E35B001M", 
+        "CASGEM_WELL_ID" : "17712", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364158N1195516W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4158", 
+        "LONGITUDE" : "-119.5516", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308423.2355, 
+        "y" : 4357986.6797
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14679, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E20B001M", 
+        "CASGEM_WELL_ID" : "16987", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363564N1196085W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3564", 
+        "LONGITUDE" : "-119.6085", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314757.3145, 
+        "y" : 4349772.9302
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14680, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E20D001M", 
+        "CASGEM_WELL_ID" : "16988", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363569N1196182W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3569", 
+        "LONGITUDE" : "-119.6182", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315837.1136, 
+        "y" : 4349842.0433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14681, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E21D001M", 
+        "CASGEM_WELL_ID" : "16989", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363569N1195982W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3569", 
+        "LONGITUDE" : "-119.5982", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313610.7238, 
+        "y" : 4349842.0433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14683, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E22R001M", 
+        "CASGEM_WELL_ID" : "16991", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363433N1195674W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3433", 
+        "LONGITUDE" : "-119.5674", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310182.0835, 
+        "y" : 4347962.3243
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 15628, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E01N001M", 
+        "CASGEM_WELL_ID" : "17948", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362992N1195452W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2992", 
+        "LONGITUDE" : "-119.5452", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307710.7908, 
+        "y" : 4341869.3157
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14832, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E13D001M", 
+        "CASGEM_WELL_ID" : "17142", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363719N1195438W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3719", 
+        "LONGITUDE" : "-119.5438", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307554.9435, 
+        "y" : 4351915.6437
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14833, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E16A001M", 
+        "CASGEM_WELL_ID" : "17143", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363717N1195871W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3717", 
+        "LONGITUDE" : "-119.5871", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312375.0774, 
+        "y" : 4351887.9931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 15759, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S19E31P002M", 
+        "CASGEM_WELL_ID" : "18082", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361381N1199507W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1381", 
+        "LONGITUDE" : "-119.9507", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13352850.8443, 
+        "y" : 4319640.3953
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14238, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S19E15A001M", 
+        "CASGEM_WELL_ID" : "16538", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362844N1198874W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2844", 
+        "LONGITUDE" : "-119.8874", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13345804.3205, 
+        "y" : 4339825.2687
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14243, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S19E16N002M", 
+        "CASGEM_WELL_ID" : "16543", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362703N1199229W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2703", 
+        "LONGITUDE" : "-119.9229", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13349756.1625, 
+        "y" : 4337878.2601
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14349, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S21E24R001M", 
+        "CASGEM_WELL_ID" : "16652", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363447N1196382W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3447", 
+        "LONGITUDE" : "-119.6382", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318063.5034, 
+        "y" : 4348155.8096
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14360, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E03N001M", 
+        "CASGEM_WELL_ID" : "16664", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363872N1195807W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3872", 
+        "LONGITUDE" : "-119.5807", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311662.6327, 
+        "y" : 4354031.1281
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 14361, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E06E001M", 
+        "CASGEM_WELL_ID" : "16665", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363942N1196360W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3942", 
+        "LONGITUDE" : "-119.636", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317818.6005, 
+        "y" : 4354999.1356
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 13631, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E19A001M", 
+        "CASGEM_WELL_ID" : "15924", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362694N1196193W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2694", 
+        "LONGITUDE" : "-119.6193", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315959.565, 
+        "y" : 4337753.9949
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 13744, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S21E25L001M", 
+        "CASGEM_WELL_ID" : "16038", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361600N1196471W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.16", 
+        "LONGITUDE" : "-119.6471", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13319054.2469, 
+        "y" : 4322659.518
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 17887, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S23E32P001M", 
+        "CASGEM_WELL_ID" : "20246", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363147N1195057W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3147", 
+        "LONGITUDE" : "-119.5057", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13303313.6709, 
+        "y" : 4344010.4564
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 17888, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S23E32P002M", 
+        "CASGEM_WELL_ID" : "20247", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363147N1195046W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3147", 
+        "LONGITUDE" : "-119.5046", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13303191.2195, 
+        "y" : 4344010.4564
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 18284, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S18E34N001M", 
+        "CASGEM_WELL_ID" : "20648", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361381N1200116W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1381", 
+        "LONGITUDE" : "-120.0116", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359630.2013, 
+        "y" : 4319640.3953
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 19002, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S18E20J001M", 
+        "CASGEM_WELL_ID" : "21379", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360853N1200441W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0853", 
+        "LONGITUDE" : "-120.0441", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13363248.0847, 
+        "y" : 4312364.8772
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 19008, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S18E23D005M", 
+        "CASGEM_WELL_ID" : "21385", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360939N1200029W004", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0939", 
+        "LONGITUDE" : "-120.0029", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13358661.7217, 
+        "y" : 4313549.5714
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 19016, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S18E27N003M", 
+        "CASGEM_WELL_ID" : "21393", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360672N1200193W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0672", 
+        "LONGITUDE" : "-120.0193", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360487.3614, 
+        "y" : 4309871.9324
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 16343, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "24S17E23A001M", 
+        "CASGEM_WELL_ID" : "18674", 
+        "GW_BASIN_NAME" : "Pleasant Valley", 
+        "GW_BASIN_CODE" : "5-22.10", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "358317N1200943W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.8317", 
+        "LONGITUDE" : "-120.0943", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13368836.3232, 
+        "y" : 4277488.1943
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 16371, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S18E02E001M", 
+        "CASGEM_WELL_ID" : "18703", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360458N1200007W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0458", 
+        "LONGITUDE" : "-120.0007", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13358416.8188, 
+        "y" : 4306925.2128
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 16379, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S18E11B001M", 
+        "CASGEM_WELL_ID" : "18711", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360344N1199938W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0344", 
+        "LONGITUDE" : "-119.9938", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13357648.7143, 
+        "y" : 4305355.792
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 16380, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S18E11B002M", 
+        "CASGEM_WELL_ID" : "18712", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360350N1199924W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.035", 
+        "LONGITUDE" : "-119.9924", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13357492.8671, 
+        "y" : 4305438.3874
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 16388, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S18E13L001M", 
+        "CASGEM_WELL_ID" : "18720", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360122N1199760W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0122", 
+        "LONGITUDE" : "-119.976", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13355667.2274, 
+        "y" : 4302300.2031
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 19988, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S18E28B002M", 
+        "CASGEM_WELL_ID" : "22387", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360778N1200299W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0778", 
+        "LONGITUDE" : "-120.0299", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13361667.348, 
+        "y" : 4311331.8194
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 19991, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S18E28M002M", 
+        "CASGEM_WELL_ID" : "22390", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360697N1200379W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0697", 
+        "LONGITUDE" : "-120.0379", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13362557.9039, 
+        "y" : 4310216.2277
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 20003, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S19E02A002M", 
+        "CASGEM_WELL_ID" : "22404", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361361N1198813W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1361", 
+        "LONGITUDE" : "-119.8813", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13345125.2716, 
+        "y" : 4319364.7183
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 20004, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S19E02A003M", 
+        "CASGEM_WELL_ID" : "22405", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361361N1198816W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1361", 
+        "LONGITUDE" : "-119.8816", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13345158.6675, 
+        "y" : 4319364.7183
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 20015, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S19E17R002M", 
+        "CASGEM_WELL_ID" : "22416", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360944N1199363W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0944", 
+        "LONGITUDE" : "-119.9363", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13351247.8436, 
+        "y" : 4313618.4529
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 20177, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23S19E14R001M", 
+        "CASGEM_WELL_ID" : "22579", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "359206N1198802W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.9206", 
+        "LONGITUDE" : "-119.8802", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13345002.8202, 
+        "y" : 4289701.5473
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 20181, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "23S19E26M001M", 
+        "CASGEM_WELL_ID" : "22583", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "358969N1198932W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.8969", 
+        "LONGITUDE" : "-119.8932", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13346449.9736, 
+        "y" : 4286444.2287
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 32169, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S18E18J002M", 
+        "CASGEM_WELL_ID" : "35077", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361000N1200596W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1", 
+        "LONGITUDE" : "-120.0596", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13364973.5368, 
+        "y" : 4314389.9563
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 32172, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S18E20K001M", 
+        "CASGEM_WELL_ID" : "35080", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360842N1200446W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0842", 
+        "LONGITUDE" : "-120.0446", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13363303.7445, 
+        "y" : 4312213.3559
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 32176, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S18E23D004M", 
+        "CASGEM_WELL_ID" : "35084", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360939N1200029W003", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0939", 
+        "LONGITUDE" : "-120.0029", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13358661.7217, 
+        "y" : 4313549.5714
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 31397, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "24S17E35B002M", 
+        "CASGEM_WELL_ID" : "34291", 
+        "GW_BASIN_NAME" : "Pleasant Valley", 
+        "GW_BASIN_CODE" : "5-22.10", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "358019N1201027W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.8019", 
+        "LONGITUDE" : "-120.1027", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13369771.4069, 
+        "y" : 4273397.2428
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 31513, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "24S18E33N001M", 
+        "CASGEM_WELL_ID" : "34410", 
+        "GW_BASIN_NAME" : "Pleasant Valley", 
+        "GW_BASIN_CODE" : "5-22.10", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357894N1200399W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7894", 
+        "LONGITUDE" : "-120.0399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13362780.5429, 
+        "y" : 4271681.6966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 31520, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "22S18E13F001M", 
+        "CASGEM_WELL_ID" : "34417", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360178N1199799W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0178", 
+        "LONGITUDE" : "-119.9799", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13356101.3734, 
+        "y" : 4303070.9011
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 31648, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S22E36J001M", 
+        "CASGEM_WELL_ID" : "34547", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364064N1195293W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4064", 
+        "LONGITUDE" : "-119.5293", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13305940.8109, 
+        "y" : 4356686.4427
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 30159, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E06N001M", 
+        "CASGEM_WELL_ID" : "33014", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362989N1196357W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2989", 
+        "LONGITUDE" : "-119.6357", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317785.2047, 
+        "y" : 4341827.8784
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 30164, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E19A002M", 
+        "CASGEM_WELL_ID" : "33019", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362692N1196202W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2692", 
+        "LONGITUDE" : "-119.6202", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316059.7526, 
+        "y" : 4337726.3806
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 30190, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E21A001M", 
+        "CASGEM_WELL_ID" : "33045", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363558N1195838W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3558", 
+        "LONGITUDE" : "-119.5838", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312007.7231, 
+        "y" : 4349689.995
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 30191, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E21H001M", 
+        "CASGEM_WELL_ID" : "33046", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363531N1195846W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3531", 
+        "LONGITUDE" : "-119.5846", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312096.7787, 
+        "y" : 4349316.7946
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 30192, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E22H001M", 
+        "CASGEM_WELL_ID" : "33047", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363522N1195654W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3522", 
+        "LONGITUDE" : "-119.5654", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309959.4445, 
+        "y" : 4349192.3974
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 30193, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E24E001M", 
+        "CASGEM_WELL_ID" : "33048", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363536N1195466W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3536", 
+        "LONGITUDE" : "-119.5466", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307866.6381, 
+        "y" : 4349385.9048
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 30195, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E29A001M", 
+        "CASGEM_WELL_ID" : "33050", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363425N1196029W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3425", 
+        "LONGITUDE" : "-119.6029", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314133.9254, 
+        "y" : 4347851.7628
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 30196, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E29N001M", 
+        "CASGEM_WELL_ID" : "33051", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363283N1196166W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3283", 
+        "LONGITUDE" : "-119.6166", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315659.0024, 
+        "y" : 4345889.4854
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 30198, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E35C001M", 
+        "CASGEM_WELL_ID" : "33054", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363281N1195563W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3281", 
+        "LONGITUDE" : "-119.5563", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308946.4371, 
+        "y" : 4345861.8503
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 29476, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E04B001M", 
+        "CASGEM_WELL_ID" : "32313", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364011N1195899W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4011", 
+        "LONGITUDE" : "-119.5899", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312686.772, 
+        "y" : 4355953.3997
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 29196, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S19E15A002M", 
+        "CASGEM_WELL_ID" : "32029", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362844N1198877W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2844", 
+        "LONGITUDE" : "-119.8877", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13345837.7164, 
+        "y" : 4339825.2687
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 29199, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S19E16N003M", 
+        "CASGEM_WELL_ID" : "32032", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362703N1199229W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2703", 
+        "LONGITUDE" : "-119.9229", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13349756.1625, 
+        "y" : 4337878.2601
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 34244, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S18E28B001M", 
+        "CASGEM_WELL_ID" : "37203", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360786N1200293W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0786", 
+        "LONGITUDE" : "-120.0293", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13361600.5563, 
+        "y" : 4311442.0075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 34320, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S19E17R001M", 
+        "CASGEM_WELL_ID" : "37281", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "360944N1199363W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.0944", 
+        "LONGITUDE" : "-119.9363", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13351247.8436, 
+        "y" : 4313618.4529
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 32577, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E10C001M", 
+        "CASGEM_WELL_ID" : "35494", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363867N1195757W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3867", 
+        "LONGITUDE" : "-119.5757", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311106.0352, 
+        "y" : 4353961.9881
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 32578, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E10N001M", 
+        "CASGEM_WELL_ID" : "35495", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363725N1195818W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3725", 
+        "LONGITUDE" : "-119.5818", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311785.0841, 
+        "y" : 4351998.5961
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 32579, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E15A001M", 
+        "CASGEM_WELL_ID" : "35496", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363714N1195663W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3714", 
+        "LONGITUDE" : "-119.5663", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310059.632, 
+        "y" : 4351846.5173
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Bureau of Reclamation", 
+        "OBJECTID" : 33089, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "624", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S18E36D001M", 
+        "CASGEM_WELL_ID" : "36016", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361517N1199766W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1517", 
+        "LONGITUDE" : "-119.9766", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13355734.0191, 
+        "y" : 4321515.1851
+      }
+    }
+  ]
+}

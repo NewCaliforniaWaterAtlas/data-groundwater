@@ -1,0 +1,1474 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 8562, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N18E17E001M", 
+        "CASGEM_WELL_ID" : "10713", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "24", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "64020", 
+        "CASGEM_STATION_ID" : "388017N1200185W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8017", 
+        "LONGITUDE" : "-120.0185", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360398.3058, 
+        "y" : 4693306.4727
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11129, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18E02C001M", 
+        "CASGEM_WELL_ID" : "13335", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "62", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "55747", 
+        "CASGEM_STATION_ID" : "389370N1199599W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.937", 
+        "LONGITUDE" : "-119.9599", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13353874.9836, 
+        "y" : 4712651.3765
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 11130, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18E05A002M", 
+        "CASGEM_WELL_ID" : "13336", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "156", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "56756", 
+        "CASGEM_STATION_ID" : "389222N1200042W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9222", 
+        "LONGITUDE" : "-120.0042", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13358806.4371, 
+        "y" : 4710533.5092
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 13120, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N17E35G001M", 
+        "CASGEM_WELL_ID" : "15403", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "168", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "55368", 
+        "CASGEM_STATION_ID" : "389333N1200702W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "38.9333", 
+        "LONGITUDE" : "-120.0702", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13366153.5234, 
+        "y" : 4712121.8683
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 13122, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N18E32N002M", 
+        "CASGEM_WELL_ID" : "15405", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "44735", 
+        "CASGEM_STATION_ID" : "389412N1199905W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9412", 
+        "LONGITUDE" : "-119.9905", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13357281.36, 
+        "y" : 4713252.4735
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 13123, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N18E33R005M", 
+        "CASGEM_WELL_ID" : "15406", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "64", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "1092", 
+        "CASGEM_STATION_ID" : "389427N1199569W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9427", 
+        "LONGITUDE" : "-119.9569", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13353541.0251, 
+        "y" : 4713467.1596
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 12792, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18E05C002M", 
+        "CASGEM_WELL_ID" : "15061", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "60", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "44736", 
+        "CASGEM_STATION_ID" : "389219N1200133W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9219", 
+        "LONGITUDE" : "-120.0133", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359819.4444, 
+        "y" : 4710490.584
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 12793, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18E09D003M", 
+        "CASGEM_WELL_ID" : "15062", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "137", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "16749", 
+        "CASGEM_STATION_ID" : "389060N1199996W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.906", 
+        "LONGITUDE" : "-119.9996", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13358294.3674, 
+        "y" : 4708215.8094
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 12794, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18E20H002M", 
+        "CASGEM_WELL_ID" : "15063", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "36", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "55728", 
+        "CASGEM_STATION_ID" : "388753N1200066W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8753", 
+        "LONGITUDE" : "-120.0066", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359073.6038, 
+        "y" : 4703825.0755
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 12924, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18E29L001M", 
+        "CASGEM_WELL_ID" : "15199", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "94", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "1069", 
+        "CASGEM_STATION_ID" : "388562N1200143W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.8562", 
+        "LONGITUDE" : "-120.0143", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359930.7639, 
+        "y" : 4701094.3382
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30677, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18E05K001M", 
+        "CASGEM_WELL_ID" : "33555", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "80", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "16735", 
+        "CASGEM_STATION_ID" : "389155N1200108W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9155", 
+        "LONGITUDE" : "-120.0108", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359541.1457, 
+        "y" : 4709574.8902
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29158, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N18E33M001M", 
+        "CASGEM_WELL_ID" : "31989", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "203", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "27397", 
+        "CASGEM_STATION_ID" : "389445N1199712W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9445", 
+        "LONGITUDE" : "-119.9712", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13355132.8939, 
+        "y" : 4713724.7889
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29159, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N18E34M002M", 
+        "CASGEM_WELL_ID" : "31990", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "68", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "64055", 
+        "CASGEM_STATION_ID" : "389456N1199517W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9456", 
+        "LONGITUDE" : "-119.9517", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13352962.1638, 
+        "y" : 4713882.2322
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 29647, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18E02C009M", 
+        "CASGEM_WELL_ID" : "32489", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "76", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "76311", 
+        "CASGEM_STATION_ID" : "389325N1199576W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9325", 
+        "LONGITUDE" : "-119.9576", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13353618.9488, 
+        "y" : 4712007.3836
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 37084, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "13N18E27K001M", 
+        "CASGEM_WELL_ID" : "40133", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "116", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "64051", 
+        "CASGEM_STATION_ID" : "389592N1199440W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.9592", 
+        "LONGITUDE" : "-119.944", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13352105.0037, 
+        "y" : 4715829.0065
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72066, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "USGS TCF-1-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47523", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "340", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389238N1199681W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.923767", 
+        "LONGITUDE" : "-119.968127", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13354790.8091, 
+        "y" : 4710757.7246
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72071, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Washoan OW", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47528", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "275", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388909N1199885W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.890932", 
+        "LONGITUDE" : "-119.988508", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13357059.6116, 
+        "y" : 4706060.5371
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72055, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "IW-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47512", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "151", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388545N1200196W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.854543", 
+        "LONGITUDE" : "-120.019553", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360515.5252, 
+        "y" : 4700857.4706
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72060, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Seneca OW", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47517", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "180", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388673N1200319W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.867293", 
+        "LONGITUDE" : "-120.031906", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13361890.6549, 
+        "y" : 4702680.2211
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 71744, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Elks Club Well #1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47505", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "168", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "56760", 
+        "CASGEM_STATION_ID" : "388761N1200005W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.876064", 
+        "LONGITUDE" : "-120.000504", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13358395.0002, 
+        "y" : 4703934.3202
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72052, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Glenwood Well #3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47509", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "192", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "6492", 
+        "CASGEM_STATION_ID" : "389302N1199629W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.930211", 
+        "LONGITUDE" : "-119.962863", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13354204.8233, 
+        "y" : 4711679.8216
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72064, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Tata Lane Well #2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47521", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "193", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389075N1200055W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.907481", 
+        "LONGITUDE" : "-120.00549", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13358950.0392, 
+        "y" : 4708427.671
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 71742, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Country Club Well", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47503", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "197", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388658N1200177W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.865774", 
+        "LONGITUDE" : "-120.017665", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360305.354, 
+        "y" : 4702463.0464
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72062, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "SUT No.1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47519", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "262", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "91552", 
+        "CASGEM_STATION_ID" : "388224N1200217W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.822392", 
+        "LONGITUDE" : "-120.021681", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360752.4131, 
+        "y" : 4696262.5874
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72051, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "EX-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47508", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "31", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388030N1200150W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.803003", 
+        "LONGITUDE" : "-120.014967", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360005.014, 
+        "y" : 4693492.5974
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72059, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Ralph OW", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47516", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "295", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389254N1199529W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.925353", 
+        "LONGITUDE" : "-119.952881", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13353093.6321, 
+        "y" : 4710984.6637
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72067, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "USGS TCF-1-2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47524", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "260", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389238N1199681W002", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.923766", 
+        "LONGITUDE" : "-119.968128", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13354790.9204, 
+        "y" : 4710757.5815
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72050, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "ESB-3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47507", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "211", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388596N1200196W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.859566", 
+        "LONGITUDE" : "-120.019551", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360515.3026, 
+        "y" : 4701575.5238
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72061, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Sioux OW", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47518", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "198", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388593N1200182W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.859299", 
+        "LONGITUDE" : "-120.018175", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360362.1269, 
+        "y" : 4701537.354
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72056, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Lily Ln-Deep", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47513", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "64", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389420N1199910W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.941998", 
+        "LONGITUDE" : "-119.991024", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13357339.6914, 
+        "y" : 4713366.6859
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72057, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Lily Ln-Shallow", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47514", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "38", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389420N1199910W002", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.941998", 
+        "LONGITUDE" : "-119.991025", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13357339.8028, 
+        "y" : 4713366.6859
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72063, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "SW-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47520", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388545N1200197W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.854514", 
+        "LONGITUDE" : "-120.019717", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360533.7816, 
+        "y" : 4700853.3251
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 71739, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Blackrock Well #1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47500", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "180", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "33505", 
+        "CASGEM_STATION_ID" : "389567N1199488W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.956686", 
+        "LONGITUDE" : "-119.948771", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13352636.109, 
+        "y" : 4715469.1114
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72049, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "ESB-2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47506", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "233", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388582N1200216W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.858195", 
+        "LONGITUDE" : "-120.021609", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360744.3981, 
+        "y" : 4701379.5301
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72054, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Industrial Well #2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47511", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "190", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389024N1200084W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.902449", 
+        "LONGITUDE" : "-120.008396", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359273.5336, 
+        "y" : 4707707.846
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 71740, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "CL-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47501", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "115", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "535956", 
+        "CASGEM_STATION_ID" : "389129N1200110W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.912886", 
+        "LONGITUDE" : "-120.010971", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359560.1813, 
+        "y" : 4709200.9102
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72070, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "USGS TCF-1-5", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47527", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "98", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389238N1199681W005", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.923767", 
+        "LONGITUDE" : "-119.968128", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13354790.9204, 
+        "y" : 4710757.7246
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72053, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Henderson OW", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47510", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "210", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388395N1200249W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.839471", 
+        "LONGITUDE" : "-120.024884", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13361108.9694, 
+        "y" : 4698703.1864
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72068, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "USGS TCF-1-3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47525", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "163", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389238N1199681W003", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.923767", 
+        "LONGITUDE" : "-119.968128", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13354790.9204, 
+        "y" : 4710757.7246
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72069, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "USGS TCF-1-4", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47526", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389238N1199681W004", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.923766", 
+        "LONGITUDE" : "-119.968127", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13354790.8091, 
+        "y" : 4710757.5815
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72058, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Martin Ave. Well", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47515", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "115601", 
+        "CASGEM_STATION_ID" : "389211N1199746W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.921139", 
+        "LONGITUDE" : "-119.974614", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13355512.9386, 
+        "y" : 4710381.698
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 72065, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Tata Lane Well #3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47522", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "225", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "389075N1200059W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.907547", 
+        "LONGITUDE" : "-120.005858", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13358991.0048, 
+        "y" : 4708437.1126
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 71741, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "CL-3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47502", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "50", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "535958", 
+        "CASGEM_STATION_ID" : "389129N1200110W002", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.912904", 
+        "LONGITUDE" : "-120.011005", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359563.9662, 
+        "y" : 4709203.4854
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 71743, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "DW-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47504", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "268", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388544N1200196W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.854433", 
+        "LONGITUDE" : "-120.019624", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360523.4289, 
+        "y" : 4700841.7463
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "South Tahoe Public Utility District", 
+        "OBJECTID" : 71738, 
+        "SHP_FILE_ID" : "2075", 
+        "ME_ID" : "5028", 
+        "LOCAL_WELL_NBR" : "Apache OW", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47499", 
+        "GW_BASIN_NAME" : "Tahoe Valley South", 
+        "GW_BASIN_CODE" : "6-5.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "134", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "El Dorado", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "12/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388552N1200171W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.855171", 
+        "LONGITUDE" : "-120.01713", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13360245.7981, 
+        "y" : 4700947.2423
+      }
+    }
+  ]
+}

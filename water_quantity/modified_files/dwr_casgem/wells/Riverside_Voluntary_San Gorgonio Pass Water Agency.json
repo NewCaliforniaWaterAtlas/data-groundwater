@@ -1,0 +1,66 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "San Gorgonio Pass Water Agency", 
+        "OBJECTID" : 70140, 
+        "SHP_FILE_ID" : "2191", 
+        "ME_ID" : "5108", 
+        "LOCAL_WELL_NBR" : "335714116565002", 
+        "SWN" : "02S01W35J002S", 
+        "CASGEM_WELL_ID" : "37777", 
+        "GW_BASIN_NAME" : "San Timoteo", 
+        "GW_BASIN_CODE" : "8-2.08", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "770", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/27/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "339540N1169472W002", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.954", 
+        "LONGITUDE" : "-116.9472", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13018502.7537, 
+        "y" : 4022627.0212
+      }
+    }
+  ]
+}

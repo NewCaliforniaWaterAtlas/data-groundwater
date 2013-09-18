@@ -1,0 +1,1602 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 9520, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E13F002M", 
+        "CASGEM_WELL_ID" : "11688", 
+        "GW_BASIN_NAME" : "Merced", 
+        "GW_BASIN_CODE" : "5-22.04", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371524N1205029W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1524", 
+        "LONGITUDE" : "-120.5029", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13414321.4671, 
+        "y" : 4460370.7244
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 9521, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E14R001M", 
+        "CASGEM_WELL_ID" : "11689", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371435N1205110W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1435", 
+        "LONGITUDE" : "-120.511", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13415223.155, 
+        "y" : 4459127.7565
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8679, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E28L001M", 
+        "CASGEM_WELL_ID" : "10833", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371193N1204474W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1193", 
+        "LONGITUDE" : "-120.4474", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13408143.2354, 
+        "y" : 4455748.7401
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8680, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E28P001M", 
+        "CASGEM_WELL_ID" : "10834", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371157N1204468W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1157", 
+        "LONGITUDE" : "-120.4468", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13408076.4437, 
+        "y" : 4455246.1688
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8681, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E28R002M", 
+        "CASGEM_WELL_ID" : "10835", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371157N1204374W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1157", 
+        "LONGITUDE" : "-120.4374", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13407030.0405, 
+        "y" : 4455246.1688
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8682, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E29L001M", 
+        "CASGEM_WELL_ID" : "10836", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371199N1204666W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1199", 
+        "LONGITUDE" : "-120.4666", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410280.5696, 
+        "y" : 4455832.5043
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8683, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E29L002M", 
+        "CASGEM_WELL_ID" : "10837", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371185N1204682W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1185", 
+        "LONGITUDE" : "-120.4682", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410458.6808, 
+        "y" : 4455637.0555
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8684, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E30A001M", 
+        "CASGEM_WELL_ID" : "10838", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371260N1204741W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.126", 
+        "LONGITUDE" : "-120.4741", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411115.4658, 
+        "y" : 4456684.1447
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8685, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E30B002M", 
+        "CASGEM_WELL_ID" : "10839", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371271N1204807W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1271", 
+        "LONGITUDE" : "-120.4807", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411850.1744, 
+        "y" : 4456837.7265
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8686, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E30C001M", 
+        "CASGEM_WELL_ID" : "10840", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371271N1204846W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1271", 
+        "LONGITUDE" : "-120.4846", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13412284.3204, 
+        "y" : 4456837.7265
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8687, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E30J001M", 
+        "CASGEM_WELL_ID" : "10841", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371199N1204779W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1199", 
+        "LONGITUDE" : "-120.4779", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411538.4798, 
+        "y" : 4455832.5043
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8688, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E31L001M", 
+        "CASGEM_WELL_ID" : "10842", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371041N1204827W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1041", 
+        "LONGITUDE" : "-120.4827", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13412072.8134, 
+        "y" : 4453626.935
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8691, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E33F001M", 
+        "CASGEM_WELL_ID" : "10845", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371074N1204466W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1074", 
+        "LONGITUDE" : "-120.4466", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13408054.1798, 
+        "y" : 4454087.5538
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 8692, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E33L001M", 
+        "CASGEM_WELL_ID" : "10846", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371043N1204463W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1043", 
+        "LONGITUDE" : "-120.4463", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13408020.7839, 
+        "y" : 4453654.8507
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10775, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E23J001M", 
+        "CASGEM_WELL_ID" : "12970", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371341N1205118W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1341", 
+        "LONGITUDE" : "-120.5118", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13415312.2106, 
+        "y" : 4457815.1176
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10912, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E26J001M", 
+        "CASGEM_WELL_ID" : "13112", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371199N1205104W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1199", 
+        "LONGITUDE" : "-120.5104", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13415156.3633, 
+        "y" : 4455832.5043
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10932, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E17K001M", 
+        "CASGEM_WELL_ID" : "13132", 
+        "GW_BASIN_NAME" : "Merced", 
+        "GW_BASIN_CODE" : "5-22.04", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371488N1204613W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1488", 
+        "LONGITUDE" : "-120.4613", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13409690.5763, 
+        "y" : 4459867.9333
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10933, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E18L001M", 
+        "CASGEM_WELL_ID" : "13133", 
+        "GW_BASIN_NAME" : "Merced", 
+        "GW_BASIN_CODE" : "5-22.04", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371491N1204829W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1491", 
+        "LONGITUDE" : "-120.4829", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13412095.0773, 
+        "y" : 4459909.8316
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10935, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E18N001M", 
+        "CASGEM_WELL_ID" : "13135", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371435N1204874W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1435", 
+        "LONGITUDE" : "-120.4874", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13412596.015, 
+        "y" : 4459127.7565
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10936, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E19A001M", 
+        "CASGEM_WELL_ID" : "13136", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371410N1204749W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.141", 
+        "LONGITUDE" : "-120.4749", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411204.5214, 
+        "y" : 4458778.6345
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10939, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E19E002M", 
+        "CASGEM_WELL_ID" : "13139", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371366N1204910W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1366", 
+        "LONGITUDE" : "-120.491", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13412996.7652, 
+        "y" : 4458164.2078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10940, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E20B001M", 
+        "CASGEM_WELL_ID" : "13140", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371416N1204607W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1416", 
+        "LONGITUDE" : "-120.4607", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13409623.7846, 
+        "y" : 4458862.4227
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10941, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E20C001M", 
+        "CASGEM_WELL_ID" : "13141", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371418N1204652W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1418", 
+        "LONGITUDE" : "-120.4652", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410124.7223, 
+        "y" : 4458890.3522
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10942, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E20J001M", 
+        "CASGEM_WELL_ID" : "13142", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371330N1204557W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.133", 
+        "LONGITUDE" : "-120.4557", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13409067.1871, 
+        "y" : 4457661.5216
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10944, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E20P001M", 
+        "CASGEM_WELL_ID" : "13144", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371277N1204646W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1277", 
+        "LONGITUDE" : "-120.4646", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410057.9306, 
+        "y" : 4456921.4994
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10945, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E20Q001M", 
+        "CASGEM_WELL_ID" : "13145", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371277N1204613W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1277", 
+        "LONGITUDE" : "-120.4613", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13409690.5763, 
+        "y" : 4456921.4994
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10946, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E21C001M", 
+        "CASGEM_WELL_ID" : "13146", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371402N1204468W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1402", 
+        "LONGITUDE" : "-120.4468", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13408076.4437, 
+        "y" : 4458666.9179
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10947, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E21N001M", 
+        "CASGEM_WELL_ID" : "13147", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371274N1204510W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1274", 
+        "LONGITUDE" : "-120.451", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13408543.9855, 
+        "y" : 4456879.6129
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10948, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E21P001M", 
+        "CASGEM_WELL_ID" : "13148", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371277N1204504W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1277", 
+        "LONGITUDE" : "-120.4504", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13408477.1938, 
+        "y" : 4456921.4994
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28905, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E28B001M", 
+        "CASGEM_WELL_ID" : "31732", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371255N1204443W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1255", 
+        "LONGITUDE" : "-120.4443", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13407798.145, 
+        "y" : 4456614.3355
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28906, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E28R001M", 
+        "CASGEM_WELL_ID" : "31733", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371163N1204393W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1163", 
+        "LONGITUDE" : "-120.4393", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13407241.5475, 
+        "y" : 4455329.929
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28907, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E29J001M", 
+        "CASGEM_WELL_ID" : "31734", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371163N1204557W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1163", 
+        "LONGITUDE" : "-120.4557", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13409067.1871, 
+        "y" : 4455329.929
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28908, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E29R001M", 
+        "CASGEM_WELL_ID" : "31735", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371160N1204568W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.116", 
+        "LONGITUDE" : "-120.4568", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13409189.6386, 
+        "y" : 4455288.0488
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28909, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E30B001M", 
+        "CASGEM_WELL_ID" : "31736", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371271N1204791W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1271", 
+        "LONGITUDE" : "-120.4791", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411672.0632, 
+        "y" : 4456837.7265
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28910, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E30G001M", 
+        "CASGEM_WELL_ID" : "31737", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371221N1204821W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1221", 
+        "LONGITUDE" : "-120.4821", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13412006.0217, 
+        "y" : 4456139.6454
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28911, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E31A001M", 
+        "CASGEM_WELL_ID" : "31738", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371127N1204738W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1127", 
+        "LONGITUDE" : "-120.4738", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13411082.0699, 
+        "y" : 4454827.3776
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28912, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E32C001M", 
+        "CASGEM_WELL_ID" : "31739", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371124N1204649W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1124", 
+        "LONGITUDE" : "-120.4649", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410091.3265, 
+        "y" : 4454785.4994
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28915, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E35L001M", 
+        "CASGEM_WELL_ID" : "31742", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371021N1204107W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1021", 
+        "LONGITUDE" : "-120.4107", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13404057.8101, 
+        "y" : 4453347.7818
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28383, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E13F001M", 
+        "CASGEM_WELL_ID" : "31197", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371496N1205054W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1496", 
+        "LONGITUDE" : "-120.5054", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13414599.7658, 
+        "y" : 4459979.6626
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28384, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E14H001M", 
+        "CASGEM_WELL_ID" : "31198", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371510N1205102W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.151", 
+        "LONGITUDE" : "-120.5102", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13415134.0994, 
+        "y" : 4460175.1917
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 31038, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E23H001M", 
+        "CASGEM_WELL_ID" : "33924", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371360N1205104W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.136", 
+        "LONGITUDE" : "-120.5104", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13415156.3633, 
+        "y" : 4458080.4251
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 29099, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E24A001M", 
+        "CASGEM_WELL_ID" : "31930", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371418N1204924W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1418", 
+        "LONGITUDE" : "-120.4924", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13413152.6125, 
+        "y" : 4458890.3522
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 29100, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E25H001M", 
+        "CASGEM_WELL_ID" : "31931", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371221N1204927W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1221", 
+        "LONGITUDE" : "-120.4927", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13413186.0083, 
+        "y" : 4456139.6454
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 29101, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E25L001M", 
+        "CASGEM_WELL_ID" : "31932", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371202N1205016W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1202", 
+        "LONGITUDE" : "-120.5016", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13414176.7518, 
+        "y" : 4455874.3866
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 29102, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E26J002M", 
+        "CASGEM_WELL_ID" : "31933", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371202N1205127W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1202", 
+        "LONGITUDE" : "-120.5127", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13415412.3981, 
+        "y" : 4455874.3866
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 29223, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S14E17P001M", 
+        "CASGEM_WELL_ID" : "32056", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371427N1204649W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1427", 
+        "LONGITUDE" : "-120.4649", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13410091.3265, 
+        "y" : 4459016.0362
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 37165, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S13E14F001M", 
+        "CASGEM_WELL_ID" : "40216", 
+        "GW_BASIN_NAME" : "Merced", 
+        "GW_BASIN_CODE" : "5-22.04", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371521N1205193W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1521", 
+        "LONGITUDE" : "-120.5193", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13416147.1068, 
+        "y" : 4460328.8243
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 10938, 
+        "SHP_FILE_ID" : "3107", 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : "19E1", 
+        "SWN" : "09S14E19E001M", 
+        "CASGEM_WELL_ID" : "13138", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "380", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2013", 
+        "COMPLETION_RPT_NBR" : "144361", 
+        "CASGEM_STATION_ID" : "371352N1204916W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.135445", 
+        "LONGITUDE" : "-120.49114", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13413012.3499, 
+        "y" : 4458002.9267
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "EL NIDO IRRIGATION DISTRICT", 
+        "OBJECTID" : 28913, 
+        "SHP_FILE_ID" : "3107", 
+        "ME_ID" : "1089", 
+        "LOCAL_WELL_NBR" : "33a", 
+        "SWN" : "09S14E33A001M", 
+        "CASGEM_WELL_ID" : "31740", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "632", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371116N1204374W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1116", 
+        "LONGITUDE" : "-120.4374", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13407030.0405, 
+        "y" : 4454673.825
+      }
+    }
+  ]
+}

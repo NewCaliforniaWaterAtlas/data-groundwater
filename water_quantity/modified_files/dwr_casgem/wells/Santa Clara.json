@@ -1,0 +1,3522 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102886, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S02E18F016", 
+        "SWN" : "08S02E18F016M", 
+        "CASGEM_WELL_ID" : "47674", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "179", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "274887", 
+        "CASGEM_STATION_ID" : "372385N1217981W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.23853", 
+        "LONGITUDE" : "-121.79812", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558504.698, 
+        "y" : 4472407.1508
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102828, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W24C008", 
+        "SWN" : "06S02W24C008M", 
+        "CASGEM_WELL_ID" : "47616", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374014N1220355W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.40137", 
+        "LONGITUDE" : "-122.03546", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13584925.2659, 
+        "y" : 4495201.2353
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102822, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W18J001", 
+        "SWN" : "06S02W18J001M", 
+        "CASGEM_WELL_ID" : "47610", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "46", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "184218", 
+        "CASGEM_STATION_ID" : "374090N1221168W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.40904", 
+        "LONGITUDE" : "-122.11675", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13593974.4273, 
+        "y" : 4496276.0894
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102811, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01W26K001", 
+        "SWN" : "06S01W26K001M", 
+        "CASGEM_WELL_ID" : "47599", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "65", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373804N1219385W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.38043", 
+        "LONGITUDE" : "-121.93854", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574136.1809, 
+        "y" : 4492267.3176
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102817, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01W35L001", 
+        "SWN" : "06S01W35L001M", 
+        "CASGEM_WELL_ID" : "47605", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "458", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373640N1219417W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.364", 
+        "LONGITUDE" : "-121.94172", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574490.1769, 
+        "y" : 4489965.8725
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102858, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W25L001", 
+        "SWN" : "07S01W25L001M", 
+        "CASGEM_WELL_ID" : "47646", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "404", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372938N1219233W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.29377", 
+        "LONGITUDE" : "-121.92325", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13572434.1059, 
+        "y" : 4480134.0255
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102838, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E19B002", 
+        "SWN" : "07S01E19B002M", 
+        "CASGEM_WELL_ID" : "47626", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "85", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "736306", 
+        "CASGEM_STATION_ID" : "373162N1219032W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31617", 
+        "LONGITUDE" : "-121.90323", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570205.4897, 
+        "y" : 4483268.915
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102803, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "05S03W36P002", 
+        "SWN" : "05S03W36P002M", 
+        "CASGEM_WELL_ID" : "47591", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "930", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "795746", 
+        "CASGEM_STATION_ID" : "374502N1221430W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.45023", 
+        "LONGITUDE" : "-122.14299", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13596895.4508, 
+        "y" : 4502050.2337
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102809, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01W01M001", 
+        "SWN" : "06S01W01M001M", 
+        "CASGEM_WELL_ID" : "47597", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "265", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "467664", 
+        "CASGEM_STATION_ID" : "374376N1219291W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.43765", 
+        "LONGITUDE" : "-121.92911", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13573086.4381, 
+        "y" : 4500286.3925
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102891, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "09S02E01J006", 
+        "SWN" : "09S02E01J006M", 
+        "CASGEM_WELL_ID" : "47679", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "165", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "e028150", 
+        "CASGEM_STATION_ID" : "371790N1216958W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.17897", 
+        "LONGITUDE" : "-121.69576", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547110.0349, 
+        "y" : 4464082.3433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102878, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S01E08H004", 
+        "SWN" : "08S01E08H004M", 
+        "CASGEM_WELL_ID" : "47666", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "227", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372522N1218787W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.2522", 
+        "LONGITUDE" : "-121.87871", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13567475.9357, 
+        "y" : 4474318.7589
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102872, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S02E19C006", 
+        "SWN" : "07S02E19C006M", 
+        "CASGEM_WELL_ID" : "47660", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "630", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795954", 
+        "CASGEM_STATION_ID" : "373161N1217973W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31606", 
+        "LONGITUDE" : "-121.79734", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558417.8688, 
+        "y" : 4483253.5182
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102882, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S01E15C007", 
+        "SWN" : "08S01E15C007M", 
+        "CASGEM_WELL_ID" : "47670", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "435", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372421N1218495W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.24214", 
+        "LONGITUDE" : "-121.84948", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13564222.067, 
+        "y" : 4472911.9383
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102866, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W35L015", 
+        "SWN" : "07S01W35L015M", 
+        "CASGEM_WELL_ID" : "47654", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "772120", 
+        "CASGEM_STATION_ID" : "372767N1219439W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.27667", 
+        "LONGITUDE" : "-121.94389", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574731.7402, 
+        "y" : 4477741.5016
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102820, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W05F003", 
+        "SWN" : "06S02W05F003M", 
+        "CASGEM_WELL_ID" : "47608", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "203", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374429N1221039W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.44288", 
+        "LONGITUDE" : "-122.10388", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13592541.7455, 
+        "y" : 4501019.6545
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102852, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W14P001", 
+        "SWN" : "07S01W14P001M", 
+        "CASGEM_WELL_ID" : "47640", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "980", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "773117", 
+        "CASGEM_STATION_ID" : "373177N1219435W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31774", 
+        "LONGITUDE" : "-121.94346", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574683.8728, 
+        "y" : 4483488.6722
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102857, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W24H004", 
+        "SWN" : "07S01W24H004M", 
+        "CASGEM_WELL_ID" : "47645", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "342", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "02/06/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373094N1219181W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.30936", 
+        "LONGITUDE" : "-121.91806", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13571856.3577, 
+        "y" : 4482315.7538
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102877, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S01E07Q003", 
+        "SWN" : "08S01E07Q003M", 
+        "CASGEM_WELL_ID" : "47665", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372471N1219000W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.24708", 
+        "LONGITUDE" : "-121.90004", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13569850.3805, 
+        "y" : 4473602.7392
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102873, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S02E19C007", 
+        "SWN" : "07S02E19C007M", 
+        "CASGEM_WELL_ID" : "47661", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "390", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795955", 
+        "CASGEM_STATION_ID" : "373161N1217973W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31606", 
+        "LONGITUDE" : "-121.79734", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558417.8688, 
+        "y" : 4483253.5182
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102818, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W05F001", 
+        "SWN" : "06S02W05F001M", 
+        "CASGEM_WELL_ID" : "47606", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "25", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374429N1221039W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.44288", 
+        "LONGITUDE" : "-122.10388", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13592541.7455, 
+        "y" : 4501019.6545
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102867, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W35L016", 
+        "SWN" : "07S01W35L016M", 
+        "CASGEM_WELL_ID" : "47655", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "180", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "772121", 
+        "CASGEM_STATION_ID" : "372767N1219439W004", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.27668", 
+        "LONGITUDE" : "-121.94389", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574731.7402, 
+        "y" : 4477742.9005
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102830, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W34J001", 
+        "SWN" : "06S02W34J001M", 
+        "CASGEM_WELL_ID" : "47618", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "739031", 
+        "CASGEM_STATION_ID" : "373646N1220626W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.36457", 
+        "LONGITUDE" : "-122.0626", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587946.4769, 
+        "y" : 4490045.7073
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102801, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "05S02W35R001", 
+        "SWN" : "05S02W35R001M", 
+        "CASGEM_WELL_ID" : "47589", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374470N1220460W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.44703", 
+        "LONGITUDE" : "-122.04602", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13586100.7997, 
+        "y" : 4501601.5337
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102807, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01E21M011", 
+        "SWN" : "06S01E21M011M", 
+        "CASGEM_WELL_ID" : "47595", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "325", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373938N1218748W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.39383", 
+        "LONGITUDE" : "-121.87482", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13567042.9029, 
+        "y" : 4494144.7063
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102865, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W35L014", 
+        "SWN" : "07S01W35L014M", 
+        "CASGEM_WELL_ID" : "47653", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "410", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "772119", 
+        "CASGEM_STATION_ID" : "372767N1219439W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.27667", 
+        "LONGITUDE" : "-121.94389", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574731.7402, 
+        "y" : 4477741.5016
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102889, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S02E22E002", 
+        "SWN" : "08S02E22E002M", 
+        "CASGEM_WELL_ID" : "47677", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "0920540", 
+        "CASGEM_STATION_ID" : "372237N1217459W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.22366", 
+        "LONGITUDE" : "-121.74588", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13552689.3678, 
+        "y" : 4470328.1288
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102874, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S02E19C008", 
+        "SWN" : "07S02E19C008M", 
+        "CASGEM_WELL_ID" : "47662", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795956", 
+        "CASGEM_STATION_ID" : "373161N1217973W004", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31606", 
+        "LONGITUDE" : "-121.79734", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558417.8688, 
+        "y" : 4483253.5182
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102904, 
+        "SHP_FILE_ID" : "3403", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "11S04E07F004", 
+        "SWN" : "11S04E07F004M", 
+        "CASGEM_WELL_ID" : "47692", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "e019172", 
+        "CASGEM_STATION_ID" : "369922N1215757W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.9922", 
+        "LONGITUDE" : "-121.57566", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13533740.5641, 
+        "y" : 4438019.6236
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102833, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E09L004", 
+        "SWN" : "07S01E09L004M", 
+        "CASGEM_WELL_ID" : "47621", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "1000", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "730556", 
+        "CASGEM_STATION_ID" : "373368N1218695W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.33677", 
+        "LONGITUDE" : "-121.86953", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13566454.0228, 
+        "y" : 4486152.7184
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 104049, 
+        "SHP_FILE_ID" : "3403", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "10S03E01N005", 
+        "SWN" : "10S03E01N005M", 
+        "CASGEM_WELL_ID" : "47686", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "132", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "11/21/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370881N1216003W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.08806", 
+        "LONGITUDE" : "-121.60031", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536484.5895, 
+        "y" : 4451388.3339
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102884, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S01W03K013", 
+        "SWN" : "08S01W03K013M", 
+        "CASGEM_WELL_ID" : "47672", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "94", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "11/21/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372624N1219572W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.26238", 
+        "LONGITUDE" : "-121.9572", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13576213.4026, 
+        "y" : 4475742.5519
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102898, 
+        "SHP_FILE_ID" : "3403", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "10S03E01N005", 
+        "SWN" : "10S03E01N005M", 
+        "CASGEM_WELL_ID" : "47686", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "132", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "11/21/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370881N1216003W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.08806", 
+        "LONGITUDE" : "-121.60031", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536484.5895, 
+        "y" : 4451388.3339
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102827, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W22H014", 
+        "SWN" : "06S02W22H014M", 
+        "CASGEM_WELL_ID" : "47615", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "420", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "171033", 
+        "CASGEM_STATION_ID" : "373975N1220613W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.39751", 
+        "LONGITUDE" : "-122.06134", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587806.2143, 
+        "y" : 4494660.3465
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102841, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E19B005", 
+        "SWN" : "07S01E19B005M", 
+        "CASGEM_WELL_ID" : "47629", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "365", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "736304", 
+        "CASGEM_STATION_ID" : "373161N1219033W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31611", 
+        "LONGITUDE" : "-121.90325", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570207.716, 
+        "y" : 4483260.5167
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102885, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S02E16K001", 
+        "SWN" : "08S02E16K001M", 
+        "CASGEM_WELL_ID" : "47673", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "223", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "772690", 
+        "CASGEM_STATION_ID" : "372341N1217571W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.23406", 
+        "LONGITUDE" : "-121.75714", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13553942.8252, 
+        "y" : 4471782.1428
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102829, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W34B006", 
+        "SWN" : "06S02W34B006M", 
+        "CASGEM_WELL_ID" : "47617", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "152", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "NA", 
+        "CASGEM_STATION_ID" : "373719N1220650W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.37185", 
+        "LONGITUDE" : "-122.06498", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13588211.4173, 
+        "y" : 4491065.4045
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102862, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W29C006", 
+        "SWN" : "07S01W29C006M", 
+        "CASGEM_WELL_ID" : "47650", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795784", 
+        "CASGEM_STATION_ID" : "373008N1219975W004", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.30076", 
+        "LONGITUDE" : "-121.99754", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13580704.0308, 
+        "y" : 4481112.1788
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102881, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S01E11N001", 
+        "SWN" : "08S01E11N001M", 
+        "CASGEM_WELL_ID" : "47669", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "86", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372470N1218400W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.24702", 
+        "LONGITUDE" : "-121.83997", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13563163.4187, 
+        "y" : 4473594.3487
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102864, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W35L013", 
+        "SWN" : "07S01W35L013M", 
+        "CASGEM_WELL_ID" : "47652", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "530", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "772118", 
+        "CASGEM_STATION_ID" : "372767N1219439W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.27667", 
+        "LONGITUDE" : "-121.94389", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574731.7402, 
+        "y" : 4477741.5016
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102814, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01W26R002", 
+        "SWN" : "06S01W26R002M", 
+        "CASGEM_WELL_ID" : "47602", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "600", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "793538", 
+        "CASGEM_STATION_ID" : "373776N1219362W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.37763", 
+        "LONGITUDE" : "-121.93618", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13573873.4669, 
+        "y" : 4491875.0697
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102887, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S02E18G010", 
+        "SWN" : "08S02E18G010M", 
+        "CASGEM_WELL_ID" : "47675", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "178", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "266864", 
+        "CASGEM_STATION_ID" : "372396N1217939W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.23959", 
+        "LONGITUDE" : "-121.79388", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558032.7033, 
+        "y" : 4472555.3684
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102890, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S02E36M007", 
+        "SWN" : "08S02E36M007M", 
+        "CASGEM_WELL_ID" : "47678", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "120", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "e032946", 
+        "CASGEM_STATION_ID" : "371919N1217076W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.19189", 
+        "LONGITUDE" : "-121.70764", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13548432.5105, 
+        "y" : 4465887.6369
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102805, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "05S03W36P004", 
+        "SWN" : "05S03W36P004M", 
+        "CASGEM_WELL_ID" : "47593", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "560", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "795748", 
+        "CASGEM_STATION_ID" : "374502N1221430W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.45024", 
+        "LONGITUDE" : "-122.14299", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13596895.4508, 
+        "y" : 4502051.6359
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102839, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E19B003", 
+        "SWN" : "07S01E19B003M", 
+        "CASGEM_WELL_ID" : "47627", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "850", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "736301", 
+        "CASGEM_STATION_ID" : "373161N1219033W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31611", 
+        "LONGITUDE" : "-121.90325", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570207.716, 
+        "y" : 4483260.5167
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102815, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01W26R003", 
+        "SWN" : "06S01W26R003M", 
+        "CASGEM_WELL_ID" : "47603", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "460", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "793539", 
+        "CASGEM_STATION_ID" : "373776N1219362W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.37763", 
+        "LONGITUDE" : "-121.93618", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13573873.4669, 
+        "y" : 4491875.0697
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102810, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01W24H015", 
+        "SWN" : "06S01W24H015M", 
+        "CASGEM_WELL_ID" : "47598", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "227", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373962N1219156W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.39616", 
+        "LONGITUDE" : "-121.91556", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13571578.059, 
+        "y" : 4494471.1821
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102804, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "05S03W36P003", 
+        "SWN" : "05S03W36P003M", 
+        "CASGEM_WELL_ID" : "47592", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "740", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "795747", 
+        "CASGEM_STATION_ID" : "374502N1221430W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.45023", 
+        "LONGITUDE" : "-122.14299", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13596895.4508, 
+        "y" : 4502050.2337
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102806, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "05S03W36P005", 
+        "SWN" : "05S03W36P005M", 
+        "CASGEM_WELL_ID" : "47594", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "795749", 
+        "CASGEM_STATION_ID" : "374502N1221430W004", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.45024", 
+        "LONGITUDE" : "-122.14299", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13596895.4508, 
+        "y" : 4502051.6359
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102895, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "09S03E17D004", 
+        "SWN" : "09S03E17D004M", 
+        "CASGEM_WELL_ID" : "47683", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "232", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371562N1216707W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.15619", 
+        "LONGITUDE" : "-121.67067", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13544317.0289, 
+        "y" : 4460900.0777
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102836, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E09L007", 
+        "SWN" : "07S01E09L007M", 
+        "CASGEM_WELL_ID" : "47624", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "425", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "730559", 
+        "CASGEM_STATION_ID" : "373368N1218695W004", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.33678", 
+        "LONGITUDE" : "-121.86953", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13566454.0228, 
+        "y" : 4486154.1185
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102899, 
+        "SHP_FILE_ID" : "3403", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "10S03E25F001", 
+        "SWN" : "10S03E25F001M", 
+        "CASGEM_WELL_ID" : "47687", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "145", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "e019167", 
+        "CASGEM_STATION_ID" : "370357N1215958W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0357", 
+        "LONGITUDE" : "-121.5958", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13535982.5386, 
+        "y" : 4444084.0758
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102813, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01W26R001", 
+        "SWN" : "06S01W26R001M", 
+        "CASGEM_WELL_ID" : "47601", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "1370", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "793537", 
+        "CASGEM_STATION_ID" : "373776N1219362W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.37762", 
+        "LONGITUDE" : "-121.93618", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13573873.4669, 
+        "y" : 4491873.6689
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102837, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E09L008", 
+        "SWN" : "07S01E09L008M", 
+        "CASGEM_WELL_ID" : "47625", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "72", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "730560", 
+        "CASGEM_STATION_ID" : "373368N1218695W005", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.33677", 
+        "LONGITUDE" : "-121.86953", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13566454.0228, 
+        "y" : 4486152.7184
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102902, 
+        "SHP_FILE_ID" : "3403", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "11S04E05F001", 
+        "SWN" : "11S04E05F001M", 
+        "CASGEM_WELL_ID" : "47690", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "107", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370092N1215580W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.00916", 
+        "LONGITUDE" : "-121.558", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13531774.6618, 
+        "y" : 4440383.65
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102863, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W30C002", 
+        "SWN" : "07S01W30C002M", 
+        "CASGEM_WELL_ID" : "47651", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "620", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373003N1220143W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.30028", 
+        "LONGITUDE" : "-122.01425", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13582564.1795, 
+        "y" : 4481045.0065
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102823, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W22G004", 
+        "SWN" : "06S02W22G004M", 
+        "CASGEM_WELL_ID" : "47611", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "285", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "188214", 
+        "CASGEM_STATION_ID" : "373992N1220645W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.3992", 
+        "LONGITUDE" : "-122.06452", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13588160.2103, 
+        "y" : 4494897.1571
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102825, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W22G006", 
+        "SWN" : "06S02W22G006M", 
+        "CASGEM_WELL_ID" : "47613", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "335", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "188215", 
+        "CASGEM_STATION_ID" : "373992N1220645W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.39917", 
+        "LONGITUDE" : "-122.06454", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13588162.4367, 
+        "y" : 4494892.9533
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102883, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S01E25N003", 
+        "SWN" : "08S01E25N003M", 
+        "CASGEM_WELL_ID" : "47671", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "90", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "202217", 
+        "CASGEM_STATION_ID" : "372016N1218171W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.20162", 
+        "LONGITUDE" : "-121.81713", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13560620.8815, 
+        "y" : 4467247.4001
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102835, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E09L006", 
+        "SWN" : "07S01E09L006M", 
+        "CASGEM_WELL_ID" : "47623", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "540", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "730558", 
+        "CASGEM_STATION_ID" : "373368N1218695W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.33677", 
+        "LONGITUDE" : "-121.86953", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13566454.0228, 
+        "y" : 4486152.7184
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102843, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E19B007", 
+        "SWN" : "07S01E19B007M", 
+        "CASGEM_WELL_ID" : "47631", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "590", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "736302", 
+        "CASGEM_STATION_ID" : "373161N1219033W005", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31611", 
+        "LONGITUDE" : "-121.90325", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570207.716, 
+        "y" : 4483260.5167
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102840, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E19B004", 
+        "SWN" : "07S01E19B004M", 
+        "CASGEM_WELL_ID" : "47628", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "455", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "736303", 
+        "CASGEM_STATION_ID" : "373161N1219033W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31611", 
+        "LONGITUDE" : "-121.90326", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570208.8292, 
+        "y" : 4483260.5167
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102834, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E09L005", 
+        "SWN" : "07S01E09L005M", 
+        "CASGEM_WELL_ID" : "47622", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "640", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "730557", 
+        "CASGEM_STATION_ID" : "373368N1218695W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.33677", 
+        "LONGITUDE" : "-121.86954", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13566455.136, 
+        "y" : 4486152.7184
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102826, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W22H012", 
+        "SWN" : "06S02W22H012M", 
+        "CASGEM_WELL_ID" : "47614", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "360", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "171031", 
+        "CASGEM_STATION_ID" : "373975N1220614W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.39752", 
+        "LONGITUDE" : "-122.06137", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587809.5539, 
+        "y" : 4494661.7477
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102842, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E19B006", 
+        "SWN" : "07S01E19B006M", 
+        "CASGEM_WELL_ID" : "47630", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "240", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "736305", 
+        "CASGEM_STATION_ID" : "373161N1219033W004", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31611", 
+        "LONGITUDE" : "-121.90325", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570207.716, 
+        "y" : 4483260.5167
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102816, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01W26R004", 
+        "SWN" : "06S01W26R004M", 
+        "CASGEM_WELL_ID" : "47604", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "330", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "793540", 
+        "CASGEM_STATION_ID" : "373776N1219362W004", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.37763", 
+        "LONGITUDE" : "-121.9362", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13573875.6933, 
+        "y" : 4491875.0697
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102855, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W14P004", 
+        "SWN" : "07S01W14P004M", 
+        "CASGEM_WELL_ID" : "47643", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "360", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "773120", 
+        "CASGEM_STATION_ID" : "373177N1219435W004", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31774", 
+        "LONGITUDE" : "-121.94346", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574683.8728, 
+        "y" : 4483488.6722
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102850, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W08D002", 
+        "SWN" : "07S01W08D002M", 
+        "CASGEM_WELL_ID" : "47638", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "345", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "202481", 
+        "CASGEM_STATION_ID" : "373416N1220002W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.34162", 
+        "LONGITUDE" : "-122.00021", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13581001.2539, 
+        "y" : 4486831.7871
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102861, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W29C005", 
+        "SWN" : "07S01W29C005M", 
+        "CASGEM_WELL_ID" : "47649", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "380", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795783", 
+        "CASGEM_STATION_ID" : "373008N1219975W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.30077", 
+        "LONGITUDE" : "-121.99754", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13580704.0308, 
+        "y" : 4481113.5782
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102846, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E32B001", 
+        "SWN" : "07S01E32B001M", 
+        "CASGEM_WELL_ID" : "47634", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372846N1218818W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.28463", 
+        "LONGITUDE" : "-121.88182", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13567822.1394, 
+        "y" : 4478855.1468
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102849, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W08D001", 
+        "SWN" : "07S01W08D001M", 
+        "CASGEM_WELL_ID" : "47637", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "480", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "202483", 
+        "CASGEM_STATION_ID" : "373417N1220002W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.34175", 
+        "LONGITUDE" : "-122.0002", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13581000.1407, 
+        "y" : 4486849.9896
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102892, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "09S03E09R004", 
+        "SWN" : "09S03E09R004M", 
+        "CASGEM_WELL_ID" : "47680", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "380", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795980", 
+        "CASGEM_STATION_ID" : "371583N1216426W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.15833", 
+        "LONGITUDE" : "-121.64262", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13541194.5172, 
+        "y" : 4461198.9854
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102871, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S02E19C005", 
+        "SWN" : "07S02E19C005M", 
+        "CASGEM_WELL_ID" : "47659", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "1030", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795953", 
+        "CASGEM_STATION_ID" : "373161N1217973W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31606", 
+        "LONGITUDE" : "-121.79735", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558418.982, 
+        "y" : 4483253.5182
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102900, 
+        "SHP_FILE_ID" : "1150", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "10S04E28M005", 
+        "SWN" : "10S04E28M005M", 
+        "CASGEM_WELL_ID" : "47688", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "60", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "755613", 
+        "CASGEM_STATION_ID" : "370331N1215434W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.033135", 
+        "LONGITUDE" : "-121.543376", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13530146.7256, 
+        "y" : 4443726.3859
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102875, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S02E19C009", 
+        "SWN" : "07S02E19C009M", 
+        "CASGEM_WELL_ID" : "47663", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795957", 
+        "CASGEM_STATION_ID" : "373161N1217973W005", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31606", 
+        "LONGITUDE" : "-121.79735", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558418.982, 
+        "y" : 4483253.5182
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102859, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W29C003", 
+        "SWN" : "07S01W29C003M", 
+        "CASGEM_WELL_ID" : "47647", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "1000", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795781", 
+        "CASGEM_STATION_ID" : "373008N1219975W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.30076", 
+        "LONGITUDE" : "-121.99754", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13580704.0308, 
+        "y" : 4481112.1788
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102901, 
+        "SHP_FILE_ID" : "1150", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "10S04E28N006", 
+        "SWN" : "10S04E28N006M", 
+        "CASGEM_WELL_ID" : "47689", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "572", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "e019169", 
+        "CASGEM_STATION_ID" : "370316N1215433W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.03163", 
+        "LONGITUDE" : "-121.54327", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13530134.9257, 
+        "y" : 4443516.5189
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102853, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W14P002", 
+        "SWN" : "07S01W14P002M", 
+        "CASGEM_WELL_ID" : "47641", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "440", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "773118", 
+        "CASGEM_STATION_ID" : "373177N1219435W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31774", 
+        "LONGITUDE" : "-121.94346", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574683.8728, 
+        "y" : 4483488.6722
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102893, 
+        "SHP_FILE_ID" : "1150", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "09S03E15L013", 
+        "SWN" : "09S03E15L013M", 
+        "CASGEM_WELL_ID" : "47681", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371489N1216307W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.14892", 
+        "LONGITUDE" : "-121.63066", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13539863.136, 
+        "y" : 4459884.6926
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102894, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "09S03E16F002", 
+        "SWN" : "09S03E16F002M", 
+        "CASGEM_WELL_ID" : "47682", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "520", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "e027978", 
+        "CASGEM_STATION_ID" : "371521N1216501W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.15214", 
+        "LONGITUDE" : "-121.65008", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13542024.9606, 
+        "y" : 4460334.4109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102880, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S01E08R001", 
+        "SWN" : "08S01E08R001M", 
+        "CASGEM_WELL_ID" : "47668", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "226", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372457N1218802W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.24572", 
+        "LONGITUDE" : "-121.88024", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13567646.2546, 
+        "y" : 4473412.5547
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102831, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E01G001", 
+        "SWN" : "07S01E01G001M", 
+        "CASGEM_WELL_ID" : "47619", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "400", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373531N1218116W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.35313", 
+        "LONGITUDE" : "-121.81158", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13560003.0583, 
+        "y" : 4488443.5258
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102856, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W14P005", 
+        "SWN" : "07S01W14P005M", 
+        "CASGEM_WELL_ID" : "47644", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "773121", 
+        "CASGEM_STATION_ID" : "373177N1219435W005", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31774", 
+        "LONGITUDE" : "-121.94346", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574683.8728, 
+        "y" : 4483488.6722
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102888, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S02E18L001", 
+        "SWN" : "08S02E18L001M", 
+        "CASGEM_WELL_ID" : "47676", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372361N1217940W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.23608", 
+        "LONGITUDE" : "-121.794", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13558046.0617, 
+        "y" : 4472064.5803
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102824, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W22G005", 
+        "SWN" : "06S02W22G005M", 
+        "CASGEM_WELL_ID" : "47612", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "452", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "188217", 
+        "CASGEM_STATION_ID" : "373992N1220645W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.39918", 
+        "LONGITUDE" : "-122.06453", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13588161.3235, 
+        "y" : 4494894.3545
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102896, 
+        "SHP_FILE_ID" : "3403", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "09S03E20K003", 
+        "SWN" : "09S03E20K003M", 
+        "CASGEM_WELL_ID" : "47684", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/30/2013", 
+        "COMPLETION_RPT_NBR" : "e019171", 
+        "CASGEM_STATION_ID" : "371343N1216641W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1343", 
+        "LONGITUDE" : "-121.66405", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13543580.0938, 
+        "y" : 4457843.0444
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102860, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W29C004", 
+        "SWN" : "07S01W29C004M", 
+        "CASGEM_WELL_ID" : "47648", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "550", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "795782", 
+        "CASGEM_STATION_ID" : "373008N1219975W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.30077", 
+        "LONGITUDE" : "-121.99754", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13580704.0308, 
+        "y" : 4481113.5782
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102906, 
+        "SHP_FILE_ID" : "1150", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "11S04E28K001", 
+        "SWN" : "11S04E28K001M", 
+        "CASGEM_WELL_ID" : "47694", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "335", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "e019174", 
+        "CASGEM_STATION_ID" : "369486N1215359W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.94856", 
+        "LONGITUDE" : "-121.53591", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13529315.6143, 
+        "y" : 4431939.138
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102851, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W08D003", 
+        "SWN" : "07S01W08D003M", 
+        "CASGEM_WELL_ID" : "47639", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "440", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "202482", 
+        "CASGEM_STATION_ID" : "373417N1220002W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.34168", 
+        "LONGITUDE" : "-122.00021", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13581001.2539, 
+        "y" : 4486840.1882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102868, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W35L017", 
+        "SWN" : "07S01W35L017M", 
+        "CASGEM_WELL_ID" : "47656", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "850", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "772117", 
+        "CASGEM_STATION_ID" : "372767N1219439W005", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.27667", 
+        "LONGITUDE" : "-121.94389", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574731.7402, 
+        "y" : 4477741.5016
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102802, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "05S02W35R002", 
+        "SWN" : "05S02W35R002M", 
+        "CASGEM_WELL_ID" : "47590", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "80", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374471N1220460W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.44708", 
+        "LONGITUDE" : "-122.04602", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13586100.7997, 
+        "y" : 4501608.5445
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102808, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01E27P002", 
+        "SWN" : "06S01E27P002M", 
+        "CASGEM_WELL_ID" : "47596", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "389", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373772N1218499W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.37721", 
+        "LONGITUDE" : "-121.84994", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13564273.274, 
+        "y" : 4491816.2338
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102832, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E03H001", 
+        "SWN" : "07S01E03H001M", 
+        "CASGEM_WELL_ID" : "47620", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "365", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373556N1218411W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.35563", 
+        "LONGITUDE" : "-121.84111", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13563290.3229, 
+        "y" : 4488793.632
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102854, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W14P003", 
+        "SWN" : "07S01W14P003M", 
+        "CASGEM_WELL_ID" : "47642", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "560", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "773119", 
+        "CASGEM_STATION_ID" : "373177N1219435W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31774", 
+        "LONGITUDE" : "-121.94346", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574683.8728, 
+        "y" : 4483488.6722
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102845, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E29Q001", 
+        "SWN" : "07S01E29Q001M", 
+        "CASGEM_WELL_ID" : "47633", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "154", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372906N1218812W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.29059", 
+        "LONGITUDE" : "-121.88123", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13567756.4609, 
+        "y" : 4479689.0589
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102819, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W05F002", 
+        "SWN" : "06S02W05F002M", 
+        "CASGEM_WELL_ID" : "47607", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "50", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374429N1221039W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.44287", 
+        "LONGITUDE" : "-122.10388", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13592541.7455, 
+        "y" : 4501018.2524
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102897, 
+        "SHP_FILE_ID" : "1150", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "09S03E23L005", 
+        "SWN" : "09S03E23L005M", 
+        "CASGEM_WELL_ID" : "47685", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "25", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "708432", 
+        "CASGEM_STATION_ID" : "371357N1216158W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.13574", 
+        "LONGITUDE" : "-121.61575", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13538203.3624, 
+        "y" : 4458044.1194
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102905, 
+        "SHP_FILE_ID" : "1150", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "11S04E10N001", 
+        "SWN" : "11S04E10N001M", 
+        "CASGEM_WELL_ID" : "47693", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "550", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "e019173", 
+        "CASGEM_STATION_ID" : "369871N1215282W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.98714", 
+        "LONGITUDE" : "-121.52824", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13528461.7938, 
+        "y" : 4437314.4207
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102903, 
+        "SHP_FILE_ID" : "1150", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "11S04E05H002", 
+        "SWN" : "11S04E05H002M", 
+        "CASGEM_WELL_ID" : "47691", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "260", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "295107", 
+        "CASGEM_STATION_ID" : "370081N1215406W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.00812", 
+        "LONGITUDE" : "-121.54064", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13529842.1555, 
+        "y" : 4440238.671
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102812, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S01W26P002", 
+        "SWN" : "06S01W26P002M", 
+        "CASGEM_WELL_ID" : "47600", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "460", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "107568", 
+        "CASGEM_STATION_ID" : "373738N1219428W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.37375", 
+        "LONGITUDE" : "-121.94277", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574607.0623, 
+        "y" : 4491331.5505
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102847, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E36G003", 
+        "SWN" : "07S01E36G003M", 
+        "CASGEM_WELL_ID" : "47635", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "134", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372833N1218135W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.28331", 
+        "LONGITUDE" : "-121.8135", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13560216.7917, 
+        "y" : 4478670.4638
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102821, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "06S02W16L021", 
+        "SWN" : "06S02W16L021M", 
+        "CASGEM_WELL_ID" : "47609", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "0914620", 
+        "CASGEM_STATION_ID" : "374069N1220886W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.40688", 
+        "LONGITUDE" : "-122.08863", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13590844.1232, 
+        "y" : 4495973.3814
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102879, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "08S01E08P003", 
+        "SWN" : "08S01E08P003M", 
+        "CASGEM_WELL_ID" : "47667", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "225", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372447N1218862W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.24469", 
+        "LONGITUDE" : "-121.8862", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13568309.7187, 
+        "y" : 4473268.5202
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102876, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S02E21G010", 
+        "SWN" : "07S02E21G010M", 
+        "CASGEM_WELL_ID" : "47664", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "358", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373130N1217564W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31305", 
+        "LONGITUDE" : "-121.7564", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13553860.4488, 
+        "y" : 4482832.2137
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102907, 
+        "SHP_FILE_ID" : "1150", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "11S04E32R002", 
+        "SWN" : "11S04E32R002M", 
+        "CASGEM_WELL_ID" : "47695", 
+        "GW_BASIN_NAME" : "Llagas Area", 
+        "GW_BASIN_CODE" : "3-3.01", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "170", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369296N1215465W001", 
+        "HYDROLOGIC_REGION" : "Central Coast", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.9296", 
+        "LONGITUDE" : "-121.54653", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13530497.8273, 
+        "y" : 4429298.4727
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102848, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01W08C003", 
+        "SWN" : "07S01W08C003M", 
+        "CASGEM_WELL_ID" : "47636", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "398", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "268801", 
+        "CASGEM_STATION_ID" : "373418N1220002W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.34181", 
+        "LONGITUDE" : "-122.00021", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13581001.2539, 
+        "y" : 4486858.3907
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102869, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S02E07Q003", 
+        "SWN" : "07S02E07Q003M", 
+        "CASGEM_WELL_ID" : "47657", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "500", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373346N1217908W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.33459", 
+        "LONGITUDE" : "-121.79075", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13557684.2733, 
+        "y" : 4485847.5018
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102844, 
+        "SHP_FILE_ID" : "1156", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S01E29J007", 
+        "SWN" : "07S01E29J007M", 
+        "CASGEM_WELL_ID" : "47632", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "190", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/06/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372916N1218802W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.29164", 
+        "LONGITUDE" : "-121.88018", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13567639.5754, 
+        "y" : 4479835.9797
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Santa Clara Valley Water District", 
+        "OBJECTID" : 102870, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "274", 
+        "LOCAL_WELL_NBR" : "07S02E19B009", 
+        "SWN" : "07S02E19B009M", 
+        "CASGEM_WELL_ID" : "47658", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "215", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373127N1217917W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31274", 
+        "LONGITUDE" : "-121.79175", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13557795.5928, 
+        "y" : 4482788.8245
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105849, 
+        "SHP_FILE_ID" : "3407", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "07S02E19B009", 
+        "SWN" : "07S02E19B009M", 
+        "CASGEM_WELL_ID" : "47658", 
+        "GW_BASIN_NAME" : "Santa Clara", 
+        "GW_BASIN_CODE" : "2-9.02", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "215", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Santa Clara", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/28/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373127N1217917W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.31274", 
+        "LONGITUDE" : "-121.79175", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13557795.5928, 
+        "y" : 4482788.8245
+      }
+    }
+  ]
+}

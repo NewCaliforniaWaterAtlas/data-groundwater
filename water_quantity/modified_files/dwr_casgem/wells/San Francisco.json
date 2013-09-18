@@ -1,0 +1,546 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78139, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "LMPS MW155", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47812", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "155", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377161N1224821W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.716086", 
+        "LONGITUDE" : "-122.482084", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13634643.2222, 
+        "y" : 4539395.5608
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78142, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "Zoo MW275", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47815", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "275", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377306N1225024W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.73059", 
+        "LONGITUDE" : "-122.502363", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636900.6701, 
+        "y" : 4541436.8126
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78136, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "Ortega MW475", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47809", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "475", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377518N1225049W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.751779", 
+        "LONGITUDE" : "-122.504925", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13637185.8707, 
+        "y" : 4544419.6113
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78129, 
+        "SHP_FILE_ID" : "2411", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "UIVGP-IW", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47802", 
+        "GW_BASIN_NAME" : "Islais Valley", 
+        "GW_BASIN_CODE" : "2-33", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "118", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377221N1224408W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.722117", 
+        "LONGITUDE" : "-122.440821", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13630049.846, 
+        "y" : 4540244.2981
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 77824, 
+        "SHP_FILE_ID" : "2387", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "T2S/R5W-06M01", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47801", 
+        "GW_BASIN_NAME" : "Lobos", 
+        "GW_BASIN_CODE" : "2-38", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "275", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377871N1224596W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.787083", 
+        "LONGITUDE" : "-122.459628", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13632143.4317, 
+        "y" : 4549391.2917
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78131, 
+        "SHP_FILE_ID" : "2399", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "BTNB-R4-PZ", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47804", 
+        "GW_BASIN_NAME" : "Marina", 
+        "GW_BASIN_CODE" : "2-39", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "70", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378019N1224580W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.801896", 
+        "LONGITUDE" : "-122.458036", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13631966.2111, 
+        "y" : 4551478.0375
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78138, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "LMMW-5S", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47811", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "90", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377365N1224839W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.736525", 
+        "LONGITUDE" : "-122.483909", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13634846.3802, 
+        "y" : 4542272.203
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78141, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "LMPS MW575", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47814", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "585", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377161N1224821W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.716086", 
+        "LONGITUDE" : "-122.482084", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13634643.2222, 
+        "y" : 4539395.5608
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78143, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "Zoo MW565", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47816", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "565", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377306N1225024W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.73059", 
+        "LONGITUDE" : "-122.502363", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636900.6701, 
+        "y" : 4541436.8126
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78135, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "Kirkham MW255", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47808", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "255", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377594N1225057W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.759389", 
+        "LONGITUDE" : "-122.50572", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13637274.3697, 
+        "y" : 4545491.0877
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78137, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "LMMW-4S", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47810", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "120", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377313N1224971W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.731299", 
+        "LONGITUDE" : "-122.497096", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13636314.3504, 
+        "y" : 4541536.6055
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78130, 
+        "SHP_FILE_ID" : "2395", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "T2S/R5W-27(B)", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47803", 
+        "GW_BASIN_NAME" : "South San Francisco", 
+        "GW_BASIN_CODE" : "2-37", 
+        "WELL_USE" : "Industrial", 
+        "TOTAL_WELL_DEPTH" : "99", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377264N1223945W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.726439", 
+        "LONGITUDE" : "-122.394512", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13624894.7517, 
+        "y" : 4540852.5718
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78132, 
+        "SHP_FILE_ID" : "2391", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "T2S/R5W-5R2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47805", 
+        "GW_BASIN_NAME" : "Downtown San Francisco", 
+        "GW_BASIN_CODE" : "2-40", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "59", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377808N1224297W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.780822", 
+        "LONGITUDE" : "-122.429734", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13628815.6468, 
+        "y" : 4548509.4142
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78140, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "LMPS MW270", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47813", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377161N1224821W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.716086", 
+        "LONGITUDE" : "-122.482084", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13634643.2222, 
+        "y" : 4539395.5608
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78134, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "Kirkham MW130", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47807", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "130", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377594N1225057W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.759389", 
+        "LONGITUDE" : "-122.50572", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13637274.3697, 
+        "y" : 4545491.0877
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Francisco Public Utilities Commission", 
+        "OBJECTID" : 78133, 
+        "SHP_FILE_ID" : "2403", 
+        "ME_ID" : "5111", 
+        "LOCAL_WELL_NBR" : "CPS MW270", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "47806", 
+        "GW_BASIN_NAME" : "Westside Basin", 
+        "GW_BASIN_CODE" : "2-35", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Francisco", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "377339N1224748W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.733944", 
+        "LONGITUDE" : "-122.474793", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13633831.5918, 
+        "y" : 4541908.902
+      }
+    }
+  ]
+}

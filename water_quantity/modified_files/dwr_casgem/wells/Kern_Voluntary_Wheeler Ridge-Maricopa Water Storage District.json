@@ -1,0 +1,5282 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 8563, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N18W06D002S", 
+        "CASGEM_WELL_ID" : "10714", 
+        "GW_BASIN_NAME" : "Antelope Valley", 
+        "GW_BASIN_CODE" : "6-44", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350719N1182592W001", 
+        "HYDROLOGIC_REGION" : "South Lahontan", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "35.0719", 
+        "LONGITUDE" : "-118.2592", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13164553.9256, 
+        "y" : 4173656.3647
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 8564, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N18W06N001S", 
+        "CASGEM_WELL_ID" : "10715", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350636N1188417W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0636", 
+        "LONGITUDE" : "-118.8417", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13229397.529, 
+        "y" : 4172527.4924
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9418, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W06P001S", 
+        "CASGEM_WELL_ID" : "11583", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350625N1190567W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0625", 
+        "LONGITUDE" : "-119.0567", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13253331.2195, 
+        "y" : 4172377.8915
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9422, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W08A001S", 
+        "CASGEM_WELL_ID" : "11587", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350605N1190318W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0605", 
+        "LONGITUDE" : "-119.0318", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13250559.3642, 
+        "y" : 4172105.8949
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9248, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N19W09C001S", 
+        "CASGEM_WELL_ID" : "11411", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350600N1189092W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.06", 
+        "LONGITUDE" : "-118.9092", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13236911.5946, 
+        "y" : 4172037.8967
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9263, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N19W19G001S", 
+        "CASGEM_WELL_ID" : "11426", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350269N1189398W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0269", 
+        "LONGITUDE" : "-118.9398", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13240317.9711, 
+        "y" : 4167537.3478
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9277, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W03J001S", 
+        "CASGEM_WELL_ID" : "11440", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350661N1189967W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0661", 
+        "LONGITUDE" : "-118.9967", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13246652.0501, 
+        "y" : 4172867.5021
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 7600, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W12N002S", 
+        "CASGEM_WELL_ID" : "12300", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350489N1190806W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0489", 
+        "LONGITUDE" : "-119.0806", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255991.7554, 
+        "y" : 4170528.446
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 11618, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W36Q003S", 
+        "CASGEM_WELL_ID" : "13862", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350781N1190731W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0781", 
+        "LONGITUDE" : "-119.0731", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255156.8592, 
+        "y" : 4174499.6937
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 11620, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N22W27Q001S", 
+        "CASGEM_WELL_ID" : "13864", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350922N1192159W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0922", 
+        "LONGITUDE" : "-119.2159", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271053.2825, 
+        "y" : 4176417.8255
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 11621, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N22W30N002S", 
+        "CASGEM_WELL_ID" : "13865", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350908N1192773W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0908", 
+        "LONGITUDE" : "-119.2773", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277888.2992, 
+        "y" : 4176227.3579
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 11622, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N22W31L002S", 
+        "CASGEM_WELL_ID" : "13866", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350842N1192698W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0842", 
+        "LONGITUDE" : "-119.2698", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277053.403, 
+        "y" : 4175329.483
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 11627, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N22W35K001S", 
+        "CASGEM_WELL_ID" : "13871", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350825N1191999W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0825", 
+        "LONGITUDE" : "-119.1999", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269272.1706, 
+        "y" : 4175098.224
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 11629, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N22W36P001S", 
+        "CASGEM_WELL_ID" : "13873", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350794N1191857W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0794", 
+        "LONGITUDE" : "-119.1857", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267691.4338, 
+        "y" : 4174676.5288
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 11630, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N22W36Q001S", 
+        "CASGEM_WELL_ID" : "13874", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350789N1191805W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0789", 
+        "LONGITUDE" : "-119.1805", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267112.5725, 
+        "y" : 4174608.515
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 11634, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N23W27Q001S", 
+        "CASGEM_WELL_ID" : "13878", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350911N1193220W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0911", 
+        "LONGITUDE" : "-119.322", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282864.2804, 
+        "y" : 4176268.1721
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9953, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W10H001S", 
+        "CASGEM_WELL_ID" : "12133", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350555N1189949W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0555", 
+        "LONGITUDE" : "-118.9949", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13246451.675, 
+        "y" : 4171425.9325
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9954, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W11C001S", 
+        "CASGEM_WELL_ID" : "12134", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350608N1189927W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0608", 
+        "LONGITUDE" : "-118.9927", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13246206.7721, 
+        "y" : 4172146.6939
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9958, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W13Q001S", 
+        "CASGEM_WELL_ID" : "12138", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350361N1189707W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0361", 
+        "LONGITUDE" : "-118.9707", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13243757.7433, 
+        "y" : 4168788.0727
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9960, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W16H002S", 
+        "CASGEM_WELL_ID" : "12140", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350436N1190140W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0436", 
+        "LONGITUDE" : "-119.014", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13248577.8773, 
+        "y" : 4169807.7896
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9961, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W18F001S", 
+        "CASGEM_WELL_ID" : "12141", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350439N1190587W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0439", 
+        "LONGITUDE" : "-119.0587", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13253553.8585, 
+        "y" : 4169848.5802
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9962, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W24E001S", 
+        "CASGEM_WELL_ID" : "12142", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350289N1189768W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0289", 
+        "LONGITUDE" : "-118.9768", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13244436.7922, 
+        "y" : 4167809.2325
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9963, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W25K001S", 
+        "CASGEM_WELL_ID" : "12143", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350122N1189674W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0122", 
+        "LONGITUDE" : "-118.9674", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13243390.389, 
+        "y" : 4165539.199
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9966, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W02G001S", 
+        "CASGEM_WELL_ID" : "12146", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350722N1190935W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0722", 
+        "LONGITUDE" : "-119.0935", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257427.7768, 
+        "y" : 4173697.1695
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9967, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W03N002S", 
+        "CASGEM_WELL_ID" : "12147", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350658N1191134W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0658", 
+        "LONGITUDE" : "-119.1134", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259643.0347, 
+        "y" : 4172826.7004
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9972, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W05M001S", 
+        "CASGEM_WELL_ID" : "12152", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350697N1191560W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0697", 
+        "LONGITUDE" : "-119.156", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264385.245, 
+        "y" : 4173357.1344
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9973, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W06K001S", 
+        "CASGEM_WELL_ID" : "12153", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350694N1191649W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0694", 
+        "LONGITUDE" : "-119.1649", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265375.9884, 
+        "y" : 4173316.3309
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9975, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W07G001S", 
+        "CASGEM_WELL_ID" : "12155", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350605N1191652W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0605", 
+        "LONGITUDE" : "-119.1652", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265409.3843, 
+        "y" : 4172105.8949
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9977, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W08E001S", 
+        "CASGEM_WELL_ID" : "12157", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350605N1191560W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0605", 
+        "LONGITUDE" : "-119.156", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264385.245, 
+        "y" : 4172105.8949
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9978, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W08F001S", 
+        "CASGEM_WELL_ID" : "12158", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350605N1191502W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0605", 
+        "LONGITUDE" : "-119.1502", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263739.5919, 
+        "y" : 4172105.8949
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9979, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W09C001S", 
+        "CASGEM_WELL_ID" : "12159", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350592N1191328W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0592", 
+        "LONGITUDE" : "-119.1328", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261802.6328, 
+        "y" : 4171929.1006
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9981, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W10K001S", 
+        "CASGEM_WELL_ID" : "12161", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350558N1191053W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0558", 
+        "LONGITUDE" : "-119.1053", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258741.3468, 
+        "y" : 4171466.7291
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9984, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W11P001S", 
+        "CASGEM_WELL_ID" : "12164", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350489N1190953W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0489", 
+        "LONGITUDE" : "-119.0953", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257628.1519, 
+        "y" : 4170528.446
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 10114, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W12E001S", 
+        "CASGEM_WELL_ID" : "12298", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350616N1190835W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0616", 
+        "LONGITUDE" : "-119.0835", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256314.5819, 
+        "y" : 4172255.4922
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 10116, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W14D002S", 
+        "CASGEM_WELL_ID" : "12301", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350494N1191010W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0494", 
+        "LONGITUDE" : "-119.101", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258262.673, 
+        "y" : 4170596.4348
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 10117, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N22W01Q001S", 
+        "CASGEM_WELL_ID" : "12302", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350625N1191759W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0625", 
+        "LONGITUDE" : "-119.1759", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266600.5028, 
+        "y" : 4172377.8915
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 10121, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N22W08G002S", 
+        "CASGEM_WELL_ID" : "12306", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350575N1192517W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0575", 
+        "LONGITUDE" : "-119.2517", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275038.5202, 
+        "y" : 4171697.9125
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 10122, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N22W13Q001S", 
+        "CASGEM_WELL_ID" : "12307", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350358N1191781W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0358", 
+        "LONGITUDE" : "-119.1781", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266845.4057, 
+        "y" : 4168747.2859
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 10123, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N22W23D001S", 
+        "CASGEM_WELL_ID" : "12308", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350491N1192074W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0491", 
+        "LONGITUDE" : "-119.2074", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270107.0668, 
+        "y" : 4170555.6415
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 10124, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N23W24J001S", 
+        "CASGEM_WELL_ID" : "12309", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350250N1192820W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.025", 
+        "LONGITUDE" : "-119.282", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278411.5008, 
+        "y" : 4167279.0634
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 12926, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18W31N001S", 
+        "CASGEM_WELL_ID" : "15202", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350744N1188445W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0744", 
+        "LONGITUDE" : "-118.8445", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13229709.2236, 
+        "y" : 4173996.409
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 12933, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N19W34H002S", 
+        "CASGEM_WELL_ID" : "15209", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350817N1188828W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0817", 
+        "LONGITUDE" : "-118.8828", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13233972.7601, 
+        "y" : 4174989.3979
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 12955, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W31R001S", 
+        "CASGEM_WELL_ID" : "15231", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350791N1191596W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0791", 
+        "LONGITUDE" : "-119.1596", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264785.9951, 
+        "y" : 4174635.7205
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 12957, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W32N001S", 
+        "CASGEM_WELL_ID" : "15233", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350791N1191546W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0791", 
+        "LONGITUDE" : "-119.1546", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264229.3977, 
+        "y" : 4174635.7205
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 12960, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W34G002S", 
+        "CASGEM_WELL_ID" : "15236", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350869N1191091W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0869", 
+        "LONGITUDE" : "-119.1091", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259164.3608, 
+        "y" : 4175696.7867
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 12962, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W34R002S", 
+        "CASGEM_WELL_ID" : "15238", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350769N1191015W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0769", 
+        "LONGITUDE" : "-119.1015", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258318.3327, 
+        "y" : 4174336.4637
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18631, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S22E34G004M", 
+        "CASGEM_WELL_ID" : "21002", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356247N1195902W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6247", 
+        "LONGITUDE" : "-119.5902", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312720.1679, 
+        "y" : 4249102.7947
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19046, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E30G001M", 
+        "CASGEM_WELL_ID" : "21424", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351167N1191167W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1167", 
+        "LONGITUDE" : "-119.1167", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260010.389, 
+        "y" : 4179751.5386
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19047, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E30J002M", 
+        "CASGEM_WELL_ID" : "21425", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351144N1191134W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1144", 
+        "LONGITUDE" : "-119.1134", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259643.0347, 
+        "y" : 4179438.5352
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19050, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E32L002M", 
+        "CASGEM_WELL_ID" : "21428", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350981N1191051W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0981", 
+        "LONGITUDE" : "-119.1051", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258719.0829, 
+        "y" : 4177220.5465
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18466, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S18E15K001M", 
+        "CASGEM_WELL_ID" : "20833", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361642N1198918W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1642", 
+        "LONGITUDE" : "-119.8918", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13346294.1263, 
+        "y" : 4323238.6242
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18471, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S18E22H001M", 
+        "CASGEM_WELL_ID" : "20838", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361511N1198896W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1511", 
+        "LONGITUDE" : "-119.8896", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13346049.2234, 
+        "y" : 4321432.4669
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18472, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S18E23A001M", 
+        "CASGEM_WELL_ID" : "20839", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356575N1199966W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6575", 
+        "LONGITUDE" : "-119.9966", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13357960.4089, 
+        "y" : 4253595.6652
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18883, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S22E23E004M", 
+        "CASGEM_WELL_ID" : "21258", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355650N1195802W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.565", 
+        "LONGITUDE" : "-119.5802", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311606.973, 
+        "y" : 4240929.9495
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18884, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S22E25R001M", 
+        "CASGEM_WELL_ID" : "21259", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355433N1195463W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5433", 
+        "LONGITUDE" : "-119.5463", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307833.2422, 
+        "y" : 4237960.7596
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18485, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S21E22K001M", 
+        "CASGEM_WELL_ID" : "20852", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356508N1196970W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6508", 
+        "LONGITUDE" : "-119.697", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13324609.0895, 
+        "y" : 4252677.7643
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18893, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S23E03F001M", 
+        "CASGEM_WELL_ID" : "21268", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356089N1194827W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6089", 
+        "LONGITUDE" : "-119.4827", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13300753.3226, 
+        "y" : 4246939.2038
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18896, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S23E07P001M", 
+        "CASGEM_WELL_ID" : "21271", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355900N1195396W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.59", 
+        "LONGITUDE" : "-119.5396", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307087.4016, 
+        "y" : 4244351.6722
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18904, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E27A003M", 
+        "CASGEM_WELL_ID" : "21279", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351231N1191662W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1231", 
+        "LONGITUDE" : "-119.1662", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265520.7038, 
+        "y" : 4180622.5513
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18905, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E27B002M", 
+        "CASGEM_WELL_ID" : "21280", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351231N1191678W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1231", 
+        "LONGITUDE" : "-119.1678", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265698.815, 
+        "y" : 4180622.5513
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18910, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E33R001M", 
+        "CASGEM_WELL_ID" : "21285", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350964N1191835W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0964", 
+        "LONGITUDE" : "-119.1835", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267446.531, 
+        "y" : 4176989.248
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18914, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E34P002M", 
+        "CASGEM_WELL_ID" : "21289", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350964N1191757W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0964", 
+        "LONGITUDE" : "-119.1757", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266578.2389, 
+        "y" : 4176989.248
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18917, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E35R001M", 
+        "CASGEM_WELL_ID" : "21292", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350947N1191465W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0947", 
+        "LONGITUDE" : "-119.1465", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263327.7098, 
+        "y" : 4176757.9544
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18918, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E36G001M", 
+        "CASGEM_WELL_ID" : "21293", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351039N1191374W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1039", 
+        "LONGITUDE" : "-119.1374", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262314.7024, 
+        "y" : 4178009.7186
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 18630, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S22E34G003M", 
+        "CASGEM_WELL_ID" : "21001", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356269N1195895W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6269", 
+        "LONGITUDE" : "-119.5895", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312642.2442, 
+        "y" : 4249404.088
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 16670, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S23E32H001M", 
+        "CASGEM_WELL_ID" : "19005", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356266N1195100W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6266", 
+        "LONGITUDE" : "-119.51", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13303792.3447, 
+        "y" : 4249363.0021
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 16671, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S23E32H002M", 
+        "CASGEM_WELL_ID" : "19006", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356231N1195093W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6231", 
+        "LONGITUDE" : "-119.5093", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13303714.4211, 
+        "y" : 4248883.6774
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 16488, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S23E24G001M", 
+        "CASGEM_WELL_ID" : "18821", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355653N1194467W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5653", 
+        "LONGITUDE" : "-119.4467", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13296745.8209, 
+        "y" : 4240971.0039
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21543, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E29L001M", 
+        "CASGEM_WELL_ID" : "24015", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352011N1192132W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2011", 
+        "LONGITUDE" : "-119.2132", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270752.7198, 
+        "y" : 4191243.5241
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21566, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E09J001M", 
+        "CASGEM_WELL_ID" : "24038", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352466N1190807W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2466", 
+        "LONGITUDE" : "-119.0807", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256002.8873, 
+        "y" : 4197443.8017
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21628, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S27E16D003M", 
+        "CASGEM_WELL_ID" : "24102", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354117N1190881W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4117", 
+        "LONGITUDE" : "-119.0881", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256826.6515, 
+        "y" : 4219971.2361
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21637, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S27E19K002M", 
+        "CASGEM_WELL_ID" : "24111", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353906N1191165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3906", 
+        "LONGITUDE" : "-119.1165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259988.1251, 
+        "y" : 4217089.633
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21653, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S27E31B001M", 
+        "CASGEM_WELL_ID" : "24127", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353691N1191174W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3691", 
+        "LONGITUDE" : "-119.1174", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260088.3126, 
+        "y" : 4214154.1777
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21655, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S27E32A002M", 
+        "CASGEM_WELL_ID" : "24129", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353683N1190934W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3683", 
+        "LONGITUDE" : "-119.0934", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257416.6448, 
+        "y" : 4214044.9665
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21687, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S24E13H001M", 
+        "CASGEM_WELL_ID" : "24162", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354061N1193446W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4061", 
+        "LONGITUDE" : "-119.3446", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285380.1009, 
+        "y" : 4219206.3769
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21279, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S25E22E001M", 
+        "CASGEM_WELL_ID" : "23736", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351300N1192870W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.13", 
+        "LONGITUDE" : "-119.287", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278968.0983, 
+        "y" : 4181561.6884
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21280, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S25E24R001M", 
+        "CASGEM_WELL_ID" : "23737", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351233N1192267W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1233", 
+        "LONGITUDE" : "-119.2267", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272255.533, 
+        "y" : 4180649.7715
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21282, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S25E26N001M", 
+        "CASGEM_WELL_ID" : "23739", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351086N1192692W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1086", 
+        "LONGITUDE" : "-119.2692", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276986.6113, 
+        "y" : 4178649.2614
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21283, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S25E26Q001M", 
+        "CASGEM_WELL_ID" : "23740", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351083N1192590W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1083", 
+        "LONGITUDE" : "-119.259", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275851.1525, 
+        "y" : 4178608.4384
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21291, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S25E31B002M", 
+        "CASGEM_WELL_ID" : "23748", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351064N1193315W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1064", 
+        "LONGITUDE" : "-119.3315", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283921.8156, 
+        "y" : 4178349.8963
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21292, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S25E32N001M", 
+        "CASGEM_WELL_ID" : "23749", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350947N1193223W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0947", 
+        "LONGITUDE" : "-119.3223", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282897.6763, 
+        "y" : 4176757.9544
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21303, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E14H001M", 
+        "CASGEM_WELL_ID" : "23760", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351480N1191474W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.148", 
+        "LONGITUDE" : "-119.1474", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263427.8973, 
+        "y" : 4184011.9861
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21305, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E15E001M", 
+        "CASGEM_WELL_ID" : "23762", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351450N1191806W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.145", 
+        "LONGITUDE" : "-119.1806", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267123.7044, 
+        "y" : 4183603.5655
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21326, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E16A001M", 
+        "CASGEM_WELL_ID" : "23785", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351486N1191815W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1486", 
+        "LONGITUDE" : "-119.1815", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267223.892, 
+        "y" : 4184093.672
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21329, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E18A001M", 
+        "CASGEM_WELL_ID" : "23788", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351517N1192170W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1517", 
+        "LONGITUDE" : "-119.217", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271175.7339, 
+        "y" : 4184515.7255
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21330, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E19B001M", 
+        "CASGEM_WELL_ID" : "23789", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351339N1192256W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1339", 
+        "LONGITUDE" : "-119.2256", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272133.0815, 
+        "y" : 4182092.5403
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21334, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E24D001M", 
+        "CASGEM_WELL_ID" : "23793", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351366N1191460W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1366", 
+        "LONGITUDE" : "-119.146", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263272.0501, 
+        "y" : 4182460.068
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21335, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E25P001M", 
+        "CASGEM_WELL_ID" : "23794", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351092N1191367W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1092", 
+        "LONGITUDE" : "-119.1367", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262236.7788, 
+        "y" : 4178730.9078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 21082, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S24E24G001M", 
+        "CASGEM_WELL_ID" : "23525", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351333N1193521W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1333", 
+        "LONGITUDE" : "-119.3521", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286214.9971, 
+        "y" : 4182010.8691
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 20782, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S22E32R001M", 
+        "CASGEM_WELL_ID" : "23205", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357033N1196184W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7033", 
+        "LONGITUDE" : "-119.6184", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315859.3775, 
+        "y" : 4259872.3352
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19547, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E16P001M", 
+        "CASGEM_WELL_ID" : "21937", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351397N1189767W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1397", 
+        "LONGITUDE" : "-118.9767", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13244425.6603, 
+        "y" : 4182882.0593
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19548, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E17K001M", 
+        "CASGEM_WELL_ID" : "21938", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351397N1189898W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1397", 
+        "LONGITUDE" : "-118.9898", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13245883.9456, 
+        "y" : 4182882.0593
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19551, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E21C002M", 
+        "CASGEM_WELL_ID" : "21941", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351325N1189767W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1325", 
+        "LONGITUDE" : "-118.9767", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13244425.6603, 
+        "y" : 4181901.9751
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19552, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E21C003M", 
+        "CASGEM_WELL_ID" : "21942", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351361N1189787W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1361", 
+        "LONGITUDE" : "-118.9787", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13244648.2992, 
+        "y" : 4182392.0064
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 20028, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E29F003M", 
+        "CASGEM_WELL_ID" : "22429", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351186N1189956W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1186", 
+        "LONGITUDE" : "-118.9956", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13246529.5986, 
+        "y" : 4180010.1134
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 20034, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E31B001M", 
+        "CASGEM_WELL_ID" : "22435", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351050N1190084W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.105", 
+        "LONGITUDE" : "-119.0084", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13247954.4881, 
+        "y" : 4178159.3955
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 20421, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S27E08R001M", 
+        "CASGEM_WELL_ID" : "22836", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353286N1190938W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3286", 
+        "LONGITUDE" : "-119.0938", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257461.1726, 
+        "y" : 4208626.7219
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 20426, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S27E11H003M", 
+        "CASGEM_WELL_ID" : "22841", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353328N1190409W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3328", 
+        "LONGITUDE" : "-119.0409", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13251572.3716, 
+        "y" : 4209199.8107
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19628, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S25E16D001M", 
+        "CASGEM_WELL_ID" : "22019", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352375N1193037W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2375", 
+        "LONGITUDE" : "-119.3037", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280827.1338, 
+        "y" : 4196203.468
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19629, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S25E25H001M", 
+        "CASGEM_WELL_ID" : "22020", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352019N1192356W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2019", 
+        "LONGITUDE" : "-119.2356", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273246.2764, 
+        "y" : 4191352.5099
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 20140, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S19E07N002M", 
+        "CASGEM_WELL_ID" : "22542", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357603N1199743W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7603", 
+        "LONGITUDE" : "-119.9743", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13355477.9843, 
+        "y" : 4267688.9499
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19802, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S23E36H002M", 
+        "CASGEM_WELL_ID" : "22196", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353628N1194485W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3628", 
+        "LONGITUDE" : "-119.4485", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13296946.196, 
+        "y" : 4213294.1691
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19399, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S26E20N001M", 
+        "CASGEM_WELL_ID" : "21787", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352964N1192165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2964", 
+        "LONGITUDE" : "-119.2165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271120.0742, 
+        "y" : 4204234.0293
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19419, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E33N001M", 
+        "CASGEM_WELL_ID" : "21808", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350939N1190912W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0939", 
+        "LONGITUDE" : "-119.0912", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257171.742, 
+        "y" : 4176649.112
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 20683, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S22E27P001M", 
+        "CASGEM_WELL_ID" : "23105", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357181N1195896W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7181", 
+        "LONGITUDE" : "-119.5896", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312653.3762, 
+        "y" : 4261901.3748
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 19421, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E34A001M", 
+        "CASGEM_WELL_ID" : "21810", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351058N1190570W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1058", 
+        "LONGITUDE" : "-119.057", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13253364.6154, 
+        "y" : 4178268.2527
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27807, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N19W12N002S", 
+        "CASGEM_WELL_ID" : "30608", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350458N1188640W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0458", 
+        "LONGITUDE" : "-118.864", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13231879.9537, 
+        "y" : 4170106.9243
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 28639, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N19W07R001S", 
+        "CASGEM_WELL_ID" : "31457", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350455N1189363W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0455", 
+        "LONGITUDE" : "-118.9363", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13239928.3528, 
+        "y" : 4170066.1327
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27920, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N19W18P001S", 
+        "CASGEM_WELL_ID" : "30723", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350358N1189473W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0358", 
+        "LONGITUDE" : "-118.9473", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13241152.8672, 
+        "y" : 4168747.2859
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27402, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W12G001S", 
+        "CASGEM_WELL_ID" : "30193", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350594N1190734W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0594", 
+        "LONGITUDE" : "-119.0734", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255190.255, 
+        "y" : 4171956.2996
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27403, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W12Q001S", 
+        "CASGEM_WELL_ID" : "30194", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350508N1190749W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0508", 
+        "LONGITUDE" : "-119.0749", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255357.2343, 
+        "y" : 4170786.8059
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27404, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N22W01B002S", 
+        "CASGEM_WELL_ID" : "30195", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350769N1191784W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0769", 
+        "LONGITUDE" : "-119.1784", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266878.8016, 
+        "y" : 4174336.4637
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27406, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N22W06H001S", 
+        "CASGEM_WELL_ID" : "30197", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350686N1192609W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0686", 
+        "LONGITUDE" : "-119.2609", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276062.6595, 
+        "y" : 4173207.5222
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27408, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N22W23C001S", 
+        "CASGEM_WELL_ID" : "30199", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356150N1191984W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.615", 
+        "LONGITUDE" : "-119.1984", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269105.1914, 
+        "y" : 4247774.4636
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27097, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W10C002S", 
+        "CASGEM_WELL_ID" : "29881", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350603N1190034W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0603", 
+        "LONGITUDE" : "-119.0034", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13247397.8907, 
+        "y" : 4172078.6956
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27098, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W11C002S", 
+        "CASGEM_WELL_ID" : "29882", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350594N1189878W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0594", 
+        "LONGITUDE" : "-118.9878", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13245661.3066, 
+        "y" : 4171956.2996
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27100, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N20W13M001S", 
+        "CASGEM_WELL_ID" : "29884", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350378N1189715W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0378", 
+        "LONGITUDE" : "-118.9715", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13243846.7989, 
+        "y" : 4169019.2003
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27107, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W03P001S", 
+        "CASGEM_WELL_ID" : "29891", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350661N1191134W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0661", 
+        "LONGITUDE" : "-119.1134", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259643.0347, 
+        "y" : 4172867.5021
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 27109, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W04M001S", 
+        "CASGEM_WELL_ID" : "29893", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350694N1191380W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0694", 
+        "LONGITUDE" : "-119.138", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262381.4941, 
+        "y" : 4173316.3309
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 30961, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N18W31F001S", 
+        "CASGEM_WELL_ID" : "33846", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350844N1188426W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0844", 
+        "LONGITUDE" : "-118.8426", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13229497.7165, 
+        "y" : 4175356.6903
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 30975, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W31R002S", 
+        "CASGEM_WELL_ID" : "33860", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350772N1191573W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0772", 
+        "LONGITUDE" : "-119.1573", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264529.9603, 
+        "y" : 4174377.271
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 30976, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W32N002S", 
+        "CASGEM_WELL_ID" : "33861", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350756N1191534W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0756", 
+        "LONGITUDE" : "-119.1534", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264095.8143, 
+        "y" : 4174159.634
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 30978, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W34G003S", 
+        "CASGEM_WELL_ID" : "33863", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350842N1191092W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0842", 
+        "LONGITUDE" : "-119.1092", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259175.4928, 
+        "y" : 4175329.483
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 32295, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E25D001M", 
+        "CASGEM_WELL_ID" : "35208", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351233N1190384W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1233", 
+        "LONGITUDE" : "-119.0384", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13251294.0728, 
+        "y" : 4180649.7715
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 32299, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E30R001M", 
+        "CASGEM_WELL_ID" : "35212", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351100N1191138W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.11", 
+        "LONGITUDE" : "-119.1138", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259687.5625, 
+        "y" : 4178839.7706
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 32300, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E32L001M", 
+        "CASGEM_WELL_ID" : "35213", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350983N1191003W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0983", 
+        "LONGITUDE" : "-119.1003", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258184.7493, 
+        "y" : 4177247.7584
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 31086, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W35E001S", 
+        "CASGEM_WELL_ID" : "33972", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350861N1190999W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0861", 
+        "LONGITUDE" : "-119.0999", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258140.2215, 
+        "y" : 4175587.9547
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 32023, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S22E23E001M", 
+        "CASGEM_WELL_ID" : "34929", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355650N1195802W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.565", 
+        "LONGITUDE" : "-119.5802", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311606.973, 
+        "y" : 4240929.9495
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 32038, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S23E15E001M", 
+        "CASGEM_WELL_ID" : "34944", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355797N1194877W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5797", 
+        "LONGITUDE" : "-119.4877", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13301309.9201, 
+        "y" : 4242941.7931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 30648, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N22W33R001S", 
+        "CASGEM_WELL_ID" : "33526", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350783N1192268W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0783", 
+        "LONGITUDE" : "-119.2268", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272266.6649, 
+        "y" : 4174526.8989
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 30645, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N22W30N001S", 
+        "CASGEM_WELL_ID" : "33523", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350928N1192794W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0928", 
+        "LONGITUDE" : "-119.2794", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278122.0701, 
+        "y" : 4176499.4555
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34576, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S21E13J002M", 
+        "CASGEM_WELL_ID" : "37550", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357539N1196561W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7539", 
+        "LONGITUDE" : "-119.6561", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13320056.1223, 
+        "y" : 4266811.016
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34202, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E15H001M", 
+        "CASGEM_WELL_ID" : "37159", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351450N1191634W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.145", 
+        "LONGITUDE" : "-119.1634", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265209.0092, 
+        "y" : 4183603.5655
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34206, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E21D001M", 
+        "CASGEM_WELL_ID" : "37163", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351456N1191984W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1456", 
+        "LONGITUDE" : "-119.1984", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269105.1914, 
+        "y" : 4183685.2484
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34208, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E25G001M", 
+        "CASGEM_WELL_ID" : "37165", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351150N1191374W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.115", 
+        "LONGITUDE" : "-119.1374", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262314.7024, 
+        "y" : 4179520.1874
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34209, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E26D001M", 
+        "CASGEM_WELL_ID" : "37166", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351233N1191590W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1233", 
+        "LONGITUDE" : "-119.159", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264719.2034, 
+        "y" : 4180649.7715
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34329, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E29F002M", 
+        "CASGEM_WELL_ID" : "37290", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351158N1189945W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1158", 
+        "LONGITUDE" : "-118.9945", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13246407.1472, 
+        "y" : 4179629.058
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34333, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E30F001M", 
+        "CASGEM_WELL_ID" : "37294", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351186N1190128W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1186", 
+        "LONGITUDE" : "-119.0128", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13248444.2939, 
+        "y" : 4180010.1134
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34335, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E31H002M", 
+        "CASGEM_WELL_ID" : "37296", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351042N1190059W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1042", 
+        "LONGITUDE" : "-119.0059", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13247676.1894, 
+        "y" : 4178050.5394
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34031, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S25E20D001M", 
+        "CASGEM_WELL_ID" : "36985", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351375N1193223W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1375", 
+        "LONGITUDE" : "-119.3223", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282897.6763, 
+        "y" : 4182582.5799
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34032, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S25E30E001M", 
+        "CASGEM_WELL_ID" : "36986", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351164N1193401W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1164", 
+        "LONGITUDE" : "-119.3401", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284879.1632, 
+        "y" : 4179710.7116
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 34042, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E13R001M", 
+        "CASGEM_WELL_ID" : "36996", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351389N1191281W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1389", 
+        "LONGITUDE" : "-119.1281", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261279.4312, 
+        "y" : 4182773.1568
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33377, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S18E16E001M", 
+        "CASGEM_WELL_ID" : "36312", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361661N1199199W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1661", 
+        "LONGITUDE" : "-119.9199", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13349422.204, 
+        "y" : 4323500.611
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33380, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S18E22F001M", 
+        "CASGEM_WELL_ID" : "36315", 
+        "GW_BASIN_NAME" : "Westside", 
+        "GW_BASIN_CODE" : "5-22.09", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361511N1198985W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1511", 
+        "LONGITUDE" : "-119.8985", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13347039.9669, 
+        "y" : 4321432.4669
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33460, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S24E24Q002M", 
+        "CASGEM_WELL_ID" : "36397", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351247N1193459W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1247", 
+        "LONGITUDE" : "-119.3459", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285524.8163, 
+        "y" : 4180840.3151
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33946, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S27E15A004M", 
+        "CASGEM_WELL_ID" : "36896", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354117N1190584W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4117", 
+        "LONGITUDE" : "-119.0584", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13253520.4627, 
+        "y" : 4219971.2361
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33526, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S27E04Q002M", 
+        "CASGEM_WELL_ID" : "36464", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353414N1190830W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3414", 
+        "LONGITUDE" : "-119.083", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256258.9221, 
+        "y" : 4210373.3714
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33530, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S27E11J002M", 
+        "CASGEM_WELL_ID" : "36468", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353317N1190406W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3317", 
+        "LONGITUDE" : "-119.0406", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13251538.9757, 
+        "y" : 4209049.7132
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33544, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E16C001M", 
+        "CASGEM_WELL_ID" : "36482", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351506N1189770W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1506", 
+        "LONGITUDE" : "-118.977", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13244459.0561, 
+        "y" : 4184365.9628
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33545, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E16P002M", 
+        "CASGEM_WELL_ID" : "36483", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351367N1189767W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1367", 
+        "LONGITUDE" : "-118.9767", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13244425.6603, 
+        "y" : 4182473.6804
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33547, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E20A003M", 
+        "CASGEM_WELL_ID" : "36485", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351339N1189878W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1339", 
+        "LONGITUDE" : "-118.9878", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13245661.3066, 
+        "y" : 4182092.5403
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33655, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S24E20J001M", 
+        "CASGEM_WELL_ID" : "36595", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352203N1194142W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2203", 
+        "LONGITUDE" : "-119.4142", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13293127.9375, 
+        "y" : 4193859.481
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33660, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S25E16E002M", 
+        "CASGEM_WELL_ID" : "36601", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352344N1193082W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2344", 
+        "LONGITUDE" : "-119.3082", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281328.0715, 
+        "y" : 4195780.9686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 32423, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E28H002M", 
+        "CASGEM_WELL_ID" : "35338", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351158N1191853W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1158", 
+        "LONGITUDE" : "-119.1853", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267646.906, 
+        "y" : 4179629.058
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 32426, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E32G002M", 
+        "CASGEM_WELL_ID" : "35341", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351030N1192043W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.103", 
+        "LONGITUDE" : "-119.2043", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269761.9764, 
+        "y" : 4177887.2572
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 32427, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E34L001M", 
+        "CASGEM_WELL_ID" : "35342", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350981N1191723W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0981", 
+        "LONGITUDE" : "-119.1723", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266199.7527, 
+        "y" : 4177220.5465
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 33712, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S27E22B001M", 
+        "CASGEM_WELL_ID" : "36655", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353100N1190635W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.31", 
+        "LONGITUDE" : "-119.0635", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13254088.1921, 
+        "y" : 4206089.1147
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 35918, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S19E28H002M", 
+        "CASGEM_WELL_ID" : "38922", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355508N1199224W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5508", 
+        "LONGITUDE" : "-119.9224", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13349700.5027, 
+        "y" : 4238986.8864
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 36338, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E17Q001M", 
+        "CASGEM_WELL_ID" : "39354", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351364N1189898W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1364", 
+        "LONGITUDE" : "-118.9898", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13245883.9456, 
+        "y" : 4182432.8433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 36058, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N22W35H001S", 
+        "CASGEM_WELL_ID" : "39065", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350844N1191901W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0844", 
+        "LONGITUDE" : "-119.1901", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268181.2396, 
+        "y" : 4175356.6903
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 36080, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "12N21W35P001S", 
+        "CASGEM_WELL_ID" : "39088", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350772N1190953W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0772", 
+        "LONGITUDE" : "-119.0953", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257628.1519, 
+        "y" : 4174377.271
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 36091, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S28E31P003M", 
+        "CASGEM_WELL_ID" : "39099", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350953N1190126W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0953", 
+        "LONGITUDE" : "-119.0126", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13248422.03, 
+        "y" : 4176839.5869
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 36105, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "11N21W11B002S", 
+        "CASGEM_WELL_ID" : "39114", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350594N1190892W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0594", 
+        "LONGITUDE" : "-119.0892", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256949.103, 
+        "y" : 4171956.2996
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Wheeler Ridge-Maricopa Water Storage District", 
+        "OBJECTID" : 9283, 
+        "SHP_FILE_ID" : "3175", 
+        "ME_ID" : "865", 
+        "LOCAL_WELL_NBR" : "11N20W05J001S", 
+        "SWN" : "11N20W05J001S", 
+        "CASGEM_WELL_ID" : "11446", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/09/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350669N1190295W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0669", 
+        "LONGITUDE" : "-119.0295", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13250303.3294, 
+        "y" : 4172976.3074
+      }
+    }
+  ]
+}

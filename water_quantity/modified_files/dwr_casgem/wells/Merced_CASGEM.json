@@ -1,0 +1,2178 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88715, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "05S12E08P001M", 
+        "SWN" : "05S12E08P001M", 
+        "CASGEM_WELL_ID" : "9587", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/07/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375096N1206804W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5096", 
+        "LONGITUDE" : "-120.6804", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13434080.6767, 
+        "y" : 4510378.5051
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 7179, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "05S12E08P001M", 
+        "SWN" : "05S12E08P001M", 
+        "CASGEM_WELL_ID" : "9587", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "09/07/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375096N1206804W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5096", 
+        "LONGITUDE" : "-120.6804", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13434080.6767, 
+        "y" : 4510378.5051
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 24677, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "05S11E13A001M", 
+        "SWN" : "05S11E13A001M", 
+        "CASGEM_WELL_ID" : "27305", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375046N1207071W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5046", 
+        "LONGITUDE" : "-120.7071", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437052.9071, 
+        "y" : 4509676.8626
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88697, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "223", 
+        "SWN" : "06S11E10B001M", 
+        "CASGEM_WELL_ID" : "7339", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374335N1207479W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4335", 
+        "LONGITUDE" : "-120.7479", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441594.7424, 
+        "y" : 4499704.5863
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89654, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP91.68R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48542", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369097N1207554W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9097", 
+        "LONGITUDE" : "-120.7554", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442429.6385, 
+        "y" : 4426527.5948
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89021, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP58.28L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48517", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372406N1210751W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.2406", 
+        "LONGITUDE" : "-121.0751", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13478018.4797, 
+        "y" : 4472696.5966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89022, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP60.06R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48518", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "183", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "372173N1210767W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.2173", 
+        "LONGITUDE" : "-121.0767", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13478196.5909, 
+        "y" : 4469439.0421
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89651, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP91.15L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48539", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369165N1207603W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9165", 
+        "LONGITUDE" : "-120.7603", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442975.104, 
+        "y" : 4427474.3461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89970, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP93.27L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48551", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369064N1207276W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9064", 
+        "LONGITUDE" : "-120.7276", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439334.9567, 
+        "y" : 4426068.1723
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89333, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP80.03R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48525", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370141N1209006W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0141", 
+        "LONGITUDE" : "-120.9006", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458593.2286, 
+        "y" : 4441072.3277
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 3453, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "108", 
+        "SWN" : "05S11E30G001M", 
+        "CASGEM_WELL_ID" : "5688", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374707N1207991W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4707", 
+        "LONGITUDE" : "-120.7991", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13447294.3003, 
+        "y" : 4504920.9655
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89339, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP83.57L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48531", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369841N1208371W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9841", 
+        "LONGITUDE" : "-120.8371", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13451524.4409, 
+        "y" : 4436890.764
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90945, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "Menezes Well #5", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48612", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371144N1208439W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1144", 
+        "LONGITUDE" : "-120.8439", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13452281.4135, 
+        "y" : 4455064.6906
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89330, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP79.13R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48522", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370132N1209067W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0132", 
+        "LONGITUDE" : "-120.9067", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13459272.2775, 
+        "y" : 4440946.8568
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89024, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP78.31L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48520", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370385N1209176W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0385", 
+        "LONGITUDE" : "-120.9176", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13460485.6599, 
+        "y" : 4444474.5503
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89338, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP83.08R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48530", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "321", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369916N1208642W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9916", 
+        "LONGITUDE" : "-120.8642", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454541.1991, 
+        "y" : 4437936.0002
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89658, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP92.14L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48546", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369072N1207480W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9072", 
+        "LONGITUDE" : "-120.748", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441605.8743, 
+        "y" : 4426179.5456
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89329, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP79.13L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48521", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370229N1209003W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0229", 
+        "LONGITUDE" : "-120.9003", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458559.8328, 
+        "y" : 4442299.2328
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89657, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP92.00R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48545", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369072N1207508W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9072", 
+        "LONGITUDE" : "-120.7508", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441917.5689, 
+        "y" : 4426179.5456
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 3447, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "05S11E22B001M", 
+        "SWN" : "05S11E22B001M", 
+        "CASGEM_WELL_ID" : "5682", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374921N1207468W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4921", 
+        "LONGITUDE" : "-120.7468", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441472.2909, 
+        "y" : 4507922.962
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88705, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "TGWB-006", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48499", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373968N1208146W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.396679", 
+        "LONGITUDE" : "-120.813493", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13448896.5217, 
+        "y" : 4494543.9049
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89653, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP91.57R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48541", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369112N1207584W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9112", 
+        "LONGITUDE" : "-120.7584", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442763.597, 
+        "y" : 4426736.4297
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90943, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "Menezes Well #4", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48610", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371097N1208394W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1097", 
+        "LONGITUDE" : "-120.8394", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13451780.4758, 
+        "y" : 4454408.6031
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89342, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP90.19L2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48534", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369312N1207718W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9312", 
+        "LONGITUDE" : "-120.7718", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444255.2782, 
+        "y" : 4429521.2883
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89334, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP80.62R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48526", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370058N1208910W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0058", 
+        "LONGITUDE" : "-120.891", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457524.5615, 
+        "y" : 4439915.2633
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 26593, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "194", 
+        "SWN" : "06S10E29F001M", 
+        "CASGEM_WELL_ID" : "29364", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373827N1208957W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.382915", 
+        "LONGITUDE" : "-120.895921", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458072.3647, 
+        "y" : 4492615.4498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4297, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "113A", 
+        "SWN" : "06S10E15F002M", 
+        "CASGEM_WELL_ID" : "6602", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374146N1208602W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.414468", 
+        "LONGITUDE" : "-120.860359", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454113.621, 
+        "y" : 4497036.8219
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 3663, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "118", 
+        "SWN" : "06S10E08H001M", 
+        "CASGEM_WELL_ID" : "5909", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374296N1208907W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.42986", 
+        "LONGITUDE" : "-120.890656", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457486.2676, 
+        "y" : 4499194.3057
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88694, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "194", 
+        "SWN" : "06S10E29F001M", 
+        "CASGEM_WELL_ID" : "29364", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373827N1208957W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.382915", 
+        "LONGITUDE" : "-120.895921", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458072.3647, 
+        "y" : 4492615.4498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 25831, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "85B", 
+        "SWN" : "06S11E17C001M", 
+        "CASGEM_WELL_ID" : "28534", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374177N1207888W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.41791", 
+        "LONGITUDE" : "-120.787941", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13446052.0861, 
+        "y" : 4497519.2457
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 71, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "05S12E22H001M", 
+        "SWN" : "05S12E22H001M", 
+        "CASGEM_WELL_ID" : "9600", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374852N1206310W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4852", 
+        "LONGITUDE" : "-120.631", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428581.4939, 
+        "y" : 4506954.9347
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88693, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "113A", 
+        "SWN" : "06S10E15F002M", 
+        "CASGEM_WELL_ID" : "6602", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374146N1208602W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.414468", 
+        "LONGITUDE" : "-120.860359", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454113.621, 
+        "y" : 4497036.8219
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89336, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP81.08R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48528", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370040N1208837W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.004", 
+        "LONGITUDE" : "-120.8837", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13456711.9292, 
+        "y" : 4439664.3503
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89331, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP79.60L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48523", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370199N1209008W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0199", 
+        "LONGITUDE" : "-120.9008", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458615.4925, 
+        "y" : 4441880.9537
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89661, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP93.20L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48549", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369062N1207287W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9062", 
+        "LONGITUDE" : "-120.7287", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439457.4081, 
+        "y" : 4426040.3292
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89659, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP92.20R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48547", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369057N1207470W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9057", 
+        "LONGITUDE" : "-120.747", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441494.5548, 
+        "y" : 4425970.7216
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88699, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "85B", 
+        "SWN" : "06S11E17C001M", 
+        "CASGEM_WELL_ID" : "28534", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374177N1207888W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.41791", 
+        "LONGITUDE" : "-120.787941", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13446052.0861, 
+        "y" : 4497519.2457
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88691, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "118", 
+        "SWN" : "06S10E08H001M", 
+        "CASGEM_WELL_ID" : "5909", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374296N1208907W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.42986", 
+        "LONGITUDE" : "-120.890656", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457486.2676, 
+        "y" : 4499194.3057
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 7188, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "05S12E18C001M", 
+        "SWN" : "05S12E18C001M", 
+        "CASGEM_WELL_ID" : "9596", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375043N1206985W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5043", 
+        "LONGITUDE" : "-120.6985", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436095.5595, 
+        "y" : 4509634.7656
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88716, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "05S12E18C001M", 
+        "SWN" : "05S12E18C001M", 
+        "CASGEM_WELL_ID" : "9596", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375043N1206985W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5043", 
+        "LONGITUDE" : "-120.6985", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436095.5595, 
+        "y" : 4509634.7656
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89660, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP92.72L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48548", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369057N1207373W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9057", 
+        "LONGITUDE" : "-120.7373", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13440414.7558, 
+        "y" : 4425970.7216
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89652, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP91.36L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48540", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369138N1207584W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9138", 
+        "LONGITUDE" : "-120.7584", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442763.597, 
+        "y" : 4427098.42
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89655, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP91.77R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48543", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369091N1207539W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9091", 
+        "LONGITUDE" : "-120.7539", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442262.6593, 
+        "y" : 4426444.0619
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88384, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "108", 
+        "SWN" : "05S11E30G001M", 
+        "CASGEM_WELL_ID" : "5688", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374707N1207991W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4707", 
+        "LONGITUDE" : "-120.7991", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13447294.3003, 
+        "y" : 4504920.9655
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89343, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP90.39R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48535", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369211N1207726W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9211", 
+        "LONGITUDE" : "-120.7726", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444344.3338, 
+        "y" : 4428114.8434
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 25820, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "146", 
+        "SWN" : "06S11E05C001M", 
+        "CASGEM_WELL_ID" : "28523", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374463N1207891W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4463", 
+        "LONGITUDE" : "-120.7891", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13446181.1054, 
+        "y" : 4501499.1767
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88712, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "05S11E13A001M", 
+        "SWN" : "05S11E13A001M", 
+        "CASGEM_WELL_ID" : "27305", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375046N1207071W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5046", 
+        "LONGITUDE" : "-120.7071", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437052.9071, 
+        "y" : 4509676.8626
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89332, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP80.03L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48524", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370155N1208942W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0155", 
+        "LONGITUDE" : "-120.8942", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13457880.7839, 
+        "y" : 4441267.5076
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89335, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP80.62L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48527", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "120", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370132N1208820W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0132", 
+        "LONGITUDE" : "-120.882", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13456522.6861, 
+        "y" : 4440946.8568
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89650, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP90.91L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48538", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369185N1207641W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9185", 
+        "LONGITUDE" : "-120.7641", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13443398.1181, 
+        "y" : 4427752.8185
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89023, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP66.71L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48519", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371334N1210349W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1334", 
+        "LONGITUDE" : "-121.0349", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13473543.4362, 
+        "y" : 4457717.3744
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89344, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP90.60L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48536", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369203N1207690W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9203", 
+        "LONGITUDE" : "-120.769", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13443943.5836, 
+        "y" : 4428003.4498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90942, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "Menezes Well #3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48609", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "124", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371057N1208355W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1057", 
+        "LONGITUDE" : "-120.8355", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13451346.3298, 
+        "y" : 4453850.2628
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90947, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "Rooney Ranch Well #1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48614", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370105N1207999W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0105", 
+        "LONGITUDE" : "-120.7999", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13447383.3559, 
+        "y" : 4440570.4529
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88713, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "05S11E22B001M", 
+        "SWN" : "05S11E22B001M", 
+        "CASGEM_WELL_ID" : "5682", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374921N1207468W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4921", 
+        "LONGITUDE" : "-120.7468", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441472.2909, 
+        "y" : 4507922.962
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89649, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP90.61R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48537", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369190N1207700W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.919", 
+        "LONGITUDE" : "-120.77", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444054.9031, 
+        "y" : 4427822.4377
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 5008, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "223", 
+        "SWN" : "06S11E10B001M", 
+        "CASGEM_WELL_ID" : "7339", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374335N1207479W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4335", 
+        "LONGITUDE" : "-120.7479", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441594.7424, 
+        "y" : 4499704.5863
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88696, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "146", 
+        "SWN" : "06S11E05C001M", 
+        "CASGEM_WELL_ID" : "28523", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374463N1207891W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4463", 
+        "LONGITUDE" : "-120.7891", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13446181.1054, 
+        "y" : 4501499.1767
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89656, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP91.80L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48544", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369094N1207520W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9094", 
+        "LONGITUDE" : "-120.752", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442051.1523, 
+        "y" : 4426485.8283
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89341, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP90.19L1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48533", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369252N1207736W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9252", 
+        "LONGITUDE" : "-120.7736", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444455.6533, 
+        "y" : 4428685.754
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89340, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP90.18R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48532", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "369226N1207760W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.9226", 
+        "LONGITUDE" : "-120.776", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444722.82, 
+        "y" : 4428323.7096
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88717, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "05S12E22H001M", 
+        "SWN" : "05S12E22H001M", 
+        "CASGEM_WELL_ID" : "9600", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374852N1206310W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4852", 
+        "LONGITUDE" : "-120.631", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428581.4939, 
+        "y" : 4506954.9347
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90931, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MC15-2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48600", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/04/2012", 
+        "COMPLETION_RPT_NBR" : "e0105602", 
+        "CASGEM_STATION_ID" : "370173N1208999W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0173", 
+        "LONGITUDE" : "-120.8999", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458515.305, 
+        "y" : 4441518.4586
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90930, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MC15-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48599", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "355", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/04/2012", 
+        "COMPLETION_RPT_NBR" : "e0105602", 
+        "CASGEM_STATION_ID" : "370173N1208999W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0173", 
+        "LONGITUDE" : "-120.8999", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458515.305, 
+        "y" : 4441518.4586
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90932, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MC15-3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48601", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/04/2012", 
+        "COMPLETION_RPT_NBR" : "e0105602", 
+        "CASGEM_STATION_ID" : "370173N1208999W003", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.0173", 
+        "LONGITUDE" : "-120.8999", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458515.305, 
+        "y" : 4441518.4586
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Madera-Chowchilla Basin Regional Groundwater Monitoring Group", 
+        "OBJECTID" : 91270, 
+        "SHP_FILE_ID" : "3219", 
+        "ME_ID" : "5144", 
+        "LOCAL_WELL_NBR" : "CWD 32", 
+        "SWN" : "09S15E23J002M", 
+        "CASGEM_WELL_ID" : "11001", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "291", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/08/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371341N1202935W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1341", 
+        "LONGITUDE" : "-120.2935", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13391011.1657, 
+        "y" : 4457815.1176
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "CHOWCHILLA WATER DISTRICT", 
+        "OBJECTID" : 8843, 
+        "SHP_FILE_ID" : "3219", 
+        "ME_ID" : "1090", 
+        "LOCAL_WELL_NBR" : "CWD 32", 
+        "SWN" : "09S15E23J002M", 
+        "CASGEM_WELL_ID" : "11001", 
+        "GW_BASIN_NAME" : "Chowchilla", 
+        "GW_BASIN_CODE" : "5-22.05", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "291", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "02/08/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371341N1202935W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.1341", 
+        "LONGITUDE" : "-120.2935", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13391011.1657, 
+        "y" : 4457815.1176
+      }
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 21544, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E30G002M", 
+        "CASGEM_WELL_ID" : "24016", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352014N1192215W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2014", 
+        "LONGITUDE" : "-119.2215", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271676.6716, 
+        "y" : 4191284.3936
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 21565, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E09F001M", 
+        "CASGEM_WELL_ID" : "24037", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352475N1190868W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2475", 
+        "LONGITUDE" : "-119.0868", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256681.9362, 
+        "y" : 4197566.4797
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 21763, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S25E14B001M", 
+        "CASGEM_WELL_ID" : "24239", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354122N1192567W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4122", 
+        "LONGITUDE" : "-119.2567", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275595.1177, 
+        "y" : 4220039.5297
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 21765, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S25E21A001M", 
+        "CASGEM_WELL_ID" : "24242", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353977N1192907W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3977", 
+        "LONGITUDE" : "-119.2907", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279379.9804, 
+        "y" : 4218059.1877
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 21768, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S25E26K001M", 
+        "CASGEM_WELL_ID" : "24245", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353758N1192562W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3758", 
+        "LONGITUDE" : "-119.2562", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275539.4579, 
+        "y" : 4215068.8636
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 21773, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S25E34K001M", 
+        "CASGEM_WELL_ID" : "24250", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353586N1192799W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3586", 
+        "LONGITUDE" : "-119.2799", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278177.7299, 
+        "y" : 4212720.8674
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 21787, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E14J002M", 
+        "CASGEM_WELL_ID" : "24264", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352303N1190403W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2303", 
+        "LONGITUDE" : "-119.0403", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13251505.5799, 
+        "y" : 4195222.2037
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 21816, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S28E07R004M", 
+        "CASGEM_WELL_ID" : "24293", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352389N1190045W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2389", 
+        "LONGITUDE" : "-119.0045", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13247520.3421, 
+        "y" : 4196394.2795
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 20567, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S27E28J001M", 
+        "CASGEM_WELL_ID" : "22985", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352880N1190785W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.288", 
+        "LONGITUDE" : "-119.0785", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255757.9844, 
+        "y" : 4203088.3969
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 20571, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S27E35C001M", 
+        "CASGEM_WELL_ID" : "22989", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352811N1190518W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2811", 
+        "LONGITUDE" : "-119.0518", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13252785.754, 
+        "y" : 4202147.4307
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 34040, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S26E10N001M", 
+        "CASGEM_WELL_ID" : "36994", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "351527N1191816W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.1527", 
+        "LONGITUDE" : "-119.1816", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267235.0239, 
+        "y" : 4184651.8753
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 33801, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E03J001M", 
+        "CASGEM_WELL_ID" : "36746", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352597N1190573W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2597", 
+        "LONGITUDE" : "-119.0573", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13253398.0112, 
+        "y" : 4199229.5816
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 33643, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S26E19R001M", 
+        "CASGEM_WELL_ID" : "36583", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352094N1192196W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2094", 
+        "LONGITUDE" : "-119.2196", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271465.1646, 
+        "y" : 4192374.3046
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 33716, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S27E29P001M", 
+        "CASGEM_WELL_ID" : "36659", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352822N1191052W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2822", 
+        "LONGITUDE" : "-119.1052", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258730.2148, 
+        "y" : 4202297.4344
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 35788, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E12N001M", 
+        "CASGEM_WELL_ID" : "38789", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352381N1190373W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2381", 
+        "LONGITUDE" : "-119.0373", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13251171.6214, 
+        "y" : 4196285.244
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 36328, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "32S27E01A001M", 
+        "CASGEM_WELL_ID" : "39344", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "350291N1191763W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.0291", 
+        "LONGITUDE" : "-119.1763", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266645.0306, 
+        "y" : 4167836.4213
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 36467, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S24E19B001M", 
+        "CASGEM_WELL_ID" : "39486", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353969N1194419W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3969", 
+        "LONGITUDE" : "-119.4419", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13296211.4874, 
+        "y" : 4217949.9379
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 35702, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S25E35L001M", 
+        "CASGEM_WELL_ID" : "38703", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "353586N1192660W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.3586", 
+        "LONGITUDE" : "-119.266", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276630.389, 
+        "y" : 4212720.8674
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "VENTURA COUNTY FLOOD CONTROL DISTRICT", 
+        "OBJECTID" : 35706, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1082", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "31S27E12K001M", 
+        "CASGEM_WELL_ID" : "38707", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352511N1190276W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2511", 
+        "LONGITUDE" : "-119.0276", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13250091.8223, 
+        "y" : 4198057.205
+      }
+    }
+  ]
+}

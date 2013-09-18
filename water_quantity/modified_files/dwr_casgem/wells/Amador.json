@@ -1,0 +1,226 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 90949, 
+        "SHP_FILE_ID" : "3211", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AWA MW-2 03", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48616", 
+        "GW_BASIN_NAME" : "Cosumnes", 
+        "GW_BASIN_CODE" : "5-22.16", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "175", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Amador", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "382495N1209536W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.249497", 
+        "LONGITUDE" : "-120.953611", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13464494.3861, 
+        "y" : 4614731.5746
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Amador Water Agency", 
+        "OBJECTID" : 91600, 
+        "SHP_FILE_ID" : "3211", 
+        "ME_ID" : "5203", 
+        "LOCAL_WELL_NBR" : "AWA MW-1D 02", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48615", 
+        "GW_BASIN_NAME" : "Cosumnes", 
+        "GW_BASIN_CODE" : "5-22.16", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "317", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Amador", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "382586N1209949W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.258608", 
+        "LONGITUDE" : "-120.994886", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13469089.0981, 
+        "y" : 4616023.1404
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 90948, 
+        "SHP_FILE_ID" : "3211", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AWA MW-1D 02", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48615", 
+        "GW_BASIN_NAME" : "Cosumnes", 
+        "GW_BASIN_CODE" : "5-22.16", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "317", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Amador", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "382586N1209949W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.258608", 
+        "LONGITUDE" : "-120.994886", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13469089.0981, 
+        "y" : 4616023.1404
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Amador Water Agency", 
+        "OBJECTID" : 91599, 
+        "SHP_FILE_ID" : "3211", 
+        "ME_ID" : "5203", 
+        "LOCAL_WELL_NBR" : "AWA MW-1S 01", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48613", 
+        "GW_BASIN_NAME" : "Cosumnes", 
+        "GW_BASIN_CODE" : "5-22.16", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "505", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Amador", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "382587N1209959W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.258725", 
+        "LONGITUDE" : "-120.995946", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13469207.0968, 
+        "y" : 4616039.7272
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 90946, 
+        "SHP_FILE_ID" : "3211", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "AWA MW-1S 01", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48613", 
+        "GW_BASIN_NAME" : "Cosumnes", 
+        "GW_BASIN_CODE" : "5-22.16", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "505", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Amador", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "382587N1209959W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.258725", 
+        "LONGITUDE" : "-120.995946", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13469207.0968, 
+        "y" : 4616039.7272
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Amador Water Agency", 
+        "OBJECTID" : 91889, 
+        "SHP_FILE_ID" : "3211", 
+        "ME_ID" : "5203", 
+        "LOCAL_WELL_NBR" : "AWA MW-2 03", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48616", 
+        "GW_BASIN_NAME" : "Cosumnes", 
+        "GW_BASIN_CODE" : "5-22.16", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "175", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Amador", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "382495N1209536W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.249497", 
+        "LONGITUDE" : "-120.953611", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13464494.3861, 
+        "y" : 4614731.5746
+      }
+    }
+  ]
+}

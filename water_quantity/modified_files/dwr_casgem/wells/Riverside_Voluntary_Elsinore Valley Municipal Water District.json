@@ -1,0 +1,930 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83288, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "MW#4 Lower", 
+        "SWN" : "06S04W21F001S", 
+        "CASGEM_WELL_ID" : "47938", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336350N1173016W002", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.635", 
+        "LONGITUDE" : "-117.3016", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13057954.3812, 
+        "y" : 3979896.1109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83278, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "New Sump", 
+        "SWN" : "04S06W35G002S", 
+        "CASGEM_WELL_ID" : "47928", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3301311", 
+        "CASGEM_STATION_ID" : "337810N1174740W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.781", 
+        "LONGITUDE" : "-117.474", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13077145.8614, 
+        "y" : 3999433.4474
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83273, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "South State Well", 
+        "SWN" : "06S04W18K001S", 
+        "CASGEM_WELL_ID" : "47923", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3303104", 
+        "CASGEM_STATION_ID" : "336482N1173350W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.64825", 
+        "LONGITUDE" : "-117.335", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13061672.4522, 
+        "y" : 3981667.8221
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83276, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Gregory No.2 Well", 
+        "SWN" : "05S05W07E001S", 
+        "CASGEM_WELL_ID" : "47926", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3302069", 
+        "CASGEM_STATION_ID" : "337520N1174460W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.752", 
+        "LONGITUDE" : "-117.446", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13074028.9157, 
+        "y" : 3995550.0984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83271, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Barney Lee Well No.3", 
+        "SWN" : "05S05W08P003S", 
+        "CASGEM_WELL_ID" : "47921", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3302018", 
+        "CASGEM_STATION_ID" : "337420N1174270W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.742", 
+        "LONGITUDE" : "-117.427", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13071913.8454, 
+        "y" : 3994211.3171
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83269, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Barney Lee Well No.4", 
+        "SWN" : "05S05W08P002S", 
+        "CASGEM_WELL_ID" : "47919", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3302014", 
+        "CASGEM_STATION_ID" : "337430N1174270W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.743", 
+        "LONGITUDE" : "-117.427", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13071913.8454, 
+        "y" : 3994345.1882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83274, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Station 70 Well", 
+        "SWN" : "05S05W08N002S", 
+        "CASGEM_WELL_ID" : "47924", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3302038", 
+        "CASGEM_STATION_ID" : "337450N1174320W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.745", 
+        "LONGITUDE" : "-117.432", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13072470.4428, 
+        "y" : 3994612.9351
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83282, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "MW#1 Lower", 
+        "SWN" : "06S04W21H001S", 
+        "CASGEM_WELL_ID" : "47932", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336366N1172928W002", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6366", 
+        "LONGITUDE" : "-117.2928", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13056974.7697, 
+        "y" : 3980110.0389
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83293, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "LLWD #1A", 
+        "SWN" : "04S06W22N001S", 
+        "CASGEM_WELL_ID" : "47943", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3301212", 
+        "CASGEM_STATION_ID" : "338009N1174983W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.800897", 
+        "LONGITUDE" : "-117.498267", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13079847.2515, 
+        "y" : 4002098.5872
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83270, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Barney Lee Well No.2", 
+        "SWN" : "05S05W09P001S", 
+        "CASGEM_WELL_ID" : "47920", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3301310", 
+        "CASGEM_STATION_ID" : "337430N1174260W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.743", 
+        "LONGITUDE" : "-117.426", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13071802.5259, 
+        "y" : 3994345.1882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83281, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "MW#1 Upper", 
+        "SWN" : "06S04W21H000S", 
+        "CASGEM_WELL_ID" : "47931", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336366N1172928W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6366", 
+        "LONGITUDE" : "-117.2928", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13056974.7697, 
+        "y" : 3980110.0389
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83292, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Wisconsin", 
+        "SWN" : "06S05W02A000S", 
+        "CASGEM_WELL_ID" : "47942", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3301051", 
+        "CASGEM_STATION_ID" : "336829N1173668W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6829", 
+        "LONGITUDE" : "-117.3668", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13065212.412, 
+        "y" : 3986302.3038
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83275, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Olive St Well", 
+        "SWN" : "06S04W22D002S", 
+        "CASGEM_WELL_ID" : "47925", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3302525", 
+        "CASGEM_STATION_ID" : "336416N1172920W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.64155", 
+        "LONGITUDE" : "-117.292", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13056885.7141, 
+        "y" : 3980771.9039
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83287, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "MW#4 Upper", 
+        "SWN" : "06S04W21F000S", 
+        "CASGEM_WELL_ID" : "47937", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336350N1173016W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.635", 
+        "LONGITUDE" : "-117.3016", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13057954.3812, 
+        "y" : 3979896.1109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83291, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "McVicker MW", 
+        "SWN" : "05S05W34N000S", 
+        "CASGEM_WELL_ID" : "47941", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336853N1173969W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6853", 
+        "LONGITUDE" : "-117.3969", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13068563.1287, 
+        "y" : 3986623.3761
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83283, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "MW#2 Upper", 
+        "SWN" : "06S04W21J000S", 
+        "CASGEM_WELL_ID" : "47933", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336327N1172947W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6327", 
+        "LONGITUDE" : "-117.2947", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13057186.2767, 
+        "y" : 3979588.5963
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83289, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Stadium MW Upper", 
+        "SWN" : "06S04W16C000S", 
+        "CASGEM_WELL_ID" : "47939", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336555N1173035W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6555", 
+        "LONGITUDE" : "-117.3035", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13058165.8883, 
+        "y" : 3982637.3645
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83284, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "MW#2 Lower", 
+        "SWN" : "06S04W21J001S", 
+        "CASGEM_WELL_ID" : "47934", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336327N1172947W002", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6327", 
+        "LONGITUDE" : "-117.2947", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13057186.2767, 
+        "y" : 3979588.5963
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83272, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "North State Well", 
+        "SWN" : "06S04W18B001S", 
+        "CASGEM_WELL_ID" : "47922", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3303108", 
+        "CASGEM_STATION_ID" : "336529N1173320W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.65293", 
+        "LONGITUDE" : "-117.332", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13061338.4938, 
+        "y" : 3982293.6691
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 81341, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Barney Lee Well No.1", 
+        "SWN" : "05S05W08N001S", 
+        "CASGEM_WELL_ID" : "47846", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "337430N1174280W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.743", 
+        "LONGITUDE" : "-117.428", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13072025.1649, 
+        "y" : 3994345.1882
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83277, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Gregory No. 1 Well", 
+        "SWN" : "05S05W07C001S", 
+        "CASGEM_WELL_ID" : "47927", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3301313", 
+        "CASGEM_STATION_ID" : "337520N1174450W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.752", 
+        "LONGITUDE" : "-117.445", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13073917.5962, 
+        "y" : 3995550.0984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83290, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Stadium MW Lower", 
+        "SWN" : "06S04W16C001S", 
+        "CASGEM_WELL_ID" : "47940", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336555N1173035W002", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6555", 
+        "LONGITUDE" : "-117.3035", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13058165.8883, 
+        "y" : 3982637.3645
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83279, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Grand Well", 
+        "SWN" : "06S05W24A002S", 
+        "CASGEM_WELL_ID" : "47929", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3301053", 
+        "CASGEM_STATION_ID" : "336393N1173454W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6393", 
+        "LONGITUDE" : "-117.3454", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13062830.1749, 
+        "y" : 3980471.0514
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83295, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "LLWD #4", 
+        "SWN" : "04S06W22N000S", 
+        "CASGEM_WELL_ID" : "47945", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3301215", 
+        "CASGEM_STATION_ID" : "338023N1174981W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.802306", 
+        "LONGITUDE" : "-117.498128", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13079831.7781, 
+        "y" : 4002287.3417
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83294, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "LLWD #1 (Old well)", 
+        "SWN" : "04S06W22N002S", 
+        "CASGEM_WELL_ID" : "47944", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "338010N1174983W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.800975", 
+        "LONGITUDE" : "-117.498253", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13079845.6931, 
+        "y" : 4002109.0363
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83285, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "MW#3 Upper", 
+        "SWN" : "06S04W21K000S", 
+        "CASGEM_WELL_ID" : "47935", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336329N1172982W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6329", 
+        "LONGITUDE" : "-117.2982", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13057575.895, 
+        "y" : 3979615.3364
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83286, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "MW#3 Lower", 
+        "SWN" : "06S04W21K001S", 
+        "CASGEM_WELL_ID" : "47936", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "336329N1172982W002", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6329", 
+        "LONGITUDE" : "-117.2982", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13057575.895, 
+        "y" : 3979615.3364
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Elsinore Valley Municipal Water District", 
+        "OBJECTID" : 83280, 
+        "SHP_FILE_ID" : "1679", 
+        "ME_ID" : "384", 
+        "LOCAL_WELL_NBR" : "Wood #2", 
+        "SWN" : "06S04W19F001S", 
+        "CASGEM_WELL_ID" : "47930", 
+        "GW_BASIN_NAME" : "Elsinore", 
+        "GW_BASIN_CODE" : "8-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Riverside", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2013", 
+        "COMPLETION_RPT_NBR" : "3302774", 
+        "CASGEM_STATION_ID" : "336334N1173390W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.6334", 
+        "LONGITUDE" : "-117.339", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13062117.7302, 
+        "y" : 3979682.1868
+      }
+    }
+  ]
+}

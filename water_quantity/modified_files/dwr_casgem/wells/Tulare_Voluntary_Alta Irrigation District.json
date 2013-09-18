@@ -1,0 +1,4034 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15398, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "121A", 
+        "SWN" : "17S23E02B001M", 
+        "CASGEM_WELL_ID" : "17716", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364883N1194429W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4883", 
+        "LONGITUDE" : "-119.4429", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13296322.8069, 
+        "y" : 4368020.3968
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15399, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S23E05R001M", 
+        "CASGEM_WELL_ID" : "17717", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364742N1194927W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4742", 
+        "LONGITUDE" : "-119.4927", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13301866.5175, 
+        "y" : 4366068.2769
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15401, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "129B", 
+        "SWN" : "17S23E09B001M", 
+        "CASGEM_WELL_ID" : "17719", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364733N1194816W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4733", 
+        "LONGITUDE" : "-119.4816", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13300630.8712, 
+        "y" : 4365943.6856
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15403, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "130B", 
+        "SWN" : "17S23E12C001M", 
+        "CASGEM_WELL_ID" : "17721", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364728N1194293W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4728", 
+        "LONGITUDE" : "-119.4293", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13294808.8618, 
+        "y" : 4365874.4688
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15405, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "155E", 
+        "SWN" : "17S23E15B001M", 
+        "CASGEM_WELL_ID" : "17723", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364586N1194646W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4586", 
+        "LONGITUDE" : "-119.4646", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13298738.4398, 
+        "y" : 4363908.8985
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15407, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S23E17L001M", 
+        "CASGEM_WELL_ID" : "17725", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364508N1195035W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4508", 
+        "LONGITUDE" : "-119.5035", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13303068.768, 
+        "y" : 4362829.3723
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15410, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "156A", 
+        "SWN" : "17S23E21C001M", 
+        "CASGEM_WELL_ID" : "17728", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364442N1194835W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4442", 
+        "LONGITUDE" : "-119.4835", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13300842.3782, 
+        "y" : 4361916.0117
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15411, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S23E23D001M", 
+        "CASGEM_WELL_ID" : "17729", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364436N1194546W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4436", 
+        "LONGITUDE" : "-119.4546", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13297625.2449, 
+        "y" : 4361832.9828
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15412, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S23E24D002M", 
+        "CASGEM_WELL_ID" : "17730", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364439N1194366W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4439", 
+        "LONGITUDE" : "-119.4366", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13295621.4941, 
+        "y" : 4361874.4972
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15416, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S23E30M001M", 
+        "CASGEM_WELL_ID" : "17734", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364197N1195243W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4197", 
+        "LONGITUDE" : "-119.5243", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13305384.2134, 
+        "y" : 4358526.186
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15958, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E25M001M", 
+        "CASGEM_WELL_ID" : "18284", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365094N1194302W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5094", 
+        "LONGITUDE" : "-119.4302", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13294909.0493, 
+        "y" : 4370942.318
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15959, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E28A001M", 
+        "CASGEM_WELL_ID" : "18285", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365172N1194671W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5172", 
+        "LONGITUDE" : "-119.4671", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13299016.7385, 
+        "y" : 4372022.6611
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15961, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "118A", 
+        "SWN" : "16S23E31L001M", 
+        "CASGEM_WELL_ID" : "18287", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364958N1195121W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4958", 
+        "LONGITUDE" : "-119.5121", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13304026.1156, 
+        "y" : 4369058.9031
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15962, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "119", 
+        "SWN" : "16S23E32B001M", 
+        "CASGEM_WELL_ID" : "18288", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365003N1194935W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5003", 
+        "LONGITUDE" : "-119.4935", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13301955.5731, 
+        "y" : 4369682.0553
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15964, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E33R002M", 
+        "CASGEM_WELL_ID" : "18290", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364892N1194682W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4892", 
+        "LONGITUDE" : "-119.4682", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13299139.19, 
+        "y" : 4368145.0122
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15965, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E34K001M", 
+        "CASGEM_WELL_ID" : "18291", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364958N1194577W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4958", 
+        "LONGITUDE" : "-119.4577", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13297970.3353, 
+        "y" : 4369058.9031
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15966, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E36F001M", 
+        "CASGEM_WELL_ID" : "18292", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364983N1194221W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4983", 
+        "LONGITUDE" : "-119.4221", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13294007.3615, 
+        "y" : 4369405.0943
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15968, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E03J002M", 
+        "CASGEM_WELL_ID" : "18294", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365631N1193410W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5631", 
+        "LONGITUDE" : "-119.341", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284979.3508, 
+        "y" : 4378382.2721
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15969, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "57A", 
+        "SWN" : "16S24E05M001M", 
+        "CASGEM_WELL_ID" : "18295", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365642N1193949W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5642", 
+        "LONGITUDE" : "-119.3949", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290979.4713, 
+        "y" : 4378534.7275
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15970, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E06A001M", 
+        "CASGEM_WELL_ID" : "18296", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365744N1193957W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5744", 
+        "LONGITUDE" : "-119.3957", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13291068.5269, 
+        "y" : 4379948.5075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15971, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "55B", 
+        "SWN" : "16S24E07D001M", 
+        "CASGEM_WELL_ID" : "18297", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365600N1194121W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.56", 
+        "LONGITUDE" : "-119.4121", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13292894.1666, 
+        "y" : 4377952.637
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15973, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "60C", 
+        "SWN" : "16S24E08H001M", 
+        "CASGEM_WELL_ID" : "18299", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365561N1193779W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5561", 
+        "LONGITUDE" : "-119.3779", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289087.04, 
+        "y" : 4377412.1528
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15974, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "61A", 
+        "SWN" : "16S24E10J001M", 
+        "CASGEM_WELL_ID" : "18301", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365525N1193410W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5525", 
+        "LONGITUDE" : "-119.341", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284979.3508, 
+        "y" : 4376913.2685
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15978, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E13R001M", 
+        "CASGEM_WELL_ID" : "18305", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365308N1193052W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5308", 
+        "LONGITUDE" : "-119.3052", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280994.113, 
+        "y" : 4373906.5967
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15118, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "47", 
+        "SWN" : "16S23E03A001M", 
+        "CASGEM_WELL_ID" : "17433", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365736N1194510W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5736", 
+        "LONGITUDE" : "-119.451", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13297224.4947, 
+        "y" : 4379837.616
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15551, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "135B", 
+        "SWN" : "17S24E02R001M", 
+        "CASGEM_WELL_ID" : "17870", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364728N1193316W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4728", 
+        "LONGITUDE" : "-119.3316", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283932.9475, 
+        "y" : 4365874.4688
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15552, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "126", 
+        "SWN" : "17S24E03K001M", 
+        "CASGEM_WELL_ID" : "17871", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364797N1193577W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4797", 
+        "LONGITUDE" : "-119.3577", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286838.3863, 
+        "y" : 4366829.6999
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15553, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "124", 
+        "SWN" : "17S24E08A001M", 
+        "CASGEM_WELL_ID" : "17872", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364725N1193857W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4725", 
+        "LONGITUDE" : "-119.3857", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289955.332, 
+        "y" : 4365832.939
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15941, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E17A001M", 
+        "CASGEM_WELL_ID" : "18267", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365464N1194846W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5464", 
+        "LONGITUDE" : "-119.4846", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13300964.8296, 
+        "y" : 4376067.9898
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15954, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "88C", 
+        "SWN" : "16S23E21N001M", 
+        "CASGEM_WELL_ID" : "18280", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365178N1194846W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5178", 
+        "LONGITUDE" : "-119.4846", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13300964.8296, 
+        "y" : 4372105.7689
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15955, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E22D001M", 
+        "CASGEM_WELL_ID" : "18281", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365319N1194641W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5319", 
+        "LONGITUDE" : "-119.4641", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13298682.7801, 
+        "y" : 4374058.9884
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15980, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E16D001M", 
+        "CASGEM_WELL_ID" : "18307", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365453N1193721W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5453", 
+        "LONGITUDE" : "-119.3721", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13288441.3869, 
+        "y" : 4375915.5695
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15253, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E04L001M", 
+        "CASGEM_WELL_ID" : "17569", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365672N1194763W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5672", 
+        "LONGITUDE" : "-119.4763", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13300040.8779, 
+        "y" : 4378950.5257
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15273, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "45", 
+        "SWN" : "16S23E09E001M", 
+        "CASGEM_WELL_ID" : "17589", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365542N1194807W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5542", 
+        "LONGITUDE" : "-119.4807", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13300530.6836, 
+        "y" : 4377148.8498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15279, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "67A", 
+        "SWN" : "16S23E13H001M", 
+        "CASGEM_WELL_ID" : "17595", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365392N1194171W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5392", 
+        "LONGITUDE" : "-119.4171", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13293450.764, 
+        "y" : 4375070.3696
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15280, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E14R001M", 
+        "CASGEM_WELL_ID" : "17596", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365322N1194310W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5322", 
+        "LONGITUDE" : "-119.431", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13294998.1049, 
+        "y" : 4374100.5501
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15281, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "66", 
+        "SWN" : "16S23E15A001M", 
+        "CASGEM_WELL_ID" : "17597", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365450N1194504W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.545", 
+        "LONGITUDE" : "-119.4504", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13297157.7031, 
+        "y" : 4375874.0008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 15283, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E16A001M", 
+        "CASGEM_WELL_ID" : "17599", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365464N1194671W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5464", 
+        "LONGITUDE" : "-119.4671", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13299016.7385, 
+        "y" : 4376067.9898
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13956, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "85C", 
+        "SWN" : "16S24E23J001M", 
+        "CASGEM_WELL_ID" : "16252", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365231N1193229W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5231", 
+        "LONGITUDE" : "-119.3229", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282964.468, 
+        "y" : 4372839.916
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13960, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "98", 
+        "SWN" : "16S24E25L001M", 
+        "CASGEM_WELL_ID" : "16256", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365089N1193157W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5089", 
+        "LONGITUDE" : "-119.3157", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282162.9676, 
+        "y" : 4370873.0689
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13962, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "96C", 
+        "SWN" : "16S24E27R001M", 
+        "CASGEM_WELL_ID" : "16258", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365056N1193410W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5056", 
+        "LONGITUDE" : "-119.341", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284979.3508, 
+        "y" : 4370416.0364
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13964, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E28H001M", 
+        "CASGEM_WELL_ID" : "16260", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365117N1193616W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5117", 
+        "LONGITUDE" : "-119.3616", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287272.5323, 
+        "y" : 4371260.8694
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13966, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "93B", 
+        "SWN" : "16S24E29A002M", 
+        "CASGEM_WELL_ID" : "16262", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365144N1193777W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5144", 
+        "LONGITUDE" : "-119.3777", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289064.7761, 
+        "y" : 4371634.8331
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13967, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "91", 
+        "SWN" : "16S24E30D001M", 
+        "CASGEM_WELL_ID" : "16263", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365142N1194085W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5142", 
+        "LONGITUDE" : "-119.4085", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13292493.4164, 
+        "y" : 4371607.1316
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13969, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "106B", 
+        "SWN" : "16S24E33M001M", 
+        "CASGEM_WELL_ID" : "16265", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364928N1193724W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4928", 
+        "LONGITUDE" : "-119.3724", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13288474.7828, 
+        "y" : 4368643.4885
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13970, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E35L001M", 
+        "CASGEM_WELL_ID" : "16266", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364908N1193357W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4908", 
+        "LONGITUDE" : "-119.3357", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284389.3575, 
+        "y" : 4368366.5544
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13971, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E35M002M", 
+        "CASGEM_WELL_ID" : "16267", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364922N1193357W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4922", 
+        "LONGITUDE" : "-119.3357", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284389.3575, 
+        "y" : 4368560.4075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13972, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "112A", 
+        "SWN" : "16S24E36E001M", 
+        "CASGEM_WELL_ID" : "16268", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364961N1193182W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4961", 
+        "LONGITUDE" : "-119.3182", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282441.2664, 
+        "y" : 4369100.4455
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13977, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "62E", 
+        "SWN" : "16S25E07D001M", 
+        "CASGEM_WELL_ID" : "16273", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365591N1193007W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5591", 
+        "LONGITUDE" : "-119.3007", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280493.1753, 
+        "y" : 4377827.9075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13978, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "64F", 
+        "SWN" : "16S25E08D001M", 
+        "CASGEM_WELL_ID" : "16274", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365557N1192867W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5557", 
+        "LONGITUDE" : "-119.2867", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278934.7024, 
+        "y" : 4377356.72
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13987, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "65A", 
+        "SWN" : "16S25E17H001M", 
+        "CASGEM_WELL_ID" : "16283", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365388N1192692W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5388", 
+        "LONGITUDE" : "-119.2692", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276986.6113, 
+        "y" : 4375014.9489
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 13988, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "86D", 
+        "SWN" : "16S25E17P001M", 
+        "CASGEM_WELL_ID" : "16284", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365313N1192781W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5313", 
+        "LONGITUDE" : "-119.2781", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277977.3548, 
+        "y" : 4373975.8654
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 14108, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E18B001M", 
+        "CASGEM_WELL_ID" : "16407", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365443N1192937W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5443", 
+        "LONGITUDE" : "-119.2937", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279713.9388, 
+        "y" : 4375777.0076
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 14110, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "99B", 
+        "SWN" : "16S25E19L001M", 
+        "CASGEM_WELL_ID" : "16409", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365231N1192959W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5231", 
+        "LONGITUDE" : "-119.2959", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279958.8417, 
+        "y" : 4372839.916
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 14111, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "87B", 
+        "SWN" : "16S25E21D001M", 
+        "CASGEM_WELL_ID" : "16410", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365293N1192645W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5293", 
+        "LONGITUDE" : "-119.2645", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276463.4097, 
+        "y" : 4373698.7935
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 14112, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "101D", 
+        "SWN" : "16S25E21P001M", 
+        "CASGEM_WELL_ID" : "16411", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365160N1192601W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.516", 
+        "LONGITUDE" : "-119.2601", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275973.604, 
+        "y" : 4371856.4474
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 14115, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "97A", 
+        "SWN" : "16S25E31C001M", 
+        "CASGEM_WELL_ID" : "16414", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365011N1192976W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5011", 
+        "LONGITUDE" : "-119.2976", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280148.0849, 
+        "y" : 4369792.8416
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 14117, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "116C", 
+        "SWN" : "16S25E32C001M", 
+        "CASGEM_WELL_ID" : "16416", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365008N1192801W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5008", 
+        "LONGITUDE" : "-119.2801", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278199.9938, 
+        "y" : 4369751.2966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 14120, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "114C", 
+        "SWN" : "16S25E34Q001M", 
+        "CASGEM_WELL_ID" : "16419", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364881N1192390W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4881", 
+        "LONGITUDE" : "-119.239", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273624.7627, 
+        "y" : 4367992.7046
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16240, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "148B", 
+        "SWN" : "17S25E29D001M", 
+        "CASGEM_WELL_ID" : "18569", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364283N1192953W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4283", 
+        "LONGITUDE" : "-119.2953", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279892.05, 
+        "y" : 4359715.9621
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16084, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S24E08D001M", 
+        "CASGEM_WELL_ID" : "18412", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364731N1194027W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4731", 
+        "LONGITUDE" : "-119.4027", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13291847.7633, 
+        "y" : 4365915.9988
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16085, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S24E08N001M", 
+        "CASGEM_WELL_ID" : "18413", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364589N1194029W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4589", 
+        "LONGITUDE" : "-119.4029", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13291870.0272, 
+        "y" : 4363950.421
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16087, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S24E13P001M", 
+        "CASGEM_WELL_ID" : "18415", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364442N1193231W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4442", 
+        "LONGITUDE" : "-119.3231", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282986.7319, 
+        "y" : 4361916.0117
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16088, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "139A", 
+        "SWN" : "17S24E15A001M", 
+        "CASGEM_WELL_ID" : "18416", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364578N1193502W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4578", 
+        "LONGITUDE" : "-119.3502", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286003.4901, 
+        "y" : 4363798.1729
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16090, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "144C", 
+        "SWN" : "17S24E16A001M", 
+        "CASGEM_WELL_ID" : "18418", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364575N1193679W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4575", 
+        "LONGITUDE" : "-119.3679", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287973.8451, 
+        "y" : 4363756.6511
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16091, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "138B", 
+        "SWN" : "17S24E17A001M", 
+        "CASGEM_WELL_ID" : "18419", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364583N1193857W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4583", 
+        "LONGITUDE" : "-119.3857", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289955.332, 
+        "y" : 4363867.3763
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16092, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "143", 
+        "SWN" : "17S24E20A001M", 
+        "CASGEM_WELL_ID" : "18420", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364425N1193860W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4425", 
+        "LONGITUDE" : "-119.386", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289988.7278, 
+        "y" : 4361680.7648
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16093, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "142A", 
+        "SWN" : "17S24E20D002M", 
+        "CASGEM_WELL_ID" : "18421", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364439N1193993W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4439", 
+        "LONGITUDE" : "-119.3993", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13291469.2771, 
+        "y" : 4361874.4972
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16099, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "125B", 
+        "SWN" : "17S25E01P001M", 
+        "CASGEM_WELL_ID" : "18427", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364718N1192151W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4718", 
+        "LONGITUDE" : "-119.2151", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270964.2269, 
+        "y" : 4365736.0366
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16100, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "128E", 
+        "SWN" : "17S25E03B001M", 
+        "CASGEM_WELL_ID" : "18428", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364861N1192478W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4861", 
+        "LONGITUDE" : "-119.2478", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274604.3742, 
+        "y" : 4367715.7873
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16102, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E04N001M", 
+        "CASGEM_WELL_ID" : "18430", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364722N1192770W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4722", 
+        "LONGITUDE" : "-119.277", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277854.9033, 
+        "y" : 4365791.4093
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16103, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E06J001M", 
+        "CASGEM_WELL_ID" : "18431", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364794N1192951W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4794", 
+        "LONGITUDE" : "-119.2951", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279869.7861, 
+        "y" : 4366788.1663
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16104, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "123B", 
+        "SWN" : "17S25E10C001M", 
+        "CASGEM_WELL_ID" : "18432", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364717N1192506W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4717", 
+        "LONGITUDE" : "-119.2506", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274916.0688, 
+        "y" : 4365722.1935
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16109, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E17A001M", 
+        "CASGEM_WELL_ID" : "18437", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364572N1192778W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4572", 
+        "LONGITUDE" : "-119.2778", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277943.9589, 
+        "y" : 4363715.1294
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16114, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "83D", 
+        "SWN" : "16S24E20A001M", 
+        "CASGEM_WELL_ID" : "18442", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365275N1193788W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5275", 
+        "LONGITUDE" : "-119.3788", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289187.2275, 
+        "y" : 4373449.4349
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16115, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "84", 
+        "SWN" : "16S24E21J001M", 
+        "CASGEM_WELL_ID" : "18443", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365236N1193591W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5236", 
+        "LONGITUDE" : "-119.3591", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286994.2335, 
+        "y" : 4372909.1778
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 16112, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E18J001M", 
+        "CASGEM_WELL_ID" : "18440", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365383N1193977W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5383", 
+        "LONGITUDE" : "-119.3977", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13291291.1659, 
+        "y" : 4374945.6736
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31761, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "134D", 
+        "SWN" : "17S23E10A001M", 
+        "CASGEM_WELL_ID" : "34662", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364733N1194568W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4733", 
+        "LONGITUDE" : "-119.4568", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13297870.1478, 
+        "y" : 4365943.6856
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31762, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S23E12N001M", 
+        "CASGEM_WELL_ID" : "34663", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364592N1194379W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4592", 
+        "LONGITUDE" : "-119.4379", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13295766.2094, 
+        "y" : 4363991.9435
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31763, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S23E16B001M", 
+        "CASGEM_WELL_ID" : "34664", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364572N1194835W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4572", 
+        "LONGITUDE" : "-119.4835", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13300842.3782, 
+        "y" : 4363715.1294
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31765, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "158B", 
+        "SWN" : "17S23E18E001M", 
+        "CASGEM_WELL_ID" : "34666", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364544N1195277W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4544", 
+        "LONGITUDE" : "-119.5277", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13305762.6997, 
+        "y" : 4363327.6017
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31767, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S23E23D002M", 
+        "CASGEM_WELL_ID" : "34668", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364436N1194546W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4436", 
+        "LONGITUDE" : "-119.4546", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13297625.2449, 
+        "y" : 4361832.9828
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31770, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "152C", 
+        "SWN" : "17S23E30B001M", 
+        "CASGEM_WELL_ID" : "34671", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364286N1195154W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4286", 
+        "LONGITUDE" : "-119.5154", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13304393.47, 
+        "y" : 4359757.4683
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31768, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S23E27D001M", 
+        "CASGEM_WELL_ID" : "34669", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364294N1194738W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4294", 
+        "LONGITUDE" : "-119.4738", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13299762.5791, 
+        "y" : 4359868.1523
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31485, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E12D001M", 
+        "CASGEM_WELL_ID" : "34380", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365567N1194304W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5567", 
+        "LONGITUDE" : "-119.4304", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13294931.3132, 
+        "y" : 4377495.3024
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31486, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E14D001M", 
+        "CASGEM_WELL_ID" : "34381", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365461N1194485W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5461", 
+        "LONGITUDE" : "-119.4485", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13296946.196, 
+        "y" : 4376026.4204
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31140, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "74B", 
+        "SWN" : "16S25E19D001M", 
+        "CASGEM_WELL_ID" : "34030", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365300N1193043W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.53", 
+        "LONGITUDE" : "-119.3043", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280893.9254, 
+        "y" : 4373795.7678
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32049, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "111B", 
+        "SWN" : "17S24E01B001M", 
+        "CASGEM_WELL_ID" : "34955", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364867N1193177W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4867", 
+        "LONGITUDE" : "-119.3177", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282385.6066, 
+        "y" : 4367798.8618
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32050, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "105C", 
+        "SWN" : "17S24E05B001M", 
+        "CASGEM_WELL_ID" : "34956", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364875N1193932W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4875", 
+        "LONGITUDE" : "-119.3932", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290790.2282, 
+        "y" : 4367909.6287
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 30857, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "108B", 
+        "SWN" : "16S24E34M001M", 
+        "CASGEM_WELL_ID" : "33741", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364944N1193566W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4944", 
+        "LONGITUDE" : "-119.3566", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286715.9348, 
+        "y" : 4368865.041
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 30859, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E36Q001M", 
+        "CASGEM_WELL_ID" : "33743", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364872N1193128W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4872", 
+        "LONGITUDE" : "-119.3128", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281840.1411, 
+        "y" : 4367868.091
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 31649, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "109D", 
+        "SWN" : "17S23E01A001M", 
+        "CASGEM_WELL_ID" : "34548", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364878N1194210W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4878", 
+        "LONGITUDE" : "-119.421", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13293884.91, 
+        "y" : 4367951.1666
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33035, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S24E09N001M", 
+        "CASGEM_WELL_ID" : "35961", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364589N1193852W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4589", 
+        "LONGITUDE" : "-119.3852", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289899.6723, 
+        "y" : 4363950.421
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33036, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S24E12R002M", 
+        "CASGEM_WELL_ID" : "35962", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364583N1193142W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4583", 
+        "LONGITUDE" : "-119.3142", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281995.9884, 
+        "y" : 4363867.3763
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33038, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S24E15N001M", 
+        "CASGEM_WELL_ID" : "35964", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364442N1193641W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4442", 
+        "LONGITUDE" : "-119.3641", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287550.831, 
+        "y" : 4361916.0117
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33142, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "50A", 
+        "SWN" : "16S23E01J001M", 
+        "CASGEM_WELL_ID" : "36069", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365675N1194135W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5675", 
+        "LONGITUDE" : "-119.4135", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13293050.0138, 
+        "y" : 4378992.1065
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33145, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S24E19D001M", 
+        "CASGEM_WELL_ID" : "36072", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364431N1194196W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4431", 
+        "LONGITUDE" : "-119.4196", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13293729.0627, 
+        "y" : 4361763.7925
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33146, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S24E20D001M", 
+        "CASGEM_WELL_ID" : "36073", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364436N1194035W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4436", 
+        "LONGITUDE" : "-119.4035", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13291936.8189, 
+        "y" : 4361832.9828
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33147, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S24E23P001M", 
+        "CASGEM_WELL_ID" : "36074", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364300N1193416W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.43", 
+        "LONGITUDE" : "-119.3416", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285046.1425, 
+        "y" : 4359951.166
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33150, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "113A", 
+        "SWN" : "17S25E01D001M", 
+        "CASGEM_WELL_ID" : "36077", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364852N1192192W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4852", 
+        "LONGITUDE" : "-119.2192", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271420.6368, 
+        "y" : 4367591.1768
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33152, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "150B", 
+        "SWN" : "17S25E06A001M", 
+        "CASGEM_WELL_ID" : "36079", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364864N1192981W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4864", 
+        "LONGITUDE" : "-119.2981", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280203.7446, 
+        "y" : 4367757.3244
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33153, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E07R001M", 
+        "CASGEM_WELL_ID" : "36080", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364597N1192959W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4597", 
+        "LONGITUDE" : "-119.2959", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279958.8417, 
+        "y" : 4364061.1482
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33158, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "164", 
+        "SWN" : "17S25E18R001M", 
+        "CASGEM_WELL_ID" : "36085", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364433N1192959W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4433", 
+        "LONGITUDE" : "-119.2959", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279958.8417, 
+        "y" : 4361791.4686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33159, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S25E21E001M", 
+        "CASGEM_WELL_ID" : "36086", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364358N1192773W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4358", 
+        "LONGITUDE" : "-119.2773", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277888.2992, 
+        "y" : 4360753.6652
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 33161, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "68C", 
+        "SWN" : "16S24E19C001M", 
+        "CASGEM_WELL_ID" : "36088", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365297N1194079W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5297", 
+        "LONGITUDE" : "-119.4079", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13292426.6247, 
+        "y" : 4373754.2073
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32864, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "79", 
+        "SWN" : "16S23E22D002M", 
+        "CASGEM_WELL_ID" : "35786", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365319N1194641W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5319", 
+        "LONGITUDE" : "-119.4641", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13298682.7801, 
+        "y" : 4374058.9884
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32865, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "80", 
+        "SWN" : "16S23E23E001M", 
+        "CASGEM_WELL_ID" : "35787", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365283N1194482W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5283", 
+        "LONGITUDE" : "-119.4482", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13296912.8002, 
+        "y" : 4373560.2602
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32866, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "82A", 
+        "SWN" : "16S23E27H001M", 
+        "CASGEM_WELL_ID" : "35788", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365136N1194491W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5136", 
+        "LONGITUDE" : "-119.4491", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13297012.9877, 
+        "y" : 4371524.0276
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32867, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E30A002M", 
+        "CASGEM_WELL_ID" : "35789", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365172N1195029W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5172", 
+        "LONGITUDE" : "-119.5029", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13303001.9763, 
+        "y" : 4372022.6611
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32868, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E31C001M", 
+        "CASGEM_WELL_ID" : "35790", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364997N1195121W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4997", 
+        "LONGITUDE" : "-119.5121", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13304026.1156, 
+        "y" : 4369598.9662
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32870, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "102", 
+        "SWN" : "16S23E33H001M", 
+        "CASGEM_WELL_ID" : "35792", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364997N1194682W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4997", 
+        "LONGITUDE" : "-119.4682", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13299139.19, 
+        "y" : 4369598.9662
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32871, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S23E36C001M", 
+        "CASGEM_WELL_ID" : "35793", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364992N1194218W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4992", 
+        "LONGITUDE" : "-119.4218", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13293973.9656, 
+        "y" : 4369529.7258
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32872, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "58A", 
+        "SWN" : "16S24E02B001M", 
+        "CASGEM_WELL_ID" : "35794", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365738N1193271W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5738", 
+        "LONGITUDE" : "-119.3271", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283432.0098, 
+        "y" : 4379865.3388
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32873, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "51B", 
+        "SWN" : "16S24E04B001M", 
+        "CASGEM_WELL_ID" : "35795", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365744N1193663W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5744", 
+        "LONGITUDE" : "-119.3663", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287795.7339, 
+        "y" : 4379948.5075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32875, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E07J001M", 
+        "CASGEM_WELL_ID" : "35797", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365528N1193954W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5528", 
+        "LONGITUDE" : "-119.3954", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13291035.1311, 
+        "y" : 4376954.8413
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32869, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "107A", 
+        "SWN" : "16S23E32P001M", 
+        "CASGEM_WELL_ID" : "35791", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364892N1194941W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4892", 
+        "LONGITUDE" : "-119.4941", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13302022.3648, 
+        "y" : 4368145.0122
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32877, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E10D003M", 
+        "CASGEM_WELL_ID" : "35799", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365561N1193582W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5561", 
+        "LONGITUDE" : "-119.3582", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286894.046, 
+        "y" : 4377412.1528
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32878, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S24E12D002M", 
+        "CASGEM_WELL_ID" : "35801", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365592N1193224W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5592", 
+        "LONGITUDE" : "-119.3224", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282908.8082, 
+        "y" : 4377841.7662
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32880, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "76B", 
+        "SWN" : "16S24E14H001M", 
+        "CASGEM_WELL_ID" : "35803", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365411N1193232W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5411", 
+        "LONGITUDE" : "-119.3232", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282997.8638, 
+        "y" : 4375333.6214
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 32881, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "73A", 
+        "SWN" : "16S24E16H001M", 
+        "CASGEM_WELL_ID" : "35804", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365386N1193593W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5386", 
+        "LONGITUDE" : "-119.3593", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287016.4974, 
+        "y" : 4374987.2387
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 37019, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "149E", 
+        "SWN" : "17S25E18A001M", 
+        "CASGEM_WELL_ID" : "40067", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364575N1192967W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4575", 
+        "LONGITUDE" : "-119.2967", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280047.8973, 
+        "y" : 4363756.6511
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 36041, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "117B", 
+        "SWN" : "16S25E28R001M", 
+        "CASGEM_WELL_ID" : "39048", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365014N1192553W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5014", 
+        "LONGITUDE" : "-119.2553", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275439.2704, 
+        "y" : 4369834.3868
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 36940, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "81C", 
+        "SWN" : "16S23E17R001M", 
+        "CASGEM_WELL_ID" : "39986", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365325N1194846W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5325", 
+        "LONGITUDE" : "-119.4846", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13300964.8296, 
+        "y" : 4374142.112
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 36941, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "75C", 
+        "SWN" : "16S24E14N001M", 
+        "CASGEM_WELL_ID" : "39987", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365314N1193385W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5314", 
+        "LONGITUDE" : "-119.3385", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284701.052, 
+        "y" : 4373989.7192
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alta Irrigation District", 
+        "OBJECTID" : 36164, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "785", 
+        "LOCAL_WELL_NBR" : "92C", 
+        "SWN" : "16S24E30R001M", 
+        "CASGEM_WELL_ID" : "39173", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365058N1193952W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5058", 
+        "LONGITUDE" : "-119.3952", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13291012.8672, 
+        "y" : 4370443.7348
+      }
+    }
+  ]
+}

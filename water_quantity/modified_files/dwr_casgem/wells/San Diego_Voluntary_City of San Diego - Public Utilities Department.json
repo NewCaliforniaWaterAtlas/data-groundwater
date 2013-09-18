@@ -1,0 +1,450 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 104761, 
+        "SHP_FILE_ID" : "3795", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "SP073", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49292", 
+        "GW_BASIN_NAME" : "San Pasqual Valley", 
+        "GW_BASIN_CODE" : "9-10", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "330924N1169465W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.092392", 
+        "LONGITUDE" : "-116.9465", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13018424.8301, 
+        "y" : 3907573.8871
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 104762, 
+        "SHP_FILE_ID" : "3795", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "SP107", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49293", 
+        "GW_BASIN_NAME" : "San Pasqual Valley", 
+        "GW_BASIN_CODE" : "9-10", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "330848N1170146W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.08482", 
+        "LONGITUDE" : "-117.014643", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13026010.4741, 
+        "y" : 3906567.8191
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 105621, 
+        "SHP_FILE_ID" : "3795", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "Lake Hodges", 
+        "SWN" : "13S02W12M003S", 
+        "CASGEM_WELL_ID" : "49485", 
+        "GW_BASIN_NAME" : "San Pasqual Valley", 
+        "GW_BASIN_CODE" : "9-10", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "330557N1170464W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.0557", 
+        "LONGITUDE" : "-117.0464", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13029545.6472, 
+        "y" : 3902699.5427
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92543, 
+        "SHP_FILE_ID" : "3795", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "Santa Ysabel", 
+        "SWN" : "12S01W34L004S", 
+        "CASGEM_WELL_ID" : "48694", 
+        "GW_BASIN_NAME" : "San Pasqual Valley", 
+        "GW_BASIN_CODE" : "9-10", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "90", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "012S001W34L004S", 
+        "CASGEM_STATION_ID" : "330874N1169748W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.087361", 
+        "LONGITUDE" : "-116.974806", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13021575.8396, 
+        "y" : 3906905.4242
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92537, 
+        "SHP_FILE_ID" : "3795", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "Pinery", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48688", 
+        "GW_BASIN_NAME" : "San Pasqual Valley", 
+        "GW_BASIN_CODE" : "9-10", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "43", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/28/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "330494N1170425W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "33.0494", 
+        "LONGITUDE" : "-117.0425", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13029111.5012, 
+        "y" : 3901862.8243
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92852, 
+        "SHP_FILE_ID" : "3347", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "Boundary Waters", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48699", 
+        "GW_BASIN_NAME" : "Tijuana Basin", 
+        "GW_BASIN_CODE" : "9-19", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "280", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "325536N1170608W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "32.553611", 
+        "LONGITUDE" : "-117.060833", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13031152.3214, 
+        "y" : 3836202.08
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92544, 
+        "SHP_FILE_ID" : "3355", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "Aqua Culture", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48695", 
+        "GW_BASIN_NAME" : "Mission Valley", 
+        "GW_BASIN_CODE" : "9-14", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "940", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "327781N1171209W006", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "32.778106", 
+        "LONGITUDE" : "-117.120864", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13037834.9417, 
+        "y" : 3865888.1478
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92539, 
+        "SHP_FILE_ID" : "3359", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "AMW-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48690", 
+        "GW_BASIN_NAME" : "San Diego River Valley", 
+        "GW_BASIN_CODE" : "9-15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "95", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "329102N1169242W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "32.91019", 
+        "LONGITUDE" : "-116.92421", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13015943.5186, 
+        "y" : 3883389.2463
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92542, 
+        "SHP_FILE_ID" : "3355", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "YMCA", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48693", 
+        "GW_BASIN_NAME" : "Mission Valley", 
+        "GW_BASIN_CODE" : "9-14", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "327628N1171933W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "32.7628", 
+        "LONGITUDE" : "-117.1933", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13045898.4804, 
+        "y" : 3863861.7881
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92541, 
+        "SHP_FILE_ID" : "3359", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "Marilla", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48692", 
+        "GW_BASIN_NAME" : "San Diego River Valley", 
+        "GW_BASIN_CODE" : "9-15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "35", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "328556N1169394W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "32.855608", 
+        "LONGITUDE" : "-116.939431", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13017637.9126, 
+        "y" : 3876153.9861
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92540, 
+        "SHP_FILE_ID" : "3359", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "Confluence", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48691", 
+        "GW_BASIN_NAME" : "San Diego River Valley", 
+        "GW_BASIN_CODE" : "9-15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "39", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "329593N1169256W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "32.959342", 
+        "LONGITUDE" : "-116.9256", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13016098.2527, 
+        "y" : 3889908.5366
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92538, 
+        "SHP_FILE_ID" : "3359", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "MW-103", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48689", 
+        "GW_BASIN_NAME" : "San Diego River Valley", 
+        "GW_BASIN_CODE" : "9-15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "95", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "06/29/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "328783N1169242W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "32.8783", 
+        "LONGITUDE" : "-116.92421", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13015943.5186, 
+        "y" : 3879161.4426
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of San Diego - Public Utilities Department", 
+        "OBJECTID" : 92849, 
+        "SHP_FILE_ID" : "3363", 
+        "ME_ID" : "502", 
+        "LOCAL_WELL_NBR" : "Chollas Park", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48696", 
+        "GW_BASIN_NAME" : "Sweetwater Valley", 
+        "GW_BASIN_CODE" : "9-17", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "San Diego", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/18/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "327378N1170722W001", 
+        "HYDROLOGIC_REGION" : "South Coast", 
+        "DWR_REGION_OFFICE" : "Southern", 
+        "LATITUDE" : "32.737778", 
+        "LONGITUDE" : "-117.072222", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13032420.1391, 
+        "y" : 3860549.8782
+      }
+    }
+  ]
+}

@@ -1,0 +1,5250 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 7816, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E06H001M", 
+        "CASGEM_WELL_ID" : "34800", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361344N1190898W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1344", 
+        "LONGITUDE" : "-119.0898", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257015.8947, 
+        "y" : 4319130.3984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 7680, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E32D001M", 
+        "CASGEM_WELL_ID" : "20400", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361519N1191840W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1519", 
+        "LONGITUDE" : "-119.184", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267502.1907, 
+        "y" : 4321542.7579
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 7681, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E02F001M", 
+        "CASGEM_WELL_ID" : "20500", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361314N1191345W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1314", 
+        "LONGITUDE" : "-119.1345", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261991.8759, 
+        "y" : 4318716.9051
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 7688, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E08A001M", 
+        "CASGEM_WELL_ID" : "21200", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361206N1190726W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1206", 
+        "LONGITUDE" : "-119.0726", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255101.1994, 
+        "y" : 4317228.46
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 15844, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E35G001M", 
+        "CASGEM_WELL_ID" : "18168", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362322N1191234W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2322", 
+        "LONGITUDE" : "-119.1234", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260756.2296, 
+        "y" : 4332618.952
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 15846, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E35Q001M", 
+        "CASGEM_WELL_ID" : "18170", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362258N1191231W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2258", 
+        "LONGITUDE" : "-119.1231", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260722.8337, 
+        "y" : 4331735.7501
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18812, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E01F001M", 
+        "CASGEM_WELL_ID" : "21186", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361311N1190137W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1311", 
+        "LONGITUDE" : "-119.0137", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13248544.4814, 
+        "y" : 4318675.5566
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18813, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E02H001M", 
+        "CASGEM_WELL_ID" : "21187", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361347N1190201W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1347", 
+        "LONGITUDE" : "-119.0201", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13249256.9262, 
+        "y" : 4319171.7486
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18814, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E02J001M", 
+        "CASGEM_WELL_ID" : "21188", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361289N1190178W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1289", 
+        "LONGITUDE" : "-119.0178", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13249000.8913, 
+        "y" : 4318372.3394
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18816, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E03E001M", 
+        "CASGEM_WELL_ID" : "21190", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361344N1190520W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1344", 
+        "LONGITUDE" : "-119.052", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13252808.0179, 
+        "y" : 4319130.3984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18817, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E03P001M", 
+        "CASGEM_WELL_ID" : "21191", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361239N1190473W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1239", 
+        "LONGITUDE" : "-119.0473", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13252284.8163, 
+        "y" : 4317683.2409
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18818, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E04G001M", 
+        "CASGEM_WELL_ID" : "21192", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361311N1190603W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1311", 
+        "LONGITUDE" : "-119.0603", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13253731.9697, 
+        "y" : 4318675.5566
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18819, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E04L001M", 
+        "CASGEM_WELL_ID" : "21193", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361306N1190628W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1306", 
+        "LONGITUDE" : "-119.0628", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13254010.2684, 
+        "y" : 4318606.6429
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18820, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E05C001M", 
+        "CASGEM_WELL_ID" : "21194", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361375N1190809W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1375", 
+        "LONGITUDE" : "-119.0809", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256025.1512, 
+        "y" : 4319557.6914
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18821, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E05H002M", 
+        "CASGEM_WELL_ID" : "21195", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361344N1190762W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1344", 
+        "LONGITUDE" : "-119.0762", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255501.9496, 
+        "y" : 4319130.3984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18822, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E05M002M", 
+        "CASGEM_WELL_ID" : "21196", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361281N1190876W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1281", 
+        "LONGITUDE" : "-119.0876", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256770.9918, 
+        "y" : 4318262.0807
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18824, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E06P001M", 
+        "CASGEM_WELL_ID" : "21198", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361256N1191009W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1256", 
+        "LONGITUDE" : "-119.1009", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258251.541, 
+        "y" : 4317917.5295
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18825, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E06Q001M", 
+        "CASGEM_WELL_ID" : "21199", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361239N1190942W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1239", 
+        "LONGITUDE" : "-119.0942", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257505.7004, 
+        "y" : 4317683.2409
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18827, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E09F001M", 
+        "CASGEM_WELL_ID" : "21202", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361194N1190634W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1194", 
+        "LONGITUDE" : "-119.0634", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13254077.0601, 
+        "y" : 4317063.0898
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18829, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E10C001M", 
+        "CASGEM_WELL_ID" : "21204", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361203N1190462W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1203", 
+        "LONGITUDE" : "-119.0462", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13252162.3649, 
+        "y" : 4317187.1172
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18031, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E27Q001M", 
+        "CASGEM_WELL_ID" : "20392", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361533N1191392W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1533", 
+        "LONGITUDE" : "-119.1392", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262515.0775, 
+        "y" : 4321735.7699
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18032, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E28R001M", 
+        "CASGEM_WELL_ID" : "20393", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361531N1191526W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1531", 
+        "LONGITUDE" : "-119.1526", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264006.7587, 
+        "y" : 4321708.1966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18033, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E29H001M", 
+        "CASGEM_WELL_ID" : "20394", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361603N1191706W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1603", 
+        "LONGITUDE" : "-119.1706", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266010.5095, 
+        "y" : 4322700.8817
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18034, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E29L001M", 
+        "CASGEM_WELL_ID" : "20395", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361592N1191812W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1592", 
+        "LONGITUDE" : "-119.1812", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267190.4961, 
+        "y" : 4322549.2156
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18035, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E30R001M", 
+        "CASGEM_WELL_ID" : "20396", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361531N1191887W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1531", 
+        "LONGITUDE" : "-119.1887", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268025.3923, 
+        "y" : 4321708.1966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18830, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E11D001M", 
+        "CASGEM_WELL_ID" : "21205", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361211N1190331W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1211", 
+        "LONGITUDE" : "-119.0331", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13250704.0795, 
+        "y" : 4317297.3649
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18135, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E01C001M", 
+        "CASGEM_WELL_ID" : "20497", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361381N1191190W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1381", 
+        "LONGITUDE" : "-119.119", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260266.4238, 
+        "y" : 4319640.3953
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18136, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E01Q001M", 
+        "CASGEM_WELL_ID" : "20498", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361244N1191126W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1244", 
+        "LONGITUDE" : "-119.1126", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259553.9791, 
+        "y" : 4317752.1488
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18137, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E02A001M", 
+        "CASGEM_WELL_ID" : "20499", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361378N1191256W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1378", 
+        "LONGITUDE" : "-119.1256", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261001.1324, 
+        "y" : 4319599.0433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18138, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E02N001M", 
+        "CASGEM_WELL_ID" : "20501", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361242N1191406W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1242", 
+        "LONGITUDE" : "-119.1406", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262670.9248, 
+        "y" : 4317724.5856
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18139, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E03C001M", 
+        "CASGEM_WELL_ID" : "20502", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361347N1191520W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1347", 
+        "LONGITUDE" : "-119.152", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263939.967, 
+        "y" : 4319171.7486
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18140, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E03Q001M", 
+        "CASGEM_WELL_ID" : "20503", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361264N1191473W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1264", 
+        "LONGITUDE" : "-119.1473", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263416.7654, 
+        "y" : 4318027.7847
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18151, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E11E001M", 
+        "CASGEM_WELL_ID" : "20514", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361164N1191390W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1164", 
+        "LONGITUDE" : "-119.139", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262492.8136, 
+        "y" : 4316649.6755
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18153, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E12D001M", 
+        "CASGEM_WELL_ID" : "20516", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361200N1191206W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.12", 
+        "LONGITUDE" : "-119.1206", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260444.535, 
+        "y" : 4317145.7746
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18154, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E12H001M", 
+        "CASGEM_WELL_ID" : "20517", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361181N1191078W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1181", 
+        "LONGITUDE" : "-119.1078", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259019.6455, 
+        "y" : 4316883.9417
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18168, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E32E001M", 
+        "CASGEM_WELL_ID" : "20531", 
+        "GW_BASIN_NAME" : "Tule", 
+        "GW_BASIN_CODE" : "5-22.13", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361492N1191873W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1492", 
+        "LONGITUDE" : "-119.1873", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267869.545, 
+        "y" : 4321170.5302
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18171, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E33C001M", 
+        "CASGEM_WELL_ID" : "20534", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361519N1191612W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1519", 
+        "LONGITUDE" : "-119.1612", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264964.1063, 
+        "y" : 4321542.7579
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18172, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E33K001M", 
+        "CASGEM_WELL_ID" : "20535", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361419N1191581W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1419", 
+        "LONGITUDE" : "-119.1581", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264619.0159, 
+        "y" : 4320164.2009
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18173, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E33L001M", 
+        "CASGEM_WELL_ID" : "20536", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361419N1191656W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1419", 
+        "LONGITUDE" : "-119.1656", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265453.9121, 
+        "y" : 4320164.2009
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18174, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E33M001M", 
+        "CASGEM_WELL_ID" : "20537", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361433N1191665W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1433", 
+        "LONGITUDE" : "-119.1665", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265554.0996, 
+        "y" : 4320357.1883
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18175, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E33N001M", 
+        "CASGEM_WELL_ID" : "20538", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361386N1191665W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1386", 
+        "LONGITUDE" : "-119.1665", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265554.0996, 
+        "y" : 4319709.3156
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18176, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E34L001M", 
+        "CASGEM_WELL_ID" : "20539", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361450N1191434W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.145", 
+        "LONGITUDE" : "-119.1434", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262982.6194, 
+        "y" : 4320591.5348
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18169, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E32H001M", 
+        "CASGEM_WELL_ID" : "20532", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361481N1191703W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1481", 
+        "LONGITUDE" : "-119.1703", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265977.1137, 
+        "y" : 4321018.8855
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18178, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E35R002M", 
+        "CASGEM_WELL_ID" : "20541", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361406N1191178W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1406", 
+        "LONGITUDE" : "-119.1178", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260132.8404, 
+        "y" : 4319985.0014
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18179, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E36H002M", 
+        "CASGEM_WELL_ID" : "20542", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361464N1191026W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1464", 
+        "LONGITUDE" : "-119.1026", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258440.7842, 
+        "y" : 4320784.5298
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18180, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E36L001M", 
+        "CASGEM_WELL_ID" : "20543", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361450N1191076W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.145", 
+        "LONGITUDE" : "-119.1076", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258997.3816, 
+        "y" : 4320591.5348
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18181, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E06L001M", 
+        "CASGEM_WELL_ID" : "20544", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362161N1190940W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2161", 
+        "LONGITUDE" : "-119.094", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257483.4365, 
+        "y" : 4330397.2851
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18187, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E18C001M", 
+        "CASGEM_WELL_ID" : "20550", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361961N1190934W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1961", 
+        "LONGITUDE" : "-119.0934", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257416.6448, 
+        "y" : 4327638.087
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18188, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E18F001M", 
+        "CASGEM_WELL_ID" : "20551", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361908N1190915W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1908", 
+        "LONGITUDE" : "-119.0915", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257205.1378, 
+        "y" : 4326907.0177
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18189, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E18N001M", 
+        "CASGEM_WELL_ID" : "20552", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361819N1190973W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1819", 
+        "LONGITUDE" : "-119.0973", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257850.7909, 
+        "y" : 4325679.4842
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18190, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E19C001M", 
+        "CASGEM_WELL_ID" : "20553", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361814N1190909W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1814", 
+        "LONGITUDE" : "-119.0909", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257138.3461, 
+        "y" : 4325610.5258
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18191, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E19G002M", 
+        "CASGEM_WELL_ID" : "20554", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361747N1190898W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1747", 
+        "LONGITUDE" : "-119.0898", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257015.8947, 
+        "y" : 4324686.5255
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18192, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E19R001M", 
+        "CASGEM_WELL_ID" : "20555", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361686N1190817W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1686", 
+        "LONGITUDE" : "-119.0817", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256114.2068, 
+        "y" : 4323845.3402
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18193, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E20N001M", 
+        "CASGEM_WELL_ID" : "20556", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361708N1190801W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1708", 
+        "LONGITUDE" : "-119.0801", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255936.0956, 
+        "y" : 4324148.7109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18198, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E29E001M", 
+        "CASGEM_WELL_ID" : "20561", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361622N1190767W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1622", 
+        "LONGITUDE" : "-119.0767", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255557.6093, 
+        "y" : 4322962.8555
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18199, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E29N001M", 
+        "CASGEM_WELL_ID" : "20562", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361547N1190765W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1547", 
+        "LONGITUDE" : "-119.0765", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255535.3454, 
+        "y" : 4321928.7854
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18201, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E30H001M", 
+        "CASGEM_WELL_ID" : "20564", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361619N1190812W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1619", 
+        "LONGITUDE" : "-119.0812", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256058.5471, 
+        "y" : 4322921.4908
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 18202, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E30Q001M", 
+        "CASGEM_WELL_ID" : "20565", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361531N1190853W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1531", 
+        "LONGITUDE" : "-119.0853", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256514.957, 
+        "y" : 4321708.1966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17501, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E13P001M", 
+        "CASGEM_WELL_ID" : "19853", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361856N1191101W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1856", 
+        "LONGITUDE" : "-119.1101", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259275.6803, 
+        "y" : 4326189.7902
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17502, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E13R001M", 
+        "CASGEM_WELL_ID" : "19854", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361853N1191020W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1853", 
+        "LONGITUDE" : "-119.102", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258373.9925, 
+        "y" : 4326148.4131
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17503, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E14B001M", 
+        "CASGEM_WELL_ID" : "19855", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361961N1191223W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1961", 
+        "LONGITUDE" : "-119.1223", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260633.7781, 
+        "y" : 4327638.087
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17506, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E14R001M", 
+        "CASGEM_WELL_ID" : "19858", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361847N1191176W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1847", 
+        "LONGITUDE" : "-119.1176", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260110.5765, 
+        "y" : 4326065.6595
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17507, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E15H001M", 
+        "CASGEM_WELL_ID" : "19859", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361925N1191356W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1925", 
+        "LONGITUDE" : "-119.1356", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262114.3274, 
+        "y" : 4327141.5062
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17508, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E15L001M", 
+        "CASGEM_WELL_ID" : "19860", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361889N1191448W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1889", 
+        "LONGITUDE" : "-119.1448", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263138.4667, 
+        "y" : 4326644.9482
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17509, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E15R001M", 
+        "CASGEM_WELL_ID" : "19861", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361836N1191356W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1836", 
+        "LONGITUDE" : "-119.1356", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262114.3274, 
+        "y" : 4325913.9461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17510, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E16A001M", 
+        "CASGEM_WELL_ID" : "19862", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361928N1191542W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1928", 
+        "LONGITUDE" : "-119.1542", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264184.8699, 
+        "y" : 4327182.8871
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17511, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E16M001M", 
+        "CASGEM_WELL_ID" : "19863", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361853N1191667W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1853", 
+        "LONGITUDE" : "-119.1667", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265576.3635, 
+        "y" : 4326148.4131
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17505, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E14L001M", 
+        "CASGEM_WELL_ID" : "19857", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361886N1191270W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1886", 
+        "LONGITUDE" : "-119.127", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261156.9797, 
+        "y" : 4326603.5694
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17513, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E17R001M", 
+        "CASGEM_WELL_ID" : "19865", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361853N1191715W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1853", 
+        "LONGITUDE" : "-119.1715", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266110.6971, 
+        "y" : 4326148.4131
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17515, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E22B001M", 
+        "CASGEM_WELL_ID" : "19867", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361811N1191398W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1811", 
+        "LONGITUDE" : "-119.1398", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262581.8692, 
+        "y" : 4325569.151
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17516, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E22C002M", 
+        "CASGEM_WELL_ID" : "19868", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361814N1191445W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1814", 
+        "LONGITUDE" : "-119.1445", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263105.0708, 
+        "y" : 4325610.5258
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17517, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E22Q001M", 
+        "CASGEM_WELL_ID" : "19869", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361675N1191395W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1675", 
+        "LONGITUDE" : "-119.1395", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262548.4734, 
+        "y" : 4323693.658
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17518, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E23H001M", 
+        "CASGEM_WELL_ID" : "19870", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361753N1191173W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1753", 
+        "LONGITUDE" : "-119.1173", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260077.1807, 
+        "y" : 4324769.2686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17519, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E23N001M", 
+        "CASGEM_WELL_ID" : "19871", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361708N1191306W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1708", 
+        "LONGITUDE" : "-119.1306", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261557.7299, 
+        "y" : 4324148.7109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17520, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E24A001M", 
+        "CASGEM_WELL_ID" : "19872", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361814N1190998W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1814", 
+        "LONGITUDE" : "-119.0998", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258129.0896, 
+        "y" : 4325610.5258
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17521, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E24H001M", 
+        "CASGEM_WELL_ID" : "19873", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361778N1190995W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1778", 
+        "LONGITUDE" : "-119.0995", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258095.6937, 
+        "y" : 4325114.0382
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17522, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E24J001M", 
+        "CASGEM_WELL_ID" : "19874", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361708N1190995W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1708", 
+        "LONGITUDE" : "-119.0995", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258095.6937, 
+        "y" : 4324148.7109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17523, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E24K002M", 
+        "CASGEM_WELL_ID" : "19875", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361744N1191084W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1744", 
+        "LONGITUDE" : "-119.1084", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259086.4372, 
+        "y" : 4324645.1542
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17524, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E24K003M", 
+        "CASGEM_WELL_ID" : "19876", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361744N1191084W003", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1744", 
+        "LONGITUDE" : "-119.1084", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259086.4372, 
+        "y" : 4324645.1542
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17525, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E25G001M", 
+        "CASGEM_WELL_ID" : "19877", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361619N1191056W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1619", 
+        "LONGITUDE" : "-119.1056", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258774.7426, 
+        "y" : 4322921.4908
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17526, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E25P001M", 
+        "CASGEM_WELL_ID" : "19878", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361544N1191098W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1544", 
+        "LONGITUDE" : "-119.1098", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259242.2845, 
+        "y" : 4321887.4247
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17527, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E26G001M", 
+        "CASGEM_WELL_ID" : "19879", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361622N1191234W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1622", 
+        "LONGITUDE" : "-119.1234", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260756.2296, 
+        "y" : 4322962.8555
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17528, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E26R001M", 
+        "CASGEM_WELL_ID" : "19880", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361547N1191187W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1547", 
+        "LONGITUDE" : "-119.1187", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260233.028, 
+        "y" : 4321928.7854
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17529, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E27A001M", 
+        "CASGEM_WELL_ID" : "19881", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361672N1191351W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1672", 
+        "LONGITUDE" : "-119.1351", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262058.6676, 
+        "y" : 4323652.2905
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17530, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E27N001M", 
+        "CASGEM_WELL_ID" : "19882", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361531N1191478W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1531", 
+        "LONGITUDE" : "-119.1478", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263472.4251, 
+        "y" : 4321708.1966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16847, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E01K001M", 
+        "CASGEM_WELL_ID" : "19189", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362153N1191062W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2153", 
+        "LONGITUDE" : "-119.1062", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258841.5343, 
+        "y" : 4330286.9036
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16850, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E02P001M", 
+        "CASGEM_WELL_ID" : "19192", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362111N1191276W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2111", 
+        "LONGITUDE" : "-119.1276", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261223.7714, 
+        "y" : 4329707.4195
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16886, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E31C001M", 
+        "CASGEM_WELL_ID" : "19229", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361517N1190898W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1517", 
+        "LONGITUDE" : "-119.0898", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257015.8947, 
+        "y" : 4321515.1851
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16887, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E31L001M", 
+        "CASGEM_WELL_ID" : "19230", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361450N1190940W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.145", 
+        "LONGITUDE" : "-119.094", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257483.4365, 
+        "y" : 4320591.5348
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16888, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E32D001M", 
+        "CASGEM_WELL_ID" : "19231", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361497N1190803W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1497", 
+        "LONGITUDE" : "-119.0803", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255958.3595, 
+        "y" : 4321239.4603
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16889, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E32R001M", 
+        "CASGEM_WELL_ID" : "19233", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361386N1190665W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1386", 
+        "LONGITUDE" : "-119.0665", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13254422.1505, 
+        "y" : 4319709.3156
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 16891, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E34L001M", 
+        "CASGEM_WELL_ID" : "19235", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361422N1190401W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1422", 
+        "LONGITUDE" : "-119.0401", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13251483.316, 
+        "y" : 4320205.555
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17362, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E04H001M", 
+        "CASGEM_WELL_ID" : "19713", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362183N1191545W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2183", 
+        "LONGITUDE" : "-119.1545", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264218.2657, 
+        "y" : 4330700.8399
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17366, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E08R001M", 
+        "CASGEM_WELL_ID" : "19717", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361978N1191720W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1978", 
+        "LONGITUDE" : "-119.172", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266166.3568, 
+        "y" : 4327872.5914
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17368, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E09Q001M", 
+        "CASGEM_WELL_ID" : "19719", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361981N1191581W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1981", 
+        "LONGITUDE" : "-119.1581", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264619.0159, 
+        "y" : 4327913.9751
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17369, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E10D001M", 
+        "CASGEM_WELL_ID" : "19720", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362072N1191495W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2072", 
+        "LONGITUDE" : "-119.1495", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263661.6683, 
+        "y" : 4329169.3549
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17370, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E10Q002M", 
+        "CASGEM_WELL_ID" : "19721", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361969N1191412W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1969", 
+        "LONGITUDE" : "-119.1412", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262737.7165, 
+        "y" : 4327748.4414
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17372, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E12B001M", 
+        "CASGEM_WELL_ID" : "19723", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362072N1191073W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2072", 
+        "LONGITUDE" : "-119.1073", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258963.9858, 
+        "y" : 4329169.3549
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17374, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E12L001M", 
+        "CASGEM_WELL_ID" : "19725", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362003N1191109W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2003", 
+        "LONGITUDE" : "-119.1109", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259364.7359, 
+        "y" : 4328217.4601
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17375, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E13A001M", 
+        "CASGEM_WELL_ID" : "19726", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361956N1191023W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1956", 
+        "LONGITUDE" : "-119.1023", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258407.3883, 
+        "y" : 4327569.1161
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17376, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E13D001M", 
+        "CASGEM_WELL_ID" : "19727", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361925N1191131W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1925", 
+        "LONGITUDE" : "-119.1131", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259609.6388, 
+        "y" : 4327141.5062
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 17367, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E09C001M", 
+        "CASGEM_WELL_ID" : "19718", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362078N1191634W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2078", 
+        "LONGITUDE" : "-119.1634", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265209.0092, 
+        "y" : 4329252.1323
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31282, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E11F001M", 
+        "CASGEM_WELL_ID" : "34175", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362042N1191312W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2042", 
+        "LONGITUDE" : "-119.1312", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261624.5216, 
+        "y" : 4328755.4773
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31284, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E12F002M", 
+        "CASGEM_WELL_ID" : "34177", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362044N1191101W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2044", 
+        "LONGITUDE" : "-119.1101", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259275.6803, 
+        "y" : 4328783.0686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31285, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E12Q001M", 
+        "CASGEM_WELL_ID" : "34178", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361964N1191090W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1964", 
+        "LONGITUDE" : "-119.109", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259153.2289, 
+        "y" : 4327679.4698
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31890, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E02E001M", 
+        "CASGEM_WELL_ID" : "34793", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361311N1190334W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1311", 
+        "LONGITUDE" : "-119.0334", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13250737.4754, 
+        "y" : 4318675.5566
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31891, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E02N001M", 
+        "CASGEM_WELL_ID" : "34794", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361239N1190351W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1239", 
+        "LONGITUDE" : "-119.0351", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13250926.7185, 
+        "y" : 4317683.2409
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31892, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E03K001M", 
+        "CASGEM_WELL_ID" : "34795", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361303N1190415W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1303", 
+        "LONGITUDE" : "-119.0415", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13251639.1633, 
+        "y" : 4318565.2948
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31893, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E04F001M", 
+        "CASGEM_WELL_ID" : "34796", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361325N1190631W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1325", 
+        "LONGITUDE" : "-119.0631", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13254043.6643, 
+        "y" : 4318868.5175
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31894, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E04Q002M", 
+        "CASGEM_WELL_ID" : "34797", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361239N1190584W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1239", 
+        "LONGITUDE" : "-119.0584", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13253520.4627, 
+        "y" : 4317683.2409
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31895, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E05E001M", 
+        "CASGEM_WELL_ID" : "34798", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361325N1190876W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1325", 
+        "LONGITUDE" : "-119.0876", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256770.9918, 
+        "y" : 4318868.5175
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31897, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E07B001M", 
+        "CASGEM_WELL_ID" : "34801", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361222N1190953W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1222", 
+        "LONGITUDE" : "-119.0953", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257628.1519, 
+        "y" : 4317448.9574
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31896, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E05Q001M", 
+        "CASGEM_WELL_ID" : "34799", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361239N1190762W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1239", 
+        "LONGITUDE" : "-119.0762", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255501.9496, 
+        "y" : 4317683.2409
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31559, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E13G001M", 
+        "CASGEM_WELL_ID" : "34457", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361897N1191051W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1897", 
+        "LONGITUDE" : "-119.1051", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258719.0829, 
+        "y" : 4326755.2925
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31561, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E21Q001M", 
+        "CASGEM_WELL_ID" : "34459", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361675N1191615W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1675", 
+        "LONGITUDE" : "-119.1615", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264997.5022, 
+        "y" : 4323693.658
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31562, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E22L001M", 
+        "CASGEM_WELL_ID" : "34460", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361711N1191442W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1711", 
+        "LONGITUDE" : "-119.1442", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263071.675, 
+        "y" : 4324190.0803
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31563, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E23C001M", 
+        "CASGEM_WELL_ID" : "34461", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361783N1191309W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1783", 
+        "LONGITUDE" : "-119.1309", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261591.1257, 
+        "y" : 4325182.9934
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31564, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E23R001M", 
+        "CASGEM_WELL_ID" : "34462", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361703N1191173W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1703", 
+        "LONGITUDE" : "-119.1173", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260077.1807, 
+        "y" : 4324079.7623
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31560, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E20J001M", 
+        "CASGEM_WELL_ID" : "34458", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361714N1191709W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1714", 
+        "LONGITUDE" : "-119.1709", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266043.9054, 
+        "y" : 4324231.4499
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31565, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E24C001M", 
+        "CASGEM_WELL_ID" : "34463", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361817N1191128W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1817", 
+        "LONGITUDE" : "-119.1128", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259576.243, 
+        "y" : 4325651.9008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31567, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E25D002M", 
+        "CASGEM_WELL_ID" : "34465", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361672N1191145W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1672", 
+        "LONGITUDE" : "-119.1145", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259765.4861, 
+        "y" : 4323652.2905
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31568, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E25H001M", 
+        "CASGEM_WELL_ID" : "34466", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361606N1190992W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1606", 
+        "LONGITUDE" : "-119.0992", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258062.2979, 
+        "y" : 4322742.2456
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31569, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E26E001M", 
+        "CASGEM_WELL_ID" : "34467", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361639N1191312W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1639", 
+        "LONGITUDE" : "-119.1312", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261624.5216, 
+        "y" : 4323197.2585
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31570, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E26L001M", 
+        "CASGEM_WELL_ID" : "34468", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361600N1191278W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.16", 
+        "LONGITUDE" : "-119.1278", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261246.0353, 
+        "y" : 4322659.518
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31571, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E27D001M", 
+        "CASGEM_WELL_ID" : "34469", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361669N1191481W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1669", 
+        "LONGITUDE" : "-119.1481", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263505.821, 
+        "y" : 4323610.9232
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32006, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S27E10B001M", 
+        "CASGEM_WELL_ID" : "34912", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361219N1190406W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1219", 
+        "LONGITUDE" : "-119.0406", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13251538.9757, 
+        "y" : 4317407.6138
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31276, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E03K001M", 
+        "CASGEM_WELL_ID" : "34169", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362181N1191406W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2181", 
+        "LONGITUDE" : "-119.1406", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262670.9248, 
+        "y" : 4330673.2437
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31279, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E09B001M", 
+        "CASGEM_WELL_ID" : "34172", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362069N1191584W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2069", 
+        "LONGITUDE" : "-119.1584", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264652.4117, 
+        "y" : 4329127.9664
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31280, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E09P002M", 
+        "CASGEM_WELL_ID" : "34173", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361992N1191665W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1992", 
+        "LONGITUDE" : "-119.1665", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265554.0996, 
+        "y" : 4328065.7165
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 31281, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E10N001M", 
+        "CASGEM_WELL_ID" : "34174", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362000N1191492W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2", 
+        "LONGITUDE" : "-119.1492", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263628.2724, 
+        "y" : 4328176.0753
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 30575, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E36N001M", 
+        "CASGEM_WELL_ID" : "33451", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362264N1191181W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2264", 
+        "LONGITUDE" : "-119.1181", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260166.2363, 
+        "y" : 4331818.5473
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32936, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E30D001M", 
+        "CASGEM_WELL_ID" : "35861", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361661N1190965W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1661", 
+        "LONGITUDE" : "-119.0965", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257761.7353, 
+        "y" : 4323500.611
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32937, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E30M001M", 
+        "CASGEM_WELL_ID" : "35862", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361583N1190965W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1583", 
+        "LONGITUDE" : "-119.0965", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257761.7353, 
+        "y" : 4322425.1267
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32534, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E28N001M", 
+        "CASGEM_WELL_ID" : "35451", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361539N1191662W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1539", 
+        "LONGITUDE" : "-119.1662", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265520.7038, 
+        "y" : 4321818.4904
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32535, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E28R002M", 
+        "CASGEM_WELL_ID" : "35452", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361558N1191526W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1558", 
+        "LONGITUDE" : "-119.1526", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264006.7587, 
+        "y" : 4322080.4428
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32536, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E29N001M", 
+        "CASGEM_WELL_ID" : "35453", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361564N1191862W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1564", 
+        "LONGITUDE" : "-119.1862", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267747.0936, 
+        "y" : 4322163.166
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32598, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S26E35D001M", 
+        "CASGEM_WELL_ID" : "35516", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362386N1191359W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2386", 
+        "LONGITUDE" : "-119.1359", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262147.7232, 
+        "y" : 4333502.2262
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32792, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E01P001M", 
+        "CASGEM_WELL_ID" : "35714", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361272N1191167W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1272", 
+        "LONGITUDE" : "-119.1167", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260010.389, 
+        "y" : 4318138.041
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32793, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E01R001M", 
+        "CASGEM_WELL_ID" : "35715", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361239N1191076W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1239", 
+        "LONGITUDE" : "-119.1076", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258997.3816, 
+        "y" : 4317683.2409
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32794, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E02K001M", 
+        "CASGEM_WELL_ID" : "35716", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361278N1191309W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1278", 
+        "LONGITUDE" : "-119.1309", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261591.1257, 
+        "y" : 4318220.734
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32795, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E03A001M", 
+        "CASGEM_WELL_ID" : "35717", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361381N1191434W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1381", 
+        "LONGITUDE" : "-119.1434", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262982.6194, 
+        "y" : 4319640.3953
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32796, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E04A001M", 
+        "CASGEM_WELL_ID" : "35718", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361378N1191642W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1378", 
+        "LONGITUDE" : "-119.1642", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265298.0648, 
+        "y" : 4319599.0433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32797, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "21S26E04R001M", 
+        "CASGEM_WELL_ID" : "35719", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361242N1191615W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1242", 
+        "LONGITUDE" : "-119.1615", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264997.5022, 
+        "y" : 4317724.5856
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32813, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E33P001M", 
+        "CASGEM_WELL_ID" : "35735", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361394N1191631W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1394", 
+        "LONGITUDE" : "-119.1631", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265175.6133, 
+        "y" : 4319819.5891
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32814, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E34J001M", 
+        "CASGEM_WELL_ID" : "35736", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361439N1191345W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1439", 
+        "LONGITUDE" : "-119.1345", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261991.8759, 
+        "y" : 4320439.8982
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32815, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E34Q001M", 
+        "CASGEM_WELL_ID" : "35737", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361386N1191412W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1386", 
+        "LONGITUDE" : "-119.1412", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262737.7165, 
+        "y" : 4319709.3156
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32816, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E35P001M", 
+        "CASGEM_WELL_ID" : "35738", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361389N1191253W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1389", 
+        "LONGITUDE" : "-119.1253", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260967.7366, 
+        "y" : 4319750.668
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32817, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E36E001M", 
+        "CASGEM_WELL_ID" : "35739", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361461N1191120W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1461", 
+        "LONGITUDE" : "-119.112", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259487.1874, 
+        "y" : 4320743.1734
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32818, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E36Q001M", 
+        "CASGEM_WELL_ID" : "35740", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361386N1191051W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1386", 
+        "LONGITUDE" : "-119.1051", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258719.0829, 
+        "y" : 4319709.3156
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32824, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E18K001M", 
+        "CASGEM_WELL_ID" : "35746", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361867N1190903W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1867", 
+        "LONGITUDE" : "-119.0903", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257071.5544, 
+        "y" : 4326341.5074
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32826, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E19M002M", 
+        "CASGEM_WELL_ID" : "35748", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361722N1190967W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1722", 
+        "LONGITUDE" : "-119.0967", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257783.9992, 
+        "y" : 4324341.7695
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32827, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E20E001M", 
+        "CASGEM_WELL_ID" : "35749", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361769N1190787W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1769", 
+        "LONGITUDE" : "-119.0787", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255780.2483, 
+        "y" : 4324989.9199
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32477, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E01E001M", 
+        "CASGEM_WELL_ID" : "35392", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362200N1191137W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.22", 
+        "LONGITUDE" : "-119.1137", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259676.4305, 
+        "y" : 4330935.4109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32478, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E01P001M", 
+        "CASGEM_WELL_ID" : "35393", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362125N1191106W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2125", 
+        "LONGITUDE" : "-119.1106", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259331.3401, 
+        "y" : 4329900.5774
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32479, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E02E004M", 
+        "CASGEM_WELL_ID" : "35394", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362189N1191359W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2189", 
+        "LONGITUDE" : "-119.1359", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262147.7232, 
+        "y" : 4330783.6291
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32495, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E31H001M", 
+        "CASGEM_WELL_ID" : "35412", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361461N1190837W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1461", 
+        "LONGITUDE" : "-119.0837", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256336.8458, 
+        "y" : 4320743.1734
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32496, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E31Q001M", 
+        "CASGEM_WELL_ID" : "35413", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361389N1190890W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1389", 
+        "LONGITUDE" : "-119.089", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256926.8391, 
+        "y" : 4319750.668
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32497, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E32P002M", 
+        "CASGEM_WELL_ID" : "35414", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361386N1190726W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1386", 
+        "LONGITUDE" : "-119.0726", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255101.1994, 
+        "y" : 4319709.3156
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 32498, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S27E33P001M", 
+        "CASGEM_WELL_ID" : "35415", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361392N1190573W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1392", 
+        "LONGITUDE" : "-119.0573", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13253398.0112, 
+        "y" : 4319792.0206
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 36225, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E01L001M", 
+        "CASGEM_WELL_ID" : "39238", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362156N1191106W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2156", 
+        "LONGITUDE" : "-119.1106", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259331.3401, 
+        "y" : 4330328.2965
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 36244, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E35B001M", 
+        "CASGEM_WELL_ID" : "39257", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361519N1191253W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1519", 
+        "LONGITUDE" : "-119.1253", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260967.7366, 
+        "y" : 4321542.7579
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 36345, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E25R001M", 
+        "CASGEM_WELL_ID" : "39361", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361544N1191009W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1544", 
+        "LONGITUDE" : "-119.1009", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258251.541, 
+        "y" : 4321887.4247
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LINDMORE IRRIGATION DISTRICT", 
+        "OBJECTID" : 36356, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1097", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "20S26E34C001M", 
+        "CASGEM_WELL_ID" : "39372", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361522N1191456W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1522", 
+        "LONGITUDE" : "-119.1456", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263227.5223, 
+        "y" : 4321584.1174
+      }
+    }
+  ]
+}

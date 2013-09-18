@@ -1,0 +1,1762 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15291, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E07D001M", 
+        "CASGEM_WELL_ID" : "17608", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366460N1193043W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.646", 
+        "LONGITUDE" : "-119.3043", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280893.9254, 
+        "y" : 4389877.9509
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15292, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E07G001M", 
+        "CASGEM_WELL_ID" : "17609", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366402N1192952W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6402", 
+        "LONGITUDE" : "-119.2952", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279880.9181, 
+        "y" : 4389073.2672
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15293, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E08D001M", 
+        "CASGEM_WELL_ID" : "17610", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366455N1192852W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6455", 
+        "LONGITUDE" : "-119.2852", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278767.7232, 
+        "y" : 4389808.5792
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15294, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E17D002M", 
+        "CASGEM_WELL_ID" : "17611", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366310N1192846W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.631", 
+        "LONGITUDE" : "-119.2846", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278700.9315, 
+        "y" : 4387796.9966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15295, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E17H001M", 
+        "CASGEM_WELL_ID" : "17612", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366252N1192713W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6252", 
+        "LONGITUDE" : "-119.2713", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277220.3823, 
+        "y" : 4386992.4696
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15296, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E17Q001M", 
+        "CASGEM_WELL_ID" : "17613", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366174N1192760W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6174", 
+        "LONGITUDE" : "-119.276", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277743.5839, 
+        "y" : 4385910.6149
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15297, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E18L001M", 
+        "CASGEM_WELL_ID" : "17614", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366230N1192966W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.623", 
+        "LONGITUDE" : "-119.2966", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280036.7654, 
+        "y" : 4386687.32
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15298, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E18Q001M", 
+        "CASGEM_WELL_ID" : "17615", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366177N1192954W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6177", 
+        "LONGITUDE" : "-119.2954", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279903.182, 
+        "y" : 4385952.2226
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15299, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E18R002M", 
+        "CASGEM_WELL_ID" : "17616", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366174N1192896W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6174", 
+        "LONGITUDE" : "-119.2896", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279257.5289, 
+        "y" : 4385910.6149
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15300, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E19A001M", 
+        "CASGEM_WELL_ID" : "17617", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366166N1192874W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6166", 
+        "LONGITUDE" : "-119.2874", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279012.6261, 
+        "y" : 4385799.6616
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15301, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E19J001M", 
+        "CASGEM_WELL_ID" : "17618", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366093N1192888W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6093", 
+        "LONGITUDE" : "-119.2888", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279168.4733, 
+        "y" : 4384787.2662
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15302, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E21F001M", 
+        "CASGEM_WELL_ID" : "17619", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366110N1192637W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.611", 
+        "LONGITUDE" : "-119.2637", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276374.3541, 
+        "y" : 4385023.0209
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15304, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E22R001M", 
+        "CASGEM_WELL_ID" : "17621", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366041N1192331W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "36.6041", 
+        "LONGITUDE" : "-119.2331", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272967.9777, 
+        "y" : 4384066.1662
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15305, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E29A001M", 
+        "CASGEM_WELL_ID" : "17622", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366013N1192695W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6013", 
+        "LONGITUDE" : "-119.2695", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277020.0072, 
+        "y" : 4383677.9018
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15307, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E31A001M", 
+        "CASGEM_WELL_ID" : "17624", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365874N1192874W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5874", 
+        "LONGITUDE" : "-119.2874", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279012.6261, 
+        "y" : 4381750.6547
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15308, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E31G001M", 
+        "CASGEM_WELL_ID" : "17625", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365810N1192957W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.581", 
+        "LONGITUDE" : "-119.2957", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279936.5778, 
+        "y" : 4380863.4059
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15310, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E33D001M", 
+        "CASGEM_WELL_ID" : "17627", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365857N1192670W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5857", 
+        "LONGITUDE" : "-119.267", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276741.7084, 
+        "y" : 4381514.9721
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15311, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E33G001M", 
+        "CASGEM_WELL_ID" : "17628", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365805N1192578W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5805", 
+        "LONGITUDE" : "-119.2578", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275717.5691, 
+        "y" : 4380794.0926
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15312, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E33G003M", 
+        "CASGEM_WELL_ID" : "17629", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365805N1192578W003", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5805", 
+        "LONGITUDE" : "-119.2578", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275717.5691, 
+        "y" : 4380794.0926
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15313, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E33K001M", 
+        "CASGEM_WELL_ID" : "17630", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365799N1192559W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5799", 
+        "LONGITUDE" : "-119.2559", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275506.0621, 
+        "y" : 4380710.9174
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15314, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E34N001M", 
+        "CASGEM_WELL_ID" : "17631", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365738N1192503W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5738", 
+        "LONGITUDE" : "-119.2503", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274882.6729, 
+        "y" : 4379865.3388
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15309, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E32C001M", 
+        "CASGEM_WELL_ID" : "17626", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365874N1192798W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5874", 
+        "LONGITUDE" : "-119.2798", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278166.5979, 
+        "y" : 4381750.6547
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 13973, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E02M001M", 
+        "CASGEM_WELL_ID" : "16269", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365657N1192317W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "36.5657", 
+        "LONGITUDE" : "-119.2317", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272812.1304, 
+        "y" : 4378742.6246
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 13974, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E03K001M", 
+        "CASGEM_WELL_ID" : "16270", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365632N1192417W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5632", 
+        "LONGITUDE" : "-119.2417", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273925.3253, 
+        "y" : 4378396.1316
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 13976, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E06J001M", 
+        "CASGEM_WELL_ID" : "16272", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365657N1192873W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5657", 
+        "LONGITUDE" : "-119.2873", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279001.4941, 
+        "y" : 4378742.6246
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 13979, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E09A001M", 
+        "CASGEM_WELL_ID" : "16275", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365585N1192512W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5585", 
+        "LONGITUDE" : "-119.2512", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274982.8605, 
+        "y" : 4377744.7552
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 13980, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E09D001M", 
+        "CASGEM_WELL_ID" : "16276", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365588N1192645W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5588", 
+        "LONGITUDE" : "-119.2645", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276463.4097, 
+        "y" : 4377786.3313
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 13981, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E10F002M", 
+        "CASGEM_WELL_ID" : "16277", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365518N1192456W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5518", 
+        "LONGITUDE" : "-119.2456", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274359.4713, 
+        "y" : 4376816.2659
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 13982, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E10R001M", 
+        "CASGEM_WELL_ID" : "16278", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365460N1192331W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.546", 
+        "LONGITUDE" : "-119.2331", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272967.9777, 
+        "y" : 4376012.564
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 13983, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E11D001M", 
+        "CASGEM_WELL_ID" : "16279", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365568N1192328W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5568", 
+        "LONGITUDE" : "-119.2328", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272934.5819, 
+        "y" : 4377509.1608
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 13984, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E11R001M", 
+        "CASGEM_WELL_ID" : "16280", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365474N1192195W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5474", 
+        "LONGITUDE" : "-119.2195", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271454.0326, 
+        "y" : 4376206.5555
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14113, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E22E001M", 
+        "CASGEM_WELL_ID" : "16412", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365246N1192506W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5246", 
+        "LONGITUDE" : "-119.2506", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274916.0688, 
+        "y" : 4373047.7026
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31494, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E06Q001M", 
+        "CASGEM_WELL_ID" : "34389", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366460N1192921W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.646", 
+        "LONGITUDE" : "-119.2921", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279535.8277, 
+        "y" : 4389877.9509
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31495, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E07D002M", 
+        "CASGEM_WELL_ID" : "34390", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366460N1193043W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.646", 
+        "LONGITUDE" : "-119.3043", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280893.9254, 
+        "y" : 4389877.9509
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31496, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E16R001M", 
+        "CASGEM_WELL_ID" : "34391", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366171N1192551W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6171", 
+        "LONGITUDE" : "-119.2551", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275417.0065, 
+        "y" : 4385869.0073
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31497, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E17D003M", 
+        "CASGEM_WELL_ID" : "34392", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366310N1192843W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.631", 
+        "LONGITUDE" : "-119.2843", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278667.5356, 
+        "y" : 4387796.9966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31498, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E18C002M", 
+        "CASGEM_WELL_ID" : "34393", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366313N1192960W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6313", 
+        "LONGITUDE" : "-119.296", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279969.9737, 
+        "y" : 4387838.6118
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31499, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E32F001M", 
+        "CASGEM_WELL_ID" : "34394", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365824N1192803W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5824", 
+        "LONGITUDE" : "-119.2803", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278222.2577, 
+        "y" : 4381057.4853
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31500, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E32K001M", 
+        "CASGEM_WELL_ID" : "34395", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365780N1192778W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.578", 
+        "LONGITUDE" : "-119.2778", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277943.9589, 
+        "y" : 4380447.5333
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31501, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E33G002M", 
+        "CASGEM_WELL_ID" : "34396", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365805N1192578W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5805", 
+        "LONGITUDE" : "-119.2578", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275717.5691, 
+        "y" : 4380794.0926
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31502, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E33J001M", 
+        "CASGEM_WELL_ID" : "34397", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365799N1192553W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5799", 
+        "LONGITUDE" : "-119.2553", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275439.2704, 
+        "y" : 4380710.9174
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31142, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E22B001M", 
+        "CASGEM_WELL_ID" : "34032", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365296N1192415W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5296", 
+        "LONGITUDE" : "-119.2415", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273903.0614, 
+        "y" : 4373740.3538
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 31141, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E21A001M", 
+        "CASGEM_WELL_ID" : "34031", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365293N1192512W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5293", 
+        "LONGITUDE" : "-119.2512", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274982.8605, 
+        "y" : 4373698.7935
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30861, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E05J001M", 
+        "CASGEM_WELL_ID" : "33745", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365657N1192695W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5657", 
+        "LONGITUDE" : "-119.2695", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277020.0072, 
+        "y" : 4378742.6246
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30863, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E08J001M", 
+        "CASGEM_WELL_ID" : "33747", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365507N1192692W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5507", 
+        "LONGITUDE" : "-119.2692", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276986.6113, 
+        "y" : 4376663.835
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30864, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E10F001M", 
+        "CASGEM_WELL_ID" : "33748", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365518N1192423W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5518", 
+        "LONGITUDE" : "-119.2423", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273992.117, 
+        "y" : 4376816.2659
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30865, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E10J001M", 
+        "CASGEM_WELL_ID" : "33749", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365513N1192370W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5513", 
+        "LONGITUDE" : "-119.237", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273402.1237, 
+        "y" : 4376746.9789
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30866, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E11D002M", 
+        "CASGEM_WELL_ID" : "33750", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365549N1192326W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5549", 
+        "LONGITUDE" : "-119.2326", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272912.318, 
+        "y" : 4377245.8554
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30867, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E12E001M", 
+        "CASGEM_WELL_ID" : "33751", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365524N1192126W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5524", 
+        "LONGITUDE" : "-119.2126", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270685.9281, 
+        "y" : 4376899.4109
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30868, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E15E001M", 
+        "CASGEM_WELL_ID" : "33752", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365388N1192506W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5388", 
+        "LONGITUDE" : "-119.2506", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274916.0688, 
+        "y" : 4375014.9489
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30174, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S26E07P001M", 
+        "CASGEM_WELL_ID" : "33029", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365441N1191895W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5441", 
+        "LONGITUDE" : "-119.1895", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268114.4479, 
+        "y" : 4375749.2954
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 36039, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S25E13E001M", 
+        "CASGEM_WELL_ID" : "39046", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365385N1192106W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5385", 
+        "LONGITUDE" : "-119.2106", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270463.2892, 
+        "y" : 4374973.3837
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 36929, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S25E32J001M", 
+        "CASGEM_WELL_ID" : "39975", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365771N1192695W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5771", 
+        "LONGITUDE" : "-119.2695", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277020.0072, 
+        "y" : 4380322.7747
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30860, 
+        "SHP_FILE_ID" : "2635", 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : "KRCDOC12B", 
+        "SWN" : "16S25E04C002M", 
+        "CASGEM_WELL_ID" : "33744", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Tulare", 
+        "COOP_AGENCY" : "Kings River Conservation District", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/22/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365721N1192620W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.57", 
+        "LONGITUDE" : "-119.26", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275962.472, 
+        "y" : 4379338.6187
+      }
+    }
+  ]
+}

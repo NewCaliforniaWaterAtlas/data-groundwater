@@ -1,0 +1,3394 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 584, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01E15N001M", 
+        "CASGEM_WELL_ID" : "2557", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "118", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "380142N1218581W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.0142", 
+        "LONGITUDE" : "-121.8581", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13565181.641, 
+        "y" : 4581431.9909
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 585, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01E15P001M", 
+        "CASGEM_WELL_ID" : "2558", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "380123N1218522W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.0123", 
+        "LONGITUDE" : "-121.8522", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13564524.856, 
+        "y" : 4581163.5361
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 586, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01E18D001M", 
+        "CASGEM_WELL_ID" : "2559", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Industrial", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "380254N1219120W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.0254", 
+        "LONGITUDE" : "-121.912", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13571181.7616, 
+        "y" : 4583014.6026
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 587, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01W04Q001M", 
+        "CASGEM_WELL_ID" : "2560", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "62", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "380440N1219784W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.044", 
+        "LONGITUDE" : "-121.9784", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13578573.3758, 
+        "y" : 4585643.4032
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 588, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01W11L001M", 
+        "CASGEM_WELL_ID" : "2561", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Industrial", 
+        "TOTAL_WELL_DEPTH" : "208", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "1101", 
+        "CASGEM_STATION_ID" : "380313N1219426W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.0313", 
+        "LONGITUDE" : "-121.9426", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13574588.138, 
+        "y" : 4583848.3972
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 589, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01W11R001M", 
+        "CASGEM_WELL_ID" : "2562", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "100", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "380290N1219336W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.029", 
+        "LONGITUDE" : "-121.9336", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13573586.2626, 
+        "y" : 4583523.3507
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 590, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01W12P001M", 
+        "CASGEM_WELL_ID" : "2563", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "176", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "380273N1219253W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.0273", 
+        "LONGITUDE" : "-121.9253", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13572662.3108, 
+        "y" : 4583283.1054
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 591, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01W30K001M", 
+        "CASGEM_WELL_ID" : "2564", 
+        "GW_BASIN_NAME" : "Clayton Valley", 
+        "GW_BASIN_CODE" : "2-5", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "60", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379893N1220084W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9893", 
+        "LONGITUDE" : "-122.0084", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13581912.9605, 
+        "y" : 4577914.372
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 592, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01W31D001M", 
+        "CASGEM_WELL_ID" : "2565", 
+        "GW_BASIN_NAME" : "Clayton Valley", 
+        "GW_BASIN_CODE" : "2-5", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "75", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "07-177", 
+        "CASGEM_STATION_ID" : "379818N1220235W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9818", 
+        "LONGITUDE" : "-122.0235", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13583593.8848, 
+        "y" : 4576855.0822
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 593, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01W31H001M", 
+        "CASGEM_WELL_ID" : "2566", 
+        "GW_BASIN_NAME" : "Clayton Valley", 
+        "GW_BASIN_CODE" : "2-5", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "60", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379788N1220078W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9788", 
+        "LONGITUDE" : "-122.0078", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13581846.1688, 
+        "y" : 4576431.3966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 594, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N01W31Q001M", 
+        "CASGEM_WELL_ID" : "2567", 
+        "GW_BASIN_NAME" : "Clayton Valley", 
+        "GW_BASIN_CODE" : "2-5", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "34", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "62059", 
+        "CASGEM_STATION_ID" : "379691N1220103W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9691", 
+        "LONGITUDE" : "-122.0103", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13582124.4675, 
+        "y" : 4575061.5984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 596, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N02W27R001M", 
+        "CASGEM_WELL_ID" : "2569", 
+        "GW_BASIN_NAME" : "Ygnacio Valley", 
+        "GW_BASIN_CODE" : "2-6", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "131", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379830N1220651W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.983", 
+        "LONGITUDE" : "-122.0651", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13588224.7756, 
+        "y" : 4577024.5613
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 597, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N02W35Q001M", 
+        "CASGEM_WELL_ID" : "2570", 
+        "GW_BASIN_NAME" : "Ygnacio Valley", 
+        "GW_BASIN_CODE" : "2-6", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "30", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379705N1220512W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9705", 
+        "LONGITUDE" : "-122.0512", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13586677.4347, 
+        "y" : 4575259.29
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 595, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N02W26B001M", 
+        "CASGEM_WELL_ID" : "2568", 
+        "GW_BASIN_NAME" : "Ygnacio Valley", 
+        "GW_BASIN_CODE" : "2-6", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "60", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379934N1220499W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9934", 
+        "LONGITUDE" : "-122.0499", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13586532.7194, 
+        "y" : 4578493.4962
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 2316, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "01N01W07K001M", 
+        "CASGEM_WELL_ID" : "4450", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379461N1220156W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.9461", 
+        "LONGITUDE" : "-122.0156", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13582714.4608, 
+        "y" : 4571814.3463
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 2317, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "01N01W19F001M", 
+        "CASGEM_WELL_ID" : "4451", 
+        "GW_BASIN_NAME" : "Ygnacio Valley", 
+        "GW_BASIN_CODE" : "2-6", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "316", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379171N1220147W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9171", 
+        "LONGITUDE" : "-122.0147", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13582614.2733, 
+        "y" : 4567721.4333
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 2318, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "01N02W11N001M", 
+        "CASGEM_WELL_ID" : "4452", 
+        "GW_BASIN_NAME" : "Ygnacio Valley", 
+        "GW_BASIN_CODE" : "2-6", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "81", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379399N1220576W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9399", 
+        "LONGITUDE" : "-122.0576", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587389.8794, 
+        "y" : 4570939.174
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 2319, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "01N03E17E001M", 
+        "CASGEM_WELL_ID" : "4453", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "123", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379336N1216747W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9336", 
+        "LONGITUDE" : "-121.6747", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13544765.6464, 
+        "y" : 4570049.9617
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 2192, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "01N01W03N001M", 
+        "CASGEM_WELL_ID" : "4314", 
+        "GW_BASIN_NAME" : "Clayton Valley", 
+        "GW_BASIN_CODE" : "2-5", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "110", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379583N1219669W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9583", 
+        "LONGITUDE" : "-121.9669", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13577293.2016, 
+        "y" : 4573536.6751
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4276, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "01S03E15A001M", 
+        "CASGEM_WELL_ID" : "6580", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "45", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "81199", 
+        "CASGEM_STATION_ID" : "378507N1216238W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.8507", 
+        "LONGITUDE" : "-121.6238", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13539099.4843, 
+        "y" : 4558356.1465
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105237, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "MW 5-22", 
+        "SWN" : "02N03E33M999M", 
+        "CASGEM_WELL_ID" : "48680", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379741N1216579W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.974141", 
+        "LONGITUDE" : "-121.657877", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13542892.9186, 
+        "y" : 4575773.4472
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92217, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "Glen Park-GPMW", 
+        "SWN" : "02N03E31L999M", 
+        "CASGEM_WELL_ID" : "48676", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379741N1216867W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.974073", 
+        "LONGITUDE" : "-121.686709", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13546102.4822, 
+        "y" : 4575763.8445
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105227, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "1BMW-343", 
+        "SWN" : "01N03E25C998M", 
+        "CASGEM_WELL_ID" : "48668", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "343", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379103N1215994W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.910328", 
+        "LONGITUDE" : "-121.599376", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536380.6171, 
+        "y" : 4566765.9001
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92213, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "6MW-250", 
+        "SWN" : "01N03E25L998M", 
+        "CASGEM_WELL_ID" : "48672", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379028N1215995W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.902811", 
+        "LONGITUDE" : "-121.599499", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536394.3094, 
+        "y" : 4565705.3498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105232, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "6MW-410", 
+        "SWN" : "01N03E25L996M", 
+        "CASGEM_WELL_ID" : "48674", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "410", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379028N1215995W004", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.902812", 
+        "LONGITUDE" : "-121.599497", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536394.0868, 
+        "y" : 4565705.4909
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 91902, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "#14 MW-240", 
+        "SWN" : "01N03E06E998M", 
+        "CASGEM_WELL_ID" : "48665", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "240", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379620N1216957W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.962003", 
+        "LONGITUDE" : "-121.695675", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547100.5727, 
+        "y" : 4574059.5008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 91903, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "#14 MW-154", 
+        "SWN" : "01N03E06E997M", 
+        "CASGEM_WELL_ID" : "48666", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "154", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379620N1216957W003", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.962003", 
+        "LONGITUDE" : "-121.695675", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547100.5727, 
+        "y" : 4574059.5008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105246, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Well #4 Old (4.56)", 
+        "SWN" : "01N03E20L999M", 
+        "CASGEM_WELL_ID" : "48687", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379178N1216973W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.917828", 
+        "LONGITUDE" : "-121.697325", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547284.2499, 
+        "y" : 4567824.1598
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105228, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "4AMW-152", 
+        "SWN" : "01N03E26M999M", 
+        "CASGEM_WELL_ID" : "48669", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "152", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379010N1216188W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.900992", 
+        "LONGITUDE" : "-121.618814", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13538544.4454, 
+        "y" : 4565448.729
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92221, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "MW 5-22", 
+        "SWN" : "02N03E33M999M", 
+        "CASGEM_WELL_ID" : "48680", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379741N1216579W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.974141", 
+        "LONGITUDE" : "-121.657877", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13542892.9186, 
+        "y" : 4575773.4472
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105233, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Creekside-CSMW", 
+        "SWN" : "02N03E31C999M", 
+        "CASGEM_WELL_ID" : "48675", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "380", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379799N1216911W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.979894", 
+        "LONGITUDE" : "-121.691127", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13546594.2917, 
+        "y" : 4576585.8986
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 24418, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N02W25H001M", 
+        "CASGEM_WELL_ID" : "27021", 
+        "GW_BASIN_NAME" : "Clayton Valley", 
+        "GW_BASIN_CODE" : "2-5", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "48", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "07-069", 
+        "CASGEM_STATION_ID" : "379910N1220298W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.991", 
+        "LONGITUDE" : "-122.0298", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13584295.1976, 
+        "y" : 4578154.4927
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 24419, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N02W35D001M", 
+        "CASGEM_WELL_ID" : "27022", 
+        "GW_BASIN_NAME" : "Ygnacio Valley", 
+        "GW_BASIN_CODE" : "2-6", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "87", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "13389", 
+        "CASGEM_STATION_ID" : "379795N1220595W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9795", 
+        "LONGITUDE" : "-122.0595", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13587601.3865, 
+        "y" : 4576530.255
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 34931, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "02N02W36E001M", 
+        "CASGEM_WELL_ID" : "37914", 
+        "GW_BASIN_NAME" : "Ygnacio Valley", 
+        "GW_BASIN_CODE" : "2-6", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "40", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379759N1220408W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9759", 
+        "LONGITUDE" : "-122.0408", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13585519.712, 
+        "y" : 4576021.8503
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92227, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "Well #11 (4.61-A)", 
+        "SWN" : "01N02E24J999M", 
+        "CASGEM_WELL_ID" : "48686", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379178N1216700W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.917808", 
+        "LONGITUDE" : "-121.669997", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13544242.1109, 
+        "y" : 4567821.3377
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92210, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "4AMW-152", 
+        "SWN" : "01N03E26M999M", 
+        "CASGEM_WELL_ID" : "48669", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "152", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379010N1216188W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.900992", 
+        "LONGITUDE" : "-121.618814", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13538544.4454, 
+        "y" : 4565448.729
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92226, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "MW 5-39", 
+        "SWN" : "02N03E29Q999M", 
+        "CASGEM_WELL_ID" : "48685", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379853N1216641W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.985299", 
+        "LONGITUDE" : "-121.664114", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13543587.2183, 
+        "y" : 4577349.2627
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92218, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "Stonecreek-SCMW-160", 
+        "SWN" : "02N03E31G999M", 
+        "CASGEM_WELL_ID" : "48677", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379781N1216840W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.978122", 
+        "LONGITUDE" : "-121.683968", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545797.3555, 
+        "y" : 4576335.6461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92219, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "Stonecreek-SCMW-300", 
+        "SWN" : "02N03E31G998M", 
+        "CASGEM_WELL_ID" : "48678", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379781N1216840W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.978122", 
+        "LONGITUDE" : "-121.683968", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545797.3555, 
+        "y" : 4576335.6461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105239, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "MW 5-35", 
+        "SWN" : "02N03E31H999M", 
+        "CASGEM_WELL_ID" : "48682", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379773N1216785W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.977313", 
+        "LONGITUDE" : "-121.678539", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545193.0019, 
+        "y" : 4576221.3962
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92215, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "6MW-410", 
+        "SWN" : "01N03E25L996M", 
+        "CASGEM_WELL_ID" : "48674", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "410", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379028N1215995W004", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.902812", 
+        "LONGITUDE" : "-121.599497", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536394.0868, 
+        "y" : 4565705.4909
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105229, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "4AMW-357", 
+        "SWN" : "01N03E26M998M", 
+        "CASGEM_WELL_ID" : "48670", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "357", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379010N1216188W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.901021", 
+        "LONGITUDE" : "-121.618822", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13538545.3359, 
+        "y" : 4565452.8202
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105244, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Well #11 (4.61-A)", 
+        "SWN" : "01N02E24J999M", 
+        "CASGEM_WELL_ID" : "48686", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379178N1216700W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.917808", 
+        "LONGITUDE" : "-121.669997", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13544242.1109, 
+        "y" : 4567821.3377
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92222, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "MW 5-33", 
+        "SWN" : "02N03E30J999M", 
+        "CASGEM_WELL_ID" : "48681", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379894N1216794W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.98935", 
+        "LONGITUDE" : "-121.679441", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545293.4121, 
+        "y" : 4577921.4343
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92209, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "1BMW-343", 
+        "SWN" : "01N03E25C998M", 
+        "CASGEM_WELL_ID" : "48668", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "343", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379103N1215994W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.910328", 
+        "LONGITUDE" : "-121.599376", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536380.6171, 
+        "y" : 4566765.9001
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105230, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "6MW-250", 
+        "SWN" : "01N03E25L998M", 
+        "CASGEM_WELL_ID" : "48672", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379028N1215995W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.902811", 
+        "LONGITUDE" : "-121.599499", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536394.3094, 
+        "y" : 4565705.3498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105235, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Stonecreek-SCMW-160", 
+        "SWN" : "02N03E31G999M", 
+        "CASGEM_WELL_ID" : "48677", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "160", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379781N1216840W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.978122", 
+        "LONGITUDE" : "-121.683968", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545797.3555, 
+        "y" : 4576335.6461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36673, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "01N01W04H001M", 
+        "CASGEM_WELL_ID" : "39709", 
+        "GW_BASIN_NAME" : "Clayton Valley", 
+        "GW_BASIN_CODE" : "2-5", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "302", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "62407", 
+        "CASGEM_STATION_ID" : "379632N1219700W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9632", 
+        "LONGITUDE" : "-121.97", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13577638.2921, 
+        "y" : 4574228.5106
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36098, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "01N02W13P001M", 
+        "CASGEM_WELL_ID" : "39107", 
+        "GW_BASIN_NAME" : "Ygnacio Valley", 
+        "GW_BASIN_CODE" : "2-6", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "60", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379279N1220357W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.9279", 
+        "LONGITUDE" : "-122.0357", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13584951.9826, 
+        "y" : 4569245.5019
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Pittsburg", 
+        "OBJECTID" : 91597, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "5039", 
+        "LOCAL_WELL_NBR" : "Golf Course MW-250", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48662", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052849", 
+        "CASGEM_STATION_ID" : "380142N1219096W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.014206", 
+        "LONGITUDE" : "-121.909588", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570913.259, 
+        "y" : 4581432.8386
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Pittsburg", 
+        "OBJECTID" : 91594, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "5039", 
+        "LOCAL_WELL_NBR" : "Burton MW-330", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48659", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "330", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e040284", 
+        "CASGEM_STATION_ID" : "380189N1218988W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.0189", 
+        "LONGITUDE" : "-121.898783", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13569710.4519, 
+        "y" : 4582096.0931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Pittsburg", 
+        "OBJECTID" : 91590, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "5039", 
+        "LOCAL_WELL_NBR" : "Bodega MW-190", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48655", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "190", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052847", 
+        "CASGEM_STATION_ID" : "380196N1219096W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.019616", 
+        "LONGITUDE" : "-121.909581", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570912.4797, 
+        "y" : 4582197.2665
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105016, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Burton MW-330", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48659", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "330", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e040284", 
+        "CASGEM_STATION_ID" : "380189N1218988W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.0189", 
+        "LONGITUDE" : "-121.898783", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13569710.4519, 
+        "y" : 4582096.0931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105014, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Crestview MW-235", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48660", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "235", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e040285", 
+        "CASGEM_STATION_ID" : "380170N1218924W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.016973", 
+        "LONGITUDE" : "-121.892372", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13568996.7826, 
+        "y" : 4581823.8061
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105017, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Golf Course MW-250", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48662", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "250", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052849", 
+        "CASGEM_STATION_ID" : "380142N1219096W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.014206", 
+        "LONGITUDE" : "-121.909588", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570913.259, 
+        "y" : 4581432.8386
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Pittsburg", 
+        "OBJECTID" : 91595, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "5039", 
+        "LOCAL_WELL_NBR" : "Crestview MW-235", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48660", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "235", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e040285", 
+        "CASGEM_STATION_ID" : "380170N1218924W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.016973", 
+        "LONGITUDE" : "-121.892372", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13568996.7826, 
+        "y" : 4581823.8061
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Pittsburg", 
+        "OBJECTID" : 91592, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "5039", 
+        "LOCAL_WELL_NBR" : "Burton MW-150", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48657", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e040284", 
+        "CASGEM_STATION_ID" : "380189N1218988W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.018901", 
+        "LONGITUDE" : "-121.898784", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13569710.5632, 
+        "y" : 4582096.2345
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105018, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Bodega MW-190", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48655", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "190", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052847", 
+        "CASGEM_STATION_ID" : "380196N1219096W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.019616", 
+        "LONGITUDE" : "-121.909581", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570912.4797, 
+        "y" : 4582197.2665
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Pittsburg", 
+        "OBJECTID" : 91591, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "5039", 
+        "LOCAL_WELL_NBR" : "Bodega MW-290", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48656", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "295", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052847", 
+        "CASGEM_STATION_ID" : "380196N1219096W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.019617", 
+        "LONGITUDE" : "-121.90958", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570912.3684, 
+        "y" : 4582197.4078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105019, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Burton MW-230", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48658", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "230", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e040284", 
+        "CASGEM_STATION_ID" : "380189N1218988W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.0189", 
+        "LONGITUDE" : "-121.898784", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13569710.5632, 
+        "y" : 4582096.0931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105012, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Bodega MW-120", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48654", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "120", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052847", 
+        "CASGEM_STATION_ID" : "380196N1219096W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.019615", 
+        "LONGITUDE" : "-121.90958", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570912.3684, 
+        "y" : 4582197.1252
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Pittsburg", 
+        "OBJECTID" : 91593, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "5039", 
+        "LOCAL_WELL_NBR" : "Burton MW-230", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48658", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "230", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e040284", 
+        "CASGEM_STATION_ID" : "380189N1218988W002", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.0189", 
+        "LONGITUDE" : "-121.898784", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13569710.5632, 
+        "y" : 4582096.0931
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Pittsburg", 
+        "OBJECTID" : 91596, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "5039", 
+        "LOCAL_WELL_NBR" : "Golf Course MW-190", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48661", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "190", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052849", 
+        "CASGEM_STATION_ID" : "380142N1219096W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.014207", 
+        "LONGITUDE" : "-121.909589", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570913.3703, 
+        "y" : 4581432.9799
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "City of Pittsburg", 
+        "OBJECTID" : 91589, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "5039", 
+        "LOCAL_WELL_NBR" : "Bodega MW-120", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48654", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "120", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052847", 
+        "CASGEM_STATION_ID" : "380196N1219096W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.019615", 
+        "LONGITUDE" : "-121.90958", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570912.3684, 
+        "y" : 4582197.1252
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105020, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Golf Course MW-190", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48661", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "190", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052849", 
+        "CASGEM_STATION_ID" : "380142N1219096W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.014207", 
+        "LONGITUDE" : "-121.909589", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570913.3703, 
+        "y" : 4581432.9799
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105015, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Bodega MW-290", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48656", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "295", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e052847", 
+        "CASGEM_STATION_ID" : "380196N1219096W003", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.019617", 
+        "LONGITUDE" : "-121.90958", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13570912.3684, 
+        "y" : 4582197.4078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105013, 
+        "SHP_FILE_ID" : "3255", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Burton MW-150", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48657", 
+        "GW_BASIN_NAME" : "Pittsburg Plain", 
+        "GW_BASIN_CODE" : "2-4", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "150", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/20/2013", 
+        "COMPLETION_RPT_NBR" : "e040284", 
+        "CASGEM_STATION_ID" : "380189N1218988W001", 
+        "HYDROLOGIC_REGION" : "San Francisco Bay", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.018901", 
+        "LONGITUDE" : "-121.898784", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13569710.5632, 
+        "y" : 4582096.2345
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105037, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01N04E31P001M", 
+        "SWN" : "01N04E31P001M", 
+        "CASGEM_WELL_ID" : "49313", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378836N1215791W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.8836", 
+        "LONGITUDE" : "-121.5791", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13534123.5031, 
+        "y" : 4562995.4214
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105224, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "#14 MW-240", 
+        "SWN" : "01N03E06E998M", 
+        "CASGEM_WELL_ID" : "48665", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "240", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379620N1216957W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.962003", 
+        "LONGITUDE" : "-121.695675", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547100.5727, 
+        "y" : 4574059.5008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92220, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "Stonecreek-SCMW-360", 
+        "SWN" : "02N03E31G997M", 
+        "CASGEM_WELL_ID" : "48679", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "360", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379781N1216840W003", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.978122", 
+        "LONGITUDE" : "-121.683968", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545797.3555, 
+        "y" : 4576335.6461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105241, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "MW 5-37", 
+        "SWN" : "01N03E06H999M", 
+        "CASGEM_WELL_ID" : "48684", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379635N1216797W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.963534", 
+        "LONGITUDE" : "-121.679699", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545322.1326, 
+        "y" : 4574275.6701
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92214, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "6MW-350", 
+        "SWN" : "01N03E25L997M", 
+        "CASGEM_WELL_ID" : "48673", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "350", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379028N1215995W003", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.902811", 
+        "LONGITUDE" : "-121.599497", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536394.0868, 
+        "y" : 4565705.3498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92224, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "MW 5-36", 
+        "SWN" : "02N03E32M999M", 
+        "CASGEM_WELL_ID" : "48683", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379737N1216756W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.973701", 
+        "LONGITUDE" : "-121.675596", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13544865.3887, 
+        "y" : 4575711.3121
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105226, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "1BMW-140", 
+        "SWN" : "01N03E25C999M", 
+        "CASGEM_WELL_ID" : "48667", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379103N1215994W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.910328", 
+        "LONGITUDE" : "-121.599376", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536380.6171, 
+        "y" : 4566765.9001
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105044, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01S04E07C001M", 
+        "SWN" : "01S04E07C001M", 
+        "CASGEM_WELL_ID" : "49320", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378621N1215796W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.8621", 
+        "LONGITUDE" : "-121.5796", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13534179.1628, 
+        "y" : 4559963.4419
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105032, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01N04E29N001M", 
+        "SWN" : "01N04E29N001M", 
+        "CASGEM_WELL_ID" : "49308", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379659N1215678W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.9659", 
+        "LONGITUDE" : "-121.5678", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13532865.5929, 
+        "y" : 4574609.7459
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105036, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01N04E31K002M", 
+        "SWN" : "01N04E31K002M", 
+        "CASGEM_WELL_ID" : "49312", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379000N1215760W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.9", 
+        "LONGITUDE" : "-121.576", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13533778.4127, 
+        "y" : 4565308.7824
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105041, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01S04E06P002M", 
+        "SWN" : "01S04E06P002M", 
+        "CASGEM_WELL_ID" : "49317", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378500N1215800W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.85", 
+        "LONGITUDE" : "-121.58", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13534223.6906, 
+        "y" : 4558257.461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105030, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01N04E30G001M", 
+        "SWN" : "01N04E30G001M", 
+        "CASGEM_WELL_ID" : "49306", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379050N1215730W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.905", 
+        "LONGITUDE" : "-121.573", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13533444.4542, 
+        "y" : 4566014.1779
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105035, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01N04E30K001M", 
+        "SWN" : "01N04E30K001M", 
+        "CASGEM_WELL_ID" : "49311", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379035N1215752W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.9035", 
+        "LONGITUDE" : "-121.5752", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13533689.3571, 
+        "y" : 4565802.5542
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105038, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01N04E31Q001M", 
+        "SWN" : "01N04E31Q001M", 
+        "CASGEM_WELL_ID" : "49314", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378826N1215755W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.8826", 
+        "LONGITUDE" : "-121.5755", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13533722.7529, 
+        "y" : 4562854.3795
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105033, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01N04E31A001M", 
+        "SWN" : "01N04E31A001M", 
+        "CASGEM_WELL_ID" : "49309", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378973N1215663W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.8973", 
+        "LONGITUDE" : "-121.5663", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13532698.6136, 
+        "y" : 4564927.8887
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105031, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01N04E30J002M", 
+        "SWN" : "01N04E30J002M", 
+        "CASGEM_WELL_ID" : "49307", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379513N1215704W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.9513", 
+        "LONGITUDE" : "-121.5704", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13533155.0235, 
+        "y" : 4572548.4187
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105034, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01N04E31H001M", 
+        "SWN" : "01N04E31H001M", 
+        "CASGEM_WELL_ID" : "49310", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378957N1215652W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.8957", 
+        "LONGITUDE" : "-121.5652", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13532576.1622, 
+        "y" : 4564702.1806
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105040, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01S04E06L001M", 
+        "SWN" : "01S04E06L001M", 
+        "CASGEM_WELL_ID" : "49316", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378435N1215801W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.8435", 
+        "LONGITUDE" : "-121.5801", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13534234.8226, 
+        "y" : 4557341.1406
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105043, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01S04E07F001M", 
+        "SWN" : "01S04E07F001M", 
+        "CASGEM_WELL_ID" : "49319", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378641N1215797W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.8641", 
+        "LONGITUDE" : "-121.5797", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13534190.2948, 
+        "y" : 4560245.4492
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105042, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01S04E07B001M", 
+        "SWN" : "01S04E07B001M", 
+        "CASGEM_WELL_ID" : "49318", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378520N1215700W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.852", 
+        "LONGITUDE" : "-121.57", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13533110.4957, 
+        "y" : 4558539.422
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105039, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01S04E06C001M", 
+        "SWN" : "01S04E06C001M", 
+        "CASGEM_WELL_ID" : "49315", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "03/26/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "378800N1215740W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.88", 
+        "LONGITUDE" : "-121.574", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13533555.7737, 
+        "y" : 4562487.6794
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92228, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "Well #4 Old (4.56)", 
+        "SWN" : "01N03E20L999M", 
+        "CASGEM_WELL_ID" : "48687", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379178N1216973W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.917828", 
+        "LONGITUDE" : "-121.697325", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547284.2499, 
+        "y" : 4567824.1598
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105236, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Stonecreek-SCMW-360", 
+        "SWN" : "02N03E31G997M", 
+        "CASGEM_WELL_ID" : "48679", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "360", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379781N1216840W003", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.978122", 
+        "LONGITUDE" : "-121.683968", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545797.3555, 
+        "y" : 4576335.6461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105243, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "MW 5-39", 
+        "SWN" : "02N03E29Q999M", 
+        "CASGEM_WELL_ID" : "48685", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379853N1216641W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.985299", 
+        "LONGITUDE" : "-121.664114", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13543587.2183, 
+        "y" : 4577349.2627
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105231, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "6MW-350", 
+        "SWN" : "01N03E25L997M", 
+        "CASGEM_WELL_ID" : "48673", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "350", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379028N1215995W003", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.902811", 
+        "LONGITUDE" : "-121.599497", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536394.0868, 
+        "y" : 4565705.3498
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92216, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "Creekside-CSMW", 
+        "SWN" : "02N03E31C999M", 
+        "CASGEM_WELL_ID" : "48675", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "380", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379799N1216911W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.979894", 
+        "LONGITUDE" : "-121.691127", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13546594.2917, 
+        "y" : 4576585.8986
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105234, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Glen Park-GPMW", 
+        "SWN" : "02N03E31L999M", 
+        "CASGEM_WELL_ID" : "48676", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379741N1216867W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.974073", 
+        "LONGITUDE" : "-121.686709", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13546102.4822, 
+        "y" : 4575763.8445
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92211, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "4AMW-357", 
+        "SWN" : "01N03E26M998M", 
+        "CASGEM_WELL_ID" : "48670", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "357", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379010N1216188W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.901021", 
+        "LONGITUDE" : "-121.618822", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13538545.3359, 
+        "y" : 4565452.8202
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105238, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "MW 5-33", 
+        "SWN" : "02N03E30J999M", 
+        "CASGEM_WELL_ID" : "48681", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379894N1216794W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.98935", 
+        "LONGITUDE" : "-121.679441", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545293.4121, 
+        "y" : 4577921.4343
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105225, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "#14 MW-154", 
+        "SWN" : "01N03E06E997M", 
+        "CASGEM_WELL_ID" : "48666", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "154", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379620N1216957W003", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.962003", 
+        "LONGITUDE" : "-121.695675", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547100.5727, 
+        "y" : 4574059.5008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105240, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "MW 5-36", 
+        "SWN" : "02N03E32M999M", 
+        "CASGEM_WELL_ID" : "48683", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379737N1216756W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.973701", 
+        "LONGITUDE" : "-121.675596", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13544865.3887, 
+        "y" : 4575711.3121
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 91901, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "#14 MW-324", 
+        "SWN" : "01N03E06E999M", 
+        "CASGEM_WELL_ID" : "48664", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "324", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379620N1216957W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.962003", 
+        "LONGITUDE" : "-121.695675", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547100.5727, 
+        "y" : 4574059.5008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105242, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "Stonecreek-SCMW-300", 
+        "SWN" : "02N03E31G998M", 
+        "CASGEM_WELL_ID" : "48678", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "300", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379781N1216840W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.978122", 
+        "LONGITUDE" : "-121.683968", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545797.3555, 
+        "y" : 4576335.6461
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 91904, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "1BMW-140", 
+        "SWN" : "01N03E25C999M", 
+        "CASGEM_WELL_ID" : "48667", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "140", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379103N1215994W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.910328", 
+        "LONGITUDE" : "-121.599376", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13536380.6171, 
+        "y" : 4566765.9001
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92223, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "MW 5-35", 
+        "SWN" : "02N03E31H999M", 
+        "CASGEM_WELL_ID" : "48682", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379773N1216785W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.977313", 
+        "LONGITUDE" : "-121.678539", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545193.0019, 
+        "y" : 4576221.3962
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Diablo Water District", 
+        "OBJECTID" : 92225, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "5055", 
+        "LOCAL_WELL_NBR" : "MW 5-37", 
+        "SWN" : "01N03E06H999M", 
+        "CASGEM_WELL_ID" : "48684", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "20", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379635N1216797W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.963534", 
+        "LONGITUDE" : "-121.679699", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13545322.1326, 
+        "y" : 4574275.6701
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 105223, 
+        "SHP_FILE_ID" : "3335", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "#14 MW-324", 
+        "SWN" : "01N03E06E999M", 
+        "CASGEM_WELL_ID" : "48664", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "324", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/01/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "379620N1216957W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.962003", 
+        "LONGITUDE" : "-121.695675", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13547100.5727, 
+        "y" : 4574059.5008
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4275, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "01S03E03M001M", 
+        "SWN" : "01S03E03M001M", 
+        "CASGEM_WELL_ID" : "6579", 
+        "GW_BASIN_NAME" : "Tracy", 
+        "GW_BASIN_CODE" : "5-22.15", 
+        "WELL_USE" : "Residential", 
+        "TOTAL_WELL_DEPTH" : "185", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Contra Costa", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/26/2012", 
+        "COMPLETION_RPT_NBR" : "63487", 
+        "CASGEM_STATION_ID" : "378742N1216398W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.8742", 
+        "LONGITUDE" : "-121.6398", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13540880.5962, 
+        "y" : 4561669.7029
+      }
+    }
+  ]
+}

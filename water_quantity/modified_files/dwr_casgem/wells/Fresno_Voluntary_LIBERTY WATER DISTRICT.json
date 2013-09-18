@@ -1,0 +1,1410 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13906, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S20E36B001M", 
+        "SWN" : "16S20E36B001M", 
+        "CASGEM_WELL_ID" : "16202", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365036N1197449W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5036", 
+        "LONGITUDE" : "-119.7449", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13329941.2931, 
+        "y" : 4370139.0565
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13907, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S20E36C001M", 
+        "CASGEM_WELL_ID" : "16203", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365039N1197466W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5039", 
+        "LONGITUDE" : "-119.7466", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13330130.5362, 
+        "y" : 4370180.603
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13754, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S19E34L001M", 
+        "CASGEM_WELL_ID" : "16048", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364927N1198899W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4927", 
+        "LONGITUDE" : "-119.8899", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13346082.6193, 
+        "y" : 4368629.6416
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13779, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S20E32H001M", 
+        "CASGEM_WELL_ID" : "16073", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364966N1198099W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4966", 
+        "LONGITUDE" : "-119.8099", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13337177.06, 
+        "y" : 4369169.6831
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 17952, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S20E08G001M", 
+        "CASGEM_WELL_ID" : "20312", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364677N1197666W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4677", 
+        "LONGITUDE" : "-119.7666", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13332356.926, 
+        "y" : 4365168.4831
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18085, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17S20E10H001M", 
+        "CASGEM_WELL_ID" : "20447", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364816N1197888W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4816", 
+        "LONGITUDE" : "-119.7888", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13334828.2187, 
+        "y" : 4367092.7494
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 15927, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S21E33N001M", 
+        "SWN" : "16S21E33N001M", 
+        "CASGEM_WELL_ID" : "18253", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364908N1196971W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4908", 
+        "LONGITUDE" : "-119.6971", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13324620.2214, 
+        "y" : 4368366.5544
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18084, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E10G001M", 
+        "SWN" : "17S20E10G001M", 
+        "CASGEM_WELL_ID" : "20446", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364691N1197874W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4691", 
+        "LONGITUDE" : "-119.7874", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13334672.3715, 
+        "y" : 4365362.2785
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18596, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S19E25B001M", 
+        "SWN" : "16S19E25B001M", 
+        "CASGEM_WELL_ID" : "20966", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365143N1198529W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5143", 
+        "LONGITUDE" : "-119.8529", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13341963.7981, 
+        "y" : 4371620.9823
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18600, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S19E28E001M", 
+        "SWN" : "16S19E28E001M", 
+        "CASGEM_WELL_ID" : "20970", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365132N1199138W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5132", 
+        "LONGITUDE" : "-119.9138", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13348743.1551, 
+        "y" : 4371468.6254
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18089, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E12Q001M", 
+        "SWN" : "17S20E12Q001M", 
+        "CASGEM_WELL_ID" : "20451", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364603N1197510W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4603", 
+        "LONGITUDE" : "-119.751", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13330620.342, 
+        "y" : 4364144.1943
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 32282, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S19E03L001M", 
+        "SWN" : "17S19E03L001M", 
+        "CASGEM_WELL_ID" : "35194", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364813N1198968W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4813", 
+        "LONGITUDE" : "-119.8968", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13346850.7237, 
+        "y" : 4367051.2149
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13904, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S20E33L001M", 
+        "SWN" : "16S20E33L001M", 
+        "CASGEM_WELL_ID" : "16199", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364966N1198038W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4966", 
+        "LONGITUDE" : "-119.8038", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13336498.0111, 
+        "y" : 4369169.6831
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 17946, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E03G001M", 
+        "SWN" : "17S20E03G001M", 
+        "CASGEM_WELL_ID" : "20306", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364816N1197888W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4816", 
+        "LONGITUDE" : "-119.7888", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13334828.2187, 
+        "y" : 4367092.7494
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 33331, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S19E01P001M", 
+        "SWN" : "17S19E01P001M", 
+        "CASGEM_WELL_ID" : "36265", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364757N1198646W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4757", 
+        "LONGITUDE" : "-119.8646", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13343266.2361, 
+        "y" : 4366275.9324
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13777, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S20E31P001M", 
+        "SWN" : "16S20E31P001M", 
+        "CASGEM_WELL_ID" : "16071", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364916N1198366W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4916", 
+        "LONGITUDE" : "-119.8366", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13340149.2904, 
+        "y" : 4368477.3272
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 17287, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S19E02C001M", 
+        "SWN" : "17S19E02C001M", 
+        "CASGEM_WELL_ID" : "19637", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364868N1198788W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4868", 
+        "LONGITUDE" : "-119.8788", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13344846.9729, 
+        "y" : 4367812.7076
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13757, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S19E34Q002M", 
+        "SWN" : "16S19E34Q002M", 
+        "CASGEM_WELL_ID" : "16051", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364974N1198899W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4974", 
+        "LONGITUDE" : "-119.8899", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13346082.6193, 
+        "y" : 4369280.4642
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13755, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S19E34M001M", 
+        "SWN" : "16S19E34M001M", 
+        "CASGEM_WELL_ID" : "16049", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364924N1198991W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4924", 
+        "LONGITUDE" : "-119.8991", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13347106.7586, 
+        "y" : 4368588.1011
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 15922, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S21E30C001M", 
+        "SWN" : "16S21E30C001M", 
+        "CASGEM_WELL_ID" : "18248", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365150N1197327W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.515", 
+        "LONGITUDE" : "-119.7327", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13328583.1953, 
+        "y" : 4371717.9379
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18598, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S19E27B001M", 
+        "SWN" : "16S19E27B001M", 
+        "CASGEM_WELL_ID" : "20968", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365143N1198874W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5143", 
+        "LONGITUDE" : "-119.8874", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13345804.3205, 
+        "y" : 4371620.9823
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 32404, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E02F001M", 
+        "SWN" : "17S20E02F001M", 
+        "CASGEM_WELL_ID" : "35318", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364821N1197710W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4821", 
+        "LONGITUDE" : "-119.771", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13332846.7318, 
+        "y" : 4367161.9741
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 7639, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S20E34H001M", 
+        "SWN" : "16S20E34H001M", 
+        "CASGEM_WELL_ID" : "16200", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364977N1197735W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4977", 
+        "LONGITUDE" : "-119.7735", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13333125.0305, 
+        "y" : 4369322.0074
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 17943, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E01R001M", 
+        "SWN" : "17S20E01R001M", 
+        "CASGEM_WELL_ID" : "20303", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364750N1197488W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.475", 
+        "LONGITUDE" : "-119.7488", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13330375.4391, 
+        "y" : 4366179.026
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13760, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S19E36C001M", 
+        "SWN" : "16S19E36C001M", 
+        "CASGEM_WELL_ID" : "16054", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365032N1198549W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5032", 
+        "LONGITUDE" : "-119.8549", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13342186.4371, 
+        "y" : 4370083.6614
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 32666, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E18D001M", 
+        "SWN" : "17S20E18D001M", 
+        "CASGEM_WELL_ID" : "35585", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364424N1198510W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4424", 
+        "LONGITUDE" : "-119.851", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13341752.2911, 
+        "y" : 4361666.9269
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13775, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S20E31B001M", 
+        "SWN" : "16S20E31B001M", 
+        "CASGEM_WELL_ID" : "16069", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365035N1198363W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5035", 
+        "LONGITUDE" : "-119.8363", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13340115.8945, 
+        "y" : 4370125.2077
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 31474, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S21E06L001M", 
+        "SWN" : "17S21E06L001M", 
+        "CASGEM_WELL_ID" : "34369", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364817N1197357W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4817", 
+        "LONGITUDE" : "-119.7357", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13328917.1538, 
+        "y" : 4367106.5943
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13758, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S19E35B001M", 
+        "SWN" : "16S19E35B001M", 
+        "CASGEM_WELL_ID" : "16052", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365032N1198704W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5032", 
+        "LONGITUDE" : "-119.8704", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13343911.8892, 
+        "y" : 4370083.6614
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13778, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S20E32A001M", 
+        "SWN" : "16S20E32A001M", 
+        "CASGEM_WELL_ID" : "16072", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365007N1198102W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5007", 
+        "LONGITUDE" : "-119.8102", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13337210.4558, 
+        "y" : 4369737.4483
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18082, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E08L001M", 
+        "SWN" : "17S20E08L001M", 
+        "CASGEM_WELL_ID" : "20444", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364668N1198257W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4668", 
+        "LONGITUDE" : "-119.8257", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13338935.9079, 
+        "y" : 4365043.9022
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 32403, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E01C002M", 
+        "SWN" : "17S20E01C002M", 
+        "CASGEM_WELL_ID" : "35317", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364891N1197549W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4891", 
+        "LONGITUDE" : "-119.7549", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13331054.488, 
+        "y" : 4368131.166
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18616, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S21E09M001M", 
+        "SWN" : "17S21E09M001M", 
+        "CASGEM_WELL_ID" : "20986", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364667N1197041W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4667", 
+        "LONGITUDE" : "-119.7041", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13325399.4579, 
+        "y" : 4365030.06
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 15923, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S21E31J001M", 
+        "SWN" : "16S21E31J001M", 
+        "CASGEM_WELL_ID" : "18249", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364967N1197193W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4967", 
+        "LONGITUDE" : "-119.7193", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13327091.5141, 
+        "y" : 4369183.5307
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13905, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S20E35J001M", 
+        "SWN" : "16S20E35J001M", 
+        "CASGEM_WELL_ID" : "16201", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364960N1197554W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.496", 
+        "LONGITUDE" : "-119.7554", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13331110.1477, 
+        "y" : 4369086.598
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18088, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E11R001M", 
+        "SWN" : "17S20E11R001M", 
+        "CASGEM_WELL_ID" : "20450", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364605N1197654W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4605", 
+        "LONGITUDE" : "-119.7654", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13332223.3427, 
+        "y" : 4364171.8765
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 18597, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S19E25M001M", 
+        "SWN" : "16S19E25M001M", 
+        "CASGEM_WELL_ID" : "20967", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365088N1198635W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5088", 
+        "LONGITUDE" : "-119.8635", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13343143.7847, 
+        "y" : 4370859.2192
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13902, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S20E32L001M", 
+        "SWN" : "16S20E32L001M", 
+        "CASGEM_WELL_ID" : "16197", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364932N1198216W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4932", 
+        "LONGITUDE" : "-119.8216", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13338479.498, 
+        "y" : 4368698.8762
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 30453, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S20E30C001M", 
+        "SWN" : "16S20E30C001M", 
+        "CASGEM_WELL_ID" : "33314", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365180N1198363W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.518", 
+        "LONGITUDE" : "-119.8363", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13340115.8945, 
+        "y" : 4372133.4717
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 17925, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S19E11H001M", 
+        "SWN" : "17S19E11H001M", 
+        "CASGEM_WELL_ID" : "20284", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364682N1198732W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4682", 
+        "LONGITUDE" : "-119.8732", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13344223.5838, 
+        "y" : 4365237.6954
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 13759, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "16S19E35Q001M", 
+        "SWN" : "16S19E35Q001M", 
+        "CASGEM_WELL_ID" : "16053", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364921N1198721W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4921", 
+        "LONGITUDE" : "-119.8721", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13344101.1323, 
+        "y" : 4368546.5608
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 17951, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E07G001M", 
+        "SWN" : "17S20E07G001M", 
+        "CASGEM_WELL_ID" : "20311", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364677N1198396W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4677", 
+        "LONGITUDE" : "-119.8396", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13340483.2489, 
+        "y" : 4365168.4831
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LIBERTY WATER DISTRICT", 
+        "OBJECTID" : 32407, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1068", 
+        "LOCAL_WELL_NBR" : "17S20E05K003M", 
+        "SWN" : "17S20E05K003M", 
+        "CASGEM_WELL_ID" : "35321", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "364782N1198210W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.4782", 
+        "LONGITUDE" : "-119.821", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13338412.7063, 
+        "y" : 4366622.0337
+      }
+    }
+  ]
+}

@@ -1,0 +1,1762 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12184, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S17E28A001M", 
+        "CASGEM_WELL_ID" : "14440", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366893N1201171W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6893", 
+        "LONGITUDE" : "-120.1171", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371374.4076, 
+        "y" : 4395887.247
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12185, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S17E29E001M", 
+        "CASGEM_WELL_ID" : "14441", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366855N1201491W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6855", 
+        "LONGITUDE" : "-120.1491", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374936.6313, 
+        "y" : 4395359.7369
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12186, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S17E31R001M", 
+        "CASGEM_WELL_ID" : "14442", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366652N1201516W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6652", 
+        "LONGITUDE" : "-120.1516", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375214.93, 
+        "y" : 4392542.1639
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12187, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S17E32R001M", 
+        "CASGEM_WELL_ID" : "14443", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366652N1201346W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6652", 
+        "LONGITUDE" : "-120.1346", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373322.4987, 
+        "y" : 4392542.1639
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12188, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S17E33A001M", 
+        "CASGEM_WELL_ID" : "14444", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366760N1201154W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.676", 
+        "LONGITUDE" : "-120.1154", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371185.1644, 
+        "y" : 4394041.0757
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12190, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S17E35A001M", 
+        "CASGEM_WELL_ID" : "14446", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366763N1200791W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6763", 
+        "LONGITUDE" : "-120.0791", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13367144.2669, 
+        "y" : 4394082.7151
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12200, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S18E29H001M", 
+        "CASGEM_WELL_ID" : "14456", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366877N1200252W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6877", 
+        "LONGITUDE" : "-120.0252", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13361144.1464, 
+        "y" : 4395665.1343
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11469, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S16E25R001M", 
+        "CASGEM_WELL_ID" : "13688", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365896N1201696W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5896", 
+        "LONGITUDE" : "-120.1696", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13377218.6808, 
+        "y" : 4382055.6635
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11471, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S16E28A001M", 
+        "CASGEM_WELL_ID" : "13690", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366022N1202260W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.6022", 
+        "LONGITUDE" : "-120.226", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383497.1001, 
+        "y" : 4383802.6995
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11473, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S16E29N001M", 
+        "CASGEM_WELL_ID" : "13692", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365883N1202602W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.5883", 
+        "LONGITUDE" : "-120.2602", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13387304.2267, 
+        "y" : 4381875.43
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11479, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E02B002M", 
+        "CASGEM_WELL_ID" : "13698", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366616N1200843W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6616", 
+        "LONGITUDE" : "-120.0843", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13367723.1283, 
+        "y" : 4392042.5733
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11472, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S16E28A003M", 
+        "CASGEM_WELL_ID" : "13691", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366022N1202260W003", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.6022", 
+        "LONGITUDE" : "-120.226", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383497.1001, 
+        "y" : 4383802.6995
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11481, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E03L001M", 
+        "CASGEM_WELL_ID" : "13701", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366541N1201088W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6541", 
+        "LONGITUDE" : "-120.1088", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13370450.4558, 
+        "y" : 4391001.8347
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11484, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E05C001M", 
+        "CASGEM_WELL_ID" : "13704", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366582N1201427W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6582", 
+        "LONGITUDE" : "-120.1427", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374224.1865, 
+        "y" : 4391570.7593
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11486, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E07H001M", 
+        "CASGEM_WELL_ID" : "13706", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366435N1201516W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6435", 
+        "LONGITUDE" : "-120.1516", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375214.93, 
+        "y" : 4389531.0971
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11495, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E13R002M", 
+        "CASGEM_WELL_ID" : "13715", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366196N1200632W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6196", 
+        "LONGITUDE" : "-120.0632", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13365374.287, 
+        "y" : 4386215.7423
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12285, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S18E04A002M", 
+        "CASGEM_WELL_ID" : "14544", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366618N1200068W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6618", 
+        "LONGITUDE" : "-120.0068", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359095.8677, 
+        "y" : 4392070.3277
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12286, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S18E06A001M", 
+        "CASGEM_WELL_ID" : "14545", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366596N1200432W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6596", 
+        "LONGITUDE" : "-120.0432", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13363147.8972, 
+        "y" : 4391765.0331
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12287, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S18E07A002M", 
+        "CASGEM_WELL_ID" : "14546", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366471N1200435W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6471", 
+        "LONGITUDE" : "-120.0435", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13363181.293, 
+        "y" : 4390030.5702
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12289, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S18E10N001M", 
+        "CASGEM_WELL_ID" : "14548", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366335N1200068W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6335", 
+        "LONGITUDE" : "-120.0068", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13359095.8677, 
+        "y" : 4388143.7942
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12294, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S18E17R001M", 
+        "CASGEM_WELL_ID" : "14553", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366182N1200263W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6182", 
+        "LONGITUDE" : "-120.0263", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13361266.5978, 
+        "y" : 4386021.5693
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12305, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S18E30L001M", 
+        "CASGEM_WELL_ID" : "14564", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365963N1200529W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5963", 
+        "LONGITUDE" : "-120.0529", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13364227.6963, 
+        "y" : 4382984.6075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11605, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E18B001M", 
+        "CASGEM_WELL_ID" : "13849", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366324N1201602W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6324", 
+        "LONGITUDE" : "-120.1602", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13376172.2776, 
+        "y" : 4387991.2019
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11608, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E21J001M", 
+        "CASGEM_WELL_ID" : "13852", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366082N1201199W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6082", 
+        "LONGITUDE" : "-120.1199", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371686.1021, 
+        "y" : 4384634.7218
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11611, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E23A001M", 
+        "CASGEM_WELL_ID" : "13855", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366141N1200799W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6141", 
+        "LONGITUDE" : "-120.0799", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13367233.3225, 
+        "y" : 4385452.94
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11613, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E26A001M", 
+        "CASGEM_WELL_ID" : "13857", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366032N1200799W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6032", 
+        "LONGITUDE" : "-120.0799", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13367233.3225, 
+        "y" : 4383941.3654
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 11616, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E28K001M", 
+        "CASGEM_WELL_ID" : "13860", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365960N1201241W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.596", 
+        "LONGITUDE" : "-120.1241", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372153.644, 
+        "y" : 4382943.0112
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12140, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E32L003M", 
+        "CASGEM_WELL_ID" : "14395", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365813N1201460W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5813", 
+        "LONGITUDE" : "-120.146", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374591.5408, 
+        "y" : 4380904.994
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12141, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E33A001M", 
+        "CASGEM_WELL_ID" : "14396", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365888N1201168W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5888", 
+        "LONGITUDE" : "-120.1168", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371341.0117, 
+        "y" : 4381944.7502
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 12153, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E36G001M", 
+        "CASGEM_WELL_ID" : "14409", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365818N1200707W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5818", 
+        "LONGITUDE" : "-120.0707", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13366209.1832, 
+        "y" : 4380974.3079
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 16422, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S17E03J002M", 
+        "CASGEM_WELL_ID" : "18754", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365655N1200977W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5655", 
+        "LONGITUDE" : "-120.0977", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13369214.8094, 
+        "y" : 4378714.9047
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 31539, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S17E04P001M", 
+        "CASGEM_WELL_ID" : "34437", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365613N1201263W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5613", 
+        "LONGITUDE" : "-120.1263", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13372398.5469, 
+        "y" : 4378132.8045
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29697, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S18E19R001M", 
+        "CASGEM_WELL_ID" : "32540", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366043N1200429W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6043", 
+        "LONGITUDE" : "-120.0429", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13363114.5013, 
+        "y" : 4384093.9
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29403, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E35A001M", 
+        "CASGEM_WELL_ID" : "32239", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365888N1200796W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5888", 
+        "LONGITUDE" : "-120.0796", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13367199.9267, 
+        "y" : 4381944.7502
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29404, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E35N001M", 
+        "CASGEM_WELL_ID" : "32240", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365771N1200971W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5771", 
+        "LONGITUDE" : "-120.0971", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13369148.0177, 
+        "y" : 4380322.7747
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29423, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S17E34A001M", 
+        "CASGEM_WELL_ID" : "32259", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366760N1200974W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.676", 
+        "LONGITUDE" : "-120.0974", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13369181.4136, 
+        "y" : 4394041.0757
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29424, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S17E36A001M", 
+        "CASGEM_WELL_ID" : "32260", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366763N1200610W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6763", 
+        "LONGITUDE" : "-120.061", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13365129.3841, 
+        "y" : 4394082.7151
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29428, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S18E18E001M", 
+        "CASGEM_WELL_ID" : "32264", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367166N1200593W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7166", 
+        "LONGITUDE" : "-120.0593", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13364940.141, 
+        "y" : 4399677.7573
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29874, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S16E02B001M", 
+        "CASGEM_WELL_ID" : "32721", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366605N1201932W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6605", 
+        "LONGITUDE" : "-120.1932", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13379845.8208, 
+        "y" : 4391889.9253
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30638, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E22J002M", 
+        "CASGEM_WELL_ID" : "33516", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366077N1200982W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6077", 
+        "LONGITUDE" : "-120.0982", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13369270.4692, 
+        "y" : 4384565.3841
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30640, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E25R001M", 
+        "CASGEM_WELL_ID" : "33518", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365896N1200621W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5896", 
+        "LONGITUDE" : "-120.0621", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13365251.8356, 
+        "y" : 4382055.6635
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29880, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S16E12C001M", 
+        "CASGEM_WELL_ID" : "32727", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366460N1201827W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.646", 
+        "LONGITUDE" : "-120.1827", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13378676.9662, 
+        "y" : 4389877.9509
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30356, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S16E28A002M", 
+        "CASGEM_WELL_ID" : "33215", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366022N1202260W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.6022", 
+        "LONGITUDE" : "-120.226", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383497.1001, 
+        "y" : 4383802.6995
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30357, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S16E28A004M", 
+        "CASGEM_WELL_ID" : "33216", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366022N1202260W004", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.6022", 
+        "LONGITUDE" : "-120.226", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383497.1001, 
+        "y" : 4383802.6995
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30360, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E01A002M", 
+        "CASGEM_WELL_ID" : "33219", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366616N1200613W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6616", 
+        "LONGITUDE" : "-120.0613", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13365162.78, 
+        "y" : 4392042.5733
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30361, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E11A001M", 
+        "CASGEM_WELL_ID" : "33220", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366466N1200802W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6466", 
+        "LONGITUDE" : "-120.0802", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13367266.7184, 
+        "y" : 4389961.1975
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30363, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E12A004M", 
+        "CASGEM_WELL_ID" : "33222", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366471N1200646W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6471", 
+        "LONGITUDE" : "-120.0646", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13365530.1343, 
+        "y" : 4390030.5702
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30365, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S17E15J003M", 
+        "CASGEM_WELL_ID" : "33224", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366255N1200977W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6255", 
+        "LONGITUDE" : "-120.0977", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13369214.8094, 
+        "y" : 4387034.0816
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30384, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S16E26R002M", 
+        "CASGEM_WELL_ID" : "33243", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366780N1201882W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.678", 
+        "LONGITUDE" : "-120.1882", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13379289.2234, 
+        "y" : 4394318.6751
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30492, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S16E33N001M", 
+        "CASGEM_WELL_ID" : "33354", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366616N1202410W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "36.6616", 
+        "LONGITUDE" : "-120.241", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13385166.8925, 
+        "y" : 4392042.5733
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 30493, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S16E35M001M", 
+        "CASGEM_WELL_ID" : "33355", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366685N1202060W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6685", 
+        "LONGITUDE" : "-120.206", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13381270.7103, 
+        "y" : 4393000.1424
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29690, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S18E03R001M", 
+        "CASGEM_WELL_ID" : "32533", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366480N1199893W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.648", 
+        "LONGITUDE" : "-119.9893", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13357147.7766, 
+        "y" : 4390155.4421
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 29696, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S18E17C001M", 
+        "CASGEM_WELL_ID" : "32539", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366327N1200360W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6327", 
+        "LONGITUDE" : "-120.036", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13362346.3969, 
+        "y" : 4388032.8178
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "JAMES IRRIGATION DISTRICT", 
+        "OBJECTID" : 32913, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1106", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "16S16E02M001M", 
+        "CASGEM_WELL_ID" : "35838", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365642N1202068W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5642", 
+        "LONGITUDE" : "-120.2068", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13381359.7659, 
+        "y" : 4378534.7275
+      }
+    }
+  ]
+}

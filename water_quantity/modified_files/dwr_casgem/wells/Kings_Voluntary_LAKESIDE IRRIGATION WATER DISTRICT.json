@@ -1,0 +1,2018 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14265, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E06C001M", 
+        "SWN" : "20S22E06C001M", 
+        "CASGEM_WELL_ID" : "16567", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362250N1196279W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.225", 
+        "LONGITUDE" : "-119.6279", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316916.9127, 
+        "y" : 4331625.355
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 15631, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E04B001M", 
+        "SWN" : "19S22E04B001M", 
+        "CASGEM_WELL_ID" : "17951", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363128N1195916W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3128", 
+        "LONGITUDE" : "-119.5916", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312876.0152, 
+        "y" : 4343747.9711
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13638, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E29D001M", 
+        "SWN" : "19S22E29D001M", 
+        "CASGEM_WELL_ID" : "15931", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362547N1196154W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2547", 
+        "LONGITUDE" : "-119.6154", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315525.419, 
+        "y" : 4335724.5325
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 30151, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S21E11D001M", 
+        "SWN" : "20S21E11D001M", 
+        "CASGEM_WELL_ID" : "33006", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362106N1196685W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2106", 
+        "LONGITUDE" : "-119.6685", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13321436.484, 
+        "y" : 4329638.4353
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14685, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "18S22E27M002M", 
+        "SWN" : "18S22E27M002M", 
+        "CASGEM_WELL_ID" : "16993", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363319N1195802W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3319", 
+        "LONGITUDE" : "-119.5802", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311606.973, 
+        "y" : 4346386.9304
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14682, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "18S22E22A001M", 
+        "CASGEM_WELL_ID" : "16990", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363556N1195654W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3556", 
+        "LONGITUDE" : "-119.5654", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309959.4445, 
+        "y" : 4349662.3501
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13591, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S21E01A001M", 
+        "SWN" : "20S21E01A001M", 
+        "CASGEM_WELL_ID" : "15883", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/03/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362256N1196379W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2256", 
+        "LONGITUDE" : "-119.6379", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318030.1076, 
+        "y" : 4331708.1513
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13630, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E18L001M", 
+        "CASGEM_WELL_ID" : "15923", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362750N1196316W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.275", 
+        "LONGITUDE" : "-119.6316", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317328.7948, 
+        "y" : 4338527.2239
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 15460, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E10R001M", 
+        "SWN" : "19S21E10R001M", 
+        "CASGEM_WELL_ID" : "17778", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/16/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362867N1196727W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2867", 
+        "LONGITUDE" : "-119.6727", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13321904.0259, 
+        "y" : 4340142.8992
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 15613, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E24K001M", 
+        "SWN" : "19S21E24K001M", 
+        "CASGEM_WELL_ID" : "17933", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362608N1196424W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2608", 
+        "LONGITUDE" : "-119.6424", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318531.0453, 
+        "y" : 4336566.644
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14262, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E03P001M", 
+        "SWN" : "20S22E03P001M", 
+        "CASGEM_WELL_ID" : "16564", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362131N1195779W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2131", 
+        "LONGITUDE" : "-119.5779", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311350.9381, 
+        "y" : 4329983.3604
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14934, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E03B001M", 
+        "SWN" : "19S21E03B001M", 
+        "CASGEM_WELL_ID" : "17245", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363128N1196816W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3128", 
+        "LONGITUDE" : "-119.6816", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13322894.7693, 
+        "y" : 4343747.9711
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 15615, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E25J001M", 
+        "SWN" : "19S21E25J001M", 
+        "CASGEM_WELL_ID" : "17935", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362475N1196374W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2475", 
+        "LONGITUDE" : "-119.6374", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317974.4478, 
+        "y" : 4334730.6495
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 30163, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "19S22E10A001M", 
+        "CASGEM_WELL_ID" : "33018", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362981N1195679W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2981", 
+        "LONGITUDE" : "-119.5679", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310237.7432, 
+        "y" : 4341717.3799
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 15598, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E13J001M", 
+        "SWN" : "19S21E13J001M", 
+        "CASGEM_WELL_ID" : "17918", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362833N1196377W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2833", 
+        "LONGITUDE" : "-119.6377", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318007.8437, 
+        "y" : 4339673.3617
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13642, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E32D001M", 
+        "SWN" : "19S22E32D001M", 
+        "CASGEM_WELL_ID" : "15935", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362389N1196146W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2389", 
+        "LONGITUDE" : "-119.6146", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13315436.3634, 
+        "y" : 4333543.6314
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13611, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E06H001M", 
+        "SWN" : "19S22E06H001M", 
+        "CASGEM_WELL_ID" : "15904", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363069N1196224W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3069", 
+        "LONGITUDE" : "-119.6224", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316304.6555, 
+        "y" : 4342932.926
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 37038, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E23J001M", 
+        "SWN" : "19S21E23J001M", 
+        "CASGEM_WELL_ID" : "40086", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362619N1196577W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2619", 
+        "LONGITUDE" : "-119.6577", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13320234.2335, 
+        "y" : 4336718.5072
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13752, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E03B001M", 
+        "SWN" : "20S22E03B001M", 
+        "CASGEM_WELL_ID" : "16046", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362256N1195702W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2256", 
+        "LONGITUDE" : "-119.5702", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310493.778, 
+        "y" : 4331708.1513
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 30194, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "@", 
+        "SWN" : "18S22E26F001M", 
+        "CASGEM_WELL_ID" : "33049", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363386N1195563W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3386", 
+        "LONGITUDE" : "-119.5563", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308946.4371, 
+        "y" : 4347312.7918
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 32581, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "18S22E19H002M", 
+        "SWN" : "18S22E19H002M", 
+        "CASGEM_WELL_ID" : "35498", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363506N1196213W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3506", 
+        "LONGITUDE" : "-119.6213", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316182.204, 
+        "y" : 4348971.2503
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 15617, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E26B001M", 
+        "SWN" : "19S21E26B001M", 
+        "CASGEM_WELL_ID" : "17937", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362539N1196599W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2539", 
+        "LONGITUDE" : "-119.6599", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13320479.1364, 
+        "y" : 4335614.0966
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13617, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E09M001M", 
+        "SWN" : "19S22E09M001M", 
+        "CASGEM_WELL_ID" : "15910", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362911N1196004W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2911", 
+        "LONGITUDE" : "-119.6004", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313855.6267, 
+        "y" : 4340750.5662
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 15630, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E03J001M", 
+        "SWN" : "19S22E03J001M", 
+        "CASGEM_WELL_ID" : "17950", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363042N1195679W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3042", 
+        "LONGITUDE" : "-119.5679", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310237.7432, 
+        "y" : 4342559.9597
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 30145, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S21E01L001M", 
+        "SWN" : "20S21E01L001M", 
+        "CASGEM_WELL_ID" : "32999", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362172N1196482W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2172", 
+        "LONGITUDE" : "-119.6482", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13319176.6983, 
+        "y" : 4330549.0614
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 30168, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E27A001M", 
+        "SWN" : "19S22E27A001M", 
+        "CASGEM_WELL_ID" : "33023", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362531N1195679W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2531", 
+        "LONGITUDE" : "-119.5679", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310237.7432, 
+        "y" : 4335503.6617
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13622, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E14M001M", 
+        "SWN" : "19S22E14M001M", 
+        "CASGEM_WELL_ID" : "15915", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362761N1195632W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2761", 
+        "LONGITUDE" : "-119.5632", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13309714.5416, 
+        "y" : 4338679.1146
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13632, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E19M001M", 
+        "SWN" : "19S22E19M001M", 
+        "CASGEM_WELL_ID" : "15925", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362614N1196354W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2614", 
+        "LONGITUDE" : "-119.6354", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13317751.8088, 
+        "y" : 4336649.4782
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 36157, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E20A001M", 
+        "SWN" : "19S22E20A001M", 
+        "CASGEM_WELL_ID" : "39166", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362678N1196032W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2678", 
+        "LONGITUDE" : "-119.6032", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314167.3212, 
+        "y" : 4337533.0825
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14410, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E20A002M", 
+        "SWN" : "20S22E20A002M", 
+        "CASGEM_WELL_ID" : "16715", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361806N1196010W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1806", 
+        "LONGITUDE" : "-119.601", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313922.4184, 
+        "y" : 4325500.1932
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13637, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E28C001M", 
+        "SWN" : "19S22E28C001M", 
+        "CASGEM_WELL_ID" : "15930", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362519N1195918W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2519", 
+        "LONGITUDE" : "-119.5918", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312898.2791, 
+        "y" : 4335338.0116
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 36176, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "18S22E21C001M", 
+        "SWN" : "18S22E21C001M", 
+        "CASGEM_WELL_ID" : "39185", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363567N1195938W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3567", 
+        "LONGITUDE" : "-119.5938", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313120.918, 
+        "y" : 4349814.398
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13623, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E15M001M", 
+        "SWN" : "19S22E15M001M", 
+        "CASGEM_WELL_ID" : "15916", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362733N1195827W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2733", 
+        "LONGITUDE" : "-119.5827", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311885.2717, 
+        "y" : 4338292.4878
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14266, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E06H001M", 
+        "SWN" : "20S22E06H001M", 
+        "CASGEM_WELL_ID" : "16568", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362192N1196202W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2192", 
+        "LONGITUDE" : "-119.6202", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316059.7526, 
+        "y" : 4330825.0239
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13751, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E02C001M", 
+        "SWN" : "20S22E02C001M", 
+        "CASGEM_WELL_ID" : "16045", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362258N1195566W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2258", 
+        "LONGITUDE" : "-119.5566", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13308979.833, 
+        "y" : 4331735.7501
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13599, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S21E09M001M", 
+        "SWN" : "20S21E09M001M", 
+        "CASGEM_WELL_ID" : "15891", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362017N1197066W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2017", 
+        "LONGITUDE" : "-119.7066", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13325677.7566, 
+        "y" : 4328410.5914
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13750, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E01Q001M", 
+        "SWN" : "20S22E01Q001M", 
+        "CASGEM_WELL_ID" : "16044", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362122N1195379W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2122", 
+        "LONGITUDE" : "-119.5379", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13306898.1585, 
+        "y" : 4329859.1861
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13643, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E33B001M", 
+        "SWN" : "19S22E33B001M", 
+        "CASGEM_WELL_ID" : "15936", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362386N1195913W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2386", 
+        "LONGITUDE" : "-119.5913", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312842.6193, 
+        "y" : 4333502.2262
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 32834, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E02N001M", 
+        "SWN" : "19S21E02N001M", 
+        "CASGEM_WELL_ID" : "35756", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362986N1196693W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2986", 
+        "LONGITUDE" : "-119.6693", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13321525.5396, 
+        "y" : 4341786.4414
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 29209, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E07A004M", 
+        "SWN" : "20S22E07A004M", 
+        "CASGEM_WELL_ID" : "32042", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362092N1196213W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2092", 
+        "LONGITUDE" : "-119.6213", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316182.204, 
+        "y" : 4329445.2821
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13626, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E17A001M", 
+        "SWN" : "19S22E17A001M", 
+        "CASGEM_WELL_ID" : "15919", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362825N1196046W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2825", 
+        "LONGITUDE" : "-119.6046", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314323.1685, 
+        "y" : 4339562.8853
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 32076, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E15J002M", 
+        "SWN" : "19S21E15J002M", 
+        "CASGEM_WELL_ID" : "34982", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362764N1196760W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2764", 
+        "LONGITUDE" : "-119.676", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13322271.3802, 
+        "y" : 4338720.5398
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13602, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S21E11N001M", 
+        "SWN" : "20S21E11N001M", 
+        "CASGEM_WELL_ID" : "15894", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "361983N1196704W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.1983", 
+        "LONGITUDE" : "-119.6704", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13321647.991, 
+        "y" : 4327941.5643
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14835, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "18S22E17Q001M", 
+        "SWN" : "18S22E17Q001M", 
+        "CASGEM_WELL_ID" : "17145", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363589N1196074W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3589", 
+        "LONGITUDE" : "-119.6074", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314634.8631, 
+        "y" : 4350118.5003
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14687, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "18S22E29B001M", 
+        "SWN" : "18S22E29B001M", 
+        "CASGEM_WELL_ID" : "16995", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363422N1196063W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3422", 
+        "LONGITUDE" : "-119.6063", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314512.4117, 
+        "y" : 4347810.3025
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13606, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S21E12P001M", 
+        "SWN" : "20S21E12P001M", 
+        "CASGEM_WELL_ID" : "15898", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362006N1196463W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2006", 
+        "LONGITUDE" : "-119.6463", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318965.1913, 
+        "y" : 4328258.8451
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 32182, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E24H001M", 
+        "SWN" : "19S21E24H001M", 
+        "CASGEM_WELL_ID" : "35090", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362622N1196413W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2622", 
+        "LONGITUDE" : "-119.6413", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13318408.5938, 
+        "y" : 4336759.9248
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14271, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E09H001M", 
+        "SWN" : "20S22E09H001M", 
+        "CASGEM_WELL_ID" : "16573", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362064N1195874W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2064", 
+        "LONGITUDE" : "-119.5874", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312408.4733, 
+        "y" : 4329058.986
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13612, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E07A001M", 
+        "SWN" : "19S22E07A001M", 
+        "CASGEM_WELL_ID" : "15905", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362983N1196204W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2983", 
+        "LONGITUDE" : "-119.6204", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316082.0165, 
+        "y" : 4341745.0045
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 32195, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E04J001M", 
+        "SWN" : "19S22E04J001M", 
+        "CASGEM_WELL_ID" : "35104", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363061N1195877W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3061", 
+        "LONGITUDE" : "-119.5877", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312441.8691, 
+        "y" : 4342822.4161
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 13619, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E10C001M", 
+        "SWN" : "19S22E10C001M", 
+        "CASGEM_WELL_ID" : "15912", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362983N1195782W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2983", 
+        "LONGITUDE" : "-119.5782", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311384.334, 
+        "y" : 4341745.0045
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 32580, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "18S22E16L001M", 
+        "SWN" : "18S22E16L001M", 
+        "CASGEM_WELL_ID" : "35497", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363608N1195924W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3608", 
+        "LONGITUDE" : "-119.5924", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13312965.0707, 
+        "y" : 4350381.141
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14264, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E05L001M", 
+        "SWN" : "20S22E05L001M", 
+        "CASGEM_WELL_ID" : "16566", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362167N1196104W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2167", 
+        "LONGITUDE" : "-119.6104", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13314968.8216, 
+        "y" : 4330480.0719
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 36032, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E21J001M", 
+        "SWN" : "19S22E21J001M", 
+        "CASGEM_WELL_ID" : "39039", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362622N1195835W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2622", 
+        "LONGITUDE" : "-119.5835", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13311974.3273, 
+        "y" : 4336759.9248
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 15627, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E36M001M", 
+        "SWN" : "19S21E36M001M", 
+        "CASGEM_WELL_ID" : "17947", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362314N1196527W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2314", 
+        "LONGITUDE" : "-119.6527", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13319677.636, 
+        "y" : 4332508.5478
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 29206, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E04D001M", 
+        "SWN" : "20S22E04D001M", 
+        "CASGEM_WELL_ID" : "32039", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362256N1195971W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2256", 
+        "LONGITUDE" : "-119.5971", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313488.2724, 
+        "y" : 4331708.1513
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 32192, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S22E01D001M", 
+        "SWN" : "19S22E01D001M", 
+        "CASGEM_WELL_ID" : "35101", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363136N1195424W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3136", 
+        "LONGITUDE" : "-119.5424", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13307399.0962, 
+        "y" : 4343858.4905
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14355, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "@", 
+        "SWN" : "18S21E34B002M", 
+        "CASGEM_WELL_ID" : "16659", 
+        "GW_BASIN_NAME" : "Tulare Lake", 
+        "GW_BASIN_CODE" : "5-22.12", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "363239N1196735W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.3239", 
+        "LONGITUDE" : "-119.6735", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13321993.0814, 
+        "y" : 4345281.5284
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 29208, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E07A002M", 
+        "SWN" : "20S22E07A002M", 
+        "CASGEM_WELL_ID" : "32041", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362097N1196238W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2097", 
+        "LONGITUDE" : "-119.6238", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13316460.5028, 
+        "y" : 4329514.265
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 7819, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "19S21E35D001M", 
+        "SWN" : "19S21E35D001M", 
+        "CASGEM_WELL_ID" : "35100", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362383N1196704W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2383", 
+        "LONGITUDE" : "-119.6704", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13321647.991, 
+        "y" : 4333460.8211
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 29205, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E03G001M", 
+        "SWN" : "20S22E03G001M", 
+        "CASGEM_WELL_ID" : "32038", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362186N1195699W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2186", 
+        "LONGITUDE" : "-119.5699", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13310460.3822, 
+        "y" : 4330742.2344
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "LAKESIDE IRRIGATION WATER DISTRICT", 
+        "OBJECTID" : 14270, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1111", 
+        "LOCAL_WELL_NBR" : "20S22E08J001M", 
+        "SWN" : "20S22E08J001M", 
+        "CASGEM_WELL_ID" : "16572", 
+        "GW_BASIN_NAME" : "Kaweah", 
+        "GW_BASIN_CODE" : "5-22.11", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kings", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "05/02/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "362025N1196013W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.2025", 
+        "LONGITUDE" : "-119.6013", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13313955.8142, 
+        "y" : 4328520.9537
+      }
+    }
+  ]
+}

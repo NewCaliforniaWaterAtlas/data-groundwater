@@ -1,0 +1,354 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101817, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "ACMW-23", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48849", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "50", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "e0137455", 
+        "CASGEM_STATION_ID" : "388254N1197602W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.825384", 
+        "LONGITUDE" : "-119.760193", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13331643.7021, 
+        "y" : 4696690.1036
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101818, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "ACMW-24", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48850", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "50", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "e0137456", 
+        "CASGEM_STATION_ID" : "388322N1197574W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.832193", 
+        "LONGITUDE" : "-119.757427", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13331335.7924, 
+        "y" : 4697663.0844
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101821, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "USGS Well # 384917119463101", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48853", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "533076", 
+        "CASGEM_STATION_ID" : "388213N1197753W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.821306", 
+        "LONGITUDE" : "-119.77525", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13333319.8396, 
+        "y" : 4696107.4172
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101816, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "ACMW-22", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48848", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "60", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "e0137453", 
+        "CASGEM_STATION_ID" : "388290N1197837W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.829022", 
+        "LONGITUDE" : "-119.783738", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13334264.7195, 
+        "y" : 4697209.9487
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101502, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "ACMW-03W", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48844", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "11", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388151N1197788W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.815138", 
+        "LONGITUDE" : "-119.778848", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13333720.3672, 
+        "y" : 4695226.1637
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101820, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "ACMW-26", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48852", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "30", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "e0137452", 
+        "CASGEM_STATION_ID" : "388406N1197697W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.840602", 
+        "LONGITUDE" : "-119.769677", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13332699.4561, 
+        "y" : 4698864.8277
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101815, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "ACMW-21", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48847", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "30", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "e0136059", 
+        "CASGEM_STATION_ID" : "388199N1197771W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.819915", 
+        "LONGITUDE" : "-119.777072", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13333522.6637, 
+        "y" : 4695908.6713
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101819, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "ACMW-25", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48851", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "30", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "e0137451", 
+        "CASGEM_STATION_ID" : "388305N1197699W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.83047", 
+        "LONGITUDE" : "-119.769901", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13332724.3917, 
+        "y" : 4697416.8653
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101504, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "ACMW-20", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48846", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "22", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "e0137470", 
+        "CASGEM_STATION_ID" : "388088N1197777W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.808781", 
+        "LONGITUDE" : "-119.777665", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13333588.6762, 
+        "y" : 4694317.9867
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Alpine County", 
+        "OBJECTID" : 101503, 
+        "SHP_FILE_ID" : "3024", 
+        "ME_ID" : "5157", 
+        "LOCAL_WELL_NBR" : "ACMW-04W", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48845", 
+        "GW_BASIN_NAME" : "Carson Valley", 
+        "GW_BASIN_CODE" : "6-6", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "29", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Alpine", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/28/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "388367N1197794W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "38.836719", 
+        "LONGITUDE" : "-119.779439", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13333786.157, 
+        "y" : 4698309.8844
+      }
+    }
+  ]
+}

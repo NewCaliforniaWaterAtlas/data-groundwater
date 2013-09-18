@@ -1,0 +1,3202 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18647, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80088", 
+        "SWN" : "27S26E18E001M", 
+        "CASGEM_WELL_ID" : "21019", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355806N1192212W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5806", 
+        "LONGITUDE" : "-119.2212", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271643.2758, 
+        "y" : 4243064.9792
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18648, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E19E001M", 
+        "CASGEM_WELL_ID" : "21020", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355683N1192209W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5683", 
+        "LONGITUDE" : "-119.2209", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271609.8799, 
+        "y" : 4241381.5557
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18649, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80081", 
+        "SWN" : "27S26E19E002M", 
+        "CASGEM_WELL_ID" : "21021", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355675N1192234W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5675", 
+        "LONGITUDE" : "-119.2234", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271888.1786, 
+        "y" : 4241272.0737
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18660, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E31H001M", 
+        "CASGEM_WELL_ID" : "21032", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355383N1192081W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5383", 
+        "LONGITUDE" : "-119.2081", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270184.9904, 
+        "y" : 4237276.7283
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18662, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80057", 
+        "SWN" : "27S26E31R001M", 
+        "CASGEM_WELL_ID" : "21034", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355294N1192096W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5294", 
+        "LONGITUDE" : "-119.2096", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270351.9697, 
+        "y" : 4236059.2582
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18664, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E32E001M", 
+        "CASGEM_WELL_ID" : "21036", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355383N1192017W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5383", 
+        "LONGITUDE" : "-119.2017", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269472.5457, 
+        "y" : 4237276.7283
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18665, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E32F001M", 
+        "CASGEM_WELL_ID" : "21037", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355383N1191962W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5383", 
+        "LONGITUDE" : "-119.1962", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268860.2885, 
+        "y" : 4237276.7283
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18671, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "92601", 
+        "SWN" : "26S25E27J001M", 
+        "CASGEM_WELL_ID" : "21043", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356358N1192592W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6358", 
+        "LONGITUDE" : "-119.2592", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275873.4164, 
+        "y" : 4250623.0414
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18674, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "92208", 
+        "SWN" : "26S25E30H001M", 
+        "CASGEM_WELL_ID" : "21046", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356380N1193135W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.638", 
+        "LONGITUDE" : "-119.3135", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281918.0648, 
+        "y" : 4250924.3766
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18677, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90011", 
+        "SWN" : "26S25E34J001M", 
+        "CASGEM_WELL_ID" : "21049", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356216N1192682W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6216", 
+        "LONGITUDE" : "-119.2682", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276875.2918, 
+        "y" : 4248678.259
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18678, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "82903", 
+        "SWN" : "26S25E35B001M", 
+        "CASGEM_WELL_ID" : "21050", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356308N1192465W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6308", 
+        "LONGITUDE" : "-119.2465", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274459.6589, 
+        "y" : 4249938.2194
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18679, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "82903", 
+        "SWN" : "26S25E36E001M", 
+        "CASGEM_WELL_ID" : "21051", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356272N1192477W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6272", 
+        "LONGITUDE" : "-119.2477", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274593.2423, 
+        "y" : 4249445.1741
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18680, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "82901", 
+        "SWN" : "26S25E36L001M", 
+        "CASGEM_WELL_ID" : "21052", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356211N1192341W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6211", 
+        "LONGITUDE" : "-119.2341", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273079.2972, 
+        "y" : 4248609.787
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18706, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E30P001M", 
+        "CASGEM_WELL_ID" : "21078", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356314N1192178W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6314", 
+        "LONGITUDE" : "-119.2178", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271264.7895, 
+        "y" : 4250020.3958
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18707, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E31R001M", 
+        "CASGEM_WELL_ID" : "21079", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356169N1192062W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6169", 
+        "LONGITUDE" : "-119.2062", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269973.4834, 
+        "y" : 4248034.6394
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19096, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80036", 
+        "SWN" : "28S26E09D001M", 
+        "CASGEM_WELL_ID" : "21474", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355141N1191880W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5141", 
+        "LONGITUDE" : "-119.188", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267947.4687, 
+        "y" : 4233966.6195
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19101, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80321", 
+        "SWN" : "28S26E16L001M", 
+        "CASGEM_WELL_ID" : "21479", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354936N1191810W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4936", 
+        "LONGITUDE" : "-119.181", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267168.2322, 
+        "y" : 4231163.3822
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19102, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E17R001M", 
+        "CASGEM_WELL_ID" : "21480", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354867N1191887W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4867", 
+        "LONGITUDE" : "-119.1887", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268025.3923, 
+        "y" : 4230220.0145
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19107, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90032", 
+        "SWN" : "28S26E21E001M", 
+        "CASGEM_WELL_ID" : "21485", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354791N1191899W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4791", 
+        "LONGITUDE" : "-119.1899", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268158.9757, 
+        "y" : 4229181.0365
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17953, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90081", 
+        "SWN" : "27S25E16Q001M", 
+        "CASGEM_WELL_ID" : "20313", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355764N1192820W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5764", 
+        "LONGITUDE" : "-119.282", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278411.5008, 
+        "y" : 4242490.1226
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17963, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S25E21R001M", 
+        "CASGEM_WELL_ID" : "20323", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355603N1192801W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5603", 
+        "LONGITUDE" : "-119.2801", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278199.9938, 
+        "y" : 4240286.7849
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17967, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "81703", 
+        "SWN" : "27S25E23C001M", 
+        "CASGEM_WELL_ID" : "20327", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355722N1192509W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5722", 
+        "LONGITUDE" : "-119.2509", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274949.4646, 
+        "y" : 4241915.2962
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17968, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "81709", 
+        "SWN" : "27S25E24C001M", 
+        "CASGEM_WELL_ID" : "20328", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355725N1192331W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5725", 
+        "LONGITUDE" : "-119.2331", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272967.9777, 
+        "y" : 4241956.3542
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17970, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S25E25L001M", 
+        "CASGEM_WELL_ID" : "20330", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355508N1192337W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5508", 
+        "LONGITUDE" : "-119.2337", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273034.7694, 
+        "y" : 4238986.8864
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17993, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "82909", 
+        "SWN" : "27S26E06D001M", 
+        "CASGEM_WELL_ID" : "20353", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356133N1192231W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6133", 
+        "LONGITUDE" : "-119.2231", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271854.7828, 
+        "y" : 4247541.6799
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17995, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "82906", 
+        "SWN" : "27S26E06L001M", 
+        "CASGEM_WELL_ID" : "20355", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356078N1192137W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6078", 
+        "LONGITUDE" : "-119.2137", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270808.3796, 
+        "y" : 4246788.59
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17996, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E06N001M", 
+        "CASGEM_WELL_ID" : "20356", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356019N1192224W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6019", 
+        "LONGITUDE" : "-119.2224", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271776.8592, 
+        "y" : 4245980.7875
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18024, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "926085", 
+        "SWN" : "26S25E21K001M", 
+        "CASGEM_WELL_ID" : "20385", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356492N1192812W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6492", 
+        "LONGITUDE" : "-119.2812", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278322.4452, 
+        "y" : 4252458.5755
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18543, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E26N002M", 
+        "CASGEM_WELL_ID" : "20911", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356325N1192551W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6325", 
+        "LONGITUDE" : "-119.2551", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275417.0065, 
+        "y" : 4250171.0541
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18544, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "92602", 
+        "SWN" : "26S25E27B001M", 
+        "CASGEM_WELL_ID" : "20912", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356441N1192752W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6441", 
+        "LONGITUDE" : "-119.2752", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277654.5283, 
+        "y" : 4251759.9404
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18974, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80051", 
+        "SWN" : "28S26E05F001M", 
+        "CASGEM_WELL_ID" : "21351", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355216N1192002W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5216", 
+        "LONGITUDE" : "-119.2002", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269305.5665, 
+        "y" : 4234992.3729
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18975, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E05H001M", 
+        "CASGEM_WELL_ID" : "21352", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355227N1191957W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5227", 
+        "LONGITUDE" : "-119.1957", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268804.6287, 
+        "y" : 4235142.8248
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18977, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E07D001M", 
+        "CASGEM_WELL_ID" : "21354", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355139N1192196W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5139", 
+        "LONGITUDE" : "-119.2196", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271465.1646, 
+        "y" : 4233939.2674
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18978, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E07M001M", 
+        "CASGEM_WELL_ID" : "21355", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355058N1192277W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5058", 
+        "LONGITUDE" : "-119.2277", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272366.8525, 
+        "y" : 4232831.564
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17198, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S24E10P001M", 
+        "CASGEM_WELL_ID" : "19545", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356750N1193763W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.675", 
+        "LONGITUDE" : "-119.3763", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13288908.9288, 
+        "y" : 4255993.5309
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17315, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "82501", 
+        "SWN" : "27S25E01N002M", 
+        "CASGEM_WELL_ID" : "19665", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356025N1192387W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6025", 
+        "LONGITUDE" : "-119.2387", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273591.3669, 
+        "y" : 4246062.9342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17317, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90010", 
+        "SWN" : "27S25E03H001M", 
+        "CASGEM_WELL_ID" : "19667", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356119N1192595W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6119", 
+        "LONGITUDE" : "-119.2595", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275906.8123, 
+        "y" : 4247349.9794
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17322, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90010", 
+        "SWN" : "27S25E10B001M", 
+        "CASGEM_WELL_ID" : "19672", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355997N1192648W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5997", 
+        "LONGITUDE" : "-119.2648", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276496.8056, 
+        "y" : 4245679.5883
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17324, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90009", 
+        "SWN" : "27S25E10N001M", 
+        "CASGEM_WELL_ID" : "19674", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355872N1192762W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5872", 
+        "LONGITUDE" : "-119.2762", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277765.8478, 
+        "y" : 4243968.3862
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17325, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S25E12F001M", 
+        "CASGEM_WELL_ID" : "19675", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355950N1192323W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.595", 
+        "LONGITUDE" : "-119.2323", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272878.9221, 
+        "y" : 4245036.1449
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 17352, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S24E26M001M", 
+        "CASGEM_WELL_ID" : "19703", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356380N1193669W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.638", 
+        "LONGITUDE" : "-119.3669", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287862.5256, 
+        "y" : 4250924.3766
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 21466, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90008", 
+        "SWN" : "28S26E36F001M", 
+        "CASGEM_WELL_ID" : "23935", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354522N1191321W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4522", 
+        "LONGITUDE" : "-119.1321", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261724.7091, 
+        "y" : 4225504.3901
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 21467, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90006", 
+        "SWN" : "28S26E36M001M", 
+        "CASGEM_WELL_ID" : "23936", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354475N1191331W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4475", 
+        "LONGITUDE" : "-119.1331", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261836.0286, 
+        "y" : 4224862.1282
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 21115, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S26E09F001M", 
+        "CASGEM_WELL_ID" : "23562", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354236N1191916W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4236", 
+        "LONGITUDE" : "-119.1916", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268348.2188, 
+        "y" : 4221596.7383
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 20301, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E32P001M", 
+        "CASGEM_WELL_ID" : "22709", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357039N1191959W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7039", 
+        "LONGITUDE" : "-119.1959", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268826.8926, 
+        "y" : 4259954.5862
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 20455, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S25E01C001M", 
+        "CASGEM_WELL_ID" : "22871", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355289N1192337W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5289", 
+        "LONGITUDE" : "-119.2337", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273034.7694, 
+        "y" : 4235990.865
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 20457, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S25E01L001M", 
+        "CASGEM_WELL_ID" : "22873", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355214N1192337W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5214", 
+        "LONGITUDE" : "-119.2337", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273034.7694, 
+        "y" : 4234965.0183
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 20468, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S25E09N005M", 
+        "CASGEM_WELL_ID" : "22884", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355008N1193018W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5008", 
+        "LONGITUDE" : "-119.3018", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280615.6267, 
+        "y" : 4232147.8523
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 20473, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S25E12K001M", 
+        "CASGEM_WELL_ID" : "22889", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355039N1192306W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5039", 
+        "LONGITUDE" : "-119.2306", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272689.679, 
+        "y" : 4232571.7486
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19724, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E21G001M", 
+        "CASGEM_WELL_ID" : "22117", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354816N1191788W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4816", 
+        "LONGITUDE" : "-119.1788", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266923.3294, 
+        "y" : 4229522.7947
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19728, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90026", 
+        "SWN" : "28S26E21L001M", 
+        "CASGEM_WELL_ID" : "22121", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354769N1191838W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4769", 
+        "LONGITUDE" : "-119.1838", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267479.9268, 
+        "y" : 4228880.298
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19729, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E22A001M", 
+        "CASGEM_WELL_ID" : "22122", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354850N1191534W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.485", 
+        "LONGITUDE" : "-119.1534", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264095.8143, 
+        "y" : 4229987.603
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19730, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E26A001M", 
+        "CASGEM_WELL_ID" : "22123", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354714N1191377W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4714", 
+        "LONGITUDE" : "-119.1377", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262348.0983, 
+        "y" : 4228128.4879
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19732, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90022", 
+        "SWN" : "28S26E27C001M", 
+        "CASGEM_WELL_ID" : "22125", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354706N1191626W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4706", 
+        "LONGITUDE" : "-119.1626", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265119.9536, 
+        "y" : 4228019.138
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19754, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E18A001M", 
+        "CASGEM_WELL_ID" : "22147", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357578N1193123W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7578", 
+        "LONGITUDE" : "-119.3123", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281784.4814, 
+        "y" : 4267345.9986
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 19783, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S26E06A001M", 
+        "CASGEM_WELL_ID" : "22177", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357875N1192057W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7875", 
+        "LONGITUDE" : "-119.2057", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269917.8237, 
+        "y" : 4271420.9572
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 105222, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "5033", 
+        "LOCAL_WELL_NBR" : "MW-4-Rosedale", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49458", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354627N1191627W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.462735", 
+        "LONGITUDE" : "-119.16265", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265125.5196, 
+        "y" : 4226944.1495
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 105221, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "5033", 
+        "LOCAL_WELL_NBR" : "MW-3-Minterfield", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49457", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355249N1192116W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.524859", 
+        "LONGITUDE" : "-119.211625", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270577.3916, 
+        "y" : 4235438.1269
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 105248, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "5033", 
+        "LOCAL_WELL_NBR" : "88-29-12", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49461", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1001", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356181N1192294W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.618105", 
+        "LONGITUDE" : "-119.22937", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272552.756, 
+        "y" : 4248199.6489
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 105219, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "5033", 
+        "LOCAL_WELL_NBR" : "MW-1 Poso", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49455", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366346N1192680W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.634569", 
+        "LONGITUDE" : "-119.268027", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276856.0336, 
+        "y" : 4250454.4342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 18672, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "99-22-14", 
+        "SWN" : "26S25E27N001M", 
+        "CASGEM_WELL_ID" : "21044", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "922", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356330N1192838W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.631108", 
+        "LONGITUDE" : "-119.276135", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277758.612, 
+        "y" : 4249980.4032
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 105249, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "5033", 
+        "LOCAL_WELL_NBR" : "27S-25E-35A", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49462", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "684", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355433N1192459W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.543289", 
+        "LONGITUDE" : "-119.245878", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274390.4182, 
+        "y" : 4237959.2547
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 31586, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E06P001M", 
+        "CASGEM_WELL_ID" : "34484", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356025N1192142W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6025", 
+        "LONGITUDE" : "-119.2142", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270864.0393, 
+        "y" : 4246062.9342
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 31587, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80096", 
+        "SWN" : "27S26E07F001M", 
+        "CASGEM_WELL_ID" : "34485", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355953N1192142W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5953", 
+        "LONGITUDE" : "-119.2142", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270864.0393, 
+        "y" : 4245077.2147
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 31597, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E19G001M", 
+        "CASGEM_WELL_ID" : "34495", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355656N1192112W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5656", 
+        "LONGITUDE" : "-119.2112", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270530.0809, 
+        "y" : 4241012.0584
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 31598, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80075", 
+        "SWN" : "27S26E19L001M", 
+        "CASGEM_WELL_ID" : "34496", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355636N1192165W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5636", 
+        "LONGITUDE" : "-119.2165", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271120.0742, 
+        "y" : 4240738.3646
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 31602, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E30F001M", 
+        "CASGEM_WELL_ID" : "34501", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355525N1192173W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5525", 
+        "LONGITUDE" : "-119.2173", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271209.1297, 
+        "y" : 4239219.4885
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 31604, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "92202", 
+        "SWN" : "26S25E28Q001M", 
+        "CASGEM_WELL_ID" : "34503", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356311N1192866W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6311", 
+        "LONGITUDE" : "-119.2866", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278923.5705, 
+        "y" : 4249979.3075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 31607, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90010", 
+        "SWN" : "26S25E34R001M", 
+        "CASGEM_WELL_ID" : "34506", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356180N1192691W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.618", 
+        "LONGITUDE" : "-119.2691", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276975.4794, 
+        "y" : 4248185.2704
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 31608, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90011", 
+        "SWN" : "26S25E35E001M", 
+        "CASGEM_WELL_ID" : "34507", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356269N1192593W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6269", 
+        "LONGITUDE" : "-119.2593", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275884.5484, 
+        "y" : 4249404.088
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 31270, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S24E26R001M", 
+        "CASGEM_WELL_ID" : "34163", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356319N1193499W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6319", 
+        "LONGITUDE" : "-119.3499", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285970.0942, 
+        "y" : 4250088.8766
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 34135, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "OfcWl", 
+        "SWN" : "28S26E14P001M", 
+        "CASGEM_WELL_ID" : "37090", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354886N1191468W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4886", 
+        "LONGITUDE" : "-119.1468", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263361.1056, 
+        "y" : 4230479.7743
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 34136, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80309", 
+        "SWN" : "28S26E16J001M", 
+        "CASGEM_WELL_ID" : "37091", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354930N1191724W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.493", 
+        "LONGITUDE" : "-119.1724", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266210.8846, 
+        "y" : 4231081.347
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 34137, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E18A001M", 
+        "CASGEM_WELL_ID" : "37092", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355008N1192110W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5008", 
+        "LONGITUDE" : "-119.211", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270507.817, 
+        "y" : 4232147.8523
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 34169, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "30S25E21P003M", 
+        "CASGEM_WELL_ID" : "37125", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "352981N1193012W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.2981", 
+        "LONGITUDE" : "-119.3012", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280548.835, 
+        "y" : 4204465.8979
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 105247, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "5033", 
+        "LOCAL_WELL_NBR" : "88-7-4", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49460", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "944", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355292N1192153W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.529191", 
+        "LONGITUDE" : "-119.215289", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13270985.2663, 
+        "y" : 4236030.6698
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 105218, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "5033", 
+        "LOCAL_WELL_NBR" : "99-22-14", 
+        "SWN" : "26S25E27N001M", 
+        "CASGEM_WELL_ID" : "21044", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "922", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356330N1192838W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.631108", 
+        "LONGITUDE" : "-119.276135", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277758.612, 
+        "y" : 4249980.4032
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 105220, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "5033", 
+        "LOCAL_WELL_NBR" : "MW-2- Switchfield", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49456", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "270", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356138N1192316W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.613815", 
+        "LONGITUDE" : "-119.2316", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272800.9985, 
+        "y" : 4247612.1991
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 105245, 
+        "SHP_FILE_ID" : "3799", 
+        "ME_ID" : "5033", 
+        "LOCAL_WELL_NBR" : "88-1-13", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "49459", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "1000", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "08/09/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354563N1191283W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.456276", 
+        "LONGITUDE" : "-119.128337", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261305.8139, 
+        "y" : 4226061.4118
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 33343, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "82501", 
+        "SWN" : "27S25E01Q001M", 
+        "CASGEM_WELL_ID" : "36277", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356022N1192299W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6022", 
+        "LONGITUDE" : "-119.2299", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272611.7553, 
+        "y" : 4246021.8608
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 33344, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S25E03J004M", 
+        "CASGEM_WELL_ID" : "36278", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356075N1192628W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6075", 
+        "LONGITUDE" : "-119.2628", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276274.1666, 
+        "y" : 4246747.5139
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 33348, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90009", 
+        "SWN" : "27S25E10L001M", 
+        "CASGEM_WELL_ID" : "36282", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355944N1192712W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5944", 
+        "LONGITUDE" : "-119.2712", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277209.2503, 
+        "y" : 4244954.006
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 32523, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S25E15H001M", 
+        "CASGEM_WELL_ID" : "35440", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356672N1192599W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6672", 
+        "LONGITUDE" : "-119.2599", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275951.3401, 
+        "y" : 4254924.7029
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 33891, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "25S25E10Q001M", 
+        "CASGEM_WELL_ID" : "36840", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "357617N1192631W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.7617", 
+        "LONGITUDE" : "-119.2631", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276307.5624, 
+        "y" : 4267881.0074
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 33591, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S25E12F001M", 
+        "CASGEM_WELL_ID" : "36531", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355083N1192443W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5083", 
+        "LONGITUDE" : "-119.2443", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274214.756, 
+        "y" : 4233173.4359
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 33612, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S26E06C001M", 
+        "CASGEM_WELL_ID" : "36552", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354419N1192271W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4419", 
+        "LONGITUDE" : "-119.2271", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13272300.0608, 
+        "y" : 4224096.929
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 33625, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90009", 
+        "SWN" : "28S26E36D001M", 
+        "CASGEM_WELL_ID" : "36565", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354556N1191331W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4556", 
+        "LONGITUDE" : "-119.1331", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261836.0286, 
+        "y" : 4225969.0284
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 33626, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90003", 
+        "SWN" : "28S26E36N001M", 
+        "CASGEM_WELL_ID" : "36566", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354436N1191355W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4436", 
+        "LONGITUDE" : "-119.1355", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262103.1954, 
+        "y" : 4224329.216
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 32410, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "81701", 
+        "SWN" : "27S25E23A001M", 
+        "CASGEM_WELL_ID" : "35324", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355725N1192420W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5725", 
+        "LONGITUDE" : "-119.242", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13273958.7212, 
+        "y" : 4241956.3542
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 32408, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S25E22A001M", 
+        "CASGEM_WELL_ID" : "35322", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355728N1192598W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5728", 
+        "LONGITUDE" : "-119.2598", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275940.2081, 
+        "y" : 4241997.4124
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 32415, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S25E27J001M", 
+        "CASGEM_WELL_ID" : "35329", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355497N1192784W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5497", 
+        "LONGITUDE" : "-119.2784", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13278010.7506, 
+        "y" : 4238836.3818
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 36239, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90084", 
+        "SWN" : "27S25E16H001M", 
+        "CASGEM_WELL_ID" : "39252", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355822N1192781W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5822", 
+        "LONGITUDE" : "-119.2781", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13277977.3548, 
+        "y" : 4243283.9801
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 36283, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S25E14G001M", 
+        "CASGEM_WELL_ID" : "39296", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355803N1192503W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5803", 
+        "LONGITUDE" : "-119.2503", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13274882.6729, 
+        "y" : 4243023.917
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 36322, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80093", 
+        "SWN" : "27S26E07P001M", 
+        "CASGEM_WELL_ID" : "39338", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355883N1192176W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5883", 
+        "LONGITUDE" : "-119.2176", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13271242.5256, 
+        "y" : 4244118.9612
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 35913, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "90011", 
+        "SWN" : "26S25E26N001M", 
+        "CASGEM_WELL_ID" : "38917", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356341N1192557W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6341", 
+        "LONGITUDE" : "-119.2557", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13275483.7982, 
+        "y" : 4250390.1971
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 36323, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "92201", 
+        "SWN" : "26S25E27Q001M", 
+        "CASGEM_WELL_ID" : "39339", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356308N1192688W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6308", 
+        "LONGITUDE" : "-119.2688", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13276942.0835, 
+        "y" : 4249938.2194
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 35991, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S25E05R001M", 
+        "CASGEM_WELL_ID" : "38997", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356022N1192948W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6022", 
+        "LONGITUDE" : "-119.2948", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13279836.3903, 
+        "y" : 4246021.8608
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 35996, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : "80055", 
+        "SWN" : "28S26E05E002M", 
+        "CASGEM_WELL_ID" : "39003", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355236N1192040W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5236", 
+        "LONGITUDE" : "-119.204", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269728.5805, 
+        "y" : 4235265.9234
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "North Kern Water Storage District", 
+        "OBJECTID" : 35704, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "311", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S26E01R001M", 
+        "CASGEM_WELL_ID" : "38705", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354278N1191292W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4278", 
+        "LONGITUDE" : "-119.1292", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261401.8826, 
+        "y" : 4222170.5023
+      }
+    }
+  ]
+}

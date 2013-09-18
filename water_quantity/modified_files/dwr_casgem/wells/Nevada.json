@@ -1,0 +1,738 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 15325, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N17E07P001M", 
+        "CASGEM_WELL_ID" : "17642", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "64", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393309N1201375W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3309", 
+        "LONGITUDE" : "-120.1375", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373645.3252, 
+        "y" : 4769181.6056
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 15326, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N17E18C001M", 
+        "CASGEM_WELL_ID" : "17643", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "64", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393295N1201368W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3295", 
+        "LONGITUDE" : "-120.1368", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373567.4015, 
+        "y" : 4768980.124
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 31507, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N16E17F002M", 
+        "CASGEM_WELL_ID" : "34404", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393227N1202283W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3227", 
+        "LONGITUDE" : "-120.2283", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13383753.1349, 
+        "y" : 4768001.5564
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 31508, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N17E06D001M", 
+        "CASGEM_WELL_ID" : "34405", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "202", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "372324", 
+        "CASGEM_STATION_ID" : "393561N1201404W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3561", 
+        "LONGITUDE" : "-120.1404", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373968.1517, 
+        "y" : 4772808.9647
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 31509, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N17E18E001M", 
+        "CASGEM_WELL_ID" : "34406", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393245N1201391W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3245", 
+        "LONGITUDE" : "-120.1391", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13373823.4364, 
+        "y" : 4768260.5798
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32562, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N16E13H001M", 
+        "CASGEM_WELL_ID" : "35479", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "64", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "393249N1201433W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3249", 
+        "LONGITUDE" : "-120.1433", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374290.9782, 
+        "y" : 4768318.1414
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 103432, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "17N17E05D001M", 
+        "SWN" : "17N17E05D001M", 
+        "CASGEM_WELL_ID" : "17641", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "109", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2012", 
+        "COMPLETION_RPT_NBR" : "365666", 
+        "CASGEM_STATION_ID" : "393575N1201200W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3575", 
+        "LONGITUDE" : "-120.12", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371697.2341, 
+        "y" : 4773010.523
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 36119, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "17N16E13K004M", 
+        "CASGEM_WELL_ID" : "39128", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : null, 
+        "TOTAL_WELL_DEPTH" : "92", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "364901", 
+        "CASGEM_STATION_ID" : "393213N1201502W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3213", 
+        "LONGITUDE" : "-120.1502", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375059.0827, 
+        "y" : 4767800.0984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 15324, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "17N17E05D001M", 
+        "SWN" : "17N17E05D001M", 
+        "CASGEM_WELL_ID" : "17641", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "109", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2012", 
+        "COMPLETION_RPT_NBR" : "365666", 
+        "CASGEM_STATION_ID" : "393575N1201200W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3575", 
+        "LONGITUDE" : "-120.12", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13371697.2341, 
+        "y" : 4773010.523
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 103435, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "18N16E22H001M", 
+        "SWN" : "18N16E22H001M", 
+        "CASGEM_WELL_ID" : "17054", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2012", 
+        "COMPLETION_RPT_NBR" : "365668", 
+        "CASGEM_STATION_ID" : "393983N1201835W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3983", 
+        "LONGITUDE" : "-120.1835", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13378766.0218, 
+        "y" : 4778886.2833
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14745, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "18N16E22H001M", 
+        "SWN" : "18N16E22H001M", 
+        "CASGEM_WELL_ID" : "17054", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "200", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "04/23/2012", 
+        "COMPLETION_RPT_NBR" : "365668", 
+        "CASGEM_STATION_ID" : "393983N1201835W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3983", 
+        "LONGITUDE" : "-120.1835", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13378766.0218, 
+        "y" : 4778886.2833
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 102914, 
+        "SHP_FILE_ID" : "2943", 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "Prosser Village", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48972", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "1197", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/05/2012", 
+        "COMPLETION_RPT_NBR" : "733242", 
+        "CASGEM_STATION_ID" : "393545N1201438W002", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.354541", 
+        "LONGITUDE" : "-120.14377", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374343.2984, 
+        "y" : 4772584.5199
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 103436, 
+        "SHP_FILE_ID" : "2943", 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "18N17E33L001M", 
+        "SWN" : "18N17E33L001M", 
+        "CASGEM_WELL_ID" : "32909", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "195", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/12/2012", 
+        "COMPLETION_RPT_NBR" : "365669", 
+        "CASGEM_STATION_ID" : "393653N1200990W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3653", 
+        "LONGITUDE" : "-120.099", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13369359.5248, 
+        "y" : 4774133.5647
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 30055, 
+        "SHP_FILE_ID" : "2943", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "18N17E33L001M", 
+        "SWN" : "18N17E33L001M", 
+        "CASGEM_WELL_ID" : "32909", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "195", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/12/2012", 
+        "COMPLETION_RPT_NBR" : "365669", 
+        "CASGEM_STATION_ID" : "393653N1200990W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3653", 
+        "LONGITUDE" : "-120.099", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13369359.5248, 
+        "y" : 4774133.5647
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 102915, 
+        "SHP_FILE_ID" : "2943", 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "Martis Valley", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48973", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "1040", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/05/2012", 
+        "COMPLETION_RPT_NBR" : "733241", 
+        "CASGEM_STATION_ID" : "393258N1201435W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.325769", 
+        "LONGITUDE" : "-120.143471", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13374310.0139, 
+        "y" : 4768443.1952
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 102913, 
+        "SHP_FILE_ID" : "2943", 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "Fibreboard", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48971", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "1220", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "03/05/2012", 
+        "COMPLETION_RPT_NBR" : "E008043", 
+        "CASGEM_STATION_ID" : "393545N1201438W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.344834", 
+        "LONGITUDE" : "-120.156033", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375708.4093, 
+        "y" : 4771187.1433
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14810, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "17N16E13K001M", 
+        "SWN" : "17N16E13K001M", 
+        "CASGEM_WELL_ID" : "17120", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "500", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/18/2012", 
+        "COMPLETION_RPT_NBR" : "364901", 
+        "CASGEM_STATION_ID" : "393212N1201502W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3212", 
+        "LONGITUDE" : "-120.1502", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375059.0827, 
+        "y" : 4767785.7087
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 103430, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "17N16E11F001M", 
+        "SWN" : "17N16E11F001M", 
+        "CASGEM_WELL_ID" : "17119", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "227", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/18/2012", 
+        "COMPLETION_RPT_NBR" : "365670", 
+        "CASGEM_STATION_ID" : "393401N1201724W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3401", 
+        "LONGITUDE" : "-120.1724", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13377530.3754, 
+        "y" : 4770505.728
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 14809, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "17N16E11F001M", 
+        "SWN" : "17N16E11F001M", 
+        "CASGEM_WELL_ID" : "17119", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "227", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/18/2012", 
+        "COMPLETION_RPT_NBR" : "365670", 
+        "CASGEM_STATION_ID" : "393401N1201724W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3401", 
+        "LONGITUDE" : "-120.1724", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13377530.3754, 
+        "y" : 4770505.728
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 103431, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "17N16E13K001M", 
+        "SWN" : "17N16E13K001M", 
+        "CASGEM_WELL_ID" : "17120", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "500", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/18/2012", 
+        "COMPLETION_RPT_NBR" : "364901", 
+        "CASGEM_STATION_ID" : "393212N1201502W001", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3212", 
+        "LONGITUDE" : "-120.1502", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375059.0827, 
+        "y" : 4767785.7087
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 32563, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "17N16E13K003M", 
+        "SWN" : "17N16E13K003M", 
+        "CASGEM_WELL_ID" : "35480", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "274", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/18/2012", 
+        "COMPLETION_RPT_NBR" : "364901", 
+        "CASGEM_STATION_ID" : "393212N1201502W002", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3212", 
+        "LONGITUDE" : "-120.1502", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375059.0827, 
+        "y" : 4767785.7087
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Placer County Water Agency", 
+        "OBJECTID" : 103441, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "5178", 
+        "LOCAL_WELL_NBR" : "17N16E13K003M", 
+        "SWN" : "17N16E13K003M", 
+        "CASGEM_WELL_ID" : "35480", 
+        "GW_BASIN_NAME" : "Martis (Truckee) Valley", 
+        "GW_BASIN_CODE" : "6-67", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "274", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Nevada", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "07/18/2012", 
+        "COMPLETION_RPT_NBR" : "364901", 
+        "CASGEM_STATION_ID" : "393212N1201502W002", 
+        "HYDROLOGIC_REGION" : "North Lahontan", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "39.3212", 
+        "LONGITUDE" : "-120.1502", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13375059.0827, 
+        "y" : 4767785.7087
+      }
+    }
+  ]
+}

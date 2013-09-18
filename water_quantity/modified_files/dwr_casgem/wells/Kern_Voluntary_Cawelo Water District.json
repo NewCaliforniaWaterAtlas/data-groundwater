@@ -1,0 +1,1922 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18638, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E10J001M", 
+        "CASGEM_WELL_ID" : "21010", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355917N1191515W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5917", 
+        "LONGITUDE" : "-119.1515", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263884.3073, 
+        "y" : 4244584.3881
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18639, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E13F001M", 
+        "CASGEM_WELL_ID" : "21011", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355842N1191245W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5842", 
+        "LONGITUDE" : "-119.1245", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260878.681, 
+        "y" : 4243557.7374
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18644, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E16D001M", 
+        "CASGEM_WELL_ID" : "21016", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355875N1191859W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5875", 
+        "LONGITUDE" : "-119.1859", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267713.6977, 
+        "y" : 4244009.4519
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18645, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E17D001M", 
+        "CASGEM_WELL_ID" : "21017", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355839N1192001W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5839", 
+        "LONGITUDE" : "-119.2001", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269294.4345, 
+        "y" : 4243516.6734
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18663, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : "3E327", 
+        "SWN" : "27S26E32A001M", 
+        "CASGEM_WELL_ID" : "21035", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355433N1191876W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5433", 
+        "LONGITUDE" : "-119.1876", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267902.9409, 
+        "y" : 4237960.7596
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18667, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E33J001M", 
+        "CASGEM_WELL_ID" : "21039", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355367N1191698W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5367", 
+        "LONGITUDE" : "-119.1698", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265921.4539, 
+        "y" : 4237057.8473
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18670, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E36H001M", 
+        "CASGEM_WELL_ID" : "21042", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355400N1191181W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.54", 
+        "LONGITUDE" : "-119.1181", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260166.2363, 
+        "y" : 4237509.2942
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18686, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E12B001M", 
+        "CASGEM_WELL_ID" : "21058", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356894N1191228W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6894", 
+        "LONGITUDE" : "-119.1228", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260689.4379, 
+        "y" : 4257967.0261
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18688, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E13H001M", 
+        "CASGEM_WELL_ID" : "21060", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356703N1191159W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6703", 
+        "LONGITUDE" : "-119.1159", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259921.3334, 
+        "y" : 4255349.481
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18695, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E22E001M", 
+        "CASGEM_WELL_ID" : "21067", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356531N1191656W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6531", 
+        "LONGITUDE" : "-119.1656", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265453.9121, 
+        "y" : 4252992.8559
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18696, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E23D001M", 
+        "CASGEM_WELL_ID" : "21068", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356586N1191512W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6586", 
+        "LONGITUDE" : "-119.1512", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263850.9114, 
+        "y" : 4253746.3727
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18698, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E25A001M", 
+        "CASGEM_WELL_ID" : "21070", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356428N1191162W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6428", 
+        "LONGITUDE" : "-119.1162", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259954.7292, 
+        "y" : 4251581.8641
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18699, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E27A001M", 
+        "CASGEM_WELL_ID" : "21071", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356439N1191515W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6439", 
+        "LONGITUDE" : "-119.1515", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263884.3073, 
+        "y" : 4251732.5438
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 19097, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E12C001M", 
+        "CASGEM_WELL_ID" : "21475", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355136N1191266W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5136", 
+        "LONGITUDE" : "-119.1266", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261112.4519, 
+        "y" : 4233898.2393
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 19098, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E14A002M", 
+        "CASGEM_WELL_ID" : "21476", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355002N1191368W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5002", 
+        "LONGITUDE" : "-119.1368", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262247.9107, 
+        "y" : 4232065.8098
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 19099, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E14D001M", 
+        "CASGEM_WELL_ID" : "21477", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355000N1191502W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5", 
+        "LONGITUDE" : "-119.1502", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263739.5919, 
+        "y" : 4232038.4624
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18710, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E32M001M", 
+        "CASGEM_WELL_ID" : "21082", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356208N1192042W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6208", 
+        "LONGITUDE" : "-119.2042", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269750.8444, 
+        "y" : 4248568.704
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18711, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E34A001M", 
+        "CASGEM_WELL_ID" : "21083", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356311N1191512W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6311", 
+        "LONGITUDE" : "-119.1512", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263850.9114, 
+        "y" : 4249979.3075
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 17988, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E01R001M", 
+        "CASGEM_WELL_ID" : "20348", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356058N1191156W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6058", 
+        "LONGITUDE" : "-119.1156", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259887.9375, 
+        "y" : 4246514.752
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 17990, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E02J001M", 
+        "CASGEM_WELL_ID" : "20350", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356061N1191359W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6061", 
+        "LONGITUDE" : "-119.1359", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262147.7232, 
+        "y" : 4246555.8273
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18801, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S27E07N001M", 
+        "CASGEM_WELL_ID" : "21175", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355883N1191148W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5883", 
+        "LONGITUDE" : "-119.1148", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259798.8819, 
+        "y" : 4244118.9612
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18968, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E02L001M", 
+        "CASGEM_WELL_ID" : "21345", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355211N1191431W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5211", 
+        "LONGITUDE" : "-119.1431", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262949.2235, 
+        "y" : 4234923.9864
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18969, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E03C001M", 
+        "CASGEM_WELL_ID" : "21346", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355294N1191609W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5294", 
+        "LONGITUDE" : "-119.1609", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264930.7105, 
+        "y" : 4236059.2582
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18970, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E03L001M", 
+        "CASGEM_WELL_ID" : "21347", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355208N1191688W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5208", 
+        "LONGITUDE" : "-119.1688", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265810.1344, 
+        "y" : 4234882.9547
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18971, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E04A001M", 
+        "CASGEM_WELL_ID" : "21348", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355292N1191698W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5292", 
+        "LONGITUDE" : "-119.1698", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265921.4539, 
+        "y" : 4236031.9009
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18972, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E04M001M", 
+        "CASGEM_WELL_ID" : "21349", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355183N1191860W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5183", 
+        "LONGITUDE" : "-119.186", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13267724.8297, 
+        "y" : 4234541.0296
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 18979, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E09A001M", 
+        "CASGEM_WELL_ID" : "21356", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355142N1191698W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5142", 
+        "LONGITUDE" : "-119.1698", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265921.4539, 
+        "y" : 4233980.2956
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 16719, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E36B001M", 
+        "CASGEM_WELL_ID" : "19055", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356308N1191217W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6308", 
+        "LONGITUDE" : "-119.1217", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260566.9864, 
+        "y" : 4249938.2194
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 16722, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S27E05M002M", 
+        "CASGEM_WELL_ID" : "19058", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356936N1190973W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6936", 
+        "LONGITUDE" : "-119.0973", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257850.7909, 
+        "y" : 4258542.696
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21468, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E18L001M", 
+        "CASGEM_WELL_ID" : "23938", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354919N1191092W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4919", 
+        "LONGITUDE" : "-119.1092", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259175.4928, 
+        "y" : 4230930.9508
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21469, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E18P001M", 
+        "CASGEM_WELL_ID" : "23939", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354858N1191092W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4858", 
+        "LONGITUDE" : "-119.1092", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259175.4928, 
+        "y" : 4230096.9725
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21470, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E19J001M", 
+        "CASGEM_WELL_ID" : "23940", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354772N1191009W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4772", 
+        "LONGITUDE" : "-119.1009", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258251.541, 
+        "y" : 4228921.3073
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21471, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E29A001M", 
+        "CASGEM_WELL_ID" : "23941", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354703N1190834W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4703", 
+        "LONGITUDE" : "-119.0834", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256303.4499, 
+        "y" : 4227978.132
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21472, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E30P001M", 
+        "CASGEM_WELL_ID" : "23942", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354589N1191137W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4589", 
+        "LONGITUDE" : "-119.1137", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259676.4305, 
+        "y" : 4226420.0197
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21473, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E31K001M", 
+        "CASGEM_WELL_ID" : "23943", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354486N1191053W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4486", 
+        "LONGITUDE" : "-119.1053", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258741.3468, 
+        "y" : 4225012.4414
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21474, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E31L001M", 
+        "CASGEM_WELL_ID" : "23944", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354483N1191098W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4483", 
+        "LONGITUDE" : "-119.1098", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259242.2845, 
+        "y" : 4224971.4467
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21475, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : "4F321", 
+        "SWN" : "28S27E32B002M", 
+        "CASGEM_WELL_ID" : "23945", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354556N1190878W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4556", 
+        "LONGITUDE" : "-119.0878", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13256793.2557, 
+        "y" : 4225969.0284
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21582, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S27E06H001M", 
+        "CASGEM_WELL_ID" : "24055", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354344N1191103W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4344", 
+        "LONGITUDE" : "-119.1103", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259297.9442, 
+        "y" : 4223072.192
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 21584, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S27E07J002M", 
+        "CASGEM_WELL_ID" : "24057", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354186N1191153W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4186", 
+        "LONGITUDE" : "-119.1153", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259854.5417, 
+        "y" : 4220913.7249
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 31730, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S26E27D001M", 
+        "CASGEM_WELL_ID" : "34631", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356425N1191651W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6425", 
+        "LONGITUDE" : "-119.1651", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13265398.2523, 
+        "y" : 4251540.7699
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 32157, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E02A003M", 
+        "CASGEM_WELL_ID" : "35065", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355297N1191342W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5297", 
+        "LONGITUDE" : "-119.1342", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13261958.4801, 
+        "y" : 4236100.2943
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 32220, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S27E07L001M", 
+        "CASGEM_WELL_ID" : "35129", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356825N1191073W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6825", 
+        "LONGITUDE" : "-119.1073", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258963.9858, 
+        "y" : 4257021.3485
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 32225, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "26S27E31K001M", 
+        "CASGEM_WELL_ID" : "35134", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356233N1191078W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6233", 
+        "LONGITUDE" : "-119.1078", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259019.6455, 
+        "y" : 4248911.0668
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 31883, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S27E30H001M", 
+        "CASGEM_WELL_ID" : "34786", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355522N1190995W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5522", 
+        "LONGITUDE" : "-119.0995", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13258095.6937, 
+        "y" : 4239178.4407
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 31589, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E09G001M", 
+        "CASGEM_WELL_ID" : "34487", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355972N1191776W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5972", 
+        "LONGITUDE" : "-119.1776", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13266789.746, 
+        "y" : 4245337.3265
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 31591, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E14A001M", 
+        "CASGEM_WELL_ID" : "34489", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355878N1191373W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5878", 
+        "LONGITUDE" : "-119.1373", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13262303.5705, 
+        "y" : 4244050.5178
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 31592, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E14P001M", 
+        "CASGEM_WELL_ID" : "34490", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355758N1191459W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5758", 
+        "LONGITUDE" : "-119.1459", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13263260.9181, 
+        "y" : 4242408.0027
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 31593, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E15R001M", 
+        "CASGEM_WELL_ID" : "34491", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355733N1191553W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5733", 
+        "LONGITUDE" : "-119.1553", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264307.3213, 
+        "y" : 4242065.843
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 31595, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E17P001M", 
+        "CASGEM_WELL_ID" : "34493", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355739N1191959W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5739", 
+        "LONGITUDE" : "-119.1959", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13268826.8926, 
+        "y" : 4242147.9604
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 31599, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E20E001M", 
+        "CASGEM_WELL_ID" : "34497", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355658N1192040W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5658", 
+        "LONGITUDE" : "-119.204", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13269728.5805, 
+        "y" : 4241039.4281
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 31600, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E25H001M", 
+        "CASGEM_WELL_ID" : "34498", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355550N1191162W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.555", 
+        "LONGITUDE" : "-119.1162", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259954.7292, 
+        "y" : 4239561.5594
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 34133, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E10B001M", 
+        "CASGEM_WELL_ID" : "37088", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355139N1191565W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5139", 
+        "LONGITUDE" : "-119.1565", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264440.9047, 
+        "y" : 4233939.2674
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 34134, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S26E12J002M", 
+        "CASGEM_WELL_ID" : "37089", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355067N1191170W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5067", 
+        "LONGITUDE" : "-119.117", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13260043.7848, 
+        "y" : 4232954.6367
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 32514, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "27S26E03B001M", 
+        "CASGEM_WELL_ID" : "35431", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "356167N1191598W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.6167", 
+        "LONGITUDE" : "-119.1598", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13264808.259, 
+        "y" : 4248007.2522
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 33882, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S27E04H003M", 
+        "CASGEM_WELL_ID" : "36831", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354375N1190781W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4375", 
+        "LONGITUDE" : "-119.0781", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255713.4566, 
+        "y" : 4223495.7384
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 33883, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "29S27E05H001M", 
+        "CASGEM_WELL_ID" : "36832", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354381N1190923W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4381", 
+        "LONGITUDE" : "-119.0923", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13257294.1934, 
+        "y" : 4223577.717
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 33627, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E07F001M", 
+        "CASGEM_WELL_ID" : "36567", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "355097N1191087W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.5097", 
+        "LONGITUDE" : "-119.1087", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259119.833, 
+        "y" : 4233364.8887
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 33628, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E19C002M", 
+        "CASGEM_WELL_ID" : "36568", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354844N1191092W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4844", 
+        "LONGITUDE" : "-119.1092", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13259175.4928, 
+        "y" : 4229905.5765
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Cawelo Water District", 
+        "OBJECTID" : 33629, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "817", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "28S27E28L001M", 
+        "CASGEM_WELL_ID" : "36569", 
+        "GW_BASIN_NAME" : "Kern County", 
+        "GW_BASIN_CODE" : "5-22.14", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Kern", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "354628N1190740W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "35.4628", 
+        "LONGITUDE" : "-119.074", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13255257.0467, 
+        "y" : 4226953.0333
+      }
+    }
+  ]
+}

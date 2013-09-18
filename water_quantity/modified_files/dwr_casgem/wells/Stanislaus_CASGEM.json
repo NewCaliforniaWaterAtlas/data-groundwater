@@ -1,0 +1,2242 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 87750, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "195", 
+        "SWN" : "04S09E11D001M", 
+        "CASGEM_WELL_ID" : "2871", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/27/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376085N1209560W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.608542", 
+        "LONGITUDE" : "-120.956043", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13464765.1151, 
+        "y" : 4524272.5692
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 2759, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "48", 
+        "SWN" : "05S09E04C001M", 
+        "CASGEM_WELL_ID" : "4930", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/27/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375366N1209852W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5366", 
+        "LONGITUDE" : "-120.9852", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13468010.8575, 
+        "y" : 4514168.1868
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 35885, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "151", 
+        "SWN" : "04S12E34F001M", 
+        "CASGEM_WELL_ID" : "38888", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375474N1206404W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5474", 
+        "LONGITUDE" : "-120.6404", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429627.8971, 
+        "y" : 4515684.4437
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88714, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "05S12E07H001M", 
+        "SWN" : "05S12E07H001M", 
+        "CASGEM_WELL_ID" : "9584", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375168N1206877W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5168", 
+        "LONGITUDE" : "-120.6877", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13434893.309, 
+        "y" : 4511388.9528
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 876, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "195", 
+        "SWN" : "04S09E11D001M", 
+        "CASGEM_WELL_ID" : "2871", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/27/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "376085N1209560W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.608542", 
+        "LONGITUDE" : "-120.956043", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13464765.1151, 
+        "y" : 4524272.5692
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 3399, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "106", 
+        "SWN" : "05S09E21B001M", 
+        "CASGEM_WELL_ID" : "5630", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374891N1209810W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4891", 
+        "LONGITUDE" : "-120.981", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13467543.3157, 
+        "y" : 4507502.0696
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 88718, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP30.43R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48502", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "475", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375509N1212609W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5509", 
+        "LONGITUDE" : "-121.2609", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13498701.6411, 
+        "y" : 4516175.8704
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88709, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "04S12E19N001M", 
+        "SWN" : "04S12E19N001M", 
+        "CASGEM_WELL_ID" : "6825", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375677N1206982W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5677", 
+        "LONGITUDE" : "-120.6982", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436062.1637, 
+        "y" : 4518535.0397
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88050, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "154", 
+        "SWN" : "05S08E02R001M", 
+        "CASGEM_WELL_ID" : "28218", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/27/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375241N1210513W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5241", 
+        "LONGITUDE" : "-121.0513", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13475369.0759, 
+        "y" : 4512413.5341
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 87760, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "186", 
+        "SWN" : "04S10E21R002M", 
+        "CASGEM_WELL_ID" : "3764", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/27/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375663N1208679W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5663", 
+        "LONGITUDE" : "-120.8679", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454953.0813, 
+        "y" : 4518338.422
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89018, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP48.97L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48514", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373480N1210954W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.348", 
+        "LONGITUDE" : "-121.0954", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13480278.2654, 
+        "y" : 4487725.1443
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 3412, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "61A", 
+        "SWN" : "05S09E33R001M", 
+        "CASGEM_WELL_ID" : "5643", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374527N1209768W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.452717", 
+        "LONGITUDE" : "-120.976569", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13467050.059, 
+        "y" : 4502398.9709
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88710, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "04S12E21N001M", 
+        "SWN" : "04S12E21N001M", 
+        "CASGEM_WELL_ID" : "6828", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375677N1206613W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5677", 
+        "LONGITUDE" : "-120.6613", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431954.4745, 
+        "y" : 4518535.0397
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 87751, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "151", 
+        "SWN" : "04S09E21A001M", 
+        "CASGEM_WELL_ID" : "2880", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375780N1209752W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.578046", 
+        "LONGITUDE" : "-120.975395", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13466919.3699, 
+        "y" : 4519988.1596
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4216, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "300", 
+        "SWN" : "05S10E01P001M", 
+        "CASGEM_WELL_ID" : "6514", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375221N1208227W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.521878", 
+        "LONGITUDE" : "-120.823155", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13449972.0906, 
+        "y" : 4512101.6578
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 87749, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "92", 
+        "SWN" : "04S08E13P001M", 
+        "CASGEM_WELL_ID" : "2161", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375805N1210438W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.580598", 
+        "LONGITUDE" : "-121.043744", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13474527.9458, 
+        "y" : 4520346.625
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 242, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "111", 
+        "SWN" : "04S08E27H001M", 
+        "CASGEM_WELL_ID" : "2176", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375607N1210671W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.561133", 
+        "LONGITUDE" : "-121.06675", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13477088.962, 
+        "y" : 4517612.794
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 23870, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "191", 
+        "SWN" : "04S09E24G001M", 
+        "CASGEM_WELL_ID" : "26403", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375738N1209271W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.573102", 
+        "LONGITUDE" : "-120.926782", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13461507.7955, 
+        "y" : 4519293.738
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 87758, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "34A", 
+        "SWN" : "04S09E30Q001M", 
+        "CASGEM_WELL_ID" : "26548", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375516N1210166W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.551528", 
+        "LONGITUDE" : "-121.017626", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13471620.5033, 
+        "y" : 4516264.0488
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 3187, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "189", 
+        "SWN" : "04S11E32P001M", 
+        "CASGEM_WELL_ID" : "5403", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375371N1207852W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.536776", 
+        "LONGITUDE" : "-120.784753", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13445697.1996, 
+        "y" : 4514192.8945
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 87748, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "111", 
+        "SWN" : "04S08E27H001M", 
+        "CASGEM_WELL_ID" : "2176", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375607N1210671W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.561133", 
+        "LONGITUDE" : "-121.06675", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13477088.962, 
+        "y" : 4517612.794
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 227, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "92", 
+        "SWN" : "04S08E13P001M", 
+        "CASGEM_WELL_ID" : "2161", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375805N1210438W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.580598", 
+        "LONGITUDE" : "-121.043744", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13474527.9458, 
+        "y" : 4520346.625
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89014, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP37.32L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48510", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "500", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374934N1211934W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4934", 
+        "LONGITUDE" : "-121.1934", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13491187.5755, 
+        "y" : 4508105.354
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4910, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "120", 
+        "SWN" : "05S10E34J001M", 
+        "CASGEM_WELL_ID" : "7235", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374546N1208493W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.454606", 
+        "LONGITUDE" : "-120.849148", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13452865.6182, 
+        "y" : 4502663.8619
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88703, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "TGWB-005", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48497", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374305N1209321W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.430525", 
+        "LONGITUDE" : "-120.931035", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13461981.2373, 
+        "y" : 4499287.5281
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88061, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "61A", 
+        "SWN" : "05S09E33R001M", 
+        "CASGEM_WELL_ID" : "5643", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374527N1209768W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.452717", 
+        "LONGITUDE" : "-120.976569", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13467050.059, 
+        "y" : 4502398.9709
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4218, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "10", 
+        "SWN" : "05S10E04D001M", 
+        "CASGEM_WELL_ID" : "6516", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375360N1208841W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.536582", 
+        "LONGITUDE" : "-120.884755", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13456829.3713, 
+        "y" : 4514165.6599
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 3401, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "82", 
+        "SWN" : "05S09E23K001M", 
+        "CASGEM_WELL_ID" : "5632", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374843N1209446W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.484476", 
+        "LONGITUDE" : "-120.94471", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13463503.5313, 
+        "y" : 4506853.3671
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 87756, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "191", 
+        "SWN" : "04S09E24G001M", 
+        "CASGEM_WELL_ID" : "26403", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375738N1209271W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.573102", 
+        "LONGITUDE" : "-120.926782", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13461507.7955, 
+        "y" : 4519293.738
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88374, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "300", 
+        "SWN" : "05S10E01P001M", 
+        "CASGEM_WELL_ID" : "6514", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375221N1208227W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.521878", 
+        "LONGITUDE" : "-120.823155", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13449972.0906, 
+        "y" : 4512101.6578
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 1029, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "22", 
+        "SWN" : "04S09E36E001M", 
+        "CASGEM_WELL_ID" : "3031", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375441N1209343W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.543932", 
+        "LONGITUDE" : "-120.934126", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13462325.3258, 
+        "y" : 4515197.5328
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 26443, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "12", 
+        "SWN" : "05S10E17M001M", 
+        "CASGEM_WELL_ID" : "29203", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374999N1209032W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4999", 
+        "LONGITUDE" : "-120.9032", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458882.6593, 
+        "y" : 4509017.3616
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88376, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "10", 
+        "SWN" : "05S10E04D001M", 
+        "CASGEM_WELL_ID" : "6516", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375360N1208841W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.536582", 
+        "LONGITUDE" : "-120.884755", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13456829.3713, 
+        "y" : 4514165.6599
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 88720, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP31.60L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48504", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "372", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375504N1212400W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5504", 
+        "LONGITUDE" : "-121.24", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13496375.0638, 
+        "y" : 4516105.6652
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89015, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP37.58L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48511", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374900N1211914W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.49", 
+        "LONGITUDE" : "-121.1914", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13490964.9365, 
+        "y" : 4507628.3355
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88049, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "189", 
+        "SWN" : "04S11E32P001M", 
+        "CASGEM_WELL_ID" : "5403", 
+        "GW_BASIN_NAME" : " ", 
+        "GW_BASIN_CODE" : " ", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375371N1207852W001", 
+        "HYDROLOGIC_REGION" : " ", 
+        "DWR_REGION_OFFICE" : null, 
+        "LATITUDE" : "37.536776", 
+        "LONGITUDE" : "-120.784753", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13445697.1996, 
+        "y" : 4514192.8945
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 24005, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "34A", 
+        "SWN" : "04S09E30Q001M", 
+        "CASGEM_WELL_ID" : "26548", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375516N1210166W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.551528", 
+        "LONGITUDE" : "-121.017626", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13471620.5033, 
+        "y" : 4516264.0488
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88060, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "82", 
+        "SWN" : "05S09E23K001M", 
+        "CASGEM_WELL_ID" : "5632", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374843N1209446W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.484476", 
+        "LONGITUDE" : "-120.94471", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13463503.5313, 
+        "y" : 4506853.3671
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 87759, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "22", 
+        "SWN" : "04S09E36E001M", 
+        "CASGEM_WELL_ID" : "3031", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375441N1209343W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.543932", 
+        "LONGITUDE" : "-120.934126", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13462325.3258, 
+        "y" : 4515197.5328
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 25541, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "154", 
+        "SWN" : "05S08E02R001M", 
+        "CASGEM_WELL_ID" : "28218", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/27/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375241N1210513W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5241", 
+        "LONGITUDE" : "-121.0513", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13475369.0759, 
+        "y" : 4512413.5341
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89016, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP45.78R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48512", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "721", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374061N1211212W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4061", 
+        "LONGITUDE" : "-121.1212", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13483150.3083, 
+        "y" : 4495864.0724
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 885, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "151", 
+        "SWN" : "04S09E21A001M", 
+        "CASGEM_WELL_ID" : "2880", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375780N1209752W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.578046", 
+        "LONGITUDE" : "-120.975395", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13466919.3699, 
+        "y" : 4519988.1596
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88382, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "120", 
+        "SWN" : "05S10E34J001M", 
+        "CASGEM_WELL_ID" : "7235", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/06/2012", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374546N1208493W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.454606", 
+        "LONGITUDE" : "-120.849148", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13452865.6182, 
+        "y" : 4502663.8619
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88059, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "106", 
+        "SWN" : "05S09E21B001M", 
+        "CASGEM_WELL_ID" : "5630", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374891N1209810W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4891", 
+        "LONGITUDE" : "-120.981", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13467543.3157, 
+        "y" : 4507502.0696
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88377, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "12", 
+        "SWN" : "05S10E17M001M", 
+        "CASGEM_WELL_ID" : "29203", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374999N1209032W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4999", 
+        "LONGITUDE" : "-120.9032", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13458882.6593, 
+        "y" : 4509017.3616
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89013, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP37.10L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48509", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374983N1211954W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4983", 
+        "LONGITUDE" : "-121.1954", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13491410.2145, 
+        "y" : 4508792.86
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 26421, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "04S11E24Q001M", 
+        "SWN" : "04S11E24Q001M", 
+        "CASGEM_WELL_ID" : "29180", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375674N1207066W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5674", 
+        "LONGITUDE" : "-120.7066", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436997.2474, 
+        "y" : 4518492.907
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 1681, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "186", 
+        "SWN" : "04S10E21R002M", 
+        "CASGEM_WELL_ID" : "3764", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/27/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375663N1208679W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5663", 
+        "LONGITUDE" : "-120.8679", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13454953.0813, 
+        "y" : 4518338.422
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88711, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "151", 
+        "SWN" : "04S12E34F001M", 
+        "CASGEM_WELL_ID" : "38888", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375474N1206404W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5474", 
+        "LONGITUDE" : "-120.6404", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429627.8971, 
+        "y" : 4515684.4437
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4510, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "04S12E19N001M", 
+        "SWN" : "04S12E19N001M", 
+        "CASGEM_WELL_ID" : "6825", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375677N1206982W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5677", 
+        "LONGITUDE" : "-120.6982", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436062.1637, 
+        "y" : 4518535.0397
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89009, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP33.71L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48505", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375313N1212242W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5313", 
+        "LONGITUDE" : "-121.2242", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13494616.2158, 
+        "y" : 4513424.1782
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89011, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP36.01L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48507", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375045N1212088W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5045", 
+        "LONGITUDE" : "-121.2088", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13492901.8957, 
+        "y" : 4509662.8303
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89012, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP36.80L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48508", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375008N1211953W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5008", 
+        "LONGITUDE" : "-121.1953", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13491399.0825, 
+        "y" : 4509143.6458
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89010, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP35.73R", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48506", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375034N1212139W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5034", 
+        "LONGITUDE" : "-121.2139", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13493469.6251, 
+        "y" : 4509508.4754
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4897, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "184", 
+        "SWN" : "05S10E27B001M", 
+        "CASGEM_WELL_ID" : "7222", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374768N1208582W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4768", 
+        "LONGITUDE" : "-120.8582", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13453873.2822, 
+        "y" : 4505776.5872
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 7176, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "05S12E07H001M", 
+        "SWN" : "05S12E07H001M", 
+        "CASGEM_WELL_ID" : "9584", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375168N1206877W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5168", 
+        "LONGITUDE" : "-120.6877", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13434893.309, 
+        "y" : 4511388.9528
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4892, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "145", 
+        "SWN" : "05S10E24C001M", 
+        "CASGEM_WELL_ID" : "7217", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374905N1208257W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4905", 
+        "LONGITUDE" : "-120.8257", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13450255.3987, 
+        "y" : 4507698.484
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88379, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "145", 
+        "SWN" : "05S10E24C001M", 
+        "CASGEM_WELL_ID" : "7217", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374905N1208257W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4905", 
+        "LONGITUDE" : "-120.8257", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13450255.3987, 
+        "y" : 4507698.484
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88051, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "48", 
+        "SWN" : "05S09E04C001M", 
+        "CASGEM_WELL_ID" : "4930", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/27/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375366N1209852W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5366", 
+        "LONGITUDE" : "-120.9852", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13468010.8575, 
+        "y" : 4514168.1868
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88708, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "04S11E24Q001M", 
+        "SWN" : "04S11E24Q001M", 
+        "CASGEM_WELL_ID" : "29180", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375674N1207066W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5674", 
+        "LONGITUDE" : "-120.7066", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436997.2474, 
+        "y" : 4518492.907
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Turlock Groundwater Basin Association", 
+        "OBJECTID" : 88381, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "5060", 
+        "LOCAL_WELL_NBR" : "184", 
+        "SWN" : "05S10E27B001M", 
+        "CASGEM_WELL_ID" : "7222", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Other", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "374768N1208582W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4768", 
+        "LONGITUDE" : "-120.8582", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13453873.2822, 
+        "y" : 4505776.5872
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 88719, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP30.43L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48503", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "442", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375614N1212602W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5614", 
+        "LONGITUDE" : "-121.2602", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13498623.7175, 
+        "y" : 4517650.2889
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Department of Water Resources", 
+        "OBJECTID" : 4513, 
+        "SHP_FILE_ID" : "310", 
+        "ME_ID" : "1", 
+        "LOCAL_WELL_NBR" : "04S12E21N001M", 
+        "SWN" : "04S12E21N001M", 
+        "CASGEM_WELL_ID" : "6828", 
+        "GW_BASIN_NAME" : "Turlock", 
+        "GW_BASIN_CODE" : "5-22.03", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "12/28/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "375677N1206613W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.5677", 
+        "LONGITUDE" : "-120.6613", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431954.4745, 
+        "y" : 4518535.0397
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90624, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MC10-2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48598", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "135", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/04/2012", 
+        "COMPLETION_RPT_NBR" : "e0105603", 
+        "CASGEM_STATION_ID" : "372907N1210875W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.2907", 
+        "LONGITUDE" : "-121.0875", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13479398.8414, 
+        "y" : 4479704.4505
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90622, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "P259-3", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48596", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "445", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/05/2012", 
+        "COMPLETION_RPT_NBR" : "e0105604", 
+        "CASGEM_STATION_ID" : "374316N1210994W003", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4316", 
+        "LONGITUDE" : "-121.0994", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13480723.5434, 
+        "y" : 4499438.2279
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90621, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "P259-2", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48595", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "445", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/05/2012", 
+        "COMPLETION_RPT_NBR" : "e0105604", 
+        "CASGEM_STATION_ID" : "374316N1210994W002", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4316", 
+        "LONGITUDE" : "-121.0994", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13480723.5434, 
+        "y" : 4499438.2279
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90623, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MC10-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48597", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "380", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/05/2012", 
+        "COMPLETION_RPT_NBR" : "e0105603", 
+        "CASGEM_STATION_ID" : "372907N1210875W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.2907", 
+        "LONGITUDE" : "-121.0875", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13479398.8414, 
+        "y" : 4479704.4505
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 90619, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "P259-1", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48593", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Observation", 
+        "TOTAL_WELL_DEPTH" : "445", 
+        "HAS_WELL_CONST_DATA" : "Y", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "01/05/2012", 
+        "COMPLETION_RPT_NBR" : "e0105604", 
+        "CASGEM_STATION_ID" : "374316N1210994W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.4316", 
+        "LONGITUDE" : "-121.0994", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13480723.5434, 
+        "y" : 4499438.2279
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "San Luis & Delta-Mendota Water Authority", 
+        "OBJECTID" : 89020, 
+        "SHP_FILE_ID" : "3203", 
+        "ME_ID" : "5131", 
+        "LOCAL_WELL_NBR" : "MP51.66L", 
+        "SWN" : " ", 
+        "CASGEM_WELL_ID" : "48516", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Irrigation", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Stanislaus", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "N", 
+        "SUBMIT_DATE" : "01/11/2013", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "373330N1210858W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "37.333", 
+        "LONGITUDE" : "-121.0858", 
+        "IS_VOLUNTARY" : "N"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13479209.5983, 
+        "y" : 4485624.8953
+      }
+    }
+  ]
+}

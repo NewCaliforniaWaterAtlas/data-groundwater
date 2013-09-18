@@ -1,0 +1,2338 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11558, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E34R001M", 
+        "CASGEM_WELL_ID" : "13802", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366643N1193404W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6643", 
+        "LONGITUDE" : "-119.3404", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284912.5591, 
+        "y" : 4392417.264
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 12030, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E35R001M", 
+        "CASGEM_WELL_ID" : "14284", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366610N1193229W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.661", 
+        "LONGITUDE" : "-119.3229", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282964.468, 
+        "y" : 4391959.3105
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11046, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E17M002M", 
+        "CASGEM_WELL_ID" : "13248", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367093N1193941W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7093", 
+        "LONGITUDE" : "-119.3941", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290890.4157, 
+        "y" : 4398664.0457
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11047, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E17M004M", 
+        "CASGEM_WELL_ID" : "13249", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367088N1193941W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7088", 
+        "LONGITUDE" : "-119.3941", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290890.4157, 
+        "y" : 4398594.6169
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11048, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E17N001M", 
+        "CASGEM_WELL_ID" : "13250", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367082N1193941W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7082", 
+        "LONGITUDE" : "-119.3941", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290890.4157, 
+        "y" : 4398511.303
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11051, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E18R001M", 
+        "CASGEM_WELL_ID" : "13253", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367055N1193946W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7055", 
+        "LONGITUDE" : "-119.3946", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290946.0755, 
+        "y" : 4398136.3984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11052, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E20B001M", 
+        "CASGEM_WELL_ID" : "13254", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367030N1193849W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.703", 
+        "LONGITUDE" : "-119.3849", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289866.2764, 
+        "y" : 4397789.2762
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11053, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E21D001M", 
+        "CASGEM_WELL_ID" : "13255", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367046N1193721W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7046", 
+        "LONGITUDE" : "-119.3721", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13288441.3869, 
+        "y" : 4398011.4331
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11054, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E21H001M", 
+        "CASGEM_WELL_ID" : "13256", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366993N1193607W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6993", 
+        "LONGITUDE" : "-119.3607", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287172.3447, 
+        "y" : 4397275.5561
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11055, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E22N001M", 
+        "CASGEM_WELL_ID" : "13257", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366921N1193579W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6921", 
+        "LONGITUDE" : "-119.3579", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286860.6502, 
+        "y" : 4396275.9554
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11058, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E27F001M", 
+        "CASGEM_WELL_ID" : "13260", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366832N1193504W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6832", 
+        "LONGITUDE" : "-119.3504", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286025.754, 
+        "y" : 4395040.4672
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11059, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E27N002M", 
+        "CASGEM_WELL_ID" : "13261", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366782N1193582W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6782", 
+        "LONGITUDE" : "-119.3582", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286894.046, 
+        "y" : 4394346.4354
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11049, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E17P001M", 
+        "CASGEM_WELL_ID" : "13251", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367057N1193860W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7057", 
+        "LONGITUDE" : "-119.386", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289988.7278, 
+        "y" : 4398164.1686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11061, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E28R003M", 
+        "CASGEM_WELL_ID" : "13263", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366777N1193588W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6777", 
+        "LONGITUDE" : "-119.3588", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286960.8377, 
+        "y" : 4394277.0347
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11062, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E29C002M", 
+        "CASGEM_WELL_ID" : "13264", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366891N1193860W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6891", 
+        "LONGITUDE" : "-119.386", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289988.7278, 
+        "y" : 4395859.4827
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11064, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E31A001M", 
+        "CASGEM_WELL_ID" : "13266", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366752N1193954W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6752", 
+        "LONGITUDE" : "-119.3954", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13291035.1311, 
+        "y" : 4393930.038
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11068, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E32Q001M", 
+        "CASGEM_WELL_ID" : "13270", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366638N1193838W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6638", 
+        "LONGITUDE" : "-119.3838", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289743.825, 
+        "y" : 4392347.8759
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11069, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E33A001M", 
+        "CASGEM_WELL_ID" : "13271", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366746N1193627W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6746", 
+        "LONGITUDE" : "-119.3627", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287394.9837, 
+        "y" : 4393846.7604
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11070, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E33Q001M", 
+        "CASGEM_WELL_ID" : "13272", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366632N1193674W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6632", 
+        "LONGITUDE" : "-119.3674", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287918.1853, 
+        "y" : 4392264.6107
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 11071, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E34L001M", 
+        "CASGEM_WELL_ID" : "13273", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366657N1193499W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6657", 
+        "LONGITUDE" : "-119.3499", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285970.0942, 
+        "y" : 4392611.5533
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14617, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12C003M", 
+        "CASGEM_WELL_ID" : "16925", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366460N1193174W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.646", 
+        "LONGITUDE" : "-119.3174", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282352.2108, 
+        "y" : 4389877.9509
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14618, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12G002M", 
+        "CASGEM_WELL_ID" : "16926", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366421N1193138W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6421", 
+        "LONGITUDE" : "-119.3138", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281951.4606, 
+        "y" : 4389336.8638
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14619, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12H002M", 
+        "CASGEM_WELL_ID" : "16927", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366399N1193057W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6399", 
+        "LONGITUDE" : "-119.3057", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281049.7727, 
+        "y" : 4389031.6473
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14620, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12H003M", 
+        "CASGEM_WELL_ID" : "16928", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366399N1193057W003", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6399", 
+        "LONGITUDE" : "-119.3057", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281049.7727, 
+        "y" : 4389031.6473
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14621, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E13N001M", 
+        "CASGEM_WELL_ID" : "16929", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366202N1193196W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6202", 
+        "LONGITUDE" : "-119.3196", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282597.1137, 
+        "y" : 4386298.9604
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14622, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E14H001M", 
+        "CASGEM_WELL_ID" : "16930", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366285N1193249W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6285", 
+        "LONGITUDE" : "-119.3249", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283187.107, 
+        "y" : 4387450.2103
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14623, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E14K001M", 
+        "CASGEM_WELL_ID" : "16931", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366241N1193313W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6241", 
+        "LONGITUDE" : "-119.3313", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283899.5517, 
+        "y" : 4386839.8937
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15149, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E22J001M", 
+        "CASGEM_WELL_ID" : "17464", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366093N1193410W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6093", 
+        "LONGITUDE" : "-119.341", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284979.3508, 
+        "y" : 4384787.2662
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15150, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E23C001M", 
+        "CASGEM_WELL_ID" : "17465", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366171N1193338W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6171", 
+        "LONGITUDE" : "-119.3338", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284177.8504, 
+        "y" : 4385869.0073
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15152, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E24Q001M", 
+        "CASGEM_WELL_ID" : "17467", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366032N1193129W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6032", 
+        "LONGITUDE" : "-119.3129", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281851.2731, 
+        "y" : 4383941.3654
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15153, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E26B001M", 
+        "CASGEM_WELL_ID" : "17468", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366005N1193304W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6005", 
+        "LONGITUDE" : "-119.3304", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283799.3642, 
+        "y" : 4383566.9717
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14473, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E03A001M", 
+        "CASGEM_WELL_ID" : "16779", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366588N1193410W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6588", 
+        "LONGITUDE" : "-119.341", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284979.3508, 
+        "y" : 4391654.0191
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14474, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E04B001M", 
+        "CASGEM_WELL_ID" : "16780", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366607N1193654W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6607", 
+        "LONGITUDE" : "-119.3654", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287695.5463, 
+        "y" : 4391917.6793
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14475, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E04K001M", 
+        "CASGEM_WELL_ID" : "16781", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366541N1193657W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6541", 
+        "LONGITUDE" : "-119.3657", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287728.9422, 
+        "y" : 4391001.8347
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14486, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E10H001M", 
+        "CASGEM_WELL_ID" : "16792", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366396N1193407W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6396", 
+        "LONGITUDE" : "-119.3407", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284945.9549, 
+        "y" : 4388990.0275
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14487, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E10M001M", 
+        "CASGEM_WELL_ID" : "16793", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366388N1193552W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6388", 
+        "LONGITUDE" : "-119.3552", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286560.0875, 
+        "y" : 4388879.0423
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14488, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E11Q001M", 
+        "CASGEM_WELL_ID" : "16794", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366355N1193271W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6355", 
+        "LONGITUDE" : "-119.3271", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283432.0098, 
+        "y" : 4388421.2404
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 14489, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12C001M", 
+        "CASGEM_WELL_ID" : "16795", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366460N1193143W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.646", 
+        "LONGITUDE" : "-119.3143", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282007.1204, 
+        "y" : 4389877.9509
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15289, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E36F001M", 
+        "CASGEM_WELL_ID" : "17606", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365816N1193143W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5816", 
+        "LONGITUDE" : "-119.3143", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282007.1204, 
+        "y" : 4380946.5823
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 15290, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E36Q001M", 
+        "CASGEM_WELL_ID" : "17607", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365741N1193135W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5741", 
+        "LONGITUDE" : "-119.3135", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281918.0648, 
+        "y" : 4379906.9231
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29754, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12B002M", 
+        "CASGEM_WELL_ID" : "32597", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366443N1193127W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6443", 
+        "LONGITUDE" : "-119.3127", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281829.0092, 
+        "y" : 4389642.0891
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29755, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12C002M", 
+        "CASGEM_WELL_ID" : "32598", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366460N1193166W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.646", 
+        "LONGITUDE" : "-119.3166", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282263.1552, 
+        "y" : 4389877.9509
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29387, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E17M001M", 
+        "CASGEM_WELL_ID" : "32223", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367102N1193941W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7102", 
+        "LONGITUDE" : "-119.3941", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290890.4157, 
+        "y" : 4398789.0187
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29388, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E17M003M", 
+        "CASGEM_WELL_ID" : "32224", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367088N1193941W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7088", 
+        "LONGITUDE" : "-119.3941", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290890.4157, 
+        "y" : 4398594.6169
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29389, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E17N002M", 
+        "CASGEM_WELL_ID" : "32225", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367077N1193941W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7077", 
+        "LONGITUDE" : "-119.3941", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290890.4157, 
+        "y" : 4398441.8752
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29390, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E17Q001M", 
+        "CASGEM_WELL_ID" : "32226", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367055N1193852W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7055", 
+        "LONGITUDE" : "-119.3852", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13289899.6723, 
+        "y" : 4398136.3984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29391, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E18R002M", 
+        "CASGEM_WELL_ID" : "32227", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "367055N1193946W002", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.7055", 
+        "LONGITUDE" : "-119.3946", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290946.0755, 
+        "y" : 4398136.3984
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29392, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E20P001M", 
+        "CASGEM_WELL_ID" : "32228", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366941N1193877W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6941", 
+        "LONGITUDE" : "-119.3877", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290177.971, 
+        "y" : 4396553.6128
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29393, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E22L001M", 
+        "CASGEM_WELL_ID" : "32229", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366966N1193510W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6966", 
+        "LONGITUDE" : "-119.351", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286092.5457, 
+        "y" : 4396900.6948
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29394, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E22Q001M", 
+        "CASGEM_WELL_ID" : "32230", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366905N1193479W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6905", 
+        "LONGITUDE" : "-119.3479", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285747.4552, 
+        "y" : 4396053.8346
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29923, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12E001M", 
+        "CASGEM_WELL_ID" : "32770", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366393N1193221W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6393", 
+        "LONGITUDE" : "-119.3221", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282875.4124, 
+        "y" : 4388948.4079
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29924, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12H001M", 
+        "CASGEM_WELL_ID" : "32771", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366399N1193057W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6399", 
+        "LONGITUDE" : "-119.3057", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281049.7727, 
+        "y" : 4389031.6473
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29925, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12R001M", 
+        "CASGEM_WELL_ID" : "32772", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366352N1193052W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6352", 
+        "LONGITUDE" : "-119.3052", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13280994.113, 
+        "y" : 4388379.623
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29926, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E14D001M", 
+        "CASGEM_WELL_ID" : "32773", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366313N1193399W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6313", 
+        "LONGITUDE" : "-119.3399", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284856.8993, 
+        "y" : 4387838.6118
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29927, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E15K001M", 
+        "CASGEM_WELL_ID" : "32774", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366243N1193482W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6243", 
+        "LONGITUDE" : "-119.3482", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285780.8511, 
+        "y" : 4386867.6346
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29505, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E27N001M", 
+        "CASGEM_WELL_ID" : "32342", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366763N1193582W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6763", 
+        "LONGITUDE" : "-119.3582", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286894.046, 
+        "y" : 4394082.7151
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29506, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E27N004M", 
+        "CASGEM_WELL_ID" : "32343", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366763N1193582W003", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6763", 
+        "LONGITUDE" : "-119.3582", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286894.046, 
+        "y" : 4394082.7151
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29507, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E28J001M", 
+        "CASGEM_WELL_ID" : "32344", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366799N1193610W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6799", 
+        "LONGITUDE" : "-119.361", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13287205.7406, 
+        "y" : 4394582.4011
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29508, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E28R002M", 
+        "CASGEM_WELL_ID" : "32345", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366777N1193588W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6777", 
+        "LONGITUDE" : "-119.3588", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286960.8377, 
+        "y" : 4394277.0347
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29509, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E29K001M", 
+        "CASGEM_WELL_ID" : "32346", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366830N1193879W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.683", 
+        "LONGITUDE" : "-119.3879", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13290200.2349, 
+        "y" : 4395012.705
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29127, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E35P001M", 
+        "CASGEM_WELL_ID" : "31958", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366613N1193349W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6613", 
+        "LONGITUDE" : "-119.3349", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13284300.3019, 
+        "y" : 4392000.9418
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 30032, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E11A001M", 
+        "CASGEM_WELL_ID" : "32885", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366457N1193268W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6457", 
+        "LONGITUDE" : "-119.3268", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13283398.614, 
+        "y" : 4389836.3279
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29637, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E02J001M", 
+        "CASGEM_WELL_ID" : "32479", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366513N1193232W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6513", 
+        "LONGITUDE" : "-119.3232", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282997.8638, 
+        "y" : 4390613.3183
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29638, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E03B002M", 
+        "CASGEM_WELL_ID" : "32480", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366607N1193460W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6607", 
+        "LONGITUDE" : "-119.346", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285535.9482, 
+        "y" : 4391917.6793
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 29646, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E10G001M", 
+        "CASGEM_WELL_ID" : "32488", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366399N1193468W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6399", 
+        "LONGITUDE" : "-119.3468", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13285625.0038, 
+        "y" : 4389031.6473
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 33260, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E23J001M", 
+        "CASGEM_WELL_ID" : "36192", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366082N1193229W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6082", 
+        "LONGITUDE" : "-119.3229", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282964.468, 
+        "y" : 4384634.7218
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 33261, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E24P001M", 
+        "CASGEM_WELL_ID" : "36193", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366032N1193146W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6032", 
+        "LONGITUDE" : "-119.3146", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282040.5162, 
+        "y" : 4383941.3654
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 33262, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E26J001M", 
+        "CASGEM_WELL_ID" : "36194", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "365924N1193232W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.5924", 
+        "LONGITUDE" : "-119.3232", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13282997.8638, 
+        "y" : 4382443.8691
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 36174, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "15S24E12B004M", 
+        "CASGEM_WELL_ID" : "39183", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366460N1193091W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.646", 
+        "LONGITUDE" : "-119.3091", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13281428.259, 
+        "y" : 4389877.9509
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 35855, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E28N001M", 
+        "CASGEM_WELL_ID" : "38857", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366766N1193757W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6766", 
+        "LONGITUDE" : "-119.3757", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13288842.1371, 
+        "y" : 4394124.3548
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 35985, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E34N001M", 
+        "CASGEM_WELL_ID" : "38991", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366621N1193579W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.6621", 
+        "LONGITUDE" : "-119.3579", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286860.6502, 
+        "y" : 4392111.9595
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "Orange Cove Irrigation District", 
+        "OBJECTID" : 36917, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "398", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "14S24E27P001M", 
+        "CASGEM_WELL_ID" : "39963", 
+        "GW_BASIN_NAME" : "Kings", 
+        "GW_BASIN_CODE" : "5-22.08", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Fresno", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "366760N1193513W001", 
+        "HYDROLOGIC_REGION" : "Tulare Lake", 
+        "DWR_REGION_OFFICE" : "South Central", 
+        "LATITUDE" : "36.676", 
+        "LONGITUDE" : "-119.3513", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13286125.9415, 
+        "y" : 4394041.0757
+      }
+    }
+  ]
+}

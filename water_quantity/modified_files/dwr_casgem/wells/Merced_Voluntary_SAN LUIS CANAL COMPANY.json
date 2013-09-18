@@ -1,0 +1,2306 @@
+{
+  "displayFieldName" : "ME_NAME", 
+  "fieldAliases" : {
+    "ME_NAME" : "ME_NAME", 
+    "OBJECTID" : "OBJECTID", 
+    "SHP_FILE_ID" : "SHP_FILE_ID", 
+    "ME_ID" : "ME_ID", 
+    "LOCAL_WELL_NBR" : "LOCAL_WELL_NBR", 
+    "SWN" : "SWN", 
+    "CASGEM_WELL_ID" : "CASGEM_WELL_ID", 
+    "GW_BASIN_NAME" : "GW_BASIN_NAME", 
+    "GW_BASIN_CODE" : "GW_BASIN_CODE", 
+    "WELL_USE" : "WELL_USE", 
+    "TOTAL_WELL_DEPTH" : "TOTAL_WELL_DEPTH", 
+    "HAS_WELL_CONST_DATA" : "HAS_WELL_CONST_DATA", 
+    "COUNTY" : "COUNTY", 
+    "COOP_AGENCY" : "COOP_AGENCY", 
+    "STATUS" : "STATUS", 
+    "SUBMIT_DATE" : "SUBMIT_DATE", 
+    "COMPLETION_RPT_NBR" : "COMPLETION_RPT_NBR", 
+    "CASGEM_STATION_ID" : "CASGEM_STATION_ID", 
+    "HYDROLOGIC_REGION" : "HYDROLOGIC_REGION", 
+    "DWR_REGION_OFFICE" : "DWR_REGION_OFFICE", 
+    "LATITUDE" : "LATITUDE", 
+    "LONGITUDE" : "LONGITUDE", 
+    "IS_VOLUNTARY" : "IS_VOLUNTARY"
+  }, 
+  "geometryType" : "esriGeometryPoint", 
+  "spatialReference" : {
+    "wkid" : 102100
+  }, 
+  "features" : [
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9366, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S12E20J001M", 
+        "CASGEM_WELL_ID" : "11531", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371327N1206713W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1327", 
+        "LONGITUDE" : "-120.6713", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433067.6694, 
+        "y" : 4457619.6322
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9367, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "21A", 
+        "SWN" : "09S12E21J001M", 
+        "CASGEM_WELL_ID" : "11532", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371335N1206541W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1335", 
+        "LONGITUDE" : "-120.6541", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431152.9741, 
+        "y" : 4457731.3377
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9370, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S12E27R001M", 
+        "CASGEM_WELL_ID" : "11535", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371135N1206357W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1135", 
+        "LONGITUDE" : "-120.6357", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429104.6955, 
+        "y" : 4454939.0537
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9371, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S12E29F001M", 
+        "CASGEM_WELL_ID" : "11536", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371218N1206804W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1218", 
+        "LONGITUDE" : "-120.6804", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13434080.6767, 
+        "y" : 4456097.762
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9507, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "32A", 
+        "SWN" : "09S12E32N001M", 
+        "CASGEM_WELL_ID" : "11675", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370980N1206896W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.098", 
+        "LONGITUDE" : "-120.6896", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13435104.816, 
+        "y" : 4452775.5408
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9508, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S12E33F001M", 
+        "CASGEM_WELL_ID" : "11676", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371060N1206632W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.106", 
+        "LONGITUDE" : "-120.6632", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13432165.9815, 
+        "y" : 4453892.1373
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9509, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S12E33L001M", 
+        "CASGEM_WELL_ID" : "11677", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371021N1206643W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1021", 
+        "LONGITUDE" : "-120.6643", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13432288.4329, 
+        "y" : 4453347.7818
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9510, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S12E33Q001M", 
+        "CASGEM_WELL_ID" : "11678", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370980N1206591W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.098", 
+        "LONGITUDE" : "-120.6591", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431709.5716, 
+        "y" : 4452775.5408
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9506, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S12E32C001M", 
+        "CASGEM_WELL_ID" : "11674", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371118N1206810W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1118", 
+        "LONGITUDE" : "-120.681", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13434147.4684, 
+        "y" : 4454701.7435
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9116, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E02Q001M", 
+        "CASGEM_WELL_ID" : "11277", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370877N1207346W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0877", 
+        "LONGITUDE" : "-120.7346", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13440114.1931, 
+        "y" : 4451338.0964
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9121, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E10J001M", 
+        "CASGEM_WELL_ID" : "11282", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370741N1207446W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0741", 
+        "LONGITUDE" : "-120.7446", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441227.388, 
+        "y" : 4449440.4107
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9123, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E12N001M", 
+        "CASGEM_WELL_ID" : "11284", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370710N1207254W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.071", 
+        "LONGITUDE" : "-120.7254", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439090.0538, 
+        "y" : 4449007.8977
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9124, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E14K001M", 
+        "CASGEM_WELL_ID" : "11285", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370613N1207335W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0613", 
+        "LONGITUDE" : "-120.7335", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439991.7417, 
+        "y" : 4447654.6645
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9125, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E15J001M", 
+        "CASGEM_WELL_ID" : "11286", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370610N1207463W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.061", 
+        "LONGITUDE" : "-120.7463", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441416.6312, 
+        "y" : 4447612.8147
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9127, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E16R001M", 
+        "CASGEM_WELL_ID" : "11288", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370563N1207627W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0563", 
+        "LONGITUDE" : "-120.7627", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13443242.2708, 
+        "y" : 4446957.1893
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9138, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E23D002M", 
+        "CASGEM_WELL_ID" : "11299", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370549N1207427W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0549", 
+        "LONGITUDE" : "-120.7427", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441015.881, 
+        "y" : 4446761.9044
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9349, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E36G001M", 
+        "CASGEM_WELL_ID" : "11514", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371080N1207154W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.108", 
+        "LONGITUDE" : "-120.7154", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437976.8589, 
+        "y" : 4454171.3049
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 9350, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E36Q001M", 
+        "CASGEM_WELL_ID" : "11515", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370982N1207146W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0982", 
+        "LONGITUDE" : "-120.7146", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437887.8033, 
+        "y" : 4452803.4543
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 7601, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E09N001M", 
+        "CASGEM_WELL_ID" : "12400", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371591N1207749W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1591", 
+        "LONGITUDE" : "-120.7749", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13444600.3686, 
+        "y" : 4461306.5384
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 7627, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E15K001M", 
+        "CASGEM_WELL_ID" : "15000", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370607N1206404W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0607", 
+        "LONGITUDE" : "-120.6404", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429627.8971, 
+        "y" : 4447570.9651
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12722, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "8A", 
+        "SWN" : "10S12E08A001M", 
+        "CASGEM_WELL_ID" : "14990", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370810N1206724W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.081", 
+        "LONGITUDE" : "-120.6724", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433190.1208, 
+        "y" : 4450403.1646
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12723, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E08F001M", 
+        "CASGEM_WELL_ID" : "14991", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370771N1206810W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0771", 
+        "LONGITUDE" : "-120.681", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13434147.4684, 
+        "y" : 4449858.9886
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12724, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E09L001M", 
+        "CASGEM_WELL_ID" : "14992", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370755N1206624W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0755", 
+        "LONGITUDE" : "-120.6624", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13432076.9259, 
+        "y" : 4449635.745
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12725, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E10M001M", 
+        "CASGEM_WELL_ID" : "14993", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370730N1206521W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.073", 
+        "LONGITUDE" : "-120.6521", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13430930.3351, 
+        "y" : 4449286.9363
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12726, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E11L001M", 
+        "CASGEM_WELL_ID" : "14994", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370743N1206268W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0743", 
+        "LONGITUDE" : "-120.6268", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428113.952, 
+        "y" : 4449468.3154
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12730, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E14G001M", 
+        "CASGEM_WELL_ID" : "14998", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370649N1206266W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0649", 
+        "LONGITUDE" : "-120.6266", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428091.6881, 
+        "y" : 4448156.8752
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12731, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "SJ2", 
+        "SWN" : "10S12E14N001M", 
+        "CASGEM_WELL_ID" : "14999", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370543N1206316W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0543", 
+        "LONGITUDE" : "-120.6316", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428648.2856, 
+        "y" : 4446678.212
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12734, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "17B", 
+        "SWN" : "10S12E17J001M", 
+        "CASGEM_WELL_ID" : "15003", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370599N1206760W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0599", 
+        "LONGITUDE" : "-120.676", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433590.871, 
+        "y" : 4447459.3668
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12736, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E18N001M", 
+        "CASGEM_WELL_ID" : "15005", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370555N1207052W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0555", 
+        "LONGITUDE" : "-120.7052", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436841.4001, 
+        "y" : 4446845.5975
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12739, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E19Q001M", 
+        "CASGEM_WELL_ID" : "15008", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370418N1206977W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0418", 
+        "LONGITUDE" : "-120.6977", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436006.5039, 
+        "y" : 4444934.7708
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12728, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E13Q001M", 
+        "CASGEM_WELL_ID" : "14996", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370566N1206066W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0566", 
+        "LONGITUDE" : "-120.6066", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13425865.2983, 
+        "y" : 4446999.0365
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12741, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E21K001M", 
+        "CASGEM_WELL_ID" : "15010", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370441N1206591W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0441", 
+        "LONGITUDE" : "-120.6591", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431709.5716, 
+        "y" : 4445255.5425
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12743, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E23P001M", 
+        "CASGEM_WELL_ID" : "15012", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370402N1206296W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0402", 
+        "LONGITUDE" : "-120.6296", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428425.6466, 
+        "y" : 4444711.6311
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12745, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "A3", 
+        "SWN" : "10S12E26E001M", 
+        "CASGEM_WELL_ID" : "15014", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370327N1206310W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0327", 
+        "LONGITUDE" : "-120.631", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13428581.4939, 
+        "y" : 4443665.7262
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 12747, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E27K001M", 
+        "CASGEM_WELL_ID" : "15016", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370293N1206410W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0293", 
+        "LONGITUDE" : "-120.641", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429694.6888, 
+        "y" : 4443191.6167
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 10220, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E24M001M", 
+        "CASGEM_WELL_ID" : "12407", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371338N1207221W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1338", 
+        "LONGITUDE" : "-120.7221", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13438722.6995, 
+        "y" : 4457773.2276
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 10221, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "25B", 
+        "SWN" : "09S11E25J001M", 
+        "CASGEM_WELL_ID" : "12408", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371180N1207077W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.118", 
+        "LONGITUDE" : "-120.7077", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437119.6988, 
+        "y" : 4455567.2532
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 10222, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E25R001M", 
+        "CASGEM_WELL_ID" : "12409", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371130N1207077W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.113", 
+        "LONGITUDE" : "-120.7077", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437119.6988, 
+        "y" : 4454869.256
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 10225, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E27L001M", 
+        "CASGEM_WELL_ID" : "12412", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371171N1207568W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1171", 
+        "LONGITUDE" : "-120.7568", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442585.4858, 
+        "y" : 4455441.6103
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 10228, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E34N001M", 
+        "CASGEM_WELL_ID" : "12415", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370991N1207618W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0991", 
+        "LONGITUDE" : "-120.7618", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13443142.0833, 
+        "y" : 4452929.0658
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 10229, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E35Q001M", 
+        "CASGEM_WELL_ID" : "12416", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370985N1207318W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0985", 
+        "LONGITUDE" : "-120.7318", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439802.4986, 
+        "y" : 4452845.3246
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 13435, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S13E30D001M", 
+        "CASGEM_WELL_ID" : "15723", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370366N1205974W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0366", 
+        "LONGITUDE" : "-120.5974", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13424841.159, 
+        "y" : 4444209.5838
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 13437, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S13E31A001M", 
+        "CASGEM_WELL_ID" : "15725", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370249N1205821W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0249", 
+        "LONGITUDE" : "-120.5821", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13423137.9708, 
+        "y" : 4442578.0947
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 28075, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E36H001M", 
+        "CASGEM_WELL_ID" : "30882", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371082N1207079W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1082", 
+        "LONGITUDE" : "-120.7079", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437141.9627, 
+        "y" : 4454199.222
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 28086, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S12E19G001M", 
+        "CASGEM_WELL_ID" : "30893", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371366N1206977W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1366", 
+        "LONGITUDE" : "-120.6977", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436006.5039, 
+        "y" : 4458164.2078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27514, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E03N001M", 
+        "CASGEM_WELL_ID" : "30310", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370852N1207613W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0852", 
+        "LONGITUDE" : "-120.7613", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13443086.4235, 
+        "y" : 4450989.2316
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27961, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E09A001M", 
+        "CASGEM_WELL_ID" : "30765", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371718N1207629W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1718", 
+        "LONGITUDE" : "-120.7629", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13443264.5347, 
+        "y" : 4463080.6225
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27962, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E14K001M", 
+        "CASGEM_WELL_ID" : "30766", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371471N1207316W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1471", 
+        "LONGITUDE" : "-120.7316", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439780.2347, 
+        "y" : 4459630.5124
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27966, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E24H001M", 
+        "CASGEM_WELL_ID" : "30770", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371366N1207074W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1366", 
+        "LONGITUDE" : "-120.7074", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437086.303, 
+        "y" : 4458164.2078
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27967, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "25A", 
+        "SWN" : "09S11E25H001M", 
+        "CASGEM_WELL_ID" : "30771", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371246N1207077W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1246", 
+        "LONGITUDE" : "-120.7077", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437119.6988, 
+        "y" : 4456488.6802
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27968, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E26K001M", 
+        "CASGEM_WELL_ID" : "30772", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371196N1207327W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1196", 
+        "LONGITUDE" : "-120.7327", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13439902.6861, 
+        "y" : 4455790.6221
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27969, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E27D001M", 
+        "CASGEM_WELL_ID" : "30773", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371277N1207596W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1277", 
+        "LONGITUDE" : "-120.7596", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442897.1804, 
+        "y" : 4456921.4994
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27971, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E32J001M", 
+        "CASGEM_WELL_ID" : "30775", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371063N1207804W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1063", 
+        "LONGITUDE" : "-120.7804", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13445212.6258, 
+        "y" : 4453934.012
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27972, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "34A", 
+        "SWN" : "09S11E34R001M", 
+        "CASGEM_WELL_ID" : "30776", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370999N1207441W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0999", 
+        "LONGITUDE" : "-120.7441", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13441171.7283, 
+        "y" : 4453040.7218
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 28377, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "34A", 
+        "SWN" : "09S12E34J001M", 
+        "CASGEM_WELL_ID" : "31191", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371032N1206357W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1032", 
+        "LONGITUDE" : "-120.6357", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429104.6955, 
+        "y" : 4453501.3151
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27626, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E12A001M", 
+        "CASGEM_WELL_ID" : "30425", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370802N1207082W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0802", 
+        "LONGITUDE" : "-120.7082", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437175.3586, 
+        "y" : 4450291.5365
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27627, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "13A", 
+        "SWN" : "10S11E13H001M", 
+        "CASGEM_WELL_ID" : "30426", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370643N1207088W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0643", 
+        "LONGITUDE" : "-120.7088", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13437242.1503, 
+        "y" : 4448073.1718
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27628, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E16A001M", 
+        "CASGEM_WELL_ID" : "30427", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370699N1207624W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0699", 
+        "LONGITUDE" : "-120.7624", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13443208.875, 
+        "y" : 4448854.4295
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 27637, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S11E24L001M", 
+        "CASGEM_WELL_ID" : "30436", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370441N1207163W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0441", 
+        "LONGITUDE" : "-120.7163", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13438077.0464, 
+        "y" : 4445255.5425
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 30533, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "1A", 
+        "SWN" : "10S12E01P002M", 
+        "CASGEM_WELL_ID" : "33409", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370849N1206110W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0849", 
+        "LONGITUDE" : "-120.611", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13426355.1041, 
+        "y" : 4450947.3686
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 30534, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "3A", 
+        "SWN" : "10S12E03R001M", 
+        "CASGEM_WELL_ID" : "33410", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370835N1206363W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0835", 
+        "LONGITUDE" : "-120.6363", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429171.4872, 
+        "y" : 4450752.0101
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 30535, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "6A", 
+        "SWN" : "10S12E06F002M", 
+        "CASGEM_WELL_ID" : "33411", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370924N1207016W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0924", 
+        "LONGITUDE" : "-120.7016", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13436440.6499, 
+        "y" : 4451993.9934
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 30536, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E09A001M", 
+        "CASGEM_WELL_ID" : "33412", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370816N1206552W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0816", 
+        "LONGITUDE" : "-120.6552", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13431275.4256, 
+        "y" : 4450486.8864
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 30537, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "9B", 
+        "SWN" : "10S12E09P001M", 
+        "CASGEM_WELL_ID" : "33413", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370705N1206629W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0705", 
+        "LONGITUDE" : "-120.6629", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13432132.5856, 
+        "y" : 4448938.1392
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 30539, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "13A", 
+        "SWN" : "10S12E13L001M", 
+        "CASGEM_WELL_ID" : "33415", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370599N1206118W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0599", 
+        "LONGITUDE" : "-120.6118", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13426444.1597, 
+        "y" : 4447459.3668
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 30540, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E20R001M", 
+        "CASGEM_WELL_ID" : "33416", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370413N1206721W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0413", 
+        "LONGITUDE" : "-120.6721", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13433156.725, 
+        "y" : 4444865.0392
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 30541, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S12E22M001M", 
+        "CASGEM_WELL_ID" : "33417", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370438N1206510W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0438", 
+        "LONGITUDE" : "-120.651", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13430807.8837, 
+        "y" : 4445213.7021
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 29746, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "10S13E19M001M", 
+        "CASGEM_WELL_ID" : "32589", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370438N1205957W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0438", 
+        "LONGITUDE" : "-120.5957", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13424651.9159, 
+        "y" : 4445213.7021
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 30543, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "A2", 
+        "SWN" : "10S12E26H001M", 
+        "CASGEM_WELL_ID" : "33419", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370327N1206185W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0327", 
+        "LONGITUDE" : "-120.6185", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13427190.0002, 
+        "y" : 4443665.7262
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 35980, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : null, 
+        "SWN" : "09S11E10N001M", 
+        "CASGEM_WELL_ID" : "38986", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "371574N1207566W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.1574", 
+        "LONGITUDE" : "-120.7566", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13442563.2219, 
+        "y" : 4461069.0852
+      }
+    }, 
+    {
+      "attributes" : {
+        "ME_NAME" : "SAN LUIS CANAL COMPANY", 
+        "OBJECTID" : 36076, 
+        "SHP_FILE_ID" : null, 
+        "ME_ID" : "1092", 
+        "LOCAL_WELL_NBR" : "A4", 
+        "SWN" : "10S12E27A001M", 
+        "CASGEM_WELL_ID" : "39083", 
+        "GW_BASIN_NAME" : "Delta-Mendota", 
+        "GW_BASIN_CODE" : "5-22.07", 
+        "WELL_USE" : "Unknown", 
+        "TOTAL_WELL_DEPTH" : "Unknown", 
+        "HAS_WELL_CONST_DATA" : "N", 
+        "COUNTY" : "Merced", 
+        "COOP_AGENCY" : " ", 
+        "STATUS" : "Y", 
+        "SUBMIT_DATE" : "06/01/2011", 
+        "COMPLETION_RPT_NBR" : "Not Available", 
+        "CASGEM_STATION_ID" : "370391N1206385W001", 
+        "HYDROLOGIC_REGION" : "San Joaquin River", 
+        "DWR_REGION_OFFICE" : "North Central", 
+        "LATITUDE" : "37.0391", 
+        "LONGITUDE" : "-120.6385", 
+        "IS_VOLUNTARY" : "Y"
+      }, 
+      "geometry" : 
+      {
+        "x" : -13429416.3901, 
+        "y" : 4444558.2252
+      }
+    }
+  ]
+}
