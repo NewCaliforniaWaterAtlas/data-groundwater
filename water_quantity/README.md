@@ -58,6 +58,7 @@ Getting metadata about wells
 * Shorted facets that contain ampersand to just the first word. ArcGIS does a LIKE search for the district, so right now it doesn't matter. Changing '&' to a properly escaped character might also work, but need to see what ArcGIS accepts.
 * Rebuild mongo collection of wells: ./modified_files/dwr_casgem/scripts/python/wells_json_to_mongo.py
 
+```
 > db.database.distinct('properties.collecting', {'properties.county':'Fresno'});
 [
         "Department of Water Resources",
@@ -81,3 +82,4 @@ Getting metadata about wells
         "San Luis & Delta-Mendota Water Authority",
         "County of Fresno"
 ]
+```
