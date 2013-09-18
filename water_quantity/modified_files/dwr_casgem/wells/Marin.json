@@ -27,7 +27,7 @@
   }, 
   "geometryType" : "esriGeometryPoint", 
   "spatialReference" : {
-    "wkid" : 102100
+    "wkid" : 4326
   }, 
   "features" : [
     {
@@ -58,8 +58,8 @@
       }, 
       "geometry" : 
       {
-        "x" : -13638830.6161, 
-        "y" : 4594410.8988
+        "x" : -122.5197, 
+        "y" : 38.1060000000001
       }
     }
   ]

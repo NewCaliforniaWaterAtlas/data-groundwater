@@ -74,7 +74,7 @@ counties = [["Fresno",[
         "United States Geological Survey",
         "Panoche Water District",
         "Kings River Conservation District",
-        "San Luis & Delta-Mendota Water Authority",
+        "San Luis",
         "County of Fresno"
 ]],
 
@@ -105,7 +105,7 @@ counties = [["Fresno",[
         "Kern County Water Agency Improvement District No. 4",
         "Indian Wells Valley Cooperative Groundwater Management Group",
         "Kern-Tulare Wate District",
-        "Deer Creek & Tule River Authority"
+        "Deer Creek"
 ]],
 
 ["Kings",
@@ -147,7 +147,7 @@ counties = [["Fresno",[
         "EL NIDO IRRIGATION DISTRICT",
         "CHOWCHILLA WATER DISTRICT",
         "TURLOCK IRRIGATION DISTRICT",
-        "San Luis & Delta-Mendota Water Authority",
+        "San Luis",
         "Merced Area Groundwater Pool Interests (MAGPI)",
         "Madera-Chowchilla Basin Regional Groundwater Monitoring Group",
         "City of Merced"
@@ -188,11 +188,11 @@ counties = [["Fresno",[
 ["Stanislaus",
 [
         "Department of Water Resources",
-        "San Luis & Delta-Mendota Water Authority",
+        "San Luis",
         "Bureau of Reclamation",
         "TURLOCK IRRIGATION DISTRICT",
         "City of Modesto",
-        "Stanislaus & Tuolumne Rivers Groundwate Basin Association",
+        "Stanislaus",
         "Modesto Irrigation District",
         "Oakdale Irrigation District"
 ]],
@@ -229,18 +229,18 @@ counties = [["Fresno",[
         "Consolidated Irrigation District",
         "Orange Cove Irrigation District",
         "Kern-Tulare Wate District",
-        "Deer Creek & Tule River Authority",
+        "Deer Creek",
         "Kings River Conservation District",
         "Cawelo Water District"
 ]]
 ]
 
-'''
+### Get small counties
 for i in small_counties:
     countyName = i
     
     fileName = "../../wells/" + countyName + ".json" 
-    path = "http://casgemgis.water.ca.gov/ArcGIS/rest/services/CASGEM_DWR_BASE_LAYERS/MapServer/0/query?text=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&where=UPPER%28COUNTY%29+%3D+%27" + countyName.upper() + "%27&returnGeometry=true&outSR=102100&outFields=*&f=pjson"   
+    path = "http://casgemgis.water.ca.gov/ArcGIS/rest/services/CASGEM_DWR_BASE_LAYERS/MapServer/0/query?text=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&where=UPPER%28COUNTY%29+%3D+%27" + countyName.upper() + "%27&returnGeometry=true&outSR=4326&outFields=*&f=pjson"   
     print path
     r = requests.get(path)
     content = r.content
@@ -248,12 +248,12 @@ for i in small_counties:
     with open(fileName, "wb") as f:
         f.write(content)
 
-'''
+# Get larger counties
 for i in counties:
   countyName = i[0]
   # @TODO add filename and source
   fileName_casgem = "../../wells/" + countyName + "_CASGEM.json" 
-  path_casgem = "http://casgemgis.water.ca.gov/ArcGIS/rest/services/CASGEM_DWR_BASE_LAYERS/MapServer/0/query?text=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&where=UPPER%28COUNTY%29+%3D+%27" + countyName.upper() + "%27+AND+UPPER%28IS_VOLUNTARY%29+%3D+%27N%27&returnGeometry=true&outSR=102100&outFields=*&f=pjson"  
+  path_casgem = "http://casgemgis.water.ca.gov/ArcGIS/rest/services/CASGEM_DWR_BASE_LAYERS/MapServer/0/query?text=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&where=UPPER%28COUNTY%29+%3D+%27" + countyName.upper() + "%27+AND+UPPER%28IS_VOLUNTARY%29+%3D+%27N%27&returnGeometry=true&outSR=4326&outFields=*&f=pjson"  
 
   print path_casgem
   r_casgem = requests.get(path_casgem)
@@ -261,14 +261,13 @@ for i in counties:
 
   with open(fileName_casgem, "wb") as f:
             f.write(content_casgem)
-'''
+
   for j in i[1]:
         agencyName = j
         fileName = "../../wells/" + countyName + "_Voluntary_" + agencyName + ".json" 
-        path = "http://casgemgis.water.ca.gov/ArcGIS/rest/services/CASGEM_DWR_BASE_LAYERS/MapServer/0/query?text=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&where=UPPER%28COUNTY%29+%3D+%27" + countyName.upper() + "%27+AND+UPPER%28ME_NAME%29+LIKE+%27%25" + agencyName.upper() + "%25%27+AND+UPPER%28IS_VOLUNTARY%29+%3D+%27Y%27&returnGeometry=true&outSR=102100&outFields=*&f=pjson"    
-
+        path = "http://casgemgis.water.ca.gov/ArcGIS/rest/services/CASGEM_DWR_BASE_LAYERS/MapServer/0/query?text=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&where=UPPER%28COUNTY%29+%3D+%27" + countyName.upper() + "%27+AND+UPPER%28ME_NAME%29+LIKE+%27%25" + agencyName.upper() + "%25%27+AND+UPPER%28IS_VOLUNTARY%29+%3D+%27Y%27&returnGeometry=true&outSR=4326&outFields=*&f=pjson"    
     
-        path_casgem = "http://casgemgis.water.ca.gov/ArcGIS/rest/services/CASGEM_DWR_BASE_LAYERS/MapServer/0/query?text=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&where=UPPER%28COUNTY%29+%3D+%27" + countyName.upper() + "%27+AND+UPPER%28IS_VOLUNTARY%29+%3D+%27N%27&returnGeometry=true&outSR=102100&outFields=*&f=pjson"  
+        path_casgem = "http://casgemgis.water.ca.gov/ArcGIS/rest/services/CASGEM_DWR_BASE_LAYERS/MapServer/0/query?text=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&where=UPPER%28COUNTY%29+%3D+%27" + countyName.upper() + "%27+AND+UPPER%28IS_VOLUNTARY%29+%3D+%27N%27&returnGeometry=true&outSR=4326&outFields=*&f=pjson"  
     
         print path
         r = requests.get(path)
@@ -277,12 +276,7 @@ for i in counties:
         with open(fileName, "wb") as f:
             f.write(content)
 
-
-
-
         print countyName + " " + agencyName
-        #print path
-'''
   
 print "Done."
 
