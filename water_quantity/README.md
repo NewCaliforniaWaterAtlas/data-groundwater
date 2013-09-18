@@ -1,6 +1,22 @@
-# Methods to obtain Groundwater elevation data
+--------------------------------------------------------------------------------
+# Water Quantity Data
+--------------------------------------------------------------------------------
 
-## Getting Timeseries data for groundwater elevation
+@TODO Change name of this folder? Move to own repository?
+
+Team: New California Water Atlas @CAWaterAtlas, @chachasikes, @videmsky
+
+--------------------------------------------------------------------------------
+## Change Log
+
+
+
+--------------------------------------------------------------------------------
+# Methods
+
+
+## Timeseries
+Getting Timeseries data for groundwater elevation
 * CASGEM: http://www.casgem.water.ca.gov
 * Login, create account
 * Reports > Select time range, Filter by county, All counties > Get results > Export to CSV
@@ -17,7 +33,8 @@
 * A form-based web-robot might be able to do this every few months. Otherwise a human can do it.
 
 
-## Getting metadata about wells
+## Wells
+Getting metadata about wells
 * ArcGIS endpoint
 * Run python script ./modified_files/dwr_casgem/scripts/python/wells_casgem_arcgis
 * This downloads JSON data from ArcGIS endpoint.
