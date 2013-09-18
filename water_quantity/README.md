@@ -9,7 +9,8 @@ Team: New California Water Atlas @CAWaterAtlas, @chachasikes, @videmsky
 --------------------------------------------------------------------------------
 ## Change Log
 
-
+* September 17, 2013: Second import: June 22, 2013 - September 17, 2013 (98 new records)
+* August 2, 2013: Import new data: June 21, 1983 - June 21 2013
 
 --------------------------------------------------------------------------------
 # Methods
@@ -17,18 +18,31 @@ Team: New California Water Atlas @CAWaterAtlas, @chachasikes, @videmsky
 
 ## Timeseries
 Getting Timeseries data for groundwater elevation
-* CASGEM: http://www.casgem.water.ca.gov
-* Login, create account
-* Reports > Select time range, Filter by county, All counties > Get results > Export to CSV
+1. CASGEM: http://www.casgem.water.ca.gov
+2. Login, create account
+3. Go to Reports
+4. Select time range
+5. Filter by county: All counties
+6. Get results > Export to CSV
+7. Download.
 
+### Timeseries Updates
+Going forward, we can export several months at a time and add it to the folder of timeseries data.
+* About one new record added to the system per day.
+
+To update the data:
+1. Select date range of the day after the last import to the current day.
+2. Get results.
+3. Download to CSV. Save to original_files/dwr_casgem/updates
+4. Naming convention: All_Counties_M.D.YYYY-M.D.YYYY.csv  (for the date range)
+5. Update git log.
+6. @TODO Need a new import script to account for updates & missing county information.
+
+
+
+### Notes
 * Results are limited to 1000, so large ranges need to be broken up.
 * We originally got data for counties, with counties with lots of data broken up by date range.
-* Going forward, we can export several months at a time and add it to the folder of timeseries data.
-  * Date range
-  * First import: June 21, 1983 - June 21 2013
-  * Second import: June 22, 2013 - September 17, 2013 (98 new records)
-  * About one new record per day.
-  
 * To the best or our knowledge, this process cannot be automated because the .Net system used (Telerik?) uses sessions to store your query, and there is no way to get at the parameters to automatically do this.
 * A form-based web-robot might be able to do this every few months. Otherwise a human can do it.
 
